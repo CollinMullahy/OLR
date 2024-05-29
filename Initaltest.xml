@@ -58,7 +58,7 @@ Enjoy a perfect blend of luxury and convenience in this beautiful unit!</brokers
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -174,7 +174,7 @@ No broker fee</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -268,7 +268,7 @@ No broker fee</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -379,7 +379,7 @@ No broker fee</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -460,7 +460,7 @@ Broker fee applies</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -555,7 +555,7 @@ Small pets welcome</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -647,7 +647,7 @@ No broker fee</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -736,7 +736,7 @@ Broker fee applies</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -824,7 +824,7 @@ Pets OK for $50/mo</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -920,7 +920,7 @@ Schedule your private showing with us today!</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -1021,7 +1021,7 @@ Pet Friendly for only $50/month!!</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -1106,7 +1106,7 @@ Pet Friendly for only $50/month!!</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -1197,7 +1197,7 @@ Pet Friendly for only $50/month!!</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -1285,7 +1285,7 @@ Pet Friendly for only $50/month!!</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -1400,7 +1400,7 @@ Call or text to view the right away!</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -1549,7 +1549,7 @@ Call or text to view the right away. This is priced to GO!</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -1673,7 +1673,7 @@ Call or text to view the right away.</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -1758,7 +1758,7 @@ Contact today to view!</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -1858,7 +1858,7 @@ Available 6/1</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -1951,7 +1951,7 @@ Pets OK with approval</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -2042,7 +2042,7 @@ Short commute to Manhattan &amp; easy access to the rest of Brooklyn's hottest n
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -2151,7 +2151,7 @@ Short commute to Manhattan &amp; easy access to the rest of Brooklyn's hottest n
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -2249,7 +2249,7 @@ Short commute to Manhattan &amp; easy access to the rest of Brooklyn's hottest n
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -2337,7 +2337,7 @@ Short commute to Manhattan &amp; easy access to the rest of Brooklyn's hottest n
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -2413,7 +2413,7 @@ Short commute to Manhattan &amp; easy access to the rest of Brooklyn's hottest n
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -2489,7 +2489,7 @@ Short commute to Manhattan &amp; easy access to the rest of Brooklyn's hottest n
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -2571,7 +2571,7 @@ Short commute to Manhattan &amp; easy access to the rest of Brooklyn's hottest n
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -2670,7 +2670,7 @@ Easy commute to Manhattan &amp; easy access to the rest of Brooklyn's hottest ne
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -2754,7 +2754,7 @@ Short commute to Manhattan &amp; easy access to the rest of Brooklyn's hottest n
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -2833,7 +2833,7 @@ Short commute to Manhattan &amp; easy access to the rest of Brooklyn's hottest n
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -2903,7 +2903,7 @@ Short commute to Manhattan &amp; easy access to the rest of Brooklyn's hottest n
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -2991,7 +2991,7 @@ Short commute to Manhattan &amp; easy access to the rest of Brooklyn's hottest n
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -3100,7 +3100,7 @@ Enjoy seamless access to the new esplanade and ferry terminal, ensuring swift co
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -3215,7 +3215,7 @@ Enjoy seamless access to the new esplanade and ferry terminal, ensuring swift co
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -3330,7 +3330,7 @@ Enjoy seamless access to the new esplanade and ferry terminal, ensuring swift co
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -3445,7 +3445,7 @@ Enjoy seamless access to the new esplanade and ferry terminal, ensuring swift co
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -3533,7 +3533,7 @@ Enjoy seamless access to the new esplanade and ferry terminal, ensuring swift co
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -3627,7 +3627,7 @@ Outside the Apartment:
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -3720,7 +3720,7 @@ Virtual Doorman</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -3861,7 +3861,7 @@ Virtual Doorman</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -3960,7 +3960,7 @@ Broker fee applies</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -4061,7 +4061,7 @@ Don't miss out on this opportunity to call this spacious and stylish apartment y
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -4153,7 +4153,7 @@ No broker fee</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -4252,7 +4252,7 @@ No broker fee</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -4343,7 +4343,7 @@ No broker fee</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -4433,7 +4433,7 @@ Cats only</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -4533,7 +4533,7 @@ Contact us today!</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -4652,7 +4652,7 @@ Contact us today!</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -4733,7 +4733,7 @@ Great location!</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -4808,7 +4808,7 @@ Welcome to 1499 Bedford Ave?where luxury, community, and convenience meet. Exper
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -5004,7 +5004,7 @@ Welcome to 1499 Bedford Ave?where luxury, community, and convenience meet. Exper
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -5167,7 +5167,7 @@ Welcome to 1499 Bedford Ave?where luxury, community, and convenience meet. Exper
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -5357,7 +5357,7 @@ Welcome to 1499 Bedford Ave?where luxury, community, and convenience meet. Exper
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -5547,7 +5547,7 @@ Welcome to 1499 Bedford Ave?where luxury, community, and convenience meet. Exper
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -5746,7 +5746,7 @@ Welcome to 1499 Bedford Ave?where luxury, community, and convenience meet. Exper
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -5912,7 +5912,7 @@ Welcome to 1499 Bedford Ave?where luxury, community, and convenience meet. Exper
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -5987,7 +5987,7 @@ Welcome to 1499 Bedford Ave?where luxury, community, and convenience meet. Exper
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -6111,7 +6111,7 @@ Welcome to 1499 Bedford Ave?where luxury, community, and convenience meet. Exper
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -6186,7 +6186,7 @@ Welcome to 1499 Bedford Ave?where luxury, community, and convenience meet. Exper
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -6257,7 +6257,7 @@ Parking (by availability)</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -6381,7 +6381,7 @@ Welcome to 1499 Bedford Ave?where luxury, community, and convenience meet. Exper
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -6571,7 +6571,7 @@ Welcome to 1499 Bedford Ave?where luxury, community, and convenience meet. Exper
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -6782,7 +6782,7 @@ Welcome to 1499 Bedford Ave?where luxury, community, and convenience meet. Exper
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -6993,7 +6993,7 @@ Welcome to 1499 Bedford Ave?where luxury, community, and convenience meet. Exper
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -7192,7 +7192,7 @@ Welcome to 1499 Bedford Ave?where luxury, community, and convenience meet. Exper
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -7397,7 +7397,7 @@ Welcome to 1499 Bedford Ave?where luxury, community, and convenience meet. Exper
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -7584,7 +7584,7 @@ Welcome to 1499 Bedford Ave?where luxury, community, and convenience meet. Exper
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -7783,7 +7783,7 @@ Welcome to 1499 Bedford Ave?where luxury, community, and convenience meet. Exper
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -7906,7 +7906,7 @@ NO FEE</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -8021,7 +8021,7 @@ NO FEE</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -8135,7 +8135,7 @@ NO FEE</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -8316,7 +8316,7 @@ NO BROKER FEE</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -8436,7 +8436,7 @@ NO FEE</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -8573,7 +8573,7 @@ Finished Roof Deck</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -8708,7 +8708,7 @@ Parking (by availability)</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -8826,7 +8826,7 @@ Nearby subway stations include: Morgan Av(L), Myrtle Av (J, M).</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -8929,7 +8929,7 @@ With its spacious layout, desirable location, and modern amenities, 2 Stanwix 2R
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -9021,7 +9021,7 @@ First and security to move in!</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -9123,7 +9123,7 @@ Finished Roof Deck</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -9214,7 +9214,7 @@ Finished Roof Deck</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -9365,7 +9365,7 @@ Nearby subway stations include: Morgan Av(L), Myrtle Av (J, M).</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -9465,7 +9465,7 @@ Nearby subway stations include: Morgan Av(L), Myrtle Av (J, M).</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -9577,7 +9577,7 @@ Come check it out!</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -9676,7 +9676,7 @@ NO FEE</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -9803,7 +9803,7 @@ Lucky for you you?re nestled on a residential block, close to shops, stores, and
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -9933,7 +9933,7 @@ Lucky for you you?re nestled on a residential block, close to shops, stores, and
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -10055,7 +10055,7 @@ No broker fee</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -10170,7 +10170,7 @@ This apartment is a short block to Franklin Ave, which is loaded with artisan ba
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -10267,7 +10267,7 @@ This apartment is a short block to Franklin Ave, which is loaded with artisan ba
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -10355,7 +10355,7 @@ This apartment is a short block to Franklin Ave, which is loaded with artisan ba
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -10465,7 +10465,7 @@ NO FEE!</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -10559,7 +10559,7 @@ NO FEE!</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -10662,7 +10662,7 @@ NO FEE!</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -10740,7 +10740,7 @@ Welcome home.</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -10834,7 +10834,7 @@ Welcome home.</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -10941,7 +10941,7 @@ Available 6/1</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -11041,7 +11041,7 @@ Trains: 18th Av [F] Newkirk Plaza [B, Q] Bus: B8, B68</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -11129,7 +11129,7 @@ Trains: 18th Av [F] Newkirk Plaza [B, Q] Bus: B8, B68</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -11205,7 +11205,7 @@ Private backyard</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -11286,7 +11286,7 @@ Welcome home.</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -11384,7 +11384,7 @@ Within close proximity to the 2 and 5 subway lines and many cafes and restaurant
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -11511,7 +11511,7 @@ Don't miss out on the opportunity for luxurious living at 19 East 31st Street. S
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -11623,7 +11623,7 @@ This breakdown offers a clear and concise overview of the amenities available bo
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -11738,7 +11738,7 @@ This breakdown offers a clear and concise overview of the amenities available bo
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -11841,7 +11841,7 @@ This breakdown offers a clear and concise overview of the amenities available bo
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -11941,7 +11941,7 @@ This breakdown offers a clear and concise overview of the amenities available bo
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -12041,7 +12041,7 @@ This breakdown offers a clear and concise overview of the amenities available bo
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -12144,7 +12144,7 @@ This breakdown offers a clear and concise overview of the amenities available bo
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -12257,7 +12257,7 @@ Email us to schedule a showing</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -12366,7 +12366,7 @@ Garage Parking</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -12432,7 +12432,7 @@ Garage Parking</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -12529,7 +12529,7 @@ Garage Parking</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -12614,7 +12614,7 @@ Garage Parking</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -12711,7 +12711,7 @@ Won't last CONTACT US ASAP</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -12808,7 +12808,7 @@ Won't last CONTACT US ASAP</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -12911,7 +12911,7 @@ Won't last CONTACT US ASAP</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -12965,7 +12965,7 @@ Won't last CONTACT US ASAP</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -13023,7 +13023,7 @@ This place is located within short distance from BedStuy?s famed Stuyvesant Heig
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -13088,7 +13088,7 @@ Pets OK</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -13200,7 +13200,7 @@ Pets OK</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -13325,7 +13325,7 @@ Pets welcome</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -13422,7 +13422,7 @@ Pets welcome</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -13516,7 +13516,7 @@ Pets welcome</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -13607,7 +13607,7 @@ Pets welcome</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -13740,7 +13740,7 @@ Pets welcome</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -13834,7 +13834,7 @@ Pets welcome</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -13919,7 +13919,7 @@ Pets welcome</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -14004,7 +14004,7 @@ Pets welcome</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -14121,7 +14121,7 @@ Available 6/1</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -14227,7 +14227,7 @@ This apartment features spacious living room, queen sized bedroom(s), stainless 
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -14345,7 +14345,7 @@ This apartment features spacious living room, queen sized bedroom(s), stainless 
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -14442,7 +14442,7 @@ This apartment features spacious living room, queen sized bedroom(s), stainless 
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -14551,7 +14551,7 @@ This apartment features spacious living room, queen sized bedroom(s), stainless 
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -14636,7 +14636,7 @@ This apartment features spacious living room, queen sized bedroom(s), stainless 
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -14732,7 +14732,7 @@ Available 4/15</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -14841,7 +14841,7 @@ Available 4/15
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -14933,7 +14933,7 @@ Available 4/15</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -15024,7 +15024,7 @@ Available 4/15</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -15134,7 +15134,7 @@ Local favorites include Chuko Ramen, Hot Bird, Milk River, Branded Saloon, Woodw
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -15258,7 +15258,7 @@ Local favorites include Chuko Ramen, Hot Bird, Milk River, Branded Saloon, Woodw
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -15346,7 +15346,7 @@ No broker fee</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -15434,6 +15434,155 @@ No broker fee</brokersummary>
 
 <property>
   <building>
+    <address>55-27 Myrtle Ave</address>
+    <city>Queens</city>
+    <state>NY</state>
+    <zipcode>11385</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary>Ultimate luxury living in this converted historic landmarked movie theater in Ridgewood!
+
+2 bedroom, 1 full bath. Fully equipped building featuring a gym, elevator, laundry room, pet spa, business conference center, and kid?s room. Fully furnished patio with bbq and hammocks, and roof deck with skyline views.
+
+The apartments have central AC, dishwashers, and plenty of storage. Top of the line appliances and finishes.
+
+Truly breathtaking building.
+
+Available now for move in
+Pets OK
+No broker fee</brokersummary>
+    <weblistingid>17071</weblistingid>
+    <aptnumber>304</aptnumber>
+    <apartmentsize>H</apartmentsize>
+    <numbedrooms>2</numbedrooms>
+    <numbaths>1</numbaths>
+    <numrooms>4</numrooms>
+    <listingtype>L</listingtype>
+    <status>Active</status>
+    <listeddate>2024-05-29</listeddate>
+    <availabledate>May-15-2024</availabledate>
+    <modifieddate>2024-05-29</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/55-27-Myrtle-Ave-Unit-304-Queens-NY-11385-17071</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>4500</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-06/1997_638221932737223082.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=ep%2FedFKa4JiwNnnJ7nnuKhpJHK%2BXX2wi7saMNmy4TU4%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-06/1997_638221932739567260.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=ep%2FedFKa4JiwNnnJ7nnuKhpJHK%2BXX2wi7saMNmy4TU4%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-06/1997_638221932736190422.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=ep%2FedFKa4JiwNnnJ7nnuKhpJHK%2BXX2wi7saMNmy4TU4%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-06/1997_638221932735004029.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=ep%2FedFKa4JiwNnnJ7nnuKhpJHK%2BXX2wi7saMNmy4TU4%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-06/1997_638221932738204688.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=ep%2FedFKa4JiwNnnJ7nnuKhpJHK%2BXX2wi7saMNmy4TU4%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-03/1990_638155520651089847.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=YMBOT9HoGGiDBEIFcIdavWZ9t%2FxUPPeGKZv96NIfXzc%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-06/1997_638221932733345536.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=ep%2FedFKa4JiwNnnJ7nnuKhpJHK%2BXX2wi7saMNmy4TU4%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-04/1990_638161438063032142.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=uk9mYRpk6E8%2FpnbNUArYlqTaz4uirf7Rvw0ZQRFRNS8%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-04/1990_638161438067909984.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=uk9mYRpk6E8%2FpnbNUArYlqTaz4uirf7Rvw0ZQRFRNS8%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-04/1990_638161438091740121.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=uk9mYRpk6E8%2FpnbNUArYlqTaz4uirf7Rvw0ZQRFRNS8%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-04/1990_638161438069517571.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=uk9mYRpk6E8%2FpnbNUArYlqTaz4uirf7Rvw0ZQRFRNS8%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-04/1990_638161438071268176.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=uk9mYRpk6E8%2FpnbNUArYlqTaz4uirf7Rvw0ZQRFRNS8%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-04/1990_638161438072819993.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=uk9mYRpk6E8%2FpnbNUArYlqTaz4uirf7Rvw0ZQRFRNS8%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-04/1990_638161438074366932.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=uk9mYRpk6E8%2FpnbNUArYlqTaz4uirf7Rvw0ZQRFRNS8%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-04/1990_638161438075707709.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=uk9mYRpk6E8%2FpnbNUArYlqTaz4uirf7Rvw0ZQRFRNS8%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-04/1990_638161438077091196.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=uk9mYRpk6E8%2FpnbNUArYlqTaz4uirf7Rvw0ZQRFRNS8%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-04/1990_638161438078458233.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=uk9mYRpk6E8%2FpnbNUArYlqTaz4uirf7Rvw0ZQRFRNS8%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-04/1990_638161438079943533.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=uk9mYRpk6E8%2FpnbNUArYlqTaz4uirf7Rvw0ZQRFRNS8%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-04/1990_638161438081269648.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=uk9mYRpk6E8%2FpnbNUArYlqTaz4uirf7Rvw0ZQRFRNS8%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-04/1990_638161438083113347.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=uk9mYRpk6E8%2FpnbNUArYlqTaz4uirf7Rvw0ZQRFRNS8%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-04/1990_638161438084391559.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=uk9mYRpk6E8%2FpnbNUArYlqTaz4uirf7Rvw0ZQRFRNS8%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-04/1990_638161438085509715.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=uk9mYRpk6E8%2FpnbNUArYlqTaz4uirf7Rvw0ZQRFRNS8%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-04/1990_638161438086745545.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=uk9mYRpk6E8%2FpnbNUArYlqTaz4uirf7Rvw0ZQRFRNS8%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-04/1990_638161438087804812.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=uk9mYRpk6E8%2FpnbNUArYlqTaz4uirf7Rvw0ZQRFRNS8%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-04/1990_638161438088829809.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=uk9mYRpk6E8%2FpnbNUArYlqTaz4uirf7Rvw0ZQRFRNS8%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-04/1990_638161438090255468.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=uk9mYRpk6E8%2FpnbNUArYlqTaz4uirf7Rvw0ZQRFRNS8%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-04/1990_638161438092875183.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=uk9mYRpk6E8%2FpnbNUArYlqTaz4uirf7Rvw0ZQRFRNS8%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-04/1990_638161438094330643.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=uk9mYRpk6E8%2FpnbNUArYlqTaz4uirf7Rvw0ZQRFRNS8%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+  </photos>
+</property>
+
+
+
+<property>
+  <building>
     <address>2840 Atlantic Avenue</address>
     <city>Brooklyn</city>
     <state>NY</state>
@@ -15494,7 +15643,7 @@ Located just south of Highland Park, Cypress Hills is home to passionate individ
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -15636,7 +15785,7 @@ Located just south of Highland Park, Cypress Hills is home to passionate individ
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -15766,7 +15915,7 @@ Available now</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -15863,7 +16012,7 @@ Pets welcome
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -15971,7 +16120,7 @@ June 1st move in</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -16113,7 +16262,7 @@ Located just south of Highland Park, Cypress Hills is home to passionate individ
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -16258,7 +16407,7 @@ Located just south of Highland Park, Cypress Hills is home to passionate individ
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -16388,7 +16537,7 @@ Short commute to Manhattan &amp; easy access to the rest of Brooklyn?s hottest n
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -16478,7 +16627,7 @@ Only two blocks to both the Chauncey J and Bushwick-Aberdeen L trains. NO FEE</b
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -16585,7 +16734,7 @@ This 4 bedroom apartment features spacious living room, queen sized bedrooms , s
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -16696,7 +16845,7 @@ Queen sized rooms with closets and windows. Central heat/ac, recent renovations,
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -16776,7 +16925,7 @@ This 4 bedroom apartment features spacious living room, queen sized bedrooms , s
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -16885,7 +17034,7 @@ This 4 bedroom apartment features spacious living room, queen sized bedrooms , s
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -16979,7 +17128,7 @@ This 4 bedroom apartment features spacious living room, queen sized bedrooms , s
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -17066,7 +17215,7 @@ Also just a few minute walk to some of the nicest and most cultured parts of Bro
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -17143,7 +17292,7 @@ Located one block from Eastern Parkway ? Near the 2,3,4 &amp; 5 Trains!</brokers
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -17213,7 +17362,7 @@ Act fast on this fantastic 2BR 1baths apartment in Brooklyn's up and coming neig
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -17292,7 +17441,7 @@ Act fast on this fantastic 2BR 1baths apartment in Brooklyn's up and coming neig
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -17377,7 +17526,7 @@ Act fast on this fantastic 2BR 1baths apartment in Brooklyn's up and coming neig
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -17447,7 +17596,7 @@ Act fast on this fantastic 2BR 1baths apartment in Brooklyn's up and coming neig
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -17568,7 +17717,7 @@ Act fast on this fantastic 2BR 1baths apartment in Brooklyn's up and coming neig
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -17641,7 +17790,7 @@ Act fast on this fantastic 2BR 1baths apartment in Brooklyn's up and coming neig
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -17724,7 +17873,7 @@ Message me to view today!</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -17801,7 +17950,7 @@ Schedule your showing today!</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -17897,7 +18046,7 @@ Don't miss out on the opportunity to make 119 Albany Ave your new home. Availabl
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -17991,7 +18140,7 @@ Pet Friendly</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -18101,7 +18250,7 @@ No broker fee!!!</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -18177,7 +18326,7 @@ Don't miss the opportunity to call 1496 Bushwick, your new home. Schedule a view
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -18271,7 +18420,7 @@ PETS WELCOME</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -18350,7 +18499,7 @@ PETS WELCOME</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -18423,7 +18572,7 @@ PETS WELCOME</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -18507,7 +18656,7 @@ NO FEE!</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -18592,7 +18741,7 @@ First &amp; Security</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -18683,7 +18832,7 @@ First &amp; Security</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -18762,7 +18911,7 @@ First &amp; Security</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -18845,7 +18994,7 @@ Don't miss the opportunity to make 92 Moore, Apartment 2R, your new home. Experi
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -18921,7 +19070,7 @@ Don't miss the opportunity to make 92 Moore, Apartment 2R, your new home. Experi
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -19006,7 +19155,7 @@ Don't miss the opportunity to make 92 Moore, Apartment 2R, your new home. Experi
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -19091,7 +19240,7 @@ Reach out to tour this unit!</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -19173,7 +19322,7 @@ Reach out to tour this unit!</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -19261,7 +19410,7 @@ Reach out to tour this unit!</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -19346,7 +19495,7 @@ Reach out to tour this unit!</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -19400,7 +19549,7 @@ Reach out to tour this unit!</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -19486,7 +19635,7 @@ Available July 1st</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -19544,7 +19693,7 @@ No broker fee</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -19636,7 +19785,7 @@ Available July 1st</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -19694,7 +19843,7 @@ Welcome to your new home. Cats ok, no dogs, sorry.</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -19802,7 +19951,7 @@ Cats ok, no dogs, sorry.</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -19929,7 +20078,7 @@ Cats ok, no dogs, sorry.</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -19983,7 +20132,7 @@ Cats ok, no dogs, sorry.</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -20037,7 +20186,7 @@ Cats ok, no dogs, sorry.</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -20104,7 +20253,7 @@ Cats ok, no dogs, sorry.</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -20158,7 +20307,7 @@ Cats ok, no dogs, sorry.</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -20212,7 +20361,7 @@ Cats ok, no dogs, sorry.</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -20276,7 +20425,7 @@ To schedule a private viewing &amp; for more details contact anytime.</brokersum
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -20404,7 +20553,7 @@ This will move fast, seriously call/email now to take a tour!</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -20496,7 +20645,7 @@ This duplex offers the perfect blend of space, comfort, and convenience. Don't m
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -20591,7 +20740,7 @@ This duplex offers the perfect blend of space, comfort, and convenience. Don't m
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -20673,7 +20822,7 @@ This duplex offers the perfect blend of space, comfort, and convenience. Don't m
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -20774,7 +20923,7 @@ No fee! Pets ok! Reach out today!</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -20863,7 +21012,7 @@ No fee! Pets ok! Reach out today!</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -20952,7 +21101,7 @@ No fee! Pets ok! Reach out today!</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -21042,7 +21191,7 @@ No fee! Pets ok! Reach out today!</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -21146,7 +21295,7 @@ Don't miss out on this fantastic opportunity!</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -21233,7 +21382,7 @@ No fee! Pets ok! Reach out today!</brokersummary>
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -21365,7 +21514,7 @@ AMENITIES
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -21512,7 +21661,7 @@ AMENITIES
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -21659,7 +21808,7 @@ AMENITIES
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -21833,7 +21982,7 @@ AMENITIES
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
@@ -21950,7 +22099,7 @@ All of your favorite bars, restaurants, and cafes less than a 2 minute walk to J
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
     <maxterm>12</maxterm>
-    <commissionmonth>.9</commissionmonth>
+    <commissionmonth />
     <commissionsplit-house />
     <cof>TRUE</cof>
     <petpolicy>C</petpolicy>
