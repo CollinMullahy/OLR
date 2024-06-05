@@ -12133,7 +12133,7 @@ No broker fee</brokersummary>
     <numbaths>1.5</numbaths>
     <numrooms>5</numrooms>
     <listingtype>L</listingtype>
-    <status>A</status>
+    <status>Deposit received</status>
     <listeddate>2024-06-05</listeddate>
     <availabledate>Jul-01-2024</availabledate>
     <modifieddate>2024-06-05</modifieddate>
@@ -22013,7 +22013,7 @@ Cats ok, no dogs, sorry.</brokersummary>
     <grosscommission />
     <buyersbrokercommision />
     <paidbywhom>O</paidbywhom>
-    <rent>3850</rent>
+    <rent>3700</rent>
     <furnishrent />
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
@@ -22144,7 +22144,7 @@ Welcome to your new home. Cats ok, no dogs, sorry.</brokersummary>
     <grosscommission />
     <buyersbrokercommision />
     <paidbywhom>O</paidbywhom>
-    <rent>3950</rent>
+    <rent>3800</rent>
     <furnishrent />
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
