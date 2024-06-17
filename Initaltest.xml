@@ -7072,7 +7072,7 @@ NO FEE</brokersummary>
     <numbaths>1</numbaths>
     <numrooms>3</numrooms>
     <listingtype>L</listingtype>
-    <status>A</status>
+    <status>P</status>
     <listeddate>2024-06-17</listeddate>
     <availabledate>Jun-01-2024</availabledate>
     <modifieddate>2024-06-17</modifieddate>
@@ -9573,7 +9573,7 @@ NO FEE</brokersummary>
     <numbaths>1</numbaths>
     <numrooms>4</numrooms>
     <listingtype>L</listingtype>
-    <status>A</status>
+    <status>P</status>
     <listeddate>2024-06-17</listeddate>
     <availabledate>May-20-2024</availabledate>
     <modifieddate>2024-06-17</modifieddate>
@@ -20936,7 +20936,7 @@ This duplex offers the perfect blend of space, comfort, and convenience. Don't m
     <grosscommission />
     <buyersbrokercommision />
     <paidbywhom>O</paidbywhom>
-    <rent>6000</rent>
+    <rent>5600</rent>
     <furnishrent />
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
