@@ -460,87 +460,6 @@ No broker fee</brokersummary>
 
 <property>
   <building>
-    <address>322 Rodney St</address>
-    <city>Brooklyn</city>
-    <state>NY</state>
-    <zipcode>11211</zipcode>
-  </building>
-  <details>
-    <distributiontype>P</distributiontype>
-    <saleorrent>R</saleorrent>
-    <brokersummary>Myspace Exclusive!
-Beautiful apartment in Williamsburg, prime location!
-
-This 2 bedroom apartment features a spacious living room, queen-sized bedrooms, stainless steel kitchen, modern bathroom, hardwood floors, and windows that let in natural light throughout.
-
-You?ll be right around the corner from dozens of top-rated bars, restaurants, cafes, grocers, and music/art venues. Local favorites include Westlight, Brooklyn Bowl, Extra Fancy, Lucky Dog, Baby?s All Right, Patrizia?s, Battery Harris, Post Office, and Freehold.
-
-Short commute to Manhattan &amp; easy access to the rest of Brooklyn?s hottest neighborhoods. Only # blocks from the L train, and a # minute walk to the JMZ trains
-
-June 1 move in
-Small pets welcome
-No broker fee</brokersummary>
-    <weblistingid>2095</weblistingid>
-    <aptnumber>37</aptnumber>
-    <apartmentsize>H</apartmentsize>
-    <numbedrooms>2</numbedrooms>
-    <numbaths>1</numbaths>
-    <numrooms>4</numrooms>
-    <listingtype>L</listingtype>
-    <status>P</status>
-    <listeddate>2024-06-28</listeddate>
-    <availabledate>Jun-01-2024</availabledate>
-    <modifieddate>2024-06-28</modifieddate>
-    <listingurl>https://myspacenyc.cazamio.com/apartments/322-Rodney-St-Unit-37-Brooklyn-NY-11211-2095</listingurl>
-    <price />
-    <grosscommission />
-    <buyersbrokercommision />
-    <paidbywhom>O</paidbywhom>
-    <rent>3550</rent>
-    <furnishrent />
-    <securitydeposit>1</securitydeposit>
-    <minterm>12</minterm>
-    <maxterm>12</maxterm>
-    <commissionmonth />
-    <commissionsplit-house />
-    <cof>TRUE</cof>
-    <petpolicy>C</petpolicy>
-  </details>
-  <agents>
-    <agent>
-      <firstname>Belle</firstname>
-      <lastname>Piper</lastname>
-      <title>Rental Agent</title>
-      <email>belle.msnyc@myspacenyc.com</email>
-      <workphone>(646) 854-3513</workphone>
-      <mobilephone />
-      <homephone />
-      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
-    </agent>
-  </agents>
-  <photos>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-04/1990_638181453198634723.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=uk9mYRpk6E8%2FpnbNUArYlqTaz4uirf7Rvw0ZQRFRNS8%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-04/1990_638181453202953125.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=uk9mYRpk6E8%2FpnbNUArYlqTaz4uirf7Rvw0ZQRFRNS8%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-04/1990_638181453201460044.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=uk9mYRpk6E8%2FpnbNUArYlqTaz4uirf7Rvw0ZQRFRNS8%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-04/1990_638181453204329044.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=uk9mYRpk6E8%2FpnbNUArYlqTaz4uirf7Rvw0ZQRFRNS8%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-04/1990_638181453205582335.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=uk9mYRpk6E8%2FpnbNUArYlqTaz4uirf7Rvw0ZQRFRNS8%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r</url>
-    </media>
-  </photos>
-</property>
-
-
-
-<property>
-  <building>
     <address>170 New York Ave</address>
     <city>Brooklyn</city>
     <state>NY</state>
@@ -1264,7 +1183,19 @@ Small pets OK</brokersummary>
   <details>
     <distributiontype>P</distributiontype>
     <saleorrent>R</saleorrent>
-    <brokersummary />
+    <brokersummary>Beautifully RENOVATED 1 bed in Williamsburg
+
+Located at Rodney and South 4th
+3 minutes door to platform ? Marcy JMZ
+
+brand new renovation with TONS of natural light
+new kitchen / bath
+stainless steel appliances
+heat and hot water included
+NO FEE ? MUST SEE
+
+Small pets OK
+8/1 move in</brokersummary>
     <weblistingid>18289</weblistingid>
     <aptnumber>22</aptnumber>
     <apartmentsize>7</apartmentsize>
