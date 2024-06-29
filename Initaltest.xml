@@ -4883,6 +4883,82 @@ Located in vibrant East Flatbush, this apartment is close to public transportati
 
 <property>
   <building>
+    <address>60-49 Catalpa Avenue</address>
+    <city>Queens</city>
+    <state>NY</state>
+    <zipcode>11385</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary />
+    <weblistingid>18309</weblistingid>
+    <aptnumber>2b</aptnumber>
+    <apartmentsize>7</apartmentsize>
+    <numbedrooms>1</numbedrooms>
+    <numbaths>1</numbaths>
+    <numrooms>3</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2024-06-29</listeddate>
+    <availabledate>Jun-29-2024</availabledate>
+    <modifieddate>2024-06-29</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/60-49-Catalpa-Avenue-Unit-2b-Queens-NY-11385-18309</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>2500</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-06/1995_638552602148003759.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=wi1Q7BN2sJFBFj0N0CGzKIgr4P8z7d%2FEvXst4c0Sx3g%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-06/1995_638552602148018379.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=wi1Q7BN2sJFBFj0N0CGzKIgr4P8z7d%2FEvXst4c0Sx3g%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-06/1995_638552602147457380.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=wi1Q7BN2sJFBFj0N0CGzKIgr4P8z7d%2FEvXst4c0Sx3g%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-06/1995_638552602148034099.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=wi1Q7BN2sJFBFj0N0CGzKIgr4P8z7d%2FEvXst4c0Sx3g%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-06/1995_638552602148003798.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=wi1Q7BN2sJFBFj0N0CGzKIgr4P8z7d%2FEvXst4c0Sx3g%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-06/1995_638552602147457318.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=wi1Q7BN2sJFBFj0N0CGzKIgr4P8z7d%2FEvXst4c0Sx3g%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-06/1995_638552602147999930.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=wi1Q7BN2sJFBFj0N0CGzKIgr4P8z7d%2FEvXst4c0Sx3g%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+  </photos>
+</property>
+
+
+
+<property>
+  <building>
     <address>279 Kosciuszko St</address>
     <city>Brooklyn</city>
     <state>NY</state>
