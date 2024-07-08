@@ -1365,7 +1365,7 @@ NO FEE!</brokersummary>
     <numbaths>1</numbaths>
     <numrooms>5</numrooms>
     <listingtype>L</listingtype>
-    <status>A</status>
+    <status>P</status>
     <listeddate>2024-07-08</listeddate>
     <availabledate>Jul-01-2024</availabledate>
     <modifieddate>2024-07-08</modifieddate>
@@ -7657,7 +7657,7 @@ Located in vibrant East Flatbush, this apartment is close to public transportati
     <numbaths>1</numbaths>
     <numrooms>4</numrooms>
     <listingtype>L</listingtype>
-    <status>A</status>
+    <status>P</status>
     <listeddate>2024-07-08</listeddate>
     <availabledate>Aug-01-2024</availabledate>
     <modifieddate>2024-07-08</modifieddate>
@@ -9721,7 +9721,7 @@ NO FEE</brokersummary>
     <grosscommission />
     <buyersbrokercommision />
     <paidbywhom>O</paidbywhom>
-    <rent>4950</rent>
+    <rent>4800</rent>
     <furnishrent />
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
