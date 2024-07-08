@@ -820,7 +820,7 @@ Broker fee apploes</brokersummary>
     <numbaths>1</numbaths>
     <numrooms>3</numrooms>
     <listingtype>L</listingtype>
-    <status>A</status>
+    <status>P</status>
     <listeddate>2024-07-08</listeddate>
     <availabledate>Aug-01-2024</availabledate>
     <modifieddate>2024-07-08</modifieddate>
@@ -1803,7 +1803,7 @@ April 1 move in
 Small pets OK
 No broker fee</brokersummary>
     <weblistingid>15324</weblistingid>
-    <aptnumber>E1</aptnumber>
+    <aptnumber>E33</aptnumber>
     <apartmentsize>H</apartmentsize>
     <numbedrooms>2</numbedrooms>
     <numbaths>1</numbaths>
@@ -1813,7 +1813,7 @@ No broker fee</brokersummary>
     <listeddate>2024-07-08</listeddate>
     <availabledate>Aug-01-2024</availabledate>
     <modifieddate>2024-07-08</modifieddate>
-    <listingurl>https://myspacenyc.cazamio.com/apartments/134-Boerum-St-Unit-E1-Brooklyn-NY-11206-15324</listingurl>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/134-Boerum-St-Unit-E33-Brooklyn-NY-11206-15324</listingurl>
     <price />
     <grosscommission />
     <buyersbrokercommision />
@@ -15141,7 +15141,7 @@ Private backyard</brokersummary>
     <grosscommission />
     <buyersbrokercommision />
     <paidbywhom>O</paidbywhom>
-    <rent>3708</rent>
+    <rent>3650</rent>
     <furnishrent />
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
@@ -16553,7 +16553,7 @@ Pets OK</brokersummary>
     <grosscommission />
     <buyersbrokercommision />
     <paidbywhom>O</paidbywhom>
-    <rent>3950</rent>
+    <rent>3900</rent>
     <furnishrent />
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
@@ -16663,7 +16663,7 @@ Pets OK</brokersummary>
     <grosscommission />
     <buyersbrokercommision />
     <paidbywhom>O</paidbywhom>
-    <rent>3950</rent>
+    <rent>3900</rent>
     <furnishrent />
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
@@ -16773,7 +16773,7 @@ Pets OK</brokersummary>
     <grosscommission />
     <buyersbrokercommision />
     <paidbywhom>O</paidbywhom>
-    <rent>3950</rent>
+    <rent>3900</rent>
     <furnishrent />
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
