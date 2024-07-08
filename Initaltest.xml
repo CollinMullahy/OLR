@@ -22637,6 +22637,78 @@ Located near the L train @ Wilson Ave</brokersummary>
 
 <property>
   <building>
+    <address>34-15 9th Street</address>
+    <city>Queens</city>
+    <state>NY</state>
+    <zipcode>11106</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary>Beautiful Duplex with Attention to Detail and Private Terrace!
+
+Renovated 3BR/2BA Duplex in Long Island City, near N Train at Broadway and riverside parks. Across from 9th St. Laundromat, close to markets and cafes. Parking is easy in this area!
+
+Apartment Features:
+
+Nice-sized Bedrooms
+2 Full Bathrooms
+Modern Kitchen with Stainless Steel Appliances
+Huge Living Space
+Spacious Layout
+Beautiful Light Fixtures
+Plenty of Windows and Closets
+Hardwood Floors
+Central AC/Heating
+Virtual Doorman
+Keyless Entry
+Rooftop Access
+Private Yard</brokersummary>
+    <weblistingid>18615</weblistingid>
+    <aptnumber>1</aptnumber>
+    <apartmentsize>L</apartmentsize>
+    <numbedrooms>3</numbedrooms>
+    <numbaths>2</numbaths>
+    <numrooms>6</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2024-07-08</listeddate>
+    <availabledate>Jul-08-2024</availabledate>
+    <modifieddate>2024-07-08</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/34-15-9th-Street-Unit-1-Queens-NY-11106-18615</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>4200</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos />
+</property>
+
+
+
+<property>
+  <building>
     <address>25 Beaver St</address>
     <city>Brooklyn</city>
     <state>NY</state>
