@@ -37,7 +37,7 @@ No broker fee</brokersummary>
     <grosscommission />
     <buyersbrokercommision />
     <paidbywhom>O</paidbywhom>
-    <rent>3600</rent>
+    <rent>3450</rent>
     <furnishrent />
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
@@ -1372,7 +1372,7 @@ No broker fee</brokersummary>
     <numbaths>1</numbaths>
     <numrooms>3</numrooms>
     <listingtype>L</listingtype>
-    <status>A</status>
+    <status>P</status>
     <listeddate>2024-07-11</listeddate>
     <availabledate>Jul-01-2024</availabledate>
     <modifieddate>2024-07-11</modifieddate>
