@@ -10356,7 +10356,7 @@ Cats welcome</brokersummary>
     <numbaths>2</numbaths>
     <numrooms>6</numrooms>
     <listingtype>L</listingtype>
-    <status>A</status>
+    <status>P</status>
     <listeddate>2024-08-08</listeddate>
     <availabledate>Aug-01-2024</availabledate>
     <modifieddate>2024-08-08</modifieddate>
@@ -18505,7 +18505,7 @@ Small pets OK</brokersummary>
     <numbaths>1</numbaths>
     <numrooms>5</numrooms>
     <listingtype>L</listingtype>
-    <status>A</status>
+    <status>P</status>
     <listeddate>2024-08-08</listeddate>
     <availabledate>Sep-01-2024</availabledate>
     <modifieddate>2024-08-08</modifieddate>
@@ -25464,60 +25464,6 @@ Pets welcome</brokersummary>
     <distributiontype>P</distributiontype>
     <saleorrent>R</saleorrent>
     <brokersummary />
-    <weblistingid>19395</weblistingid>
-    <aptnumber>4B</aptnumber>
-    <apartmentsize>L</apartmentsize>
-    <numbedrooms>3</numbedrooms>
-    <numbaths>2</numbaths>
-    <numrooms>6</numrooms>
-    <listingtype>L</listingtype>
-    <status>A</status>
-    <listeddate>2024-08-08</listeddate>
-    <availabledate>Aug-01-2024</availabledate>
-    <modifieddate>2024-08-08</modifieddate>
-    <listingurl>https://myspacenyc.cazamio.com/apartments/511-Meeker-Avenue-Unit-4B-Brooklyn-NY-11222-19395</listingurl>
-    <price />
-    <grosscommission />
-    <buyersbrokercommision />
-    <paidbywhom>O</paidbywhom>
-    <rent>5800</rent>
-    <furnishrent />
-    <securitydeposit>1</securitydeposit>
-    <minterm>12</minterm>
-    <maxterm>12</maxterm>
-    <commissionmonth />
-    <commissionsplit-house />
-    <cof>TRUE</cof>
-    <petpolicy>C</petpolicy>
-  </details>
-  <agents>
-    <agent>
-      <firstname>Belle</firstname>
-      <lastname>Piper</lastname>
-      <title>Rental Agent</title>
-      <email>belle.msnyc@myspacenyc.com</email>
-      <workphone>(646) 854-3513</workphone>
-      <mobilephone />
-      <homephone />
-      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
-    </agent>
-  </agents>
-  <photos />
-</property>
-
-
-
-<property>
-  <building>
-    <address>511 Meeker Avenue</address>
-    <city>Brooklyn</city>
-    <state>NY</state>
-    <zipcode>11222</zipcode>
-  </building>
-  <details>
-    <distributiontype>P</distributiontype>
-    <saleorrent>R</saleorrent>
-    <brokersummary />
     <weblistingid>19303</weblistingid>
     <aptnumber>1A</aptnumber>
     <apartmentsize>L</apartmentsize>
@@ -29357,6 +29303,180 @@ Pet-friendly and guarantors welcome. Schedule your showing today! Virtual tours 
       <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-08/2004_638585721476147554.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=HTeTWI0rBoWb%2FMP61C4nZeCbrGVVQKU%2Fs1FiYCf50WA%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
     </media>
   </photos>
+</property>
+
+
+
+<property>
+  <building>
+    <address>2136 Bedford Avenue</address>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11226</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary />
+    <weblistingid>19537</weblistingid>
+    <aptnumber>2B</aptnumber>
+    <apartmentsize>7</apartmentsize>
+    <numbedrooms>1</numbedrooms>
+    <numbaths>1</numbaths>
+    <numrooms>3</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2024-08-08</listeddate>
+    <availabledate>Sep-01-2024</availabledate>
+    <modifieddate>2024-08-08</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/2136-Bedford-Avenue-Unit-2B-Brooklyn-NY-11226-19537</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>3100</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos />
+</property>
+
+
+
+<property>
+  <building>
+    <address>129 Bleecker Street</address>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11221</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary>Gorgeous spacious 2 bedroom 1 bath apartment, located in the prime Bushwick area. Conveniently located close to the L/J/Z/M train lines and various bus lines for a fast and easy commute. Steps away from many bars restaurants cafe and many shops, The building is clean quiet well maintained with a great super on premises,
+
+The apartment features, newly renovated, hardwood floors, high ceiling, large windows with lots of natural light, 2 huge bedrooms with lots of closet space, gorgeous kitchen with stainless steel appliances, nice tiled full bath, pet friendly. Balcony and much more. A MUST SEE!
+
+For just $2750 a month, with no broker fee</brokersummary>
+    <weblistingid>19538</weblistingid>
+    <aptnumber>1R</aptnumber>
+    <apartmentsize>H</apartmentsize>
+    <numbedrooms>2</numbedrooms>
+    <numbaths>1</numbaths>
+    <numrooms>4</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2024-08-08</listeddate>
+    <availabledate>Sep-01-2024</availabledate>
+    <modifieddate>2024-08-08</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/129-Bleecker-Street-Unit-1R-Brooklyn-NY-11221-19538</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>2750</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos />
+</property>
+
+
+
+<property>
+  <building>
+    <address>802 Evergreen Avenue</address>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11207</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary>HUGE 3 BEDROOM 3 BATHS APARTMENT, LAUNDRY IN UNIT, BACKYARD, NO FEES
+
+Gorgeous newly renovated 3 bedroom 2.5 baths duplex apartment, located close to the J/M/Z/L train lines and various bus lines for a fast and easy commute. Steps from many bars restaurants coffee shops and many shops.
+
+The building is quiet clean well maintained with a great super on premises.
+
+The apartment features: Newly Renovated, High Ceiling, Large Sunny Windows With Great Natural Light, Huge Living Room, Hardwood Floors, Nice Kitchen With Stainless Steel Appliances, 3 Huge Bedroom, 2.5. Nice Tiled Full Baths, Pet Friendly, Laundry In Unit, backyard And Much More! A MUST SEE!!!
+
+For just $4200 a month with no brokers fee.</brokersummary>
+    <weblistingid>19539</weblistingid>
+    <aptnumber>1</aptnumber>
+    <apartmentsize>L</apartmentsize>
+    <numbedrooms>3</numbedrooms>
+    <numbaths>3</numbaths>
+    <numrooms>7</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2024-08-08</listeddate>
+    <availabledate>Aug-15-2024</availabledate>
+    <modifieddate>2024-08-08</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/802-Evergreen-Avenue-Unit-1-Brooklyn-NY-11207-19539</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>4200</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos />
 </property>
 
 
