@@ -4782,7 +4782,7 @@ This apartment is rent stabilized, you can enjoy a rent stabilized home, be prot
     <grosscommission />
     <buyersbrokercommision />
     <paidbywhom>O</paidbywhom>
-    <rent>3200</rent>
+    <rent>3000</rent>
     <furnishrent />
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
@@ -5831,7 +5831,7 @@ Short commute to Manhattan &amp; easy access to the rest of Brooklyn's hottest n
   <details>
     <distributiontype>P</distributiontype>
     <saleorrent>R</saleorrent>
-    <brokersummary />
+    <brokersummary>1 month free</brokersummary>
     <weblistingid>19525</weblistingid>
     <aptnumber>2F</aptnumber>
     <apartmentsize>2.5BED</apartmentsize>
@@ -5848,7 +5848,7 @@ Short commute to Manhattan &amp; easy access to the rest of Brooklyn's hottest n
     <grosscommission />
     <buyersbrokercommision />
     <paidbywhom>O</paidbywhom>
-    <rent>3300</rent>
+    <rent>3350</rent>
     <furnishrent />
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
@@ -6231,10 +6231,10 @@ This apartment features a spacious living room, queen-sized bedrooms, stainless 
 Short commute to Manhattan &amp; easy access to the rest of Brooklyn's hottest neighborhoods. Only blocks from the L train, and a short walk to the J, M trains.</brokersummary>
     <weblistingid>19530</weblistingid>
     <aptnumber>1E</aptnumber>
-    <apartmentsize>H</apartmentsize>
-    <numbedrooms>2</numbedrooms>
+    <apartmentsize>1</apartmentsize>
+    <numbedrooms>0</numbedrooms>
     <numbaths>1</numbaths>
-    <numrooms>4</numrooms>
+    <numrooms>2</numrooms>
     <listingtype>L</listingtype>
     <status>A</status>
     <listeddate>2024-08-09</listeddate>
@@ -6268,15 +6268,6 @@ Short commute to Manhattan &amp; easy access to the rest of Brooklyn's hottest n
     </agent>
   </agents>
   <photos>
-    <media>
-      <url>https://s3.amazonaws.com/realty-monster-avatars-new/images/files/000/449/607/large/260_Knickerbocker__9C-6.jpg?1667247759</url>
-    </media>
-    <media>
-      <url>https://s3.amazonaws.com/realty-monster-avatars-new/images/files/000/449/610/large/260_Knickerbocker__9C-7.jpg?1667247767</url>
-    </media>
-    <media>
-      <url>https://s3.amazonaws.com/realty-monster-avatars-new/images/files/000/449/615/large/260_Knickerbocker_Building-9.jpg?1667247780</url>
-    </media>
     <media>
       <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-08/1995_638586781270494096.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=HTeTWI0rBoWb%2FMP61C4nZeCbrGVVQKU%2Fs1FiYCf50WA%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
     </media>
@@ -6345,7 +6336,7 @@ Short commute to Manhattan &amp; easy access to the rest of Brooklyn's hottest n
     <grosscommission />
     <buyersbrokercommision />
     <paidbywhom>O</paidbywhom>
-    <rent>4100</rent>
+    <rent>3600</rent>
     <furnishrent />
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
@@ -27563,6 +27554,97 @@ This is a must-see property that combines comfort and convenience. Don't miss ou
     </media>
     <media>
       <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-08/1996_638585698897178958.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=HTeTWI0rBoWb%2FMP61C4nZeCbrGVVQKU%2Fs1FiYCf50WA%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+  </photos>
+</property>
+
+
+
+<property>
+  <building>
+    <address>245 Jefferson Street</address>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11237</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary>Charming 4-Bedroom, 1.5-Bath Apartment- DUPLEX w/ Shared backyard  Near Maria Hernandez Park!
+
+Discover a spacious and modern living space with this stunning 4-bedroom, 1.5-bathroom apartment, located just steps away from Maria Hernandez Park. This building boasts fantastic amenities including rooftop access, a backyard, a laundry room, and an on-site gym.
+
+Unit features include:
+Central A/C
+Hardwood floors
+Dishwasher
+Shared Yard
+This is a must-see property that combines comfort and convenience. Don't miss out!</brokersummary>
+    <weblistingid>19590</weblistingid>
+    <aptnumber>1L</aptnumber>
+    <apartmentsize>4BED</apartmentsize>
+    <numbedrooms>4</numbedrooms>
+    <numbaths>1.5</numbaths>
+    <numrooms>6</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2024-08-09</listeddate>
+    <availabledate>Sep-01-2024</availabledate>
+    <modifieddate>2024-08-09</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/245-Jefferson-Street-Unit-1L-Brooklyn-NY-11237-19590</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>4800</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-08/1996_638588229438914948.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=HTeTWI0rBoWb%2FMP61C4nZeCbrGVVQKU%2Fs1FiYCf50WA%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-08/1996_638588229439836335.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=HTeTWI0rBoWb%2FMP61C4nZeCbrGVVQKU%2Fs1FiYCf50WA%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-08/1996_638588229440882816.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=HTeTWI0rBoWb%2FMP61C4nZeCbrGVVQKU%2Fs1FiYCf50WA%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-08/1996_638588229661869945.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=HTeTWI0rBoWb%2FMP61C4nZeCbrGVVQKU%2Fs1FiYCf50WA%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-08/1996_638588229661865217.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=HTeTWI0rBoWb%2FMP61C4nZeCbrGVVQKU%2Fs1FiYCf50WA%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-08/1996_638588229662083183.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=HTeTWI0rBoWb%2FMP61C4nZeCbrGVVQKU%2Fs1FiYCf50WA%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-08/1996_638588229662096217.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=HTeTWI0rBoWb%2FMP61C4nZeCbrGVVQKU%2Fs1FiYCf50WA%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-08/1996_638588229660314969.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=HTeTWI0rBoWb%2FMP61C4nZeCbrGVVQKU%2Fs1FiYCf50WA%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-08/1996_638588229660025958.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=HTeTWI0rBoWb%2FMP61C4nZeCbrGVVQKU%2Fs1FiYCf50WA%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
     </media>
   </photos>
 </property>
