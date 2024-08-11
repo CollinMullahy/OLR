@@ -2031,7 +2031,7 @@ Contact us to set up a viewing right away!</brokersummary>
     <grosscommission />
     <buyersbrokercommision />
     <paidbywhom>O</paidbywhom>
-    <rent>3199</rent>
+    <rent>3050</rent>
     <furnishrent />
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
@@ -2675,7 +2675,7 @@ Contact us to set up a viewing right away!!</brokersummary>
     <numbaths>1</numbaths>
     <numrooms>4</numrooms>
     <listingtype>L</listingtype>
-    <status>A</status>
+    <status>Application Submitted</status>
     <listeddate>2024-08-11</listeddate>
     <availabledate>Jul-01-2024</availabledate>
     <modifieddate>2024-08-11</modifieddate>
@@ -2871,6 +2871,60 @@ Call or text to view the right away. This is priced to GO!</brokersummary>
   <details>
     <distributiontype>P</distributiontype>
     <saleorrent>R</saleorrent>
+    <brokersummary />
+    <weblistingid>19616</weblistingid>
+    <aptnumber>516</aptnumber>
+    <apartmentsize>1</apartmentsize>
+    <numbedrooms>0</numbedrooms>
+    <numbaths>1</numbaths>
+    <numrooms>2</numrooms>
+    <listingtype>L</listingtype>
+    <status>Application Submitted</status>
+    <listeddate>2024-08-11</listeddate>
+    <availabledate>Aug-11-2024</availabledate>
+    <modifieddate>2024-08-11</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/594-Bushwick-Ave-Unit-516-Brooklyn-NY-11206-19616</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>1830</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos />
+</property>
+
+
+
+<property>
+  <building>
+    <address>594 Bushwick Ave</address>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11206</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
     <brokersummary>2 Bed CORNER UNIT Penthouse with amazing views ready for immediate move in!
 
 Please see video on StreetEasy ad or send message and I?ll send to you!
@@ -3036,7 +3090,7 @@ Contact us to set up a viewing right away!</brokersummary>
     <grosscommission />
     <buyersbrokercommision />
     <paidbywhom>O</paidbywhom>
-    <rent>3150</rent>
+    <rent>3050</rent>
     <furnishrent />
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
@@ -3115,7 +3169,7 @@ Contact us to set up a viewing right away!</brokersummary>
     <grosscommission />
     <buyersbrokercommision />
     <paidbywhom>O</paidbywhom>
-    <rent>3250</rent>
+    <rent>3099</rent>
     <furnishrent />
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
@@ -3219,7 +3273,7 @@ Contact us to set up a viewing right away!</brokersummary>
     <grosscommission />
     <buyersbrokercommision />
     <paidbywhom>O</paidbywhom>
-    <rent>3650</rent>
+    <rent>3325</rent>
     <furnishrent />
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
