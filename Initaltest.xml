@@ -4849,7 +4849,7 @@ This apartment is rent stabilized, you can enjoy a rent stabilized home, be prot
     <grosscommission />
     <buyersbrokercommision />
     <paidbywhom>O</paidbywhom>
-    <rent>5400</rent>
+    <rent>5300</rent>
     <furnishrent />
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
@@ -5150,7 +5150,7 @@ This apartment is rent stabilized, you can enjoy a rent stabilized home, be prot
     <grosscommission />
     <buyersbrokercommision />
     <paidbywhom>O</paidbywhom>
-    <rent>3300</rent>
+    <rent>3100</rent>
     <furnishrent />
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
@@ -5554,7 +5554,7 @@ This apartment is rent stabilized, you can enjoy a rent stabilized home, be prot
     <grosscommission />
     <buyersbrokercommision />
     <paidbywhom>O</paidbywhom>
-    <rent>3300</rent>
+    <rent>3200</rent>
     <furnishrent />
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
