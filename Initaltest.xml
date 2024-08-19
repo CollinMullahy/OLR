@@ -22511,7 +22511,7 @@ Transportation options are plentiful, with easy access to the J, Z, G, M, and ot
     <grosscommission />
     <buyersbrokercommision />
     <paidbywhom>O</paidbywhom>
-    <rent>4000</rent>
+    <rent>3600</rent>
     <furnishrent />
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
