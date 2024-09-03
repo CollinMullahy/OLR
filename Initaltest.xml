@@ -10469,7 +10469,7 @@ The location is excellent, with nearby subway stations including Gates Av (J), M
     <numbaths>1</numbaths>
     <numrooms>3</numrooms>
     <listingtype>L</listingtype>
-    <status>A</status>
+    <status>P</status>
     <listeddate>2024-09-03</listeddate>
     <availabledate>Aug-15-2023</availabledate>
     <modifieddate>2024-09-03</modifieddate>
@@ -11321,7 +11321,7 @@ NO FEE</brokersummary>
     <grosscommission />
     <buyersbrokercommision />
     <paidbywhom>O</paidbywhom>
-    <rent>4750</rent>
+    <rent>4500</rent>
     <furnishrent />
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
@@ -11452,7 +11452,7 @@ Laundry in building and Bike room!</brokersummary>
     <grosscommission />
     <buyersbrokercommision />
     <paidbywhom>O</paidbywhom>
-    <rent>4400</rent>
+    <rent>4350</rent>
     <furnishrent />
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
