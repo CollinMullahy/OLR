@@ -2423,7 +2423,7 @@ Right in the middle of Carroll Gardens/Gowanus and just blocks away from Barclay
     <grosscommission />
     <buyersbrokercommision />
     <paidbywhom>O</paidbywhom>
-    <rent>6499</rent>
+    <rent>6199</rent>
     <furnishrent />
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
@@ -27545,65 +27545,7 @@ Elevator access</brokersummary>
     <grosscommission />
     <buyersbrokercommision />
     <paidbywhom>O</paidbywhom>
-    <rent>3100</rent>
-    <furnishrent />
-    <securitydeposit>1</securitydeposit>
-    <minterm>12</minterm>
-    <maxterm>12</maxterm>
-    <commissionmonth />
-    <commissionsplit-house />
-    <cof>TRUE</cof>
-    <petpolicy>C</petpolicy>
-  </details>
-  <agents>
-    <agent>
-      <firstname>Belle</firstname>
-      <lastname>Piper</lastname>
-      <title>Rental Agent</title>
-      <email>belle.msnyc@myspacenyc.com</email>
-      <workphone>(646) 854-3513</workphone>
-      <mobilephone />
-      <homephone />
-      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
-    </agent>
-  </agents>
-  <photos />
-</property>
-
-
-
-<property>
-  <building>
-    <address>129 Bleecker Street</address>
-    <city>Brooklyn</city>
-    <state>NY</state>
-    <zipcode>11221</zipcode>
-  </building>
-  <details>
-    <distributiontype>P</distributiontype>
-    <saleorrent>R</saleorrent>
-    <brokersummary>Gorgeous spacious 2 bedroom 1 bath apartment, located in the prime Bushwick area. Conveniently located close to the L/J/Z/M train lines and various bus lines for a fast and easy commute. Steps away from many bars restaurants cafe and many shops, The building is clean quiet well maintained with a great super on premises,
-
-The apartment features, newly renovated, hardwood floors, high ceiling, large windows with lots of natural light, 2 huge bedrooms with lots of closet space, gorgeous kitchen with stainless steel appliances, nice tiled full bath, pet friendly. Balcony and much more. A MUST SEE!
-
-For just $2750 a month, with no broker fee</brokersummary>
-    <weblistingid>19538</weblistingid>
-    <aptnumber>1R</aptnumber>
-    <apartmentsize>H</apartmentsize>
-    <numbedrooms>2</numbedrooms>
-    <numbaths>1</numbaths>
-    <numrooms>4</numrooms>
-    <listingtype>L</listingtype>
-    <status>A</status>
-    <listeddate>2024-09-17</listeddate>
-    <availabledate>Sep-01-2024</availabledate>
-    <modifieddate>2024-09-17</modifieddate>
-    <listingurl>https://myspacenyc.cazamio.com/apartments/129-Bleecker-Street-Unit-1R-Brooklyn-NY-11221-19538</listingurl>
-    <price />
-    <grosscommission />
-    <buyersbrokercommision />
-    <paidbywhom>O</paidbywhom>
-    <rent>2750</rent>
+    <rent>2400</rent>
     <furnishrent />
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
@@ -27665,7 +27607,7 @@ For just $4200 a month with no brokers fee.</brokersummary>
     <grosscommission />
     <buyersbrokercommision />
     <paidbywhom>O</paidbywhom>
-    <rent>4200</rent>
+    <rent>3500</rent>
     <furnishrent />
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
