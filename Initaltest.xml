@@ -677,7 +677,7 @@ No broker fee</brokersummary>
     <numbaths>2</numbaths>
     <numrooms>7</numrooms>
     <listingtype>L</listingtype>
-    <status>A</status>
+    <status>P</status>
     <listeddate>2024-10-07</listeddate>
     <availabledate>Oct-10-2024</availabledate>
     <modifieddate>2024-10-07</modifieddate>
@@ -14178,7 +14178,7 @@ Pets OK!</brokersummary>
     <grosscommission />
     <buyersbrokercommision />
     <paidbywhom>O</paidbywhom>
-    <rent>3150</rent>
+    <rent>3100</rent>
     <furnishrent />
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
@@ -14455,7 +14455,7 @@ Available 10/1</brokersummary>
     <grosscommission />
     <buyersbrokercommision />
     <paidbywhom>O</paidbywhom>
-    <rent>2799</rent>
+    <rent>2699</rent>
     <furnishrent />
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
