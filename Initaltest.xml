@@ -287,7 +287,7 @@ No broker fee</brokersummary>
     <numbaths>1</numbaths>
     <numrooms>5</numrooms>
     <listingtype>L</listingtype>
-    <status>A</status>
+    <status>P</status>
     <listeddate>2024-10-10</listeddate>
     <availabledate>Sep-01-2024</availabledate>
     <modifieddate>2024-10-10</modifieddate>
@@ -12212,7 +12212,7 @@ On-site laundry.</brokersummary>
     <numbaths>1.5</numbaths>
     <numrooms>4</numrooms>
     <listingtype>L</listingtype>
-    <status>A</status>
+    <status>P</status>
     <listeddate>2024-10-10</listeddate>
     <availabledate>Nov-01-2024</availabledate>
     <modifieddate>2024-10-10</modifieddate>
@@ -22127,6 +22127,251 @@ Don?t miss out on this incredible opportunity to call this apartment home at an 
     <buyersbrokercommision />
     <paidbywhom>O</paidbywhom>
     <rent>4255</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos />
+</property>
+
+
+
+<property>
+  <building>
+    <address>24 Covert Street</address>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11207</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary>NO FEE | Spacious 3-Bedroom, 1.5-Bathroom Apartment in Bushwick
+
+Dishwasher
+Pets Welcome
+Private Outdoor Space
+Massive Basement with Extra Storage
+Laundry in Building
+
+This stunning Bushwick apartment offers generous space and modern conveniences, including a dishwasher and private outdoor area. With a pet-friendly policy and a huge basement for additional storage, this home is perfect for comfortable city living.</brokersummary>
+    <weblistingid>20830</weblistingid>
+    <aptnumber>1L</aptnumber>
+    <apartmentsize>L</apartmentsize>
+    <numbedrooms>3</numbedrooms>
+    <numbaths>1.5</numbaths>
+    <numrooms>5</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2024-10-10</listeddate>
+    <availabledate>Oct-10-2024</availabledate>
+    <modifieddate>2024-10-10</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/24-Covert-Street-Unit-1L-Brooklyn-NY-11207-20830</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>3100</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos />
+</property>
+
+
+
+<property>
+  <building>
+    <address>24 Covert Street</address>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11207</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary>NO FEE | Massive 3-Bedroom, 1 -Bathroom in Bushwick
+
+Dishwasher
+Pets Allowed
+Laundry in-building
+No FEE!</brokersummary>
+    <weblistingid>20831</weblistingid>
+    <aptnumber>2L</aptnumber>
+    <apartmentsize>L</apartmentsize>
+    <numbedrooms>3</numbedrooms>
+    <numbaths>1</numbaths>
+    <numrooms>5</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2024-10-10</listeddate>
+    <availabledate>Nov-01-2024</availabledate>
+    <modifieddate>2024-10-10</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/24-Covert-Street-Unit-2L-Brooklyn-NY-11207-20831</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>2700</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos />
+</property>
+
+
+
+<property>
+  <building>
+    <address>26 Covert Street</address>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11207</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary>No Broker?s Fee | Beautiful 3-Bedroom Apartment in Newly Renovated Building
+
+Gorgeous kitchen with stainless steel appliances
+Dishwasher
+Hardwood floors
+Split heat and A/C units
+Plenty of natural sunlight
+Laundry in building
+This newly renovated 3-bedroom apartment offers modern finishes, a sun-filled layout, and convenient amenities like in-building laundry and split heating/air conditioning. The perfect blend of style and comfort!</brokersummary>
+    <weblistingid>20833</weblistingid>
+    <aptnumber>2B</aptnumber>
+    <apartmentsize>L</apartmentsize>
+    <numbedrooms>3</numbedrooms>
+    <numbaths>1</numbaths>
+    <numrooms>5</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2024-10-10</listeddate>
+    <availabledate>Oct-10-2024</availabledate>
+    <modifieddate>2024-10-10</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/26-Covert-Street-Unit-2B-Brooklyn-NY-11207-20833</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>3100</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos />
+</property>
+
+
+
+<property>
+  <building>
+    <address>26 Covert Street</address>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11207</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary>No Broker?s Fee | Beautiful 3-Bedroom Apartment in Newly Renovated Building
+
+Gorgeous kitchen with stainless steel appliances
+Dishwasher
+Hardwood floors
+Split heat and A/C units
+Plenty of natural sunlight
+Laundry in building
+This newly renovated 3-bedroom apartment offers modern finishes, a sun-filled layout, and convenient amenities like in-building laundry and split heating/air conditioning. The perfect blend of style and comfort!</brokersummary>
+    <weblistingid>20834</weblistingid>
+    <aptnumber>3F</aptnumber>
+    <apartmentsize>L</apartmentsize>
+    <numbedrooms>3</numbedrooms>
+    <numbaths>1</numbaths>
+    <numrooms>5</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2024-10-10</listeddate>
+    <availabledate>Oct-10-2024</availabledate>
+    <modifieddate>2024-10-10</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/26-Covert-Street-Unit-3F-Brooklyn-NY-11207-20834</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>3100</rent>
     <furnishrent />
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
