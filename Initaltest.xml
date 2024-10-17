@@ -2422,10 +2422,10 @@ Right in the middle of Carroll Gardens/Gowanus and just blocks away from Barclay
     <brokersummary />
     <weblistingid>20653</weblistingid>
     <aptnumber>1L</aptnumber>
-    <apartmentsize>2.5BED</apartmentsize>
-    <numbedrooms>2.5</numbedrooms>
+    <apartmentsize>L</apartmentsize>
+    <numbedrooms>3</numbedrooms>
     <numbaths>1.5</numbaths>
-    <numrooms>4</numrooms>
+    <numrooms>5</numrooms>
     <listingtype>L</listingtype>
     <status>A</status>
     <listeddate>2024-10-17</listeddate>
@@ -3172,8 +3172,8 @@ Right in the middle of Carroll Gardens/Gowanus and just blocks away from Barclay
     <brokersummary />
     <weblistingid>19529</weblistingid>
     <aptnumber>1E</aptnumber>
-    <apartmentsize>1.5BED</apartmentsize>
-    <numbedrooms>1.5</numbedrooms>
+    <apartmentsize>7</apartmentsize>
+    <numbedrooms>1</numbedrooms>
     <numbaths>1.5</numbaths>
     <numrooms>3</numrooms>
     <listingtype>L</listingtype>
@@ -13046,7 +13046,7 @@ Pets welcome</brokersummary>
     <grosscommission />
     <buyersbrokercommision />
     <paidbywhom>O</paidbywhom>
-    <rent>3050</rent>
+    <rent>3000</rent>
     <furnishrent />
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
@@ -13486,7 +13486,7 @@ Pets welcome</brokersummary>
     <grosscommission />
     <buyersbrokercommision />
     <paidbywhom>O</paidbywhom>
-    <rent>3750</rent>
+    <rent>3600</rent>
     <furnishrent />
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
