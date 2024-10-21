@@ -20191,6 +20191,60 @@ This beautiful apartment offers everything you need, whether you're relaxing at 
 
 <property>
   <building>
+    <address>431 Dekalb Avenue</address>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11205</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary />
+    <weblistingid>20945</weblistingid>
+    <aptnumber>3A</aptnumber>
+    <apartmentsize>L</apartmentsize>
+    <numbedrooms>3</numbedrooms>
+    <numbaths>1</numbaths>
+    <numrooms>5</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2024-10-21</listeddate>
+    <availabledate>Oct-21-2024</availabledate>
+    <modifieddate>2024-10-21</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/431-Dekalb-Avenue-Unit-3A-Brooklyn-NY-11205-20945</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>3500</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos />
+</property>
+
+
+
+<property>
+  <building>
     <address>316 Patchen Ave</address>
     <city>Brooklyn</city>
     <state>NY</state>
