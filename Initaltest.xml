@@ -20495,6 +20495,85 @@ Pet Friendly</brokersummary>
 
 <property>
   <building>
+    <address>18-73 Stockholm Street</address>
+    <city>Queens</city>
+    <state>NY</state>
+    <zipcode>11385</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary />
+    <weblistingid>21239</weblistingid>
+    <aptnumber>2</aptnumber>
+    <apartmentsize>H</apartmentsize>
+    <numbedrooms>2</numbedrooms>
+    <numbaths>1</numbaths>
+    <numrooms>4</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2024-11-02</listeddate>
+    <availabledate>Nov-02-2024</availabledate>
+    <modifieddate>2024-11-02</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/18-73-Stockholm-Street-Unit-2-Queens-NY-11385-21239</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>3500</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1995_638661849146944274.jpeg?sv=2024-11-04&amp;se=2026-11-02T22%3A55%3A14Z&amp;sr=b&amp;sp=r&amp;sig=cD91RFB2E3eBaV9SVfw02iHis5MoTuGCieqKVepNidc%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1995_638661849149869175.jpeg?sv=2024-11-04&amp;se=2026-11-02T22%3A55%3A15Z&amp;sr=b&amp;sp=r&amp;sig=1jP%2FjSI%2FRBhQQ4YcnLdahXvZ9g6xF9p9RH1iZEB5R%2FA%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1995_638661849150135562.jpeg?sv=2024-11-04&amp;se=2026-11-02T22%3A55%3A15Z&amp;sr=b&amp;sp=r&amp;sig=esLMoR1bfcYN6C7hhBtJBVfnMcod8FSLZuziZzes8cI%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1995_638661849149888331.jpeg?sv=2024-11-04&amp;se=2026-11-02T22%3A55%3A15Z&amp;sr=b&amp;sp=r&amp;sig=R97Bfauk1ETdL%2BERw2CTlQUCWY3luJR1UrPuD0MB6zk%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1995_638661849149830021.jpeg?sv=2024-11-04&amp;se=2026-11-02T22%3A55%3A15Z&amp;sr=b&amp;sp=r&amp;sig=5T5D1kHV6CxCHGzV%2FyQeXWH90H5BxW91F%2FzNdXhZGy8%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1995_638661849150100571.jpeg?sv=2024-11-04&amp;se=2026-11-02T22%3A55%3A15Z&amp;sr=b&amp;sp=r&amp;sig=E6hL0UBAsDxnFRPBIOUmZnFhYEaWiUfNaaT9Jv7a8wo%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1995_638661849150275548.jpeg?sv=2024-11-04&amp;se=2026-11-02T22%3A55%3A15Z&amp;sr=b&amp;sp=r&amp;sig=kl8rBsR%2FK7YSwDV3URGkLbj1lc9ZZncyPkckuIyBO%2Bw%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1995_638661849150312456.jpeg?sv=2024-11-04&amp;se=2026-11-02T22%3A55%3A15Z&amp;sr=b&amp;sp=r&amp;sig=VxMdwiWWLa42sA%2FphrdrT8appH8uy6CLDMizzFc%2BQDo%3D</url>
+    </media>
+  </photos>
+</property>
+
+
+
+<property>
+  <building>
     <address>865 St Johns Pl</address>
     <city>Brooklyn</city>
     <state>NY</state>
