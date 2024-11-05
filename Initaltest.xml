@@ -6562,6 +6562,76 @@ LOCATION, LOCATION, LOCATION! A short walk to Whole Foods and the best restauran
 
 <property>
   <building>
+    <address>553 Hinsdale St</address>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11207</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary>This freshly renovated one bedroom features brand new appliances, granite counter tops, lots of kitchen storage space, high ceilings, a huge bedroom, and an abundance of natural sunlight. Close to the 2/3/4/5 trains and multiple bus lines. This unit is a steal and will go fast so contact TODAY to schedule a showing!!</brokersummary>
+    <weblistingid>21343</weblistingid>
+    <aptnumber>C7</aptnumber>
+    <apartmentsize>7</apartmentsize>
+    <numbedrooms>1</numbedrooms>
+    <numbaths>1</numbaths>
+    <numrooms>3</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2024-11-05</listeddate>
+    <availabledate>Nov-06-2024</availabledate>
+    <modifieddate>2024-11-05</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/553-Hinsdale-St-Unit-C7-Brooklyn-NY-11207-21343</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>1875</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos>
+    <media>
+      <url>https://s3.amazonaws.com/realty-monster-avatars-new/images/files/000/449/760/large/DSC_4808.jpg?1667407915</url>
+    </media>
+    <media>
+      <url>https://s3.amazonaws.com/realty-monster-avatars-new/images/files/000/449/761/large/DSC_4807.jpg?1667407918</url>
+    </media>
+    <media>
+      <url>https://s3.amazonaws.com/realty-monster-avatars-new/images/files/000/449/762/large/DSC_4820.jpg?1667407921</url>
+    </media>
+    <media>
+      <url>https://s3.amazonaws.com/realty-monster-avatars-new/images/files/000/449/763/large/DSC_4832.jpg?1667407924</url>
+    </media>
+    <media>
+      <url>https://s3.amazonaws.com/realty-monster-avatars-new/images/files/000/449/764/large/DSC_4810.jpg?1667407928</url>
+    </media>
+  </photos>
+</property>
+
+
+
+<property>
+  <building>
     <address>930 Dekalb Ave</address>
     <city>Brooklyn</city>
     <state>NY</state>
@@ -8838,6 +8908,60 @@ Parking (by availability)</brokersummary>
     <distributiontype>P</distributiontype>
     <saleorrent>R</saleorrent>
     <brokersummary />
+    <weblistingid>21336</weblistingid>
+    <aptnumber>2E</aptnumber>
+    <apartmentsize>H</apartmentsize>
+    <numbedrooms>2</numbedrooms>
+    <numbaths>2</numbaths>
+    <numrooms>5</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2024-11-05</listeddate>
+    <availabledate>Nov-06-2024</availabledate>
+    <modifieddate>2024-11-05</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/31-19-37th-Street-Unit-2E-Queens-NY-11103-21336</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>4000</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos />
+</property>
+
+
+
+<property>
+  <building>
+    <address>31-19 37th Street</address>
+    <city>Queens</city>
+    <state>NY</state>
+    <zipcode>11103</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary />
     <weblistingid>21334</weblistingid>
     <aptnumber>3A</aptnumber>
     <apartmentsize>H</apartmentsize>
@@ -8902,60 +9026,6 @@ Parking (by availability)</brokersummary>
       <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1996_638664244608949297.jpeg?sv=2024-11-04&amp;se=2026-11-05T17%3A27%3A40Z&amp;sr=b&amp;sp=r&amp;sig=ysn1qNDhw3IUMNnhck2H8Wu%2FiE3rdEztXbIUDiCeSh8%3D</url>
     </media>
   </photos>
-</property>
-
-
-
-<property>
-  <building>
-    <address>31-19 37th Street</address>
-    <city>Queens</city>
-    <state>NY</state>
-    <zipcode>11103</zipcode>
-  </building>
-  <details>
-    <distributiontype>P</distributiontype>
-    <saleorrent>R</saleorrent>
-    <brokersummary />
-    <weblistingid>21336</weblistingid>
-    <aptnumber>2E</aptnumber>
-    <apartmentsize>H</apartmentsize>
-    <numbedrooms>2</numbedrooms>
-    <numbaths>2</numbaths>
-    <numrooms>5</numrooms>
-    <listingtype>L</listingtype>
-    <status>A</status>
-    <listeddate>2024-11-05</listeddate>
-    <availabledate>Nov-06-2024</availabledate>
-    <modifieddate>2024-11-05</modifieddate>
-    <listingurl>https://myspacenyc.cazamio.com/apartments/31-19-37th-Street-Unit-2E-Queens-NY-11103-21336</listingurl>
-    <price />
-    <grosscommission />
-    <buyersbrokercommision />
-    <paidbywhom>O</paidbywhom>
-    <rent>4000</rent>
-    <furnishrent />
-    <securitydeposit>1</securitydeposit>
-    <minterm>12</minterm>
-    <maxterm>12</maxterm>
-    <commissionmonth />
-    <commissionsplit-house />
-    <cof>TRUE</cof>
-    <petpolicy>C</petpolicy>
-  </details>
-  <agents>
-    <agent>
-      <firstname>Belle</firstname>
-      <lastname>Piper</lastname>
-      <title>Rental Agent</title>
-      <email>belle.msnyc@myspacenyc.com</email>
-      <workphone>(646) 854-3513</workphone>
-      <mobilephone />
-      <homephone />
-      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
-    </agent>
-  </agents>
-  <photos />
 </property>
 
 
@@ -28316,7 +28386,7 @@ Live in luxury, surrounded by cultural landmarks and green spaces. With excellen
     <numbaths>1</numbaths>
     <numrooms>2</numrooms>
     <listingtype>L</listingtype>
-    <status>A</status>
+    <status>P</status>
     <listeddate>2024-11-05</listeddate>
     <availabledate>Oct-15-2024</availabledate>
     <modifieddate>2024-11-05</modifieddate>
