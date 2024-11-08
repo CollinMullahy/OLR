@@ -480,6 +480,75 @@ No broker fee</brokersummary>
 
 <property>
   <building>
+    <address>85 Crooke Ave</address>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11226</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary>This is a spectacular spacious 2 bedroom apartment with beautiful finishes in a pre war building 1 block from prospect park and 2 blocks from the Q,B trains. Flash into Manhattan on the express train or hit Atlantic terminal in 4 stops to catch just about any train you need. You can walk to
+Smorgasburg in the park in the summer, and the ice skating rink at the Lefrak center in the winter.
+Prospect park south is one of the last hidden gems in Brooklyn. Come be a part of this historic and fantastic neighborhood.</brokersummary>
+    <weblistingid>21455</weblistingid>
+    <aptnumber>15</aptnumber>
+    <apartmentsize>H</apartmentsize>
+    <numbedrooms>2</numbedrooms>
+    <numbaths>1</numbaths>
+    <numrooms>4</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2024-11-08</listeddate>
+    <availabledate>Nov-08-2024</availabledate>
+    <modifieddate>2024-11-08</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/85-Crooke-Ave-Unit-15-Brooklyn-NY-11226-21455</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>3000</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-10/22_638333391396215556.png?sv=2019-07-07&amp;sr=c&amp;sig=qDzLFQXU0fIp%2Be0ZUR%2Ft0j7%2BwYOotYCs%2Fc6cRPs9qHc%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-10/22_638333391425065543.png?sv=2019-07-07&amp;sr=c&amp;sig=qDzLFQXU0fIp%2Be0ZUR%2Ft0j7%2BwYOotYCs%2Fc6cRPs9qHc%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-10/22_638333391416066721.png?sv=2019-07-07&amp;sr=c&amp;sig=qDzLFQXU0fIp%2Be0ZUR%2Ft0j7%2BwYOotYCs%2Fc6cRPs9qHc%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-10/22_638333391405643571.png?sv=2019-07-07&amp;sr=c&amp;sig=qDzLFQXU0fIp%2Be0ZUR%2Ft0j7%2BwYOotYCs%2Fc6cRPs9qHc%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+  </photos>
+</property>
+
+
+
+<property>
+  <building>
     <address>429 16th St</address>
     <city>Brooklyn</city>
     <state>NY</state>
