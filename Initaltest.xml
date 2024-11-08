@@ -25031,6 +25031,60 @@ Elevator access</brokersummary>
 
 <property>
   <building>
+    <address>585 Franklin Avenue</address>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11238</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary />
+    <weblistingid>21435</weblistingid>
+    <aptnumber>4</aptnumber>
+    <apartmentsize>4BED</apartmentsize>
+    <numbedrooms>4</numbedrooms>
+    <numbaths>2</numbaths>
+    <numrooms>7</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2024-11-08</listeddate>
+    <availabledate>Nov-08-2024</availabledate>
+    <modifieddate>2024-11-08</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/585-Franklin-Avenue-Unit-4-Brooklyn-NY-11238-21435</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>4600</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos />
+</property>
+
+
+
+<property>
+  <building>
     <address>74-33 64th Place</address>
     <city>Queens</city>
     <state>NY</state>
