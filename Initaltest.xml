@@ -6858,6 +6858,73 @@ Enjoy seamless access to the new esplanade and ferry terminal, ensuring swift co
 
 <property>
   <building>
+    <address>1419 Greene Ave</address>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11237</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary />
+    <weblistingid>21456</weblistingid>
+    <aptnumber>2r</aptnumber>
+    <apartmentsize>1.5BED</apartmentsize>
+    <numbedrooms>1.5</numbedrooms>
+    <numbaths>1</numbaths>
+    <numrooms>3</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2024-11-08</listeddate>
+    <availabledate>Nov-08-2024</availabledate>
+    <modifieddate>2024-11-08</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/1419-Greene-Ave-Unit-2r-Brooklyn-NY-11237-21456</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>2609</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1995_638667031709825016.jpeg?sv=2024-11-04&amp;se=2026-11-08T22%3A52%3A51Z&amp;sr=b&amp;sp=r&amp;sig=7pKzIjXBGAPbB8j4y%2Fw%2Fhq7t3qNBisReOI5sPASTeQM%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1995_638667031712454585.jpeg?sv=2024-11-04&amp;se=2026-11-08T22%3A52%3A51Z&amp;sr=b&amp;sp=r&amp;sig=EM4jLYKk7CoGkMiy8cPWqsViGEBBrK2U7BQERrypUyk%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1995_638667031712538616.jpeg?sv=2024-11-04&amp;se=2026-11-08T22%3A52%3A51Z&amp;sr=b&amp;sp=r&amp;sig=8f3IvRHsOrbehcjcYTpYRq9cJYoJab5aTZmGvCbC%2F8Y%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1995_638667031711692328.jpeg?sv=2024-11-04&amp;se=2026-11-08T22%3A52%3A51Z&amp;sr=b&amp;sp=r&amp;sig=Q7bTcBbZqTNucCu%2Bty2kMal%2BS5Wp57SbQqDuyWaLL0s%3D</url>
+    </media>
+  </photos>
+</property>
+
+
+
+<property>
+  <building>
     <address>245 Suydam St</address>
     <city>Brooklyn</city>
     <state>NY</state>
