@@ -6913,6 +6913,97 @@ Pacific House offers a collection of Studio, 1 and 2 Bedroom luxury apartments f
 
 <property>
   <building>
+    <address>930 Dekalb Ave</address>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11221</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary>Beautiful 2-Bedroom with City Views in Stuyvesant Heights!
+
+Located at 930 De Kalb Avenue, this 2-bedroom, 1-bath apartment combines modern comfort with historic charm in the heart of Stuyvesant Heights.
+
+Apartment Highlights:
+
+Spacious bedrooms with ample room
+Sleek bathroom with stylish finishes
+Unique design elements across floors
+Elegant white marble staircase
+Building Perks:
+
+Rooftop with stunning Manhattan skyline views
+Surrounded by historic brownstones
+Quick 25-minute commute to the city
+Close to J, M, and Z trains for easy transit
+Simple application process; guarantors accepted.
+
+Don?t miss out on this mix of modern amenities and classic charm in one of Brooklyn?s top neighborhoods! Schedule a visit today!</brokersummary>
+    <weblistingid>21465</weblistingid>
+    <aptnumber>206</aptnumber>
+    <apartmentsize>H</apartmentsize>
+    <numbedrooms>2</numbedrooms>
+    <numbaths>1</numbaths>
+    <numrooms>4</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2024-11-11</listeddate>
+    <availabledate>Jan-01-2025</availabledate>
+    <modifieddate>2024-11-11</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/930-Dekalb-Ave-Unit-206-Brooklyn-NY-11221-21465</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>2820</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1995_638669528931261116.jpeg?sv=2024-11-04&amp;se=2026-11-11T20%3A14%3A53Z&amp;sr=b&amp;sp=r&amp;sig=WUiTUQ9tlbK4zmpnfhIb9%2FFXA9Sd776M059aTkrdlsI%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1995_638669528930710911.jpeg?sv=2024-11-04&amp;se=2026-11-11T20%3A14%3A53Z&amp;sr=b&amp;sp=r&amp;sig=8McbdtgBAh6n2fKv49B9fFKuw8lXQ17ISfEj6GP2vi4%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1995_638669528931054116.jpeg?sv=2024-11-04&amp;se=2026-11-11T20%3A14%3A53Z&amp;sr=b&amp;sp=r&amp;sig=IFglqoXBfyqSB4Sq4V8sn4Pe6xUeqYRobK2YqEUqF2w%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1995_638669528932396340.jpeg?sv=2024-11-04&amp;se=2026-11-11T20%3A14%3A53Z&amp;sr=b&amp;sp=r&amp;sig=SL%2FAcgGI219KPRsqoCSviYG5LMr5wsCE%2FXL9mh1yxr4%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1995_638669528930286597.jpeg?sv=2024-11-04&amp;se=2026-11-11T20%3A14%3A53Z&amp;sr=b&amp;sp=r&amp;sig=3WT0pLrGKZYe%2Fu37EZpCF2CKyA2PC7zsi%2B7cXOrfV2o%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1995_638669528933725801.jpeg?sv=2024-11-04&amp;se=2026-11-11T20%3A14%3A53Z&amp;sr=b&amp;sp=r&amp;sig=CrdFPxI1Oerm8vYHc8fC9XNFruY7gGbpmo%2BCNpprQPo%3D</url>
+    </media>
+  </photos>
+</property>
+
+
+
+<property>
+  <building>
     <address>1419 Greene Ave</address>
     <city>Brooklyn</city>
     <state>NY</state>
