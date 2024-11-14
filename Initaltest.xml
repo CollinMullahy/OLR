@@ -221,7 +221,7 @@ Broker fee applies</brokersummary>
     <numbaths>1</numbaths>
     <numrooms>3</numrooms>
     <listingtype>L</listingtype>
-    <status>P</status>
+    <status>A</status>
     <listeddate>2024-11-14</listeddate>
     <availabledate>Jun-01-2024</availabledate>
     <modifieddate>2024-11-14</modifieddate>
@@ -6339,7 +6339,7 @@ Cats welcome</brokersummary>
     <grosscommission />
     <buyersbrokercommision />
     <paidbywhom>O</paidbywhom>
-    <rent>4700</rent>
+    <rent>4500</rent>
     <furnishrent />
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
