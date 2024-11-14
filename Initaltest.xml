@@ -2375,7 +2375,7 @@ Right in the middle of Carroll Gardens/Gowanus and just blocks away from Barclay
     <numbaths>1</numbaths>
     <numrooms>3</numrooms>
     <listingtype>L</listingtype>
-    <status>A</status>
+    <status>P</status>
     <listeddate>2024-11-13</listeddate>
     <availabledate>Nov-01-2024</availabledate>
     <modifieddate>2024-11-13</modifieddate>
@@ -2931,60 +2931,6 @@ TEXT or EMAIL for a viewing today</brokersummary>
       <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-07/1995_638557219361862807.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=Xk1S6dgaqZpTIC76IlxKNt5Ujm4fSUHvB5nlQ6OE3C4%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
     </media>
   </photos>
-</property>
-
-
-
-<property>
-  <building>
-    <address>220 Bushwick Ave</address>
-    <city>Brooklyn</city>
-    <state>NY</state>
-    <zipcode>11206</zipcode>
-  </building>
-  <details>
-    <distributiontype>P</distributiontype>
-    <saleorrent>R</saleorrent>
-    <brokersummary />
-    <weblistingid>21358</weblistingid>
-    <aptnumber>5R</aptnumber>
-    <apartmentsize>H</apartmentsize>
-    <numbedrooms>2</numbedrooms>
-    <numbaths>1</numbaths>
-    <numrooms>4</numrooms>
-    <listingtype>L</listingtype>
-    <status>P</status>
-    <listeddate>2024-11-13</listeddate>
-    <availabledate>Nov-07-2024</availabledate>
-    <modifieddate>2024-11-13</modifieddate>
-    <listingurl>https://myspacenyc.cazamio.com/apartments/220-Bushwick-Ave-Unit-5R-Brooklyn-NY-11206-21358</listingurl>
-    <price />
-    <grosscommission />
-    <buyersbrokercommision />
-    <paidbywhom>O</paidbywhom>
-    <rent>2790</rent>
-    <furnishrent />
-    <securitydeposit>1</securitydeposit>
-    <minterm>12</minterm>
-    <maxterm>12</maxterm>
-    <commissionmonth />
-    <commissionsplit-house />
-    <cof>TRUE</cof>
-    <petpolicy>C</petpolicy>
-  </details>
-  <agents>
-    <agent>
-      <firstname>Belle</firstname>
-      <lastname>Piper</lastname>
-      <title>Rental Agent</title>
-      <email>belle.msnyc@myspacenyc.com</email>
-      <workphone>(646) 854-3513</workphone>
-      <mobilephone />
-      <homephone />
-      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
-    </agent>
-  </agents>
-  <photos />
 </property>
 
 
