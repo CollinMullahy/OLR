@@ -17109,7 +17109,32 @@ AMENITIES
       <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
     </agent>
   </agents>
-  <photos />
+  <photos>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-12/1996_638687492551977988.jpeg?sv=2024-11-04&amp;se=2026-12-02T15%3A14%3A15Z&amp;sr=b&amp;sp=r&amp;sig=5iQgY81g0VyEPWHvh%2BZA1gBd0DWXNsPr3rWP3b84mNE%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-12/1996_638687492551969447.jpeg?sv=2024-11-04&amp;se=2026-12-02T15%3A14%3A15Z&amp;sr=b&amp;sp=r&amp;sig=OQAXbocioRDtI4ZZg0JQP7hkE2D%2F3C0EhzcMxdscwow%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-12/1996_638687492551965231.jpeg?sv=2024-11-04&amp;se=2026-12-02T15%3A14%3A15Z&amp;sr=b&amp;sp=r&amp;sig=QQw%2Fhy%2FQHfpGijhV2yCGfc8EKmuW5Ym0oHEW5k58bOA%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-12/1996_638687492552007403.jpeg?sv=2024-11-04&amp;se=2026-12-02T15%3A14%3A15Z&amp;sr=b&amp;sp=r&amp;sig=dsMfLVQxfVyovJxgP03ByLuJcR6EP1gW2qauzLrLjHA%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-12/1996_638687492551951385.jpeg?sv=2024-11-04&amp;se=2026-12-02T15%3A14%3A15Z&amp;sr=b&amp;sp=r&amp;sig=PAvWUt4Nn0O5b0Nzwo5s6Dk32h%2BIAbw9LHLys7fxqro%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-12/1996_638687492551992458.jpeg?sv=2024-11-04&amp;se=2026-12-02T15%3A14%3A15Z&amp;sr=b&amp;sp=r&amp;sig=IVbmTQRn6KF%2FP0e%2FrBKbIcxh7YmE%2FnfKlq7ornQ%2Bezs%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-12/1996_638687492552007456.jpeg?sv=2024-11-04&amp;se=2026-12-02T15%3A14%3A15Z&amp;sr=b&amp;sp=r&amp;sig=INaDoivnU3%2Be5lwRfOLykKVF%2FPdRwta3VVxi20GDhts%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-12/1996_638687492552001076.jpeg?sv=2024-11-04&amp;se=2026-12-02T15%3A14%3A15Z&amp;sr=b&amp;sp=r&amp;sig=ZPDjaD5oLdaIIk0RhJO%2B9WoDnh%2FXeADHlScsDUiuyPw%3D</url>
+    </media>
+  </photos>
 </property>
 
 
