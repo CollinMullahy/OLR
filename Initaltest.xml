@@ -9509,6 +9509,79 @@ No broker fee</brokersummary>
 
 <property>
   <building>
+    <address>198 Clifton Pl</address>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11216</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary />
+    <weblistingid>30204</weblistingid>
+    <aptnumber>3B</aptnumber>
+    <apartmentsize>H</apartmentsize>
+    <numbedrooms>2</numbedrooms>
+    <numbaths>2</numbaths>
+    <numrooms>5</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2024-12-03</listeddate>
+    <availabledate>Jan-01-2025</availabledate>
+    <modifieddate>2024-12-03</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/198-Clifton-Pl-Unit-3B-Brooklyn-NY-11216-30204</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>3699</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-12/1997_638688342264617109.jpeg?sv=2024-11-04&amp;se=2026-12-03T14%3A50%3A26Z&amp;sr=b&amp;sp=r&amp;sig=Yxml4l%2FpwVwjksJLH55OClvDiI04vYL%2FLJsrSeGjxk8%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-12/1997_638688342265092694.jpeg?sv=2024-11-04&amp;se=2026-12-03T14%3A50%3A26Z&amp;sr=b&amp;sp=r&amp;sig=qJ8QeeMiZqXhn%2Fy%2BLREoJuKB6fZ8NjxpqNnO6v9hkxU%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-12/1997_638688342263999220.jpeg?sv=2024-11-04&amp;se=2026-12-03T14%3A50%3A26Z&amp;sr=b&amp;sp=r&amp;sig=ruptVUdpp%2BeXzuHznNxme9YQ9aOu52%2BmTQoQAMbcsQc%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-12/1997_638688342264676121.jpeg?sv=2024-11-04&amp;se=2026-12-03T14%3A50%3A26Z&amp;sr=b&amp;sp=r&amp;sig=WsDaYl9hck3GR8XBumh3Ze%2BI%2FlTV48LRxMiOmlkOXE4%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-12/1997_638688342264996591.jpeg?sv=2024-11-04&amp;se=2026-12-03T14%3A50%3A26Z&amp;sr=b&amp;sp=r&amp;sig=kLTBOfefC0gzo3a%2BccI6WUPtFrE%2BiUSt423S6UMBe6w%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-12/1997_638688342265107626.jpeg?sv=2024-11-04&amp;se=2026-12-03T14%3A50%3A26Z&amp;sr=b&amp;sp=r&amp;sig=eQCLozmBSXugyYM8fqzZd0jStKKlM7Qzcoy%2BNgQhjvg%3D</url>
+    </media>
+  </photos>
+</property>
+
+
+
+<property>
+  <building>
     <address>1084 Bedford Ave</address>
     <city>Brooklyn</city>
     <state>NY</state>
@@ -26457,7 +26530,7 @@ Live in luxury, surrounded by cultural landmarks and green spaces. With excellen
     <numbaths>1</numbaths>
     <numrooms>3</numrooms>
     <listingtype>L</listingtype>
-    <status>A</status>
+    <status>P</status>
     <listeddate>2024-12-03</listeddate>
     <availabledate>Nov-27-2024</availabledate>
     <modifieddate>2024-12-03</modifieddate>
