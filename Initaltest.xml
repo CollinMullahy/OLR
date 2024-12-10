@@ -11289,7 +11289,7 @@ Garage Parking</brokersummary>
     <numbaths>1</numbaths>
     <numrooms>3</numrooms>
     <listingtype>L</listingtype>
-    <status>A</status>
+    <status>P</status>
     <listeddate>2024-12-10</listeddate>
     <availabledate>Nov-28-2024</availabledate>
     <modifieddate>2024-12-10</modifieddate>
@@ -11646,6 +11646,60 @@ Garage Parking</brokersummary>
       <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-07/1997_638568273905873623.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=Xk1S6dgaqZpTIC76IlxKNt5Ujm4fSUHvB5nlQ6OE3C4%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
     </media>
   </photos>
+</property>
+
+
+
+<property>
+  <building>
+    <address>223 E 96th St</address>
+    <city>New York</city>
+    <state>NY</state>
+    <zipcode>10128</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary />
+    <weblistingid>1526</weblistingid>
+    <aptnumber>1D</aptnumber>
+    <apartmentsize>7</apartmentsize>
+    <numbedrooms>1</numbedrooms>
+    <numbaths>1</numbaths>
+    <numrooms>3</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2024-12-10</listeddate>
+    <availabledate>Sep-01-2024</availabledate>
+    <modifieddate>2024-12-10</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/223-E-96th-St-Unit-1D-New-York-NY-10128-1526</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>3200</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos />
 </property>
 
 
@@ -20695,7 +20749,7 @@ This spacious 3-bedroom apartment offers a sleek, updated design with modern ame
     <numbaths>1</numbaths>
     <numrooms>5</numrooms>
     <listingtype>L</listingtype>
-    <status>A</status>
+    <status>P</status>
     <listeddate>2024-12-10</listeddate>
     <availabledate>Oct-10-2024</availabledate>
     <modifieddate>2024-12-10</modifieddate>
