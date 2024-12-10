@@ -3,6 +3,102 @@
 
 <property>
   <building>
+    <address>280 Crown St</address>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11225</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary>Myspace Exclusive!
+
+Gorgeous one bedroom PLUS home office on Crown Street in elevator building. Large living room. Stainless steel kitchen with exposed brick. Large bedroom with closets and storage. Heat and hot water included. Oak wood floors. 
+
+Near the 2 and 5 trains.Near Prospect Park, Brooklyn Museum and short walk to Franklin Ave to all the restaurants and bars.
+
+Dec 1 move in
+Small pets welcome
+No broker fee</brokersummary>
+    <weblistingid>13338</weblistingid>
+    <aptnumber>E1</aptnumber>
+    <apartmentsize>7</apartmentsize>
+    <numbedrooms>1</numbedrooms>
+    <numbaths>1</numbaths>
+    <numrooms>3</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2024-12-10</listeddate>
+    <availabledate>Dec-10-2024</availabledate>
+    <modifieddate>2024-12-10</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/280-Crown-St-Unit-E1-Brooklyn-NY-11225-13338</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>2625</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-11/22_638349075468712114.png?sv=2019-07-07&amp;sr=c&amp;sig=dbDfHy6XwZySCvA8gpPPpgKQJowOcY9gG31obthrB90%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-11/22_638349075457797810.png?sv=2019-07-07&amp;sr=c&amp;sig=dbDfHy6XwZySCvA8gpPPpgKQJowOcY9gG31obthrB90%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-11/22_638349075482227301.png?sv=2019-07-07&amp;sr=c&amp;sig=dbDfHy6XwZySCvA8gpPPpgKQJowOcY9gG31obthrB90%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-11/22_638349075500717376.png?sv=2019-07-07&amp;sr=c&amp;sig=dbDfHy6XwZySCvA8gpPPpgKQJowOcY9gG31obthrB90%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-11/22_638349075513497472.png?sv=2019-07-07&amp;sr=c&amp;sig=dbDfHy6XwZySCvA8gpPPpgKQJowOcY9gG31obthrB90%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-11/22_638349075525183121.png?sv=2019-07-07&amp;sr=c&amp;sig=dbDfHy6XwZySCvA8gpPPpgKQJowOcY9gG31obthrB90%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-11/22_638349075536648773.png?sv=2019-07-07&amp;sr=c&amp;sig=dbDfHy6XwZySCvA8gpPPpgKQJowOcY9gG31obthrB90%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-11/22_638349075546661025.png?sv=2019-07-07&amp;sr=c&amp;sig=dbDfHy6XwZySCvA8gpPPpgKQJowOcY9gG31obthrB90%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-11/22_638349075558213218.png?sv=2019-07-07&amp;sr=c&amp;sig=dbDfHy6XwZySCvA8gpPPpgKQJowOcY9gG31obthrB90%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-11/22_638349075571347444.png?sv=2019-07-07&amp;sr=c&amp;sig=dbDfHy6XwZySCvA8gpPPpgKQJowOcY9gG31obthrB90%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-11/22_638349075581842212.png?sv=2019-07-07&amp;sr=c&amp;sig=dbDfHy6XwZySCvA8gpPPpgKQJowOcY9gG31obthrB90%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+  </photos>
+</property>
+
+
+
+<property>
+  <building>
     <address>740 Empire Blvd</address>
     <city>Brooklyn</city>
     <state>NY</state>
@@ -21959,34 +22055,32 @@ AMENITIES
 
 <property>
   <building>
-    <address>3405 Farragut Road</address>
+    <address>336 Chauncey Steet</address>
     <city>Brooklyn</city>
-    <state>NY</state>
-    <zipcode>11210</zipcode>
+    <state>New York</state>
+    <zipcode>11233</zipcode>
   </building>
   <details>
     <distributiontype>P</distributiontype>
     <saleorrent>R</saleorrent>
-    <brokersummary>Discover Contemporary Living in This Brand-New Development
-
-Embrace modernity in this spacious 4-bedroom, 2-bathroom apartment, elegantly designed with high-end finishes and flooded with natural light. Its open-concept layout is perfect for both relaxation and entertaining. Enjoy the convenience of on-site laundry and the luxury of a rooftop terrace. Don't miss out on the chance to make this stunning new unit your next home!</brokersummary>
-    <weblistingid>18863</weblistingid>
-    <aptnumber>2B</aptnumber>
-    <apartmentsize>4BED</apartmentsize>
-    <numbedrooms>4</numbedrooms>
-    <numbaths>2</numbaths>
-    <numrooms>7</numrooms>
+    <brokersummary />
+    <weblistingid>30336</weblistingid>
+    <aptnumber>1B</aptnumber>
+    <apartmentsize>7</apartmentsize>
+    <numbedrooms>1</numbedrooms>
+    <numbaths>1</numbaths>
+    <numrooms>3</numrooms>
     <listingtype>L</listingtype>
     <status>A</status>
     <listeddate>2024-12-10</listeddate>
-    <availabledate>Aug-01-2024</availabledate>
+    <availabledate>Dec-15-2024</availabledate>
     <modifieddate>2024-12-10</modifieddate>
-    <listingurl>https://myspacenyc.cazamio.com/apartments/3405-Farragut-Road-Unit-2B-Brooklyn-NY-11210-18863</listingurl>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/336-Chauncey-Steet-Unit-1B-Brooklyn-New-York-11233-30336</listingurl>
     <price />
     <grosscommission />
     <buyersbrokercommision />
     <paidbywhom>O</paidbywhom>
-    <rent>3800</rent>
+    <rent>2400</rent>
     <furnishrent />
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
@@ -22015,46 +22109,95 @@ Embrace modernity in this spacious 4-bedroom, 2-bathroom apartment, elegantly de
 
 <property>
   <building>
-    <address>1244 New York Avenue</address>
+    <address>336 Chauncey Steet</address>
     <city>Brooklyn</city>
-    <state>NY</state>
-    <zipcode>11203</zipcode>
+    <state>New York</state>
+    <zipcode>11233</zipcode>
   </building>
   <details>
     <distributiontype>P</distributiontype>
     <saleorrent>R</saleorrent>
-    <brokersummary>Newly Renovated 2 Bedroom, 1 Bath Apartment
-
-No broker fee
-Conveniently located near multiple train lines
-Pet-friendly
-
-Additional features include:
-
-Central air conditioning and heating
-Roof access
-On-site laundry facilities
-High ceilings and hardwood floors
-Stainless steel appliances
-Private balcony
-Elevator access</brokersummary>
-    <weblistingid>18867</weblistingid>
-    <aptnumber>4A</aptnumber>
-    <apartmentsize>H</apartmentsize>
-    <numbedrooms>2</numbedrooms>
+    <brokersummary />
+    <weblistingid>30337</weblistingid>
+    <aptnumber>2C</aptnumber>
+    <apartmentsize>7</apartmentsize>
+    <numbedrooms>1</numbedrooms>
     <numbaths>1</numbaths>
-    <numrooms>4</numrooms>
+    <numrooms>3</numrooms>
     <listingtype>L</listingtype>
     <status>A</status>
     <listeddate>2024-12-10</listeddate>
-    <availabledate>Aug-01-2024</availabledate>
+    <availabledate>Jan-01-2025</availabledate>
     <modifieddate>2024-12-10</modifieddate>
-    <listingurl>https://myspacenyc.cazamio.com/apartments/1244-New-York-Avenue-Unit-4A-Brooklyn-NY-11203-18867</listingurl>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/336-Chauncey-Steet-Unit-2C-Brooklyn-New-York-11233-30337</listingurl>
     <price />
     <grosscommission />
     <buyersbrokercommision />
     <paidbywhom>O</paidbywhom>
-    <rent>2550</rent>
+    <rent>2400</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos />
+</property>
+
+
+
+<property>
+  <building>
+    <address>273 Hull Street</address>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11233</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary>Gorgeous duplex apartment 
+Off the JZ L ACE trains
+Near the LIRR 
+Close to Bushwick, Crown Heights
+Quick to NYC and Downtown BK
+IN UNIT LAUNDRY
+BACK YARD
+3 bathrooms
+Pets okay
+5 bedroom</brokersummary>
+    <weblistingid>21484</weblistingid>
+    <aptnumber>1</aptnumber>
+    <apartmentsize>5BED</apartmentsize>
+    <numbedrooms>5</numbedrooms>
+    <numbaths>3</numbaths>
+    <numrooms>9</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2024-12-10</listeddate>
+    <availabledate>Dec-01-2024</availabledate>
+    <modifieddate>2024-12-10</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/273-Hull-Street-Unit-1-Brooklyn-NY-11233-21484</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>4500</rent>
     <furnishrent />
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
@@ -22245,41 +22388,102 @@ Elevator access</brokersummary>
 
 <property>
   <building>
-    <address>273 Hull Street</address>
+    <address>3405 Farragut Road</address>
     <city>Brooklyn</city>
     <state>NY</state>
-    <zipcode>11233</zipcode>
+    <zipcode>11210</zipcode>
   </building>
   <details>
     <distributiontype>P</distributiontype>
     <saleorrent>R</saleorrent>
-    <brokersummary>Gorgeous duplex apartment 
-Off the JZ L ACE trains
-Near the LIRR 
-Close to Bushwick, Crown Heights
-Quick to NYC and Downtown BK
-IN UNIT LAUNDRY
-BACK YARD
-3 bathrooms
-Pets okay
-5 bedroom</brokersummary>
-    <weblistingid>21484</weblistingid>
-    <aptnumber>1</aptnumber>
-    <apartmentsize>5BED</apartmentsize>
-    <numbedrooms>5</numbedrooms>
-    <numbaths>3</numbaths>
-    <numrooms>9</numrooms>
+    <brokersummary>Discover Contemporary Living in This Brand-New Development
+
+Embrace modernity in this spacious 4-bedroom, 2-bathroom apartment, elegantly designed with high-end finishes and flooded with natural light. Its open-concept layout is perfect for both relaxation and entertaining. Enjoy the convenience of on-site laundry and the luxury of a rooftop terrace. Don't miss out on the chance to make this stunning new unit your next home!</brokersummary>
+    <weblistingid>18863</weblistingid>
+    <aptnumber>2B</aptnumber>
+    <apartmentsize>4BED</apartmentsize>
+    <numbedrooms>4</numbedrooms>
+    <numbaths>2</numbaths>
+    <numrooms>7</numrooms>
     <listingtype>L</listingtype>
     <status>A</status>
     <listeddate>2024-12-10</listeddate>
-    <availabledate>Dec-01-2024</availabledate>
+    <availabledate>Aug-01-2024</availabledate>
     <modifieddate>2024-12-10</modifieddate>
-    <listingurl>https://myspacenyc.cazamio.com/apartments/273-Hull-Street-Unit-1-Brooklyn-NY-11233-21484</listingurl>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/3405-Farragut-Road-Unit-2B-Brooklyn-NY-11210-18863</listingurl>
     <price />
     <grosscommission />
     <buyersbrokercommision />
     <paidbywhom>O</paidbywhom>
-    <rent>4500</rent>
+    <rent>3800</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos />
+</property>
+
+
+
+<property>
+  <building>
+    <address>1244 New York Avenue</address>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11203</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary>Newly Renovated 2 Bedroom, 1 Bath Apartment
+
+No broker fee
+Conveniently located near multiple train lines
+Pet-friendly
+
+Additional features include:
+
+Central air conditioning and heating
+Roof access
+On-site laundry facilities
+High ceilings and hardwood floors
+Stainless steel appliances
+Private balcony
+Elevator access</brokersummary>
+    <weblistingid>18867</weblistingid>
+    <aptnumber>4A</aptnumber>
+    <apartmentsize>H</apartmentsize>
+    <numbedrooms>2</numbedrooms>
+    <numbaths>1</numbaths>
+    <numrooms>4</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2024-12-10</listeddate>
+    <availabledate>Aug-01-2024</availabledate>
+    <modifieddate>2024-12-10</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/1244-New-York-Avenue-Unit-4A-Brooklyn-NY-11203-18867</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>2550</rent>
     <furnishrent />
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
