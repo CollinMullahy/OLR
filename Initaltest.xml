@@ -1451,7 +1451,7 @@ note: if you can?t see the video please send me a message and I?ll send it over.
     <numbaths>1</numbaths>
     <numrooms>4</numrooms>
     <listingtype>L</listingtype>
-    <status>A</status>
+    <status>P</status>
     <listeddate>2024-12-19</listeddate>
     <availabledate>Nov-01-2024</availabledate>
     <modifieddate>2024-12-19</modifieddate>
@@ -4801,6 +4801,60 @@ Pacific House offers a collection of Studio, 1 and 2 Bedroom luxury apartments f
       <url>https://s3.amazonaws.com/realty-monster-avatars-new/images/files/000/449/764/large/DSC_4810.jpg?1667407928</url>
     </media>
   </photos>
+</property>
+
+
+
+<property>
+  <building>
+    <address>250 Clarkson Ave</address>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11226</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary>Virtual tours available!Not only is this 2 BR / 1 Baths simply beautiful but it?s also located in one of the coolest and convenient neighborhoods! Ditmas is known for their breathtaking Victorian-style homes, and beautifully, well kept neighborhood streets. Take advantage of this reasonably priced pad! Enjoy local places to hangout like Hunger Pangs, Wheated, Sycamore, The Ox Tavern, The Farm, Milk and Honey, and Corthaiyou! Keep in mind, there are by far more cool places to check out in this charming neighborhood! Quick commute into Manhattan on the 2,3 or B,Q train lines! Don't forget about your endless options at Atlantic Terminal!</brokersummary>
+    <weblistingid>30477</weblistingid>
+    <aptnumber>309</aptnumber>
+    <apartmentsize>H</apartmentsize>
+    <numbedrooms>2</numbedrooms>
+    <numbaths>1</numbaths>
+    <numrooms>4</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2024-12-19</listeddate>
+    <availabledate>Mar-02-2025</availabledate>
+    <modifieddate>2024-12-19</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/250-Clarkson-Ave-Unit-309-Brooklyn-NY-11226-30477</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>2425</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos />
 </property>
 
 
