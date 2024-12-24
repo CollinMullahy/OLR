@@ -18508,6 +18508,117 @@ Pets welcome</brokersummary>
 
 <property>
   <building>
+    <address>116 Jefferson St</address>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11206</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary>3 Bedrooms / 1 Bathroom
+Pet-Friendly (Upon Approval)
+Conveniently located near subway stations: Morgan Av(L), Central Av(M), Myrtle Av (J, M)
+2 Equal Size Full Bedrooms, 1 Queen Bedroom
+Windows in each room with closets
+Modern Kitchen
+Spacious Living Area
+Waterfall Bath Feature
+Prime Location on Jefferson Ave in the Heart of Bushwick
+Easy access to Myrtle JMZ subway, 15-20 minutes to Manhattan
+Abundant Shopping, Groceries, Restaurants, Bars, and Entertainment options nearby
+
+HIGHLIGHTS
+Dishwasher
+Central Air
+Hardwood Floors
+
+Feel free to incorporate this information into your company's database. If you need any further assistance, please let me know!</brokersummary>
+    <weblistingid>30533</weblistingid>
+    <aptnumber>3R</aptnumber>
+    <apartmentsize>5BED</apartmentsize>
+    <numbedrooms>5</numbedrooms>
+    <numbaths>1</numbaths>
+    <numrooms>7</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2024-12-24</listeddate>
+    <availabledate>Feb-01-2025</availabledate>
+    <modifieddate>2024-12-24</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/116-Jefferson-St-Unit-3R-Brooklyn-NY-11206-30533</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>5000</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-08/1996_638266031572914291.png?sv=2019-07-07&amp;sr=c&amp;sig=jqvT9VehAttzTezWJiJvqNniefIK%2FxcE6Sg3bsqGlFQ%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-08/1996_638266031583720841.png?sv=2019-07-07&amp;sr=c&amp;sig=jqvT9VehAttzTezWJiJvqNniefIK%2FxcE6Sg3bsqGlFQ%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-08/1996_638266031595709602.png?sv=2019-07-07&amp;sr=c&amp;sig=jqvT9VehAttzTezWJiJvqNniefIK%2FxcE6Sg3bsqGlFQ%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-08/1996_638266031606260531.png?sv=2019-07-07&amp;sr=c&amp;sig=jqvT9VehAttzTezWJiJvqNniefIK%2FxcE6Sg3bsqGlFQ%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-08/1996_638266031619883485.png?sv=2019-07-07&amp;sr=c&amp;sig=jqvT9VehAttzTezWJiJvqNniefIK%2FxcE6Sg3bsqGlFQ%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-08/1996_638266031630026011.png?sv=2019-07-07&amp;sr=c&amp;sig=jqvT9VehAttzTezWJiJvqNniefIK%2FxcE6Sg3bsqGlFQ%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-08/1996_638266031646066311.png?sv=2019-07-07&amp;sr=c&amp;sig=jqvT9VehAttzTezWJiJvqNniefIK%2FxcE6Sg3bsqGlFQ%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-08/1996_638266031655908051.png?sv=2019-07-07&amp;sr=c&amp;sig=jqvT9VehAttzTezWJiJvqNniefIK%2FxcE6Sg3bsqGlFQ%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-08/1996_638266031667184916.png?sv=2019-07-07&amp;sr=c&amp;sig=jqvT9VehAttzTezWJiJvqNniefIK%2FxcE6Sg3bsqGlFQ%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-08/1996_638266031677097493.png?sv=2019-07-07&amp;sr=c&amp;sig=jqvT9VehAttzTezWJiJvqNniefIK%2FxcE6Sg3bsqGlFQ%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-08/1996_638266031687566427.png?sv=2019-07-07&amp;sr=c&amp;sig=jqvT9VehAttzTezWJiJvqNniefIK%2FxcE6Sg3bsqGlFQ%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-08/1996_638266031698969454.png?sv=2019-07-07&amp;sr=c&amp;sig=jqvT9VehAttzTezWJiJvqNniefIK%2FxcE6Sg3bsqGlFQ%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-08/1996_638266031710703252.png?sv=2019-07-07&amp;sr=c&amp;sig=jqvT9VehAttzTezWJiJvqNniefIK%2FxcE6Sg3bsqGlFQ%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+  </photos>
+</property>
+
+
+
+<property>
+  <building>
     <address>1357 Hancock St</address>
     <city>Brooklyn</city>
     <state>NY</state>
@@ -18940,17 +19051,17 @@ Please feel free to reach out for viewings.</brokersummary>
 
 <property>
   <building>
-    <address>374 E 49th St</address>
+    <address>831 Madison St</address>
     <city>Brooklyn</city>
     <state>NY</state>
-    <zipcode>11203</zipcode>
+    <zipcode>11221</zipcode>
   </building>
   <details>
     <distributiontype>P</distributiontype>
     <saleorrent>R</saleorrent>
     <brokersummary />
-    <weblistingid>30498</weblistingid>
-    <aptnumber>C9</aptnumber>
+    <weblistingid>30426</weblistingid>
+    <aptnumber>1A</aptnumber>
     <apartmentsize>7</apartmentsize>
     <numbedrooms>1</numbedrooms>
     <numbaths>1</numbaths>
@@ -18958,14 +19069,14 @@ Please feel free to reach out for viewings.</brokersummary>
     <listingtype>L</listingtype>
     <status>P</status>
     <listeddate>2024-12-24</listeddate>
-    <availabledate>Jan-15-2025</availabledate>
+    <availabledate>Jan-01-2025</availabledate>
     <modifieddate>2024-12-24</modifieddate>
-    <listingurl>https://myspacenyc.cazamio.com/apartments/374-E-49th-St-Unit-C9-Brooklyn-NY-11203-30498</listingurl>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/831-Madison-St-Unit-1A-Brooklyn-NY-11221-30426</listingurl>
     <price />
     <grosscommission />
     <buyersbrokercommision />
     <paidbywhom>O</paidbywhom>
-    <rent>1439</rent>
+    <rent>1850</rent>
     <furnishrent />
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
@@ -18994,17 +19105,17 @@ Please feel free to reach out for viewings.</brokersummary>
 
 <property>
   <building>
-    <address>831 Madison St</address>
+    <address>374 E 49th St</address>
     <city>Brooklyn</city>
     <state>NY</state>
-    <zipcode>11221</zipcode>
+    <zipcode>11203</zipcode>
   </building>
   <details>
     <distributiontype>P</distributiontype>
     <saleorrent>R</saleorrent>
     <brokersummary />
-    <weblistingid>30426</weblistingid>
-    <aptnumber>1A</aptnumber>
+    <weblistingid>30498</weblistingid>
+    <aptnumber>C9</aptnumber>
     <apartmentsize>7</apartmentsize>
     <numbedrooms>1</numbedrooms>
     <numbaths>1</numbaths>
@@ -19012,14 +19123,14 @@ Please feel free to reach out for viewings.</brokersummary>
     <listingtype>L</listingtype>
     <status>P</status>
     <listeddate>2024-12-24</listeddate>
-    <availabledate>Jan-01-2025</availabledate>
+    <availabledate>Jan-15-2025</availabledate>
     <modifieddate>2024-12-24</modifieddate>
-    <listingurl>https://myspacenyc.cazamio.com/apartments/831-Madison-St-Unit-1A-Brooklyn-NY-11221-30426</listingurl>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/374-E-49th-St-Unit-C9-Brooklyn-NY-11203-30498</listingurl>
     <price />
     <grosscommission />
     <buyersbrokercommision />
     <paidbywhom>O</paidbywhom>
-    <rent>1850</rent>
+    <rent>1439</rent>
     <furnishrent />
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
