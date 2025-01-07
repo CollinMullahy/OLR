@@ -24775,6 +24775,66 @@ Commercial</brokersummary>
 
 <property>
   <building>
+    <address>805 Marcy Avenue</address>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11216</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary>Gorgeous sunny huge 3 bedroom 1.5 bath apartment located in the prime Clinton Hill area, Conveniently located close to the G/A/C train lines and various bus lines for a fast and easy commute. Steps away from the Pratt Institute. Close to many bars restaurants groceries cafes and many shops,
+
+The building is clean quiet well maintained with a great super on premises,
+The apartment features: Newly renovated, Huge living room, Hardwood floors, High ceiling, Large windows with lots of natural light, Gorgeous kitchen, 3 huge bedroom with large closets, 1.5 Nice tiled full baths, Pet friendly and much more! A MUST SEE!!!
+
+For just $3500 a month with no brokers fee,
+To schedule a private viewing &amp; for more details contact anytime.</brokersummary>
+    <weblistingid>30886</weblistingid>
+    <aptnumber>2</aptnumber>
+    <apartmentsize>L</apartmentsize>
+    <numbedrooms>3</numbedrooms>
+    <numbaths>1.5</numbaths>
+    <numrooms>5</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2025-01-07</listeddate>
+    <availabledate>Mar-01-2025</availabledate>
+    <modifieddate>2025-01-07</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/805-Marcy-Avenue-Unit-2-Brooklyn-NY-11216-30886</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>3500</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos />
+</property>
+
+
+
+<property>
+  <building>
     <address>74-33 64th Place</address>
     <city>Queens</city>
     <state>NY</state>
@@ -26299,7 +26359,7 @@ Live in luxury, surrounded by cultural landmarks and green spaces. With excellen
     <numbaths>1</numbaths>
     <numrooms>4</numrooms>
     <listingtype>L</listingtype>
-    <status>A</status>
+    <status>P</status>
     <listeddate>2025-01-07</listeddate>
     <availabledate>Oct-15-2024</availabledate>
     <modifieddate>2025-01-07</modifieddate>
