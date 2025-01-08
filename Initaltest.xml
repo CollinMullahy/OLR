@@ -294,7 +294,7 @@ No broker fee</brokersummary>
     <numbaths>1</numbaths>
     <numrooms>3</numrooms>
     <listingtype>L</listingtype>
-    <status>A</status>
+    <status>P</status>
     <listeddate>2025-01-08</listeddate>
     <availabledate>Feb-01-2025</availabledate>
     <modifieddate>2025-01-08</modifieddate>
@@ -518,99 +518,6 @@ Available 12/15</brokersummary>
 
 <property>
   <building>
-    <address>740 Empire Blvd</address>
-    <city>Brooklyn</city>
-    <state>NY</state>
-    <zipcode>11213</zipcode>
-  </building>
-  <details>
-    <distributiontype>P</distributiontype>
-    <saleorrent>R</saleorrent>
-    <brokersummary>Huge pre-war 1 bedroom!
-
-- rent stabilized
-
-1 large bedroom 
-1 big living room (with windows)
-Renovated kitchen with stainless steel appliances
-Elevator building
-Heat and hot water included
-
-Small pets OK
-Available 11/15</brokersummary>
-    <weblistingid>13661</weblistingid>
-    <aptnumber>2F</aptnumber>
-    <apartmentsize>7</apartmentsize>
-    <numbedrooms>1</numbedrooms>
-    <numbaths>1</numbaths>
-    <numrooms>3</numrooms>
-    <listingtype>L</listingtype>
-    <status>P</status>
-    <listeddate>2025-01-08</listeddate>
-    <availabledate>Dec-04-2024</availabledate>
-    <modifieddate>2025-01-08</modifieddate>
-    <listingurl>https://myspacenyc.cazamio.com/apartments/740-Empire-Blvd-Unit-2F-Brooklyn-NY-11213-13661</listingurl>
-    <price />
-    <grosscommission />
-    <buyersbrokercommision />
-    <paidbywhom>O</paidbywhom>
-    <rent>2600</rent>
-    <furnishrent />
-    <securitydeposit>1</securitydeposit>
-    <minterm>12</minterm>
-    <maxterm>12</maxterm>
-    <commissionmonth />
-    <commissionsplit-house />
-    <cof>TRUE</cof>
-    <petpolicy>C</petpolicy>
-  </details>
-  <agents>
-    <agent>
-      <firstname>Belle</firstname>
-      <lastname>Piper</lastname>
-      <title>Rental Agent</title>
-      <email>belle.msnyc@myspacenyc.com</email>
-      <workphone>(646) 854-3513</workphone>
-      <mobilephone />
-      <homephone />
-      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
-    </agent>
-  </agents>
-  <photos>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-08/1990_638270626281588136.png?sv=2019-07-07&amp;sr=c&amp;sig=jqvT9VehAttzTezWJiJvqNniefIK%2FxcE6Sg3bsqGlFQ%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-08/1990_638270626272341312.png?sv=2019-07-07&amp;sr=c&amp;sig=jqvT9VehAttzTezWJiJvqNniefIK%2FxcE6Sg3bsqGlFQ%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-08/1990_638270626336121263.png?sv=2019-07-07&amp;sr=c&amp;sig=jqvT9VehAttzTezWJiJvqNniefIK%2FxcE6Sg3bsqGlFQ%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-08/1990_638270626344291137.png?sv=2019-07-07&amp;sr=c&amp;sig=jqvT9VehAttzTezWJiJvqNniefIK%2FxcE6Sg3bsqGlFQ%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-08/1990_638270626290021004.png?sv=2019-07-07&amp;sr=c&amp;sig=jqvT9VehAttzTezWJiJvqNniefIK%2FxcE6Sg3bsqGlFQ%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-08/1990_638270626301434228.png?sv=2019-07-07&amp;sr=c&amp;sig=jqvT9VehAttzTezWJiJvqNniefIK%2FxcE6Sg3bsqGlFQ%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-08/1990_638270626309633464.png?sv=2019-07-07&amp;sr=c&amp;sig=jqvT9VehAttzTezWJiJvqNniefIK%2FxcE6Sg3bsqGlFQ%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-08/1990_638270626317467903.png?sv=2019-07-07&amp;sr=c&amp;sig=jqvT9VehAttzTezWJiJvqNniefIK%2FxcE6Sg3bsqGlFQ%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-08/1990_638270626326017540.png?sv=2019-07-07&amp;sr=c&amp;sig=jqvT9VehAttzTezWJiJvqNniefIK%2FxcE6Sg3bsqGlFQ%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
-    </media>
-  </photos>
-</property>
-
-
-
-<property>
-  <building>
     <address>213 Union Ave</address>
     <city>Brooklyn</city>
     <state>NY</state>
@@ -810,6 +717,145 @@ SMALL pets OK</brokersummary>
 
 <property>
   <building>
+    <address>294 Harman St</address>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11237</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary>2br duplex with basement for additional storage!
+Shared courtyard
+Hardwood floors
+Modern renovations
+Amazing location
+If you need a lot of space, this is the one. 
+See video. Note additional toilet in the downstairs bathroom has been capped off to avoid any flooding issues. 
+No fee
+pets ok
+Call or text to see right away</brokersummary>
+    <weblistingid>1461</weblistingid>
+    <aptnumber>1RF</aptnumber>
+    <apartmentsize>H</apartmentsize>
+    <numbedrooms>2</numbedrooms>
+    <numbaths>1</numbaths>
+    <numrooms>4</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2025-01-08</listeddate>
+    <availabledate>Feb-15-2025</availabledate>
+    <modifieddate>2025-01-08</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/294-Harman-St-Unit-1RF-Brooklyn-NY-11237-1461</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>3099</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos />
+</property>
+
+
+
+<property>
+  <building>
+    <address>297 Troutman St</address>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11237</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary>Lovely two bedroom apartment located in the heart of Bushwick. The apartment features hardwood floors throughout and a renovated kitchen with stainless steal appliances and butcher block bar/island. The large bedrooms have plenty of natural light to start your morning off right. The building is pet friendly and has laundry facility in the basement so no need to haul those heavy laundry bags. Great location just one block from Maria Hernandez Park, Jefferson L train stop and surrounded by popular taverns and cafes. No fee!</brokersummary>
+    <weblistingid>1463</weblistingid>
+    <aptnumber>2R</aptnumber>
+    <apartmentsize>H</apartmentsize>
+    <numbedrooms>2</numbedrooms>
+    <numbaths>1</numbaths>
+    <numrooms>4</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2025-01-08</listeddate>
+    <availabledate>Jan-01-2025</availabledate>
+    <modifieddate>2025-01-08</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/297-Troutman-St-Unit-2R-Brooklyn-NY-11237-1463</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>3250</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/adfb5aed-36e7-43a6-84ef-77f40efbc032_638715439007840859.jpeg?sv=2024-11-04&amp;se=2027-01-03T23%3A31%3A40Z&amp;sr=b&amp;sp=r&amp;sig=J1iDstiF057ziDIOObh5S1P0FYzC%2FPYcwpQiYgFmXZU%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/adfb5aed-36e7-43a6-84ef-77f40efbc032_638715439007801629.jpeg?sv=2024-11-04&amp;se=2027-01-03T23%3A31%3A40Z&amp;sr=b&amp;sp=r&amp;sig=81WxfMsw7m7%2F%2FOG35hL4F%2BGudel%2Bbc9r1NWb6%2F%2FFrvs%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/adfb5aed-36e7-43a6-84ef-77f40efbc032_638715439007840795.jpeg?sv=2024-11-04&amp;se=2027-01-03T23%3A31%3A40Z&amp;sr=b&amp;sp=r&amp;sig=i03acnsyFOO%2BaONHeSWRU%2B2%2BbpfxQbezvKNbcyMZJTY%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/adfb5aed-36e7-43a6-84ef-77f40efbc032_638715439007822283.jpeg?sv=2024-11-04&amp;se=2027-01-03T23%3A31%3A40Z&amp;sr=b&amp;sp=r&amp;sig=PGiJwmuZc7V%2FmaO2d8P05oJaEejC56odi1Nj9G8UjK4%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/adfb5aed-36e7-43a6-84ef-77f40efbc032_638715439007823880.jpeg?sv=2024-11-04&amp;se=2027-01-03T23%3A31%3A40Z&amp;sr=b&amp;sp=r&amp;sig=nehniB5YBGFS6ykkq4NFwwGAf2VCcS571H%2B57mZl0xI%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/adfb5aed-36e7-43a6-84ef-77f40efbc032_638715439007833400.jpeg?sv=2024-11-04&amp;se=2027-01-03T23%3A31%3A40Z&amp;sr=b&amp;sp=r&amp;sig=%2FDEU1vcqhExQqxu3FK9mTkhu%2FUT67IreF80Xj9k7xEI%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/adfb5aed-36e7-43a6-84ef-77f40efbc032_638715439007760256.jpeg?sv=2024-11-04&amp;se=2027-01-03T23%3A31%3A40Z&amp;sr=b&amp;sp=r&amp;sig=9G4YpgSxhOrCREMOCuEXPTRfwIYLaiPpr%2FiZFR5NihA%3D</url>
+    </media>
+  </photos>
+</property>
+
+
+
+<property>
+  <building>
     <address>594 Bushwick Ave</address>
     <city>Brooklyn</city>
     <state>NY</state>
@@ -949,145 +995,6 @@ Call or text to view the right away. This is priced to GO!</brokersummary>
     </media>
     <media>
       <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-09/1995_638304079500994435.png?sv=2019-07-07&amp;sr=c&amp;sig=3aG9pnijaWZkLKSbuDo9Ml0KwxQgslV0u5LZ%2Bpqz6dY%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
-    </media>
-  </photos>
-</property>
-
-
-
-<property>
-  <building>
-    <address>294 Harman St</address>
-    <city>Brooklyn</city>
-    <state>NY</state>
-    <zipcode>11237</zipcode>
-  </building>
-  <details>
-    <distributiontype>P</distributiontype>
-    <saleorrent>R</saleorrent>
-    <brokersummary>2br duplex with basement for additional storage!
-Shared courtyard
-Hardwood floors
-Modern renovations
-Amazing location
-If you need a lot of space, this is the one. 
-See video. Note additional toilet in the downstairs bathroom has been capped off to avoid any flooding issues. 
-No fee
-pets ok
-Call or text to see right away</brokersummary>
-    <weblistingid>1461</weblistingid>
-    <aptnumber>1RF</aptnumber>
-    <apartmentsize>H</apartmentsize>
-    <numbedrooms>2</numbedrooms>
-    <numbaths>1</numbaths>
-    <numrooms>4</numrooms>
-    <listingtype>L</listingtype>
-    <status>A</status>
-    <listeddate>2025-01-08</listeddate>
-    <availabledate>Feb-15-2025</availabledate>
-    <modifieddate>2025-01-08</modifieddate>
-    <listingurl>https://myspacenyc.cazamio.com/apartments/294-Harman-St-Unit-1RF-Brooklyn-NY-11237-1461</listingurl>
-    <price />
-    <grosscommission />
-    <buyersbrokercommision />
-    <paidbywhom>O</paidbywhom>
-    <rent>3099</rent>
-    <furnishrent />
-    <securitydeposit>1</securitydeposit>
-    <minterm>12</minterm>
-    <maxterm>12</maxterm>
-    <commissionmonth />
-    <commissionsplit-house />
-    <cof>TRUE</cof>
-    <petpolicy>C</petpolicy>
-  </details>
-  <agents>
-    <agent>
-      <firstname>Belle</firstname>
-      <lastname>Piper</lastname>
-      <title>Rental Agent</title>
-      <email>belle.msnyc@myspacenyc.com</email>
-      <workphone>(646) 854-3513</workphone>
-      <mobilephone />
-      <homephone />
-      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
-    </agent>
-  </agents>
-  <photos />
-</property>
-
-
-
-<property>
-  <building>
-    <address>297 Troutman St</address>
-    <city>Brooklyn</city>
-    <state>NY</state>
-    <zipcode>11237</zipcode>
-  </building>
-  <details>
-    <distributiontype>P</distributiontype>
-    <saleorrent>R</saleorrent>
-    <brokersummary>Lovely two bedroom apartment located in the heart of Bushwick. The apartment features hardwood floors throughout and a renovated kitchen with stainless steal appliances and butcher block bar/island. The large bedrooms have plenty of natural light to start your morning off right. The building is pet friendly and has laundry facility in the basement so no need to haul those heavy laundry bags. Great location just one block from Maria Hernandez Park, Jefferson L train stop and surrounded by popular taverns and cafes. No fee!</brokersummary>
-    <weblistingid>1463</weblistingid>
-    <aptnumber>2R</aptnumber>
-    <apartmentsize>H</apartmentsize>
-    <numbedrooms>2</numbedrooms>
-    <numbaths>1</numbaths>
-    <numrooms>4</numrooms>
-    <listingtype>L</listingtype>
-    <status>A</status>
-    <listeddate>2025-01-08</listeddate>
-    <availabledate>Jan-01-2025</availabledate>
-    <modifieddate>2025-01-08</modifieddate>
-    <listingurl>https://myspacenyc.cazamio.com/apartments/297-Troutman-St-Unit-2R-Brooklyn-NY-11237-1463</listingurl>
-    <price />
-    <grosscommission />
-    <buyersbrokercommision />
-    <paidbywhom>O</paidbywhom>
-    <rent>3250</rent>
-    <furnishrent />
-    <securitydeposit>1</securitydeposit>
-    <minterm>12</minterm>
-    <maxterm>12</maxterm>
-    <commissionmonth />
-    <commissionsplit-house />
-    <cof>TRUE</cof>
-    <petpolicy>C</petpolicy>
-  </details>
-  <agents>
-    <agent>
-      <firstname>Belle</firstname>
-      <lastname>Piper</lastname>
-      <title>Rental Agent</title>
-      <email>belle.msnyc@myspacenyc.com</email>
-      <workphone>(646) 854-3513</workphone>
-      <mobilephone />
-      <homephone />
-      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
-    </agent>
-  </agents>
-  <photos>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/adfb5aed-36e7-43a6-84ef-77f40efbc032_638715439007840859.jpeg?sv=2024-11-04&amp;se=2027-01-03T23%3A31%3A40Z&amp;sr=b&amp;sp=r&amp;sig=J1iDstiF057ziDIOObh5S1P0FYzC%2FPYcwpQiYgFmXZU%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/adfb5aed-36e7-43a6-84ef-77f40efbc032_638715439007801629.jpeg?sv=2024-11-04&amp;se=2027-01-03T23%3A31%3A40Z&amp;sr=b&amp;sp=r&amp;sig=81WxfMsw7m7%2F%2FOG35hL4F%2BGudel%2Bbc9r1NWb6%2F%2FFrvs%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/adfb5aed-36e7-43a6-84ef-77f40efbc032_638715439007840795.jpeg?sv=2024-11-04&amp;se=2027-01-03T23%3A31%3A40Z&amp;sr=b&amp;sp=r&amp;sig=i03acnsyFOO%2BaONHeSWRU%2B2%2BbpfxQbezvKNbcyMZJTY%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/adfb5aed-36e7-43a6-84ef-77f40efbc032_638715439007822283.jpeg?sv=2024-11-04&amp;se=2027-01-03T23%3A31%3A40Z&amp;sr=b&amp;sp=r&amp;sig=PGiJwmuZc7V%2FmaO2d8P05oJaEejC56odi1Nj9G8UjK4%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/adfb5aed-36e7-43a6-84ef-77f40efbc032_638715439007823880.jpeg?sv=2024-11-04&amp;se=2027-01-03T23%3A31%3A40Z&amp;sr=b&amp;sp=r&amp;sig=nehniB5YBGFS6ykkq4NFwwGAf2VCcS571H%2B57mZl0xI%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/adfb5aed-36e7-43a6-84ef-77f40efbc032_638715439007833400.jpeg?sv=2024-11-04&amp;se=2027-01-03T23%3A31%3A40Z&amp;sr=b&amp;sp=r&amp;sig=%2FDEU1vcqhExQqxu3FK9mTkhu%2FUT67IreF80Xj9k7xEI%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/adfb5aed-36e7-43a6-84ef-77f40efbc032_638715439007760256.jpeg?sv=2024-11-04&amp;se=2027-01-03T23%3A31%3A40Z&amp;sr=b&amp;sp=r&amp;sig=9G4YpgSxhOrCREMOCuEXPTRfwIYLaiPpr%2FiZFR5NihA%3D</url>
     </media>
   </photos>
 </property>
