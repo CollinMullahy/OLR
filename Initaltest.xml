@@ -5791,7 +5791,7 @@ Pets welcome</brokersummary>
     <grosscommission />
     <buyersbrokercommision />
     <paidbywhom>O</paidbywhom>
-    <rent>2600</rent>
+    <rent>2500</rent>
     <furnishrent />
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
@@ -14083,6 +14083,115 @@ Email us to schedule a showing</brokersummary>
     </media>
     <media>
       <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-02/1996_638434326464663632.png?sv=2019-07-07&amp;sr=c&amp;sig=uKEaPTTYMSkcRZRyAL7IR066SjjbLBqR5sLi1yrHCpU%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+  </photos>
+</property>
+
+
+
+<property>
+  <building>
+    <address>581 Ocean Pkwy</address>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11218</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary>Introducing 581 Ocean, located in Kensington, alongside historical Ocean Parkway. 581 Ocean is a brand new luxury building offering 60 rental units.All units feature oversized windows, high-end modern appliances, gorgeous hardwood floors, and tasteful finishes throughout. Select units provide spacious balconies, patios, or private backyard spaces.Amenities include an elevator, lounge, gym, laundry room, bike storage, and parking garage.deally located on Ocean Parkway and 18th Avenue, you?ll have easy access to the B and Q trains at Newkirk Plaza as well as the F train at 18th Avenue and Ditmas Avenue stations. Prospect Park is just a 10 minute bike ride away.Make sure to enjoy all the diverse culture and dining this neighborhood has to offer.</brokersummary>
+    <weblistingid>1520</weblistingid>
+    <aptnumber>7B</aptnumber>
+    <apartmentsize>H</apartmentsize>
+    <numbedrooms>2</numbedrooms>
+    <numbaths>1</numbaths>
+    <numrooms>4</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2025-01-15</listeddate>
+    <availabledate>Dec-29-2024</availabledate>
+    <modifieddate>2025-01-15</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/581-Ocean-Pkwy-Unit-7B-Brooklyn-NY-11218-1520</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>3000</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos>
+    <media>
+      <url>https://s3.amazonaws.com/realty-monster-avatars-new/images/files/000/333/400/large/581_Ocean_Pkwy__7B-1.jpg?1594754763</url>
+    </media>
+    <media>
+      <url>https://s3.amazonaws.com/realty-monster-avatars-new/images/files/000/333/401/large/581_Ocean_Pkwy__7B-2.jpg?1594754763</url>
+    </media>
+    <media>
+      <url>https://s3.amazonaws.com/realty-monster-avatars-new/images/files/000/333/402/large/581_Ocean_Pkwy__7B-3.jpg?1594754766</url>
+    </media>
+    <media>
+      <url>https://s3.amazonaws.com/realty-monster-avatars-new/images/files/000/333/405/large/581_Ocean_Pkwy__7B-6.jpg?1594754772</url>
+    </media>
+    <media>
+      <url>https://s3.amazonaws.com/realty-monster-avatars-new/images/files/000/333/407/large/581_Ocean_Pkwy__7B-8.jpg?1594754776</url>
+    </media>
+    <media>
+      <url>https://s3.amazonaws.com/realty-monster-avatars-new/images/files/000/333/406/large/581_Ocean_Pkwy__7B-7.jpg?1594754773</url>
+    </media>
+    <media>
+      <url>https://s3.amazonaws.com/realty-monster-avatars-new/images/files/000/333/408/large/581_Ocean_Pkwy__7B-9.jpg?1594754778</url>
+    </media>
+    <media>
+      <url>https://s3.amazonaws.com/realty-monster-avatars-new/images/files/000/333/409/large/581_Ocean_Pkwy__7B-10.jpg?1594754780</url>
+    </media>
+    <media>
+      <url>https://s3.amazonaws.com/realty-monster-avatars-new/images/files/000/333/403/large/581_Ocean_Pkwy__7B-4.jpg?1594754768</url>
+    </media>
+    <media>
+      <url>https://s3.amazonaws.com/realty-monster-avatars-new/images/files/000/333/404/large/581_Ocean_Pkwy__7B-5.jpg?1594754770</url>
+    </media>
+    <media>
+      <url>https://s3.amazonaws.com/realty-monster-avatars-new/images/files/000/085/929/large/DSC_4874.jpg?1502751948</url>
+    </media>
+    <media>
+      <url>https://s3.amazonaws.com/realty-monster-avatars-new/images/files/000/085/928/large/DSC_4873.jpg?1502751947</url>
+    </media>
+    <media>
+      <url>https://s3.amazonaws.com/realty-monster-avatars-new/images/files/000/085/930/large/DSC_4878.jpg?1502751950</url>
+    </media>
+    <media>
+      <url>https://s3.amazonaws.com/realty-monster-avatars-new/images/files/000/085/931/large/DSC_4877.jpg?1502751950</url>
+    </media>
+    <media>
+      <url>https://s3.amazonaws.com/realty-monster-avatars-new/images/files/000/085/932/large/DSC_4879.jpg?1502751951</url>
+    </media>
+    <media>
+      <url>https://s3.amazonaws.com/realty-monster-avatars-new/images/files/000/085/933/large/DSC_4883.jpg?1502751952</url>
+    </media>
+    <media>
+      <url>https://s3.amazonaws.com/realty-monster-avatars-new/images/files/000/085/934/large/DSC_4886.jpg?1502751954</url>
+    </media>
+    <media>
+      <url>https://s3.amazonaws.com/realty-monster-avatars-new/images/files/000/085/935/large/DSC_4888.jpg?1502751954</url>
     </media>
   </photos>
 </property>
