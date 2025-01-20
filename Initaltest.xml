@@ -15399,6 +15399,88 @@ Garage Parking</brokersummary>
 
 <property>
   <building>
+    <address>1042 President Street</address>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11213</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary>First and Security only - NO FEE 
+Now 1.5 months free 
+
+Amazing location- where Prospect Heights meets Crown Heights- steps to Prospect park and Franklin Ave!
+Off of 2/3/4/5 and shuttle trains for a quick commute! 
+
+Full amenity luxury new development featuring: 
+Virtual Doorman 
+Elevator 
+Gym 
+Laundry Room 
+Roof Deck 
+Garage Parking</brokersummary>
+    <weblistingid>31084</weblistingid>
+    <aptnumber>3E</aptnumber>
+    <apartmentsize>1</apartmentsize>
+    <numbedrooms>0</numbedrooms>
+    <numbaths>1</numbaths>
+    <numrooms>2</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2025-01-20</listeddate>
+    <availabledate>Feb-01-2025</availabledate>
+    <modifieddate>2025-01-20</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/1042-President-Street-Unit-3E-Brooklyn-NY-11213-31084</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>3000</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/af89ecc1-02ec-4b73-9198-5dcabcf3354e_638724652322176578.jpeg?sv=2024-11-04&amp;se=2027-01-14T15%3A27%3A12Z&amp;sr=b&amp;sp=r&amp;sig=7npPwUmrIZqcJNV8dOM8K2w2XU%2Bpf9WA0FKvY2ynvZs%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/af89ecc1-02ec-4b73-9198-5dcabcf3354e_638724652322294486.jpeg?sv=2024-11-04&amp;se=2027-01-14T15%3A27%3A12Z&amp;sr=b&amp;sp=r&amp;sig=Zfoqz41825ua9EIye5hg9DQ2S4Vi%2BGm2NzplIsmR2y8%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/af89ecc1-02ec-4b73-9198-5dcabcf3354e_638724652322378845.jpeg?sv=2024-11-04&amp;se=2027-01-14T15%3A27%3A12Z&amp;sr=b&amp;sp=r&amp;sig=kJDhpuTNUaGTcdjY2Qn2UarMSH43DTxbkNYrYMLwLSA%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/af89ecc1-02ec-4b73-9198-5dcabcf3354e_638724652322169417.jpeg?sv=2024-11-04&amp;se=2027-01-14T15%3A27%3A12Z&amp;sr=b&amp;sp=r&amp;sig=el6L9bQzwnXyCGV4Alpe0P4CyLhLgn24%2FqQUxgfsNQE%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/af89ecc1-02ec-4b73-9198-5dcabcf3354e_638724652322244055.jpeg?sv=2024-11-04&amp;se=2027-01-14T15%3A27%3A12Z&amp;sr=b&amp;sp=r&amp;sig=%2BT1pHKWUE25OaLzm7vWfkFqydLeuawr%2B3TCGC7wdDD4%3D</url>
+    </media>
+  </photos>
+</property>
+
+
+
+<property>
+  <building>
     <address>11-05 30th Road</address>
     <city>Queens</city>
     <state>NY</state>
