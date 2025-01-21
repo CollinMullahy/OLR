@@ -4288,7 +4288,32 @@ Cal/Text/Email to set up a viewing</brokersummary>
       <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
     </agent>
   </agents>
-  <photos />
+  <photos>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/8515455b-be52-4141-8a40-4c35d33cf98b_638730777231509622.jpeg?sv=2024-11-04&amp;se=2027-01-21T17%3A35%3A23Z&amp;sr=b&amp;sp=r&amp;sig=Y4qgE9tiH8trpNxUAwM87xtG%2BEg7GForIV5Ak2kbNf4%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/8515455b-be52-4141-8a40-4c35d33cf98b_638730777231482971.jpeg?sv=2024-11-04&amp;se=2027-01-21T17%3A35%3A23Z&amp;sr=b&amp;sp=r&amp;sig=HhmyQ1wTJC3h2hZJD3DMEMgiidcKFgkGxtGNHhjf3tQ%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/8515455b-be52-4141-8a40-4c35d33cf98b_638730777231458541.jpeg?sv=2024-11-04&amp;se=2027-01-21T17%3A35%3A23Z&amp;sr=b&amp;sp=r&amp;sig=Z9zXBWJgbALnqYg%2B1FCUQGjwqIMxz35zbMa%2By3J6klM%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/8515455b-be52-4141-8a40-4c35d33cf98b_638730777231495364.jpeg?sv=2024-11-04&amp;se=2027-01-21T17%3A35%3A23Z&amp;sr=b&amp;sp=r&amp;sig=iEZVXzNWWKJitcYgJpm96%2BHPP1ekoZm9ltBgMSVMcl4%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/8515455b-be52-4141-8a40-4c35d33cf98b_638730777231509215.jpeg?sv=2024-11-04&amp;se=2027-01-21T17%3A35%3A23Z&amp;sr=b&amp;sp=r&amp;sig=rvdtBE1FBPsgn3ZjBCBcRIogG7RxuKEcPyF%2FVPyGVFg%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/8515455b-be52-4141-8a40-4c35d33cf98b_638730777231445140.jpeg?sv=2024-11-04&amp;se=2027-01-21T17%3A35%3A23Z&amp;sr=b&amp;sp=r&amp;sig=vAbU0VgMzipvrgCrYLPcuESdVcXKCsbXXv1C4woz7sg%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/8515455b-be52-4141-8a40-4c35d33cf98b_638730777231507998.jpeg?sv=2024-11-04&amp;se=2027-01-21T17%3A35%3A23Z&amp;sr=b&amp;sp=r&amp;sig=zNO5Cyaev1mRqGjpIm%2B8QiSlSRRI%2FpohTJdUM%2BJ6PZU%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/8515455b-be52-4141-8a40-4c35d33cf98b_638730777231509627.jpeg?sv=2024-11-04&amp;se=2027-01-21T17%3A35%3A23Z&amp;sr=b&amp;sp=r&amp;sig=M3RKRJPJpi9aOYBud7vCW99R61cdiF9ens1f5CBfFt0%3D</url>
+    </media>
+  </photos>
 </property>
 
 
