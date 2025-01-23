@@ -2486,232 +2486,6 @@ Windows, Closets</brokersummary>
 
 <property>
   <building>
-    <address>10-15 Wyckoff Ave</address>
-    <city>Flushing</city>
-    <state>NY</state>
-    <zipcode>11385</zipcode>
-  </building>
-  <details>
-    <distributiontype>P</distributiontype>
-    <saleorrent>R</saleorrent>
-    <brokersummary>1 Bed / 1 Bath at 10-15 Wyckoff Ave ? Unit: 3B in Ridgewood, Queens. All Pets Allowed. Nearby subway stations include: Halsey St (L).Renovated apartment with great natural sunlight. Super short walk to the L train ? commute to Manhattan in 20 minutes!</brokersummary>
-    <weblistingid>31213</weblistingid>
-    <aptnumber>3B</aptnumber>
-    <apartmentsize>7</apartmentsize>
-    <numbedrooms>1</numbedrooms>
-    <numbaths>1</numbaths>
-    <numrooms>3</numrooms>
-    <listingtype>L</listingtype>
-    <status>A</status>
-    <listeddate>2025-01-23</listeddate>
-    <availabledate>Feb-01-2025</availabledate>
-    <modifieddate>2025-01-23</modifieddate>
-    <listingurl>https://myspacenyc.cazamio.com/apartments/10-15-Wyckoff-Ave-Unit-3B-Flushing-NY-11385-31213</listingurl>
-    <price />
-    <grosscommission />
-    <buyersbrokercommision />
-    <paidbywhom>O</paidbywhom>
-    <rent>2550</rent>
-    <furnishrent />
-    <securitydeposit>1</securitydeposit>
-    <minterm>12</minterm>
-    <maxterm>12</maxterm>
-    <commissionmonth />
-    <commissionsplit-house />
-    <cof>TRUE</cof>
-    <petpolicy>C</petpolicy>
-  </details>
-  <agents>
-    <agent>
-      <firstname>Belle</firstname>
-      <lastname>Piper</lastname>
-      <title>Rental Agent</title>
-      <email>belle.msnyc@myspacenyc.com</email>
-      <workphone>(646) 854-3513</workphone>
-      <mobilephone />
-      <homephone />
-      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
-    </agent>
-  </agents>
-  <photos>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/8515455b-be52-4141-8a40-4c35d33cf98b_638731853876773746.jpeg?sv=2024-11-04&amp;se=2027-01-22T23%3A29%3A47Z&amp;sr=b&amp;sp=r&amp;sig=mpJkm5XUdIchcx0gDyAtSoikaypezrBUDhAszSeYkRg%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/8515455b-be52-4141-8a40-4c35d33cf98b_638731853876765331.jpeg?sv=2024-11-04&amp;se=2027-01-22T23%3A29%3A47Z&amp;sr=b&amp;sp=r&amp;sig=RVFTTIY5YUacbVu4H3IvStDbsHi2df%2FQXWnjUm3AJC0%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/8515455b-be52-4141-8a40-4c35d33cf98b_638731853876760982.jpeg?sv=2024-11-04&amp;se=2027-01-22T23%3A29%3A47Z&amp;sr=b&amp;sp=r&amp;sig=exw6B5koF8%2FbqdoLfyVnC79RDGscJorNrbyz5xpxIxU%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/8515455b-be52-4141-8a40-4c35d33cf98b_638731853876604237.jpeg?sv=2024-11-04&amp;se=2027-01-22T23%3A29%3A47Z&amp;sr=b&amp;sp=r&amp;sig=BUSoxgRs7wPSsCIsKWdPrZ7rUMacJ7qwkk%2FsGZCV9iY%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/8515455b-be52-4141-8a40-4c35d33cf98b_638731853876610832.jpeg?sv=2024-11-04&amp;se=2027-01-22T23%3A29%3A47Z&amp;sr=b&amp;sp=r&amp;sig=Tn54V3RQMcMANfzeIMlwmnqG14cRTjsLMMVqClXKMJY%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/8515455b-be52-4141-8a40-4c35d33cf98b_638731853876629651.jpeg?sv=2024-11-04&amp;se=2027-01-22T23%3A29%3A47Z&amp;sr=b&amp;sp=r&amp;sig=phAfZs2vccYHk8Ug45Q%2B3xazzGa7XBp1lt6wv2L57U8%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/8515455b-be52-4141-8a40-4c35d33cf98b_638731853876699153.jpeg?sv=2024-11-04&amp;se=2027-01-22T23%3A29%3A47Z&amp;sr=b&amp;sp=r&amp;sig=dkHuwkuadHfIGIK5kjBhVhaPke%2FME5yt5K1QIlFLlxQ%3D</url>
-    </media>
-  </photos>
-</property>
-
-
-
-<property>
-  <building>
-    <address>83 Bleecker St</address>
-    <city>Brooklyn</city>
-    <state>NY</state>
-    <zipcode>11221</zipcode>
-  </building>
-  <details>
-    <distributiontype>P</distributiontype>
-    <saleorrent>R</saleorrent>
-    <brokersummary>Spacious 2-Bedroom Oasis with Private Backyard!
-
-? Dreamy Location: Steps from the M train at Knickerbocker, exploring the city is a breeze!
-
-? Home Sweet Home:
-* Two Queen-sized bedrooms for ultimate comfort.
-* A stunning private backyard ? your own urban retreat.
-* Spacious living room, perfect for entertaining.
-* Gleaming hardwood floors throughout.
-* Abundant windows and closets for ample storage.
-* Charming exposed brick adds character.
-
-? No Fee!
-
-Text or Email for a Viewing Today!</brokersummary>
-    <weblistingid>31215</weblistingid>
-    <aptnumber>1L</aptnumber>
-    <apartmentsize>H</apartmentsize>
-    <numbedrooms>2</numbedrooms>
-    <numbaths>1</numbaths>
-    <numrooms>4</numrooms>
-    <listingtype>L</listingtype>
-    <status>A</status>
-    <listeddate>2025-01-23</listeddate>
-    <availabledate>Feb-01-2025</availabledate>
-    <modifieddate>2025-01-23</modifieddate>
-    <listingurl>https://myspacenyc.cazamio.com/apartments/83-Bleecker-St-Unit-1L-Brooklyn-NY-11221-31215</listingurl>
-    <price />
-    <grosscommission />
-    <buyersbrokercommision />
-    <paidbywhom>O</paidbywhom>
-    <rent>3600</rent>
-    <furnishrent />
-    <securitydeposit>1</securitydeposit>
-    <minterm>12</minterm>
-    <maxterm>12</maxterm>
-    <commissionmonth />
-    <commissionsplit-house />
-    <cof>TRUE</cof>
-    <petpolicy>C</petpolicy>
-  </details>
-  <agents>
-    <agent>
-      <firstname>Belle</firstname>
-      <lastname>Piper</lastname>
-      <title>Rental Agent</title>
-      <email>belle.msnyc@myspacenyc.com</email>
-      <workphone>(646) 854-3513</workphone>
-      <mobilephone />
-      <homephone />
-      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
-    </agent>
-  </agents>
-  <photos />
-</property>
-
-
-
-<property>
-  <building>
-    <address>84 Maujer St</address>
-    <city>Brooklyn</city>
-    <state>NY</state>
-    <zipcode>11206</zipcode>
-  </building>
-  <details>
-    <distributiontype>P</distributiontype>
-    <saleorrent>R</saleorrent>
-    <brokersummary />
-    <weblistingid>31216</weblistingid>
-    <aptnumber>2D</aptnumber>
-    <apartmentsize>H</apartmentsize>
-    <numbedrooms>2</numbedrooms>
-    <numbaths>1</numbaths>
-    <numrooms>4</numrooms>
-    <listingtype>L</listingtype>
-    <status>A</status>
-    <listeddate>2025-01-23</listeddate>
-    <availabledate>Feb-01-2025</availabledate>
-    <modifieddate>2025-01-23</modifieddate>
-    <listingurl>https://myspacenyc.cazamio.com/apartments/84-Maujer-St-Unit-2D-Brooklyn-NY-11206-31216</listingurl>
-    <price />
-    <grosscommission />
-    <buyersbrokercommision />
-    <paidbywhom>O</paidbywhom>
-    <rent>4000</rent>
-    <furnishrent />
-    <securitydeposit>1</securitydeposit>
-    <minterm>12</minterm>
-    <maxterm>12</maxterm>
-    <commissionmonth />
-    <commissionsplit-house />
-    <cof>TRUE</cof>
-    <petpolicy>C</petpolicy>
-  </details>
-  <agents>
-    <agent>
-      <firstname>Belle</firstname>
-      <lastname>Piper</lastname>
-      <title>Rental Agent</title>
-      <email>belle.msnyc@myspacenyc.com</email>
-      <workphone>(646) 854-3513</workphone>
-      <mobilephone />
-      <homephone />
-      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
-    </agent>
-  </agents>
-  <photos>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-06/22_638530455905671663.png?sv=2019-07-07&amp;sr=c&amp;sig=wi1Q7BN2sJFBFj0N0CGzKIgr4P8z7d%2FEvXst4c0Sx3g%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-06/22_638530455961285101.png?sv=2019-07-07&amp;sr=c&amp;sig=wi1Q7BN2sJFBFj0N0CGzKIgr4P8z7d%2FEvXst4c0Sx3g%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-06/22_638530456017932487.png?sv=2019-07-07&amp;sr=c&amp;sig=wi1Q7BN2sJFBFj0N0CGzKIgr4P8z7d%2FEvXst4c0Sx3g%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-06/22_638530456059100556.png?sv=2019-07-07&amp;sr=c&amp;sig=wi1Q7BN2sJFBFj0N0CGzKIgr4P8z7d%2FEvXst4c0Sx3g%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-06/22_638530456098801759.png?sv=2019-07-07&amp;sr=c&amp;sig=wi1Q7BN2sJFBFj0N0CGzKIgr4P8z7d%2FEvXst4c0Sx3g%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-06/22_638530456129455143.png?sv=2019-07-07&amp;sr=c&amp;sig=wi1Q7BN2sJFBFj0N0CGzKIgr4P8z7d%2FEvXst4c0Sx3g%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-06/22_638530456162500348.png?sv=2019-07-07&amp;sr=c&amp;sig=wi1Q7BN2sJFBFj0N0CGzKIgr4P8z7d%2FEvXst4c0Sx3g%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-06/22_638530456204052791.png?sv=2019-07-07&amp;sr=c&amp;sig=wi1Q7BN2sJFBFj0N0CGzKIgr4P8z7d%2FEvXst4c0Sx3g%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-06/22_638530456245859363.png?sv=2019-07-07&amp;sr=c&amp;sig=wi1Q7BN2sJFBFj0N0CGzKIgr4P8z7d%2FEvXst4c0Sx3g%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
-    </media>
-  </photos>
-</property>
-
-
-
-<property>
-  <building>
     <address>130 Hope Street</address>
     <city>Brooklyn</city>
     <state>NY</state>
@@ -23453,6 +23227,60 @@ Commercial</brokersummary>
 
 <property>
   <building>
+    <address>1134 Hancock Street</address>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11221</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary />
+    <weblistingid>31115</weblistingid>
+    <aptnumber>3</aptnumber>
+    <apartmentsize>4BED</apartmentsize>
+    <numbedrooms>4</numbedrooms>
+    <numbaths>1</numbaths>
+    <numrooms>6</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2025-01-23</listeddate>
+    <availabledate>Jan-21-2025</availabledate>
+    <modifieddate>2025-01-23</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/1134-Hancock-Street-Unit-3-Brooklyn-NY-11221-31115</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>3600</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos />
+</property>
+
+
+
+<property>
+  <building>
     <address>299 Saratoga Avenue</address>
     <city>Brooklyn</city>
     <state>NY</state>
@@ -23533,60 +23361,6 @@ Commercial</brokersummary>
     <buyersbrokercommision />
     <paidbywhom>O</paidbywhom>
     <rent>2350</rent>
-    <furnishrent />
-    <securitydeposit>1</securitydeposit>
-    <minterm>12</minterm>
-    <maxterm>12</maxterm>
-    <commissionmonth />
-    <commissionsplit-house />
-    <cof>TRUE</cof>
-    <petpolicy>C</petpolicy>
-  </details>
-  <agents>
-    <agent>
-      <firstname>Belle</firstname>
-      <lastname>Piper</lastname>
-      <title>Rental Agent</title>
-      <email>belle.msnyc@myspacenyc.com</email>
-      <workphone>(646) 854-3513</workphone>
-      <mobilephone />
-      <homephone />
-      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
-    </agent>
-  </agents>
-  <photos />
-</property>
-
-
-
-<property>
-  <building>
-    <address>1134 Hancock Street</address>
-    <city>Brooklyn</city>
-    <state>NY</state>
-    <zipcode>11221</zipcode>
-  </building>
-  <details>
-    <distributiontype>P</distributiontype>
-    <saleorrent>R</saleorrent>
-    <brokersummary />
-    <weblistingid>31115</weblistingid>
-    <aptnumber>3</aptnumber>
-    <apartmentsize>4BED</apartmentsize>
-    <numbedrooms>4</numbedrooms>
-    <numbaths>1</numbaths>
-    <numrooms>6</numrooms>
-    <listingtype>L</listingtype>
-    <status>A</status>
-    <listeddate>2025-01-23</listeddate>
-    <availabledate>Jan-21-2025</availabledate>
-    <modifieddate>2025-01-23</modifieddate>
-    <listingurl>https://myspacenyc.cazamio.com/apartments/1134-Hancock-Street-Unit-3-Brooklyn-NY-11221-31115</listingurl>
-    <price />
-    <grosscommission />
-    <buyersbrokercommision />
-    <paidbywhom>O</paidbywhom>
-    <rent>3600</rent>
     <furnishrent />
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
