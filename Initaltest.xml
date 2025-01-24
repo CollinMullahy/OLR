@@ -7100,60 +7100,6 @@ Lucky for you you?re nestled on a residential block, close to shops, stores, and
 
 <property>
   <building>
-    <address>286 Onderdonk Ave</address>
-    <city>Ridgewood</city>
-    <state>NY</state>
-    <zipcode>11385</zipcode>
-  </building>
-  <details>
-    <distributiontype>P</distributiontype>
-    <saleorrent>R</saleorrent>
-    <brokersummary />
-    <weblistingid>30226</weblistingid>
-    <aptnumber>4O</aptnumber>
-    <apartmentsize>H</apartmentsize>
-    <numbedrooms>2</numbedrooms>
-    <numbaths>2</numbaths>
-    <numrooms>5</numrooms>
-    <listingtype>L</listingtype>
-    <status>A</status>
-    <listeddate>2025-01-23</listeddate>
-    <availabledate>Dec-05-2024</availabledate>
-    <modifieddate>2025-01-23</modifieddate>
-    <listingurl>https://myspacenyc.cazamio.com/apartments/286-Onderdonk-Ave-Unit-4O-Ridgewood-NY-11385-30226</listingurl>
-    <price />
-    <grosscommission />
-    <buyersbrokercommision />
-    <paidbywhom>O</paidbywhom>
-    <rent>32530</rent>
-    <furnishrent />
-    <securitydeposit>1</securitydeposit>
-    <minterm>12</minterm>
-    <maxterm>12</maxterm>
-    <commissionmonth />
-    <commissionsplit-house />
-    <cof>TRUE</cof>
-    <petpolicy>C</petpolicy>
-  </details>
-  <agents>
-    <agent>
-      <firstname>Belle</firstname>
-      <lastname>Piper</lastname>
-      <title>Rental Agent</title>
-      <email>belle.msnyc@myspacenyc.com</email>
-      <workphone>(646) 854-3513</workphone>
-      <mobilephone />
-      <homephone />
-      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
-    </agent>
-  </agents>
-  <photos />
-</property>
-
-
-
-<property>
-  <building>
     <address>280 Meeker Avenue</address>
     <city>Brooklyn</city>
     <state>NY</state>
