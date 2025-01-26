@@ -20441,6 +20441,60 @@ No FEE!</brokersummary>
 
 <property>
   <building>
+    <address>1250 New York Avenue</address>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11203</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary />
+    <weblistingid>31356</weblistingid>
+    <aptnumber>4C</aptnumber>
+    <apartmentsize>1</apartmentsize>
+    <numbedrooms>0</numbedrooms>
+    <numbaths>1</numbaths>
+    <numrooms>2</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2025-01-26</listeddate>
+    <availabledate>Feb-01-2025</availabledate>
+    <modifieddate>2025-01-26</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/1250-New-York-Avenue-Unit-4C-Brooklyn-NY-11203-31356</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>2200</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos />
+</property>
+
+
+
+<property>
+  <building>
     <address>440 Midwood St</address>
     <city>Brooklyn</city>
     <state>NY</state>
@@ -21491,152 +21545,6 @@ AMENITIES
 
 <property>
   <building>
-    <address>336 Chauncey Steet</address>
-    <city>Brooklyn</city>
-    <state>New York</state>
-    <zipcode>11233</zipcode>
-  </building>
-  <details>
-    <distributiontype>P</distributiontype>
-    <saleorrent>R</saleorrent>
-    <brokersummary />
-    <weblistingid>30336</weblistingid>
-    <aptnumber>1B</aptnumber>
-    <apartmentsize>7</apartmentsize>
-    <numbedrooms>1</numbedrooms>
-    <numbaths>1</numbaths>
-    <numrooms>3</numrooms>
-    <listingtype>L</listingtype>
-    <status>A</status>
-    <listeddate>2025-01-26</listeddate>
-    <availabledate>Dec-15-2024</availabledate>
-    <modifieddate>2025-01-26</modifieddate>
-    <listingurl>https://myspacenyc.cazamio.com/apartments/336-Chauncey-Steet-Unit-1B-Brooklyn-New-York-11233-30336</listingurl>
-    <price />
-    <grosscommission />
-    <buyersbrokercommision />
-    <paidbywhom>O</paidbywhom>
-    <rent>2296</rent>
-    <furnishrent />
-    <securitydeposit>1</securitydeposit>
-    <minterm>12</minterm>
-    <maxterm>12</maxterm>
-    <commissionmonth />
-    <commissionsplit-house />
-    <cof>TRUE</cof>
-    <petpolicy>C</petpolicy>
-  </details>
-  <agents>
-    <agent>
-      <firstname>Belle</firstname>
-      <lastname>Piper</lastname>
-      <title>Rental Agent</title>
-      <email>belle.msnyc@myspacenyc.com</email>
-      <workphone>(646) 854-3513</workphone>
-      <mobilephone />
-      <homephone />
-      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
-    </agent>
-  </agents>
-  <photos>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638721260845950297.jpeg?sv=2024-11-04&amp;se=2027-01-10T17%3A14%3A44Z&amp;sr=b&amp;sp=r&amp;sig=%2BFGaBIIniF8iB4FhOAnoWO5CfcgnwrjnGSWi%2FWokIew%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638721260845916228.jpeg?sv=2024-11-04&amp;se=2027-01-10T17%3A14%3A44Z&amp;sr=b&amp;sp=r&amp;sig=qW6uSpoxjK%2FMfSMDeYmrmisPPwhFLeUWhjdqH4HTxHI%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638721260845826389.jpeg?sv=2024-11-04&amp;se=2027-01-10T17%3A14%3A44Z&amp;sr=b&amp;sp=r&amp;sig=qTnZod55Q7xqc1JDbNLnOiKXa0uWq6uv8PHYkmLIkBk%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638721260845999586.jpeg?sv=2024-11-04&amp;se=2027-01-10T17%3A14%3A44Z&amp;sr=b&amp;sp=r&amp;sig=FWIpIvWROB8S0KNEqhipMoC5ggIOd8H8WThXmMwi%2F9Y%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638721260846005288.jpeg?sv=2024-11-04&amp;se=2027-01-10T17%3A14%3A44Z&amp;sr=b&amp;sp=r&amp;sig=xZZ4yO33LFwzvz5JVk9gc1hVVq5nprDTF6XMWAWy7YU%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638721260845786823.jpeg?sv=2024-11-04&amp;se=2027-01-10T17%3A14%3A44Z&amp;sr=b&amp;sp=r&amp;sig=Q8EzAqWfJ%2FqUbwHk8otKcZ24JaQHM3hxqIx5JAnvdzM%3D</url>
-    </media>
-  </photos>
-</property>
-
-
-
-<property>
-  <building>
-    <address>336 Chauncey Steet</address>
-    <city>Brooklyn</city>
-    <state>New York</state>
-    <zipcode>11233</zipcode>
-  </building>
-  <details>
-    <distributiontype>P</distributiontype>
-    <saleorrent>R</saleorrent>
-    <brokersummary />
-    <weblistingid>30337</weblistingid>
-    <aptnumber>2C</aptnumber>
-    <apartmentsize>7</apartmentsize>
-    <numbedrooms>1</numbedrooms>
-    <numbaths>1</numbaths>
-    <numrooms>3</numrooms>
-    <listingtype>L</listingtype>
-    <status>A</status>
-    <listeddate>2025-01-26</listeddate>
-    <availabledate>Jan-01-2025</availabledate>
-    <modifieddate>2025-01-26</modifieddate>
-    <listingurl>https://myspacenyc.cazamio.com/apartments/336-Chauncey-Steet-Unit-2C-Brooklyn-New-York-11233-30337</listingurl>
-    <price />
-    <grosscommission />
-    <buyersbrokercommision />
-    <paidbywhom>O</paidbywhom>
-    <rent>2296</rent>
-    <furnishrent />
-    <securitydeposit>1</securitydeposit>
-    <minterm>12</minterm>
-    <maxterm>12</maxterm>
-    <commissionmonth />
-    <commissionsplit-house />
-    <cof>TRUE</cof>
-    <petpolicy>C</petpolicy>
-  </details>
-  <agents>
-    <agent>
-      <firstname>Belle</firstname>
-      <lastname>Piper</lastname>
-      <title>Rental Agent</title>
-      <email>belle.msnyc@myspacenyc.com</email>
-      <workphone>(646) 854-3513</workphone>
-      <mobilephone />
-      <homephone />
-      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
-    </agent>
-  </agents>
-  <photos>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638721260947676098.jpeg?sv=2024-11-04&amp;se=2027-01-10T17%3A14%3A54Z&amp;sr=b&amp;sp=r&amp;sig=FJgvHqEhnjvZLFpx5ve3cTcoxjGYMbnWof7YGuqeeUo%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638721260947781222.jpeg?sv=2024-11-04&amp;se=2027-01-10T17%3A14%3A54Z&amp;sr=b&amp;sp=r&amp;sig=9zfE5MNOkTD73jii4gh5enhNUnABU9Vgl4NaHpuZ6js%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638721260947736298.jpeg?sv=2024-11-04&amp;se=2027-01-10T17%3A14%3A54Z&amp;sr=b&amp;sp=r&amp;sig=H0yE0U4Hou8Xn53W8a4efG29SkwzUgxV53VaAvrpzdA%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638721260947636698.jpeg?sv=2024-11-04&amp;se=2027-01-10T17%3A14%3A54Z&amp;sr=b&amp;sp=r&amp;sig=p0MKZ2I26dWGinuvYlTY6uvB3rS1Pnx%2BJSZHjKQmnlg%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638721260947521421.jpeg?sv=2024-11-04&amp;se=2027-01-10T17%3A14%3A54Z&amp;sr=b&amp;sp=r&amp;sig=HPlApKJZW5CcnqKkT%2BF%2Bm5ayKBycgTJaJxBVmdpEoOM%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638721260947768890.jpeg?sv=2024-11-04&amp;se=2027-01-10T17%3A14%3A54Z&amp;sr=b&amp;sp=r&amp;sig=HGMPxbII5kPE2ytJSITrb5pB33g%2FrTLWu2VM2DYcnVU%3D</url>
-    </media>
-  </photos>
-</property>
-
-
-
-<property>
-  <building>
     <address>1929 Putnam Ave</address>
     <city>Queens</city>
     <state>NY</state>
@@ -21889,6 +21797,152 @@ AMENITIES
     </media>
     <media>
       <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/8515455b-be52-4141-8a40-4c35d33cf98b_638729926498090068.jpeg?sv=2024-11-04&amp;se=2027-01-20T17%3A57%3A29Z&amp;sr=b&amp;sp=r&amp;sig=wWQk0DIHrR1K4FrhuB%2BZPvJuBhgcmGdZeR5ktlMqlEI%3D</url>
+    </media>
+  </photos>
+</property>
+
+
+
+<property>
+  <building>
+    <address>336 Chauncey Steet</address>
+    <city>Brooklyn</city>
+    <state>New York</state>
+    <zipcode>11233</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary />
+    <weblistingid>30336</weblistingid>
+    <aptnumber>1B</aptnumber>
+    <apartmentsize>7</apartmentsize>
+    <numbedrooms>1</numbedrooms>
+    <numbaths>1</numbaths>
+    <numrooms>3</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2025-01-26</listeddate>
+    <availabledate>Dec-15-2024</availabledate>
+    <modifieddate>2025-01-26</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/336-Chauncey-Steet-Unit-1B-Brooklyn-New-York-11233-30336</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>2296</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638721260845950297.jpeg?sv=2024-11-04&amp;se=2027-01-10T17%3A14%3A44Z&amp;sr=b&amp;sp=r&amp;sig=%2BFGaBIIniF8iB4FhOAnoWO5CfcgnwrjnGSWi%2FWokIew%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638721260845916228.jpeg?sv=2024-11-04&amp;se=2027-01-10T17%3A14%3A44Z&amp;sr=b&amp;sp=r&amp;sig=qW6uSpoxjK%2FMfSMDeYmrmisPPwhFLeUWhjdqH4HTxHI%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638721260845826389.jpeg?sv=2024-11-04&amp;se=2027-01-10T17%3A14%3A44Z&amp;sr=b&amp;sp=r&amp;sig=qTnZod55Q7xqc1JDbNLnOiKXa0uWq6uv8PHYkmLIkBk%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638721260845999586.jpeg?sv=2024-11-04&amp;se=2027-01-10T17%3A14%3A44Z&amp;sr=b&amp;sp=r&amp;sig=FWIpIvWROB8S0KNEqhipMoC5ggIOd8H8WThXmMwi%2F9Y%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638721260846005288.jpeg?sv=2024-11-04&amp;se=2027-01-10T17%3A14%3A44Z&amp;sr=b&amp;sp=r&amp;sig=xZZ4yO33LFwzvz5JVk9gc1hVVq5nprDTF6XMWAWy7YU%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638721260845786823.jpeg?sv=2024-11-04&amp;se=2027-01-10T17%3A14%3A44Z&amp;sr=b&amp;sp=r&amp;sig=Q8EzAqWfJ%2FqUbwHk8otKcZ24JaQHM3hxqIx5JAnvdzM%3D</url>
+    </media>
+  </photos>
+</property>
+
+
+
+<property>
+  <building>
+    <address>336 Chauncey Steet</address>
+    <city>Brooklyn</city>
+    <state>New York</state>
+    <zipcode>11233</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary />
+    <weblistingid>30337</weblistingid>
+    <aptnumber>2C</aptnumber>
+    <apartmentsize>7</apartmentsize>
+    <numbedrooms>1</numbedrooms>
+    <numbaths>1</numbaths>
+    <numrooms>3</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2025-01-26</listeddate>
+    <availabledate>Jan-01-2025</availabledate>
+    <modifieddate>2025-01-26</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/336-Chauncey-Steet-Unit-2C-Brooklyn-New-York-11233-30337</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>2296</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638721260947676098.jpeg?sv=2024-11-04&amp;se=2027-01-10T17%3A14%3A54Z&amp;sr=b&amp;sp=r&amp;sig=FJgvHqEhnjvZLFpx5ve3cTcoxjGYMbnWof7YGuqeeUo%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638721260947781222.jpeg?sv=2024-11-04&amp;se=2027-01-10T17%3A14%3A54Z&amp;sr=b&amp;sp=r&amp;sig=9zfE5MNOkTD73jii4gh5enhNUnABU9Vgl4NaHpuZ6js%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638721260947736298.jpeg?sv=2024-11-04&amp;se=2027-01-10T17%3A14%3A54Z&amp;sr=b&amp;sp=r&amp;sig=H0yE0U4Hou8Xn53W8a4efG29SkwzUgxV53VaAvrpzdA%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638721260947636698.jpeg?sv=2024-11-04&amp;se=2027-01-10T17%3A14%3A54Z&amp;sr=b&amp;sp=r&amp;sig=p0MKZ2I26dWGinuvYlTY6uvB3rS1Pnx%2BJSZHjKQmnlg%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638721260947521421.jpeg?sv=2024-11-04&amp;se=2027-01-10T17%3A14%3A54Z&amp;sr=b&amp;sp=r&amp;sig=HPlApKJZW5CcnqKkT%2BF%2Bm5ayKBycgTJaJxBVmdpEoOM%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638721260947768890.jpeg?sv=2024-11-04&amp;se=2027-01-10T17%3A14%3A54Z&amp;sr=b&amp;sp=r&amp;sig=HGMPxbII5kPE2ytJSITrb5pB33g%2FrTLWu2VM2DYcnVU%3D</url>
     </media>
   </photos>
 </property>
