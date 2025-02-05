@@ -6124,10 +6124,10 @@ NO FEE, available 3/1</brokersummary>
     <brokersummary>The Kent House is in arguably THE MOST desireable neighborhood in Brooklyn. Right on the Williamsburg Waterfront with gorgeous river and city views, all the restaurants, coffee shops, bars, art and music venues, plant shops, parks, farmers markets, grocers, and absolutely anything and everything else you could desire right outside your door. Be warned: the luxury experience you are offered inside the building may leave you feeling torn about whether to go out and enjoy the bustle of the neighborhood or stay in and enjoy your own amenities right here at home!Conveniently located off the J. M, and L trains, as well as the B32, B62, and Q59 bus routes.UNIT FEATURES:Hardwood FloorsStainless Steel KitchenCentral A/C and HeatPrivate BalconyExcellent light from extra large windowsBUILDING FEATURES:Bike RoomFitness CenterLaundry RoomTenant LoungePackage RoomFinished Roof DeckFirst &amp; SecurityNO FEE</brokersummary>
     <weblistingid>31567</weblistingid>
     <aptnumber>310</aptnumber>
-    <apartmentsize>7</apartmentsize>
-    <numbedrooms>1</numbedrooms>
+    <apartmentsize>H</apartmentsize>
+    <numbedrooms>2</numbedrooms>
     <numbaths>1</numbaths>
-    <numrooms>3</numrooms>
+    <numrooms>4</numrooms>
     <listingtype>L</listingtype>
     <status>A</status>
     <listeddate>2025-02-05</listeddate>
@@ -6138,7 +6138,7 @@ NO FEE, available 3/1</brokersummary>
     <grosscommission />
     <buyersbrokercommision />
     <paidbywhom>O</paidbywhom>
-    <rent>3700</rent>
+    <rent>4750</rent>
     <furnishrent />
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
@@ -17943,6 +17943,60 @@ Schedule your tour today to secure this exceptional living space!</brokersummary
       <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-12/1996_638686816314270103.jpeg?sv=2024-11-04&amp;se=2026-12-01T20%3A27%3A11Z&amp;sr=b&amp;sp=r&amp;sig=9DUZQpxkOxxKI7BGEGIjiNA%2FDGMV6vUSyPP2M9qWIlk%3D</url>
     </media>
   </photos>
+</property>
+
+
+
+<property>
+  <building>
+    <address>92 53rd Street</address>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11232</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary />
+    <weblistingid>31575</weblistingid>
+    <aptnumber>3D</aptnumber>
+    <apartmentsize>H</apartmentsize>
+    <numbedrooms>2</numbedrooms>
+    <numbaths>1</numbaths>
+    <numrooms>4</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2025-02-05</listeddate>
+    <availabledate>Feb-05-2025</availabledate>
+    <modifieddate>2025-02-05</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/92-53rd-Street-Unit-3D-Brooklyn-NY-11232-31575</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>2800</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos />
 </property>
 
 
