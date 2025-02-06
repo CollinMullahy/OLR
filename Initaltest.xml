@@ -20237,6 +20237,83 @@ AMENITIES
 
 <property>
   <building>
+    <address>727 Dekalb Avenue</address>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11216</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary>Penthouse private roof deck
+No fee</brokersummary>
+    <weblistingid>31618</weblistingid>
+    <aptnumber>5PH</aptnumber>
+    <apartmentsize>7</apartmentsize>
+    <numbedrooms>1</numbedrooms>
+    <numbaths>1</numbaths>
+    <numrooms>3</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2025-02-06</listeddate>
+    <availabledate>Feb-06-2025</availabledate>
+    <modifieddate>2025-02-06</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/727-Dekalb-Avenue-Unit-5PH-Brooklyn-NY-11216-31618</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>2900</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-02/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638744736431244107.jpeg?sv=2025-01-05&amp;se=2027-02-06T21%3A20%3A43Z&amp;sr=b&amp;sp=r&amp;sig=CoKGa6g9m6tKQxTUFljy5PSN4fAqyXzWpiX%2BkWpylfg%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-02/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638744736431553940.jpeg?sv=2025-01-05&amp;se=2027-02-06T21%3A20%3A43Z&amp;sr=b&amp;sp=r&amp;sig=ReNYNr%2FJD03pBoct5g1nG%2BJoYcL%2FNHHFpGOw0URYkr4%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-02/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638744736431500905.jpeg?sv=2025-01-05&amp;se=2027-02-06T21%3A20%3A43Z&amp;sr=b&amp;sp=r&amp;sig=PwAtCabBZvlzdduo330C3lsQ6psqMH7n8fNHr59Ot%2BM%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-02/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638744736431963597.jpeg?sv=2025-01-05&amp;se=2027-02-06T21%3A20%3A43Z&amp;sr=b&amp;sp=r&amp;sig=UwclhHy7c1k%2F58Lu7psYKsGjUzwlw82CBZgltevr270%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-02/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638744736431995843.jpeg?sv=2025-01-05&amp;se=2027-02-06T21%3A20%3A43Z&amp;sr=b&amp;sp=r&amp;sig=%2BwwOdaSQ5V0g5eZ8IKoBgaty%2BKzEa884E%2BVYW4h8%2Fq4%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-02/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638744736431979505.jpeg?sv=2025-01-05&amp;se=2027-02-06T21%3A20%3A43Z&amp;sr=b&amp;sp=r&amp;sig=868Ea0u8p07tWgX9WBpTZDEaubbiuTUi2H0BPIy7SS0%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-02/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638744736432011255.jpeg?sv=2025-01-05&amp;se=2027-02-06T21%3A20%3A43Z&amp;sr=b&amp;sp=r&amp;sig=aplxp6NbmewKvbwKS8UnzriEGeR5BMh8enl8j4NwN4o%3D</url>
+    </media>
+  </photos>
+</property>
+
+
+
+<property>
+  <building>
     <address>299 Saratoga Avenue</address>
     <city>Brooklyn</city>
     <state>NY</state>
@@ -20263,60 +20340,6 @@ AMENITIES
     <buyersbrokercommision />
     <paidbywhom>O</paidbywhom>
     <rent>2700</rent>
-    <furnishrent />
-    <securitydeposit>1</securitydeposit>
-    <minterm>12</minterm>
-    <maxterm>12</maxterm>
-    <commissionmonth />
-    <commissionsplit-house />
-    <cof>TRUE</cof>
-    <petpolicy>C</petpolicy>
-  </details>
-  <agents>
-    <agent>
-      <firstname>Belle</firstname>
-      <lastname>Piper</lastname>
-      <title>Rental Agent</title>
-      <email>belle.msnyc@myspacenyc.com</email>
-      <workphone>(646) 854-3513</workphone>
-      <mobilephone />
-      <homephone />
-      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
-    </agent>
-  </agents>
-  <photos />
-</property>
-
-
-
-<property>
-  <building>
-    <address>1269 Herkimer Street</address>
-    <city>Brooklyn</city>
-    <state>NY</state>
-    <zipcode>11233</zipcode>
-  </building>
-  <details>
-    <distributiontype>P</distributiontype>
-    <saleorrent>R</saleorrent>
-    <brokersummary />
-    <weblistingid>30391</weblistingid>
-    <aptnumber>2B</aptnumber>
-    <apartmentsize>7</apartmentsize>
-    <numbedrooms>1</numbedrooms>
-    <numbaths>1</numbaths>
-    <numrooms>3</numrooms>
-    <listingtype>L</listingtype>
-    <status>A</status>
-    <listeddate>2025-02-06</listeddate>
-    <availabledate>Feb-01-2025</availabledate>
-    <modifieddate>2025-02-06</modifieddate>
-    <listingurl>https://myspacenyc.cazamio.com/apartments/1269-Herkimer-Street-Unit-2B-Brooklyn-NY-11233-30391</listingurl>
-    <price />
-    <grosscommission />
-    <buyersbrokercommision />
-    <paidbywhom>O</paidbywhom>
-    <rent>2350</rent>
     <furnishrent />
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
@@ -20955,16 +20978,16 @@ To schedule a private viewing &amp; for more details contact anytime.</brokersum
 
 <property>
   <building>
-    <address>821 Madison Street</address>
+    <address>397 Herkimer Street</address>
     <city>Brooklyn</city>
     <state>NY</state>
-    <zipcode>11221</zipcode>
+    <zipcode>11213</zipcode>
   </building>
   <details>
     <distributiontype>P</distributiontype>
     <saleorrent>R</saleorrent>
     <brokersummary />
-    <weblistingid>31586</weblistingid>
+    <weblistingid>31417</weblistingid>
     <aptnumber>3</aptnumber>
     <apartmentsize>4BED</apartmentsize>
     <numbedrooms>4</numbedrooms>
@@ -20973,14 +20996,14 @@ To schedule a private viewing &amp; for more details contact anytime.</brokersum
     <listingtype>L</listingtype>
     <status>A</status>
     <listeddate>2025-02-06</listeddate>
-    <availabledate>Feb-05-2025</availabledate>
+    <availabledate>Feb-02-2025</availabledate>
     <modifieddate>2025-02-06</modifieddate>
-    <listingurl>https://myspacenyc.cazamio.com/apartments/821-Madison-Street-Unit-3-Brooklyn-NY-11221-31586</listingurl>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/397-Herkimer-Street-Unit-3-Brooklyn-NY-11213-31417</listingurl>
     <price />
     <grosscommission />
     <buyersbrokercommision />
     <paidbywhom>O</paidbywhom>
-    <rent>3800</rent>
+    <rent>3700</rent>
     <furnishrent />
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
@@ -21009,16 +21032,16 @@ To schedule a private viewing &amp; for more details contact anytime.</brokersum
 
 <property>
   <building>
-    <address>397 Herkimer Street</address>
+    <address>821 Madison Street</address>
     <city>Brooklyn</city>
     <state>NY</state>
-    <zipcode>11213</zipcode>
+    <zipcode>11221</zipcode>
   </building>
   <details>
     <distributiontype>P</distributiontype>
     <saleorrent>R</saleorrent>
     <brokersummary />
-    <weblistingid>31417</weblistingid>
+    <weblistingid>31586</weblistingid>
     <aptnumber>3</aptnumber>
     <apartmentsize>4BED</apartmentsize>
     <numbedrooms>4</numbedrooms>
@@ -21027,14 +21050,14 @@ To schedule a private viewing &amp; for more details contact anytime.</brokersum
     <listingtype>L</listingtype>
     <status>A</status>
     <listeddate>2025-02-06</listeddate>
-    <availabledate>Feb-02-2025</availabledate>
+    <availabledate>Feb-05-2025</availabledate>
     <modifieddate>2025-02-06</modifieddate>
-    <listingurl>https://myspacenyc.cazamio.com/apartments/397-Herkimer-Street-Unit-3-Brooklyn-NY-11213-31417</listingurl>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/821-Madison-Street-Unit-3-Brooklyn-NY-11221-31586</listingurl>
     <price />
     <grosscommission />
     <buyersbrokercommision />
     <paidbywhom>O</paidbywhom>
-    <rent>3700</rent>
+    <rent>3800</rent>
     <furnishrent />
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
