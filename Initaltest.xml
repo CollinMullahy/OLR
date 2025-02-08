@@ -20202,7 +20202,7 @@ AMENITIES
     <grosscommission />
     <buyersbrokercommision />
     <paidbywhom>O</paidbywhom>
-    <rent>2750</rent>
+    <rent>2650</rent>
     <furnishrent />
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
@@ -20284,7 +20284,7 @@ AMENITIES
     <grosscommission />
     <buyersbrokercommision />
     <paidbywhom>O</paidbywhom>
-    <rent>2600</rent>
+    <rent>2500</rent>
     <furnishrent />
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
@@ -20338,7 +20338,7 @@ AMENITIES
     <grosscommission />
     <buyersbrokercommision />
     <paidbywhom>O</paidbywhom>
-    <rent>3650</rent>
+    <rent>3500</rent>
     <furnishrent />
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
@@ -20392,7 +20392,7 @@ AMENITIES
     <grosscommission />
     <buyersbrokercommision />
     <paidbywhom>O</paidbywhom>
-    <rent>3650</rent>
+    <rent>3500</rent>
     <furnishrent />
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
@@ -20676,6 +20676,281 @@ No fee</brokersummary>
 
 <property>
   <building>
+    <address>1665 Brooklyn Avenue</address>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11210</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary>IN UNIT LAUNDRY AND BALCONY</brokersummary>
+    <weblistingid>31649</weblistingid>
+    <aptnumber>3A</aptnumber>
+    <apartmentsize>H</apartmentsize>
+    <numbedrooms>2</numbedrooms>
+    <numbaths>1</numbaths>
+    <numrooms>4</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2025-02-07</listeddate>
+    <availabledate>Jan-01-2025</availabledate>
+    <modifieddate>2025-02-07</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/1665-Brooklyn-Avenue-Unit-3A-Brooklyn-NY-11210-31649</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>2650</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-12/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638695418047427118.jpeg?sv=2024-11-04&amp;se=2026-12-11T19%3A23%3A24Z&amp;sr=b&amp;sp=r&amp;sig=AqHZGa1%2F9aPt1XGTPR2u6Aj%2BemD5dQIq9PjGwxWoLWg%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-12/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638695418047388630.jpeg?sv=2024-11-04&amp;se=2026-12-11T19%3A23%3A24Z&amp;sr=b&amp;sp=r&amp;sig=Sgpa7gx8EPoH5m2hE3%2F4kEJfkjmCxjy8iFN8Y%2BeT49E%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-12/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638695418047413433.jpeg?sv=2024-11-04&amp;se=2026-12-11T19%3A23%3A24Z&amp;sr=b&amp;sp=r&amp;sig=5XdNl8NM1tQVmKP6nQLaI9pHu4WruzjaBQO45Rr1uTw%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-12/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638695418047371918.jpeg?sv=2024-11-04&amp;se=2026-12-11T19%3A23%3A24Z&amp;sr=b&amp;sp=r&amp;sig=WqUTVfG%2BvE3nnhh2hZHrPHaoa%2Fnx6rfAPpzL35TSl28%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-12/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638695418047357613.jpeg?sv=2024-11-04&amp;se=2026-12-11T19%3A23%3A24Z&amp;sr=b&amp;sp=r&amp;sig=49jCRiXKNyQW8YTuBoUmN6ishnLZQGYMsvyZ%2Bjj3wLI%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-12/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638695418047347609.jpeg?sv=2024-11-04&amp;se=2026-12-11T19%3A23%3A24Z&amp;sr=b&amp;sp=r&amp;sig=prYyBLb356RpCalAchTwN3AuaA9pWSc7w8gy8Tgeqss%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-12/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638695418047497847.jpeg?sv=2024-11-04&amp;se=2026-12-11T19%3A23%3A24Z&amp;sr=b&amp;sp=r&amp;sig=kWJXqCepPk7myPwI201CJglv1EQcSzkS2rfsdfsmIfk%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-12/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638695418047449871.jpeg?sv=2024-11-04&amp;se=2026-12-11T19%3A23%3A24Z&amp;sr=b&amp;sp=r&amp;sig=L5EbO9vIL%2BXSXXnxT%2FDBBlQGa5CPa5NTZvv5iEPDO8o%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-12/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638695418047859140.jpeg?sv=2024-11-04&amp;se=2026-12-11T19%3A23%3A24Z&amp;sr=b&amp;sp=r&amp;sig=U1pPjY4bA%2B1MeLpsxGzWup1OUd17quKM5l3WvTcMyPo%3D</url>
+    </media>
+  </photos>
+</property>
+
+
+
+<property>
+  <building>
+    <address>74 Cornelia Street</address>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11221</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary />
+    <weblistingid>31650</weblistingid>
+    <aptnumber>S3</aptnumber>
+    <apartmentsize>7</apartmentsize>
+    <numbedrooms>1</numbedrooms>
+    <numbaths>1</numbaths>
+    <numrooms>3</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2025-02-07</listeddate>
+    <availabledate>Mar-01-2025</availabledate>
+    <modifieddate>2025-02-07</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/74-Cornelia-Street-Unit-S3-Brooklyn-NY-11221-31650</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>2400</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos />
+</property>
+
+
+
+<property>
+  <building>
+    <address>1613 Brooklyn Avenue</address>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11210</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary />
+    <weblistingid>31651</weblistingid>
+    <aptnumber>206</aptnumber>
+    <apartmentsize>H</apartmentsize>
+    <numbedrooms>2</numbedrooms>
+    <numbaths>1</numbaths>
+    <numrooms>4</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2025-02-07</listeddate>
+    <availabledate>Mar-01-2025</availabledate>
+    <modifieddate>2025-02-07</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/1613-Brooklyn-Avenue-Unit-206-Brooklyn-NY-11210-31651</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>2600</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-02/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638745671283256890.jpeg?sv=2025-01-05&amp;se=2027-02-07T23%3A18%3A48Z&amp;sr=b&amp;sp=r&amp;sig=qt4iNhrCWbQ6RfJ6RGgh5aN7bcrjCD7DcmJIihfBj%2BI%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-02/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638745671284308345.jpeg?sv=2025-01-05&amp;se=2027-02-07T23%3A18%3A48Z&amp;sr=b&amp;sp=r&amp;sig=%2BnvHwltO6ERvWiwFSBhSZJCESphkLRMGU6z4RBkMVIg%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-02/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638745671284308353.jpeg?sv=2025-01-05&amp;se=2027-02-07T23%3A18%3A48Z&amp;sr=b&amp;sp=r&amp;sig=VG1u4NIQEfEW0kyVVzzKiVCqMKII3z3GvOvk%2BnzStTo%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-02/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638745671284213810.jpeg?sv=2025-01-05&amp;se=2027-02-07T23%3A18%3A48Z&amp;sr=b&amp;sp=r&amp;sig=arWHYGfuN%2BaFutGFyVQjI51J7rKsVPIQuwjtLX2oBXY%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-02/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638745671284262835.jpeg?sv=2025-01-05&amp;se=2027-02-07T23%3A18%3A48Z&amp;sr=b&amp;sp=r&amp;sig=3CrkTgxNQMyyyTCtIhOlBYcq6IfLcKTzZKqbS462KYM%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-02/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638745671284458104.jpeg?sv=2025-01-05&amp;se=2027-02-07T23%3A18%3A48Z&amp;sr=b&amp;sp=r&amp;sig=C%2Fm2xiLT9nzvSx3LAzmT3JDD%2BtMrJ5SokqNJ8K%2BG8jU%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-02/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638745671283898146.jpeg?sv=2025-01-05&amp;se=2027-02-07T23%3A18%3A48Z&amp;sr=b&amp;sp=r&amp;sig=b1ykYSdXQIJPGqY0IZnpqFjVB3W2MaiyraOkjJco%2Bg8%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-02/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638745671283926410.jpeg?sv=2025-01-05&amp;se=2027-02-07T23%3A18%3A48Z&amp;sr=b&amp;sp=r&amp;sig=ZtzpUbFUQIZVpAt5k59wnlLpSy%2FEFDcYDaTXMNkWbBM%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-02/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638745671283896189.jpeg?sv=2025-01-05&amp;se=2027-02-07T23%3A18%3A48Z&amp;sr=b&amp;sp=r&amp;sig=tWDElrmuDlM0EyMxIPR5nh0pp1CQQuVM2rbziIZ7bCA%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-02/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638745671284438277.jpeg?sv=2025-01-05&amp;se=2027-02-07T23%3A18%3A48Z&amp;sr=b&amp;sp=r&amp;sig=PBCj%2FHrjCD25b9Atdiibg4gPvulqZYNF2sWqb%2BG90Gw%3D</url>
+    </media>
+  </photos>
+</property>
+
+
+
+<property>
+  <building>
+    <address>2553 Bedford Avenue</address>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11226</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary />
+    <weblistingid>31652</weblistingid>
+    <aptnumber>5A</aptnumber>
+    <apartmentsize>1</apartmentsize>
+    <numbedrooms>0</numbedrooms>
+    <numbaths>1</numbaths>
+    <numrooms>2</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2025-02-07</listeddate>
+    <availabledate>Mar-01-2025</availabledate>
+    <modifieddate>2025-02-07</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/2553-Bedford-Avenue-Unit-5A-Brooklyn-NY-11226-31652</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>2650</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos />
+</property>
+
+
+
+<property>
+  <building>
     <address>1244 New York Avenue</address>
     <city>Brooklyn</city>
     <state>NY</state>
@@ -20701,7 +20976,7 @@ No fee</brokersummary>
     <grosscommission />
     <buyersbrokercommision />
     <paidbywhom>O</paidbywhom>
-    <rent>2600</rent>
+    <rent>2500</rent>
     <furnishrent />
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
@@ -20755,7 +21030,7 @@ No fee</brokersummary>
     <grosscommission />
     <buyersbrokercommision />
     <paidbywhom>O</paidbywhom>
-    <rent>2750</rent>
+    <rent>2650</rent>
     <furnishrent />
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
