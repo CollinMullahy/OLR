@@ -12883,22 +12883,22 @@ Garage Parking</brokersummary>
     <saleorrent>R</saleorrent>
     <brokersummary />
     <weblistingid>30362</weblistingid>
-    <aptnumber>7H</aptnumber>
-    <apartmentsize>7</apartmentsize>
-    <numbedrooms>1</numbedrooms>
-    <numbaths>0</numbaths>
-    <numrooms>2</numrooms>
+    <aptnumber>5K</aptnumber>
+    <apartmentsize>H</apartmentsize>
+    <numbedrooms>2</numbedrooms>
+    <numbaths>1</numbaths>
+    <numrooms>4</numrooms>
     <listingtype>L</listingtype>
     <status>A</status>
     <listeddate>2025-02-18</listeddate>
-    <availabledate>Jan-01-2025</availabledate>
+    <availabledate>Mar-06-2025</availabledate>
     <modifieddate>2025-02-18</modifieddate>
-    <listingurl>https://myspacenyc.cazamio.com/apartments/11-05-30th-Road-Unit-7H-Queens-NY-11102-30362</listingurl>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/11-05-30th-Road-Unit-5K-Queens-NY-11102-30362</listingurl>
     <price />
     <grosscommission />
     <buyersbrokercommision />
     <paidbywhom>O</paidbywhom>
-    <rent>2900</rent>
+    <rent>3450</rent>
     <furnishrent />
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
@@ -13168,6 +13168,114 @@ Garage Parking</brokersummary>
       <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1995_638671090001346818.jpeg?sv=2024-11-04&amp;se=2026-11-13T15%3A36%3A40Z&amp;sr=b&amp;sp=r&amp;sig=E6zTtYIG9fgctCtN9Uy%2FuCIROauRCAJ1qaW0IX3rwgk%3D</url>
     </media>
   </photos>
+</property>
+
+
+
+<property>
+  <building>
+    <address>31-10 23rd Street</address>
+    <city>Queens</city>
+    <state>NY</state>
+    <zipcode>11106</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary />
+    <weblistingid>31829</weblistingid>
+    <aptnumber>4G</aptnumber>
+    <apartmentsize>H</apartmentsize>
+    <numbedrooms>2</numbedrooms>
+    <numbaths>2</numbaths>
+    <numrooms>5</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2025-02-18</listeddate>
+    <availabledate>Mar-31-2025</availabledate>
+    <modifieddate>2025-02-18</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/31-10-23rd-Street-Unit-4G-Queens-NY-11106-31829</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>3850</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos />
+</property>
+
+
+
+<property>
+  <building>
+    <address>31-10 23rd Street</address>
+    <city>Queens</city>
+    <state>NY</state>
+    <zipcode>11106</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary />
+    <weblistingid>31830</weblistingid>
+    <aptnumber>4H</aptnumber>
+    <apartmentsize>H</apartmentsize>
+    <numbedrooms>2</numbedrooms>
+    <numbaths>2</numbaths>
+    <numrooms>5</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2025-02-18</listeddate>
+    <availabledate>May-01-2025</availabledate>
+    <modifieddate>2025-02-18</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/31-10-23rd-Street-Unit-4H-Queens-NY-11106-31830</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>3600</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos />
 </property>
 
 
