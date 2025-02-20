@@ -3257,166 +3257,6 @@ No broker fee!
 
 <property>
   <building>
-    <address>60 Clarkson Ave</address>
-    <city>Brooklyn</city>
-    <state>NY</state>
-    <zipcode>11226</zipcode>
-  </building>
-  <details>
-    <distributiontype>P</distributiontype>
-    <saleorrent>R</saleorrent>
-    <brokersummary />
-    <weblistingid>31746</weblistingid>
-    <aptnumber>6D</aptnumber>
-    <apartmentsize>1</apartmentsize>
-    <numbedrooms>0</numbedrooms>
-    <numbaths>1</numbaths>
-    <numrooms>2</numrooms>
-    <listingtype>L</listingtype>
-    <status>A</status>
-    <listeddate>2025-02-20</listeddate>
-    <availabledate>Mar-01-2025</availabledate>
-    <modifieddate>2025-02-20</modifieddate>
-    <listingurl>https://myspacenyc.cazamio.com/apartments/60-Clarkson-Ave-Unit-6D-Brooklyn-NY-11226-31746</listingurl>
-    <price />
-    <grosscommission />
-    <buyersbrokercommision />
-    <paidbywhom>O</paidbywhom>
-    <rent>1995</rent>
-    <furnishrent />
-    <securitydeposit>1</securitydeposit>
-    <minterm>12</minterm>
-    <maxterm>12</maxterm>
-    <commissionmonth />
-    <commissionsplit-house />
-    <cof>TRUE</cof>
-    <petpolicy>C</petpolicy>
-  </details>
-  <agents>
-    <agent>
-      <firstname>Belle</firstname>
-      <lastname>Piper</lastname>
-      <title>Rental Agent</title>
-      <email>belle.msnyc@myspacenyc.com</email>
-      <workphone>(646) 854-3513</workphone>
-      <mobilephone />
-      <homephone />
-      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
-    </agent>
-  </agents>
-  <photos>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1995_638675525555633868.jpeg?sv=2024-11-04&amp;se=2026-11-18T18%3A49%3A15Z&amp;sr=b&amp;sp=r&amp;sig=kQXlrqquxjSo0Yhz4RRmpELlVPeDsOJmOvtM65u%2BrRM%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1995_638675525558159654.jpeg?sv=2024-11-04&amp;se=2026-11-18T18%3A49%3A15Z&amp;sr=b&amp;sp=r&amp;sig=wHImtFLd4RWLujzHzPTwGOpQuxaCYeGK%2BNCK9jNIOjg%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1995_638675525559179464.jpeg?sv=2024-11-04&amp;se=2026-11-18T18%3A49%3A15Z&amp;sr=b&amp;sp=r&amp;sig=4OHeDLXlTWTh5ZF1uwCcFJc%2Bak7IAKfjVszWjAkqf9E%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1995_638675526515645520.jpeg?sv=2024-11-04&amp;se=2026-11-18T18%3A50%3A51Z&amp;sr=b&amp;sp=r&amp;sig=CA%2BgnszXnp85RkAhZfA4cNrfRlEGEeDewCtUejJ675o%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1995_638675526516761541.jpeg?sv=2024-11-04&amp;se=2026-11-18T18%3A50%3A51Z&amp;sr=b&amp;sp=r&amp;sig=7jQ1U5IbgaNh%2B1uTkpwbUVBvZ0SjIQfuJmvoTtaocMA%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1995_638675526517633479.jpeg?sv=2024-11-04&amp;se=2026-11-18T18%3A50%3A51Z&amp;sr=b&amp;sp=r&amp;sig=qG%2BvmXL5W9iVkRPlrqIIBpH3I0qfIN3vaGpNYQ0lAjA%3D</url>
-    </media>
-  </photos>
-</property>
-
-
-
-<property>
-  <building>
-    <address>250 Clarkson Ave</address>
-    <city>Brooklyn</city>
-    <state>NY</state>
-    <zipcode>11226</zipcode>
-  </building>
-  <details>
-    <distributiontype>P</distributiontype>
-    <saleorrent>R</saleorrent>
-    <brokersummary>Virtual tours available! 
-
-Not only is this 2 BR / 1 Baths simply beautiful but it?s also located in one of the coolest and convenient neighborhoods! Ditmas is known for their breathtaking Victorian-style homes, and beautifully, well kept neighborhood streets. Take advantage of this reasonably priced pad! Enjoy local places to hangout like Hunger Pangs, Wheated, Sycamore, The Ox Tavern, The Farm, Milk and Honey, and Corthaiyou! Keep in mind, there are by far more cool places to check out in this charming neighborhood! Quick commute into Manhattan on the 2,3 or B,Q train lines! Don't forget about your endless options at Atlantic Terminal!</brokersummary>
-    <weblistingid>31711</weblistingid>
-    <aptnumber>313</aptnumber>
-    <apartmentsize>H</apartmentsize>
-    <numbedrooms>2</numbedrooms>
-    <numbaths>1</numbaths>
-    <numrooms>4</numrooms>
-    <listingtype>L</listingtype>
-    <status>A</status>
-    <listeddate>2025-02-20</listeddate>
-    <availabledate>Mar-01-2025</availabledate>
-    <modifieddate>2025-02-20</modifieddate>
-    <listingurl>https://myspacenyc.cazamio.com/apartments/250-Clarkson-Ave-Unit-313-Brooklyn-NY-11226-31711</listingurl>
-    <price />
-    <grosscommission />
-    <buyersbrokercommision />
-    <paidbywhom>O</paidbywhom>
-    <rent>2202</rent>
-    <furnishrent />
-    <securitydeposit>1</securitydeposit>
-    <minterm>12</minterm>
-    <maxterm>12</maxterm>
-    <commissionmonth />
-    <commissionsplit-house />
-    <cof>TRUE</cof>
-    <petpolicy>C</petpolicy>
-  </details>
-  <agents>
-    <agent>
-      <firstname>Belle</firstname>
-      <lastname>Piper</lastname>
-      <title>Rental Agent</title>
-      <email>belle.msnyc@myspacenyc.com</email>
-      <workphone>(646) 854-3513</workphone>
-      <mobilephone />
-      <homephone />
-      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
-    </agent>
-  </agents>
-  <photos>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-02/8515455b-be52-4141-8a40-4c35d33cf98b_638749028209947989.jpeg?sv=2025-01-05&amp;se=2027-02-11T20%3A33%3A41Z&amp;sr=b&amp;sp=r&amp;sig=QN1r1%2BiUS5SCqNN4E8AW15rkWlbPiW02IcGxoxRLu6A%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-02/8515455b-be52-4141-8a40-4c35d33cf98b_638749028209936190.jpeg?sv=2025-01-05&amp;se=2027-02-11T20%3A33%3A41Z&amp;sr=b&amp;sp=r&amp;sig=36PcRP3ZTXKKoD1D1aENvpkM8LDtR2NFFMi%2BDqEBpK4%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-02/8515455b-be52-4141-8a40-4c35d33cf98b_638749028209502768.jpeg?sv=2025-01-05&amp;se=2027-02-11T20%3A33%3A40Z&amp;sr=b&amp;sp=r&amp;sig=2FqjNNwNhV0OqoTcGkBE93%2F1z%2BiO8e9wMqa1dBQgCIw%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-02/8515455b-be52-4141-8a40-4c35d33cf98b_638749028209421920.jpeg?sv=2025-01-05&amp;se=2027-02-11T20%3A33%3A40Z&amp;sr=b&amp;sp=r&amp;sig=C77ZCGditT1jGn0qGvqzX%2FcLowxYsIRrWhC7DllYn%2BA%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-02/8515455b-be52-4141-8a40-4c35d33cf98b_638749028209471053.jpeg?sv=2025-01-05&amp;se=2027-02-11T20%3A33%3A40Z&amp;sr=b&amp;sp=r&amp;sig=P6uvdyrZV2xi2oD5gqFn4HwaRgF2veIX08yKUgcJeeQ%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-02/8515455b-be52-4141-8a40-4c35d33cf98b_638749028209510513.jpeg?sv=2025-01-05&amp;se=2027-02-11T20%3A33%3A40Z&amp;sr=b&amp;sp=r&amp;sig=J0Iqfo%2FDu0H91896LBitZHpP3ccerNEuWA1qYIixc1s%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-02/8515455b-be52-4141-8a40-4c35d33cf98b_638749028209526860.jpeg?sv=2025-01-05&amp;se=2027-02-11T20%3A33%3A40Z&amp;sr=b&amp;sp=r&amp;sig=pt1IkjmOidZ9wncu6GrCaDJrbAVIkXiXxmu6ZKmV5zo%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-02/8515455b-be52-4141-8a40-4c35d33cf98b_638749028209501038.jpeg?sv=2025-01-05&amp;se=2027-02-11T20%3A33%3A40Z&amp;sr=b&amp;sp=r&amp;sig=hwPppoRytwO6HhdRVIJQFY0GPwBcfU9qlWR7%2BVd7lXQ%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-02/8515455b-be52-4141-8a40-4c35d33cf98b_638749028209658502.jpeg?sv=2025-01-05&amp;se=2027-02-11T20%3A33%3A40Z&amp;sr=b&amp;sp=r&amp;sig=6KVGTgnnomudJRdzMOx3JtXQOXZY1afUrN9K8d6KWmI%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-02/8515455b-be52-4141-8a40-4c35d33cf98b_638749028209536960.jpeg?sv=2025-01-05&amp;se=2027-02-11T20%3A33%3A40Z&amp;sr=b&amp;sp=r&amp;sig=iPTFQ9ngyyALNjpy366ZIsA1Fmj1B7aQH7XIJJ7AWvg%3D</url>
-    </media>
-  </photos>
-</property>
-
-
-
-<property>
-  <building>
     <address>930 Dekalb Ave</address>
     <city>Brooklyn</city>
     <state>NY</state>
@@ -16359,60 +16199,6 @@ Pets welcome</brokersummary>
 
 <property>
   <building>
-    <address>1345 Hancock St</address>
-    <city>Brooklyn</city>
-    <state>NY</state>
-    <zipcode>11237</zipcode>
-  </building>
-  <details>
-    <distributiontype>P</distributiontype>
-    <saleorrent>R</saleorrent>
-    <brokersummary />
-    <weblistingid>31704</weblistingid>
-    <aptnumber>1L</aptnumber>
-    <apartmentsize>4BED</apartmentsize>
-    <numbedrooms>4</numbedrooms>
-    <numbaths>2</numbaths>
-    <numrooms>7</numrooms>
-    <listingtype>L</listingtype>
-    <status>A</status>
-    <listeddate>2025-02-20</listeddate>
-    <availabledate>Mar-01-2025</availabledate>
-    <modifieddate>2025-02-20</modifieddate>
-    <listingurl>https://myspacenyc.cazamio.com/apartments/1345-Hancock-St-Unit-1L-Brooklyn-NY-11237-31704</listingurl>
-    <price />
-    <grosscommission />
-    <buyersbrokercommision />
-    <paidbywhom>O</paidbywhom>
-    <rent>3900</rent>
-    <furnishrent />
-    <securitydeposit>1</securitydeposit>
-    <minterm>12</minterm>
-    <maxterm>12</maxterm>
-    <commissionmonth />
-    <commissionsplit-house />
-    <cof>TRUE</cof>
-    <petpolicy>C</petpolicy>
-  </details>
-  <agents>
-    <agent>
-      <firstname>Belle</firstname>
-      <lastname>Piper</lastname>
-      <title>Rental Agent</title>
-      <email>belle.msnyc@myspacenyc.com</email>
-      <workphone>(646) 854-3513</workphone>
-      <mobilephone />
-      <homephone />
-      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
-    </agent>
-  </agents>
-  <photos />
-</property>
-
-
-
-<property>
-  <building>
     <address>26 Fayette St</address>
     <city>Brooklyn</city>
     <state>NY</state>
@@ -16486,6 +16272,60 @@ Pets welcome</brokersummary>
       <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-02/1996_638445535158018269.png?sv=2019-07-07&amp;sr=c&amp;sig=uKEaPTTYMSkcRZRyAL7IR066SjjbLBqR5sLi1yrHCpU%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
     </media>
   </photos>
+</property>
+
+
+
+<property>
+  <building>
+    <address>1345 Hancock St</address>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11237</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary />
+    <weblistingid>31704</weblistingid>
+    <aptnumber>1L</aptnumber>
+    <apartmentsize>4BED</apartmentsize>
+    <numbedrooms>4</numbedrooms>
+    <numbaths>2</numbaths>
+    <numrooms>7</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2025-02-20</listeddate>
+    <availabledate>Mar-01-2025</availabledate>
+    <modifieddate>2025-02-20</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/1345-Hancock-St-Unit-1L-Brooklyn-NY-11237-31704</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>3900</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos />
 </property>
 
 
