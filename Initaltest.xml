@@ -3430,6 +3430,82 @@ Don?t miss out on this mix of modern amenities and classic charm in one of Brook
 
 <property>
   <building>
+    <address>401 E 21st St</address>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11226</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary />
+    <weblistingid>31853</weblistingid>
+    <aptnumber>A5</aptnumber>
+    <apartmentsize>H</apartmentsize>
+    <numbedrooms>2</numbedrooms>
+    <numbaths>1</numbaths>
+    <numrooms>4</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2025-02-25</listeddate>
+    <availabledate>Feb-19-2025</availabledate>
+    <modifieddate>2025-02-25</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/401-E-21st-St-Unit-A5-Brooklyn-NY-11226-31853</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>2325</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-02/8515455b-be52-4141-8a40-4c35d33cf98b_638757480462703842.jpeg?sv=2025-01-05&amp;se=2027-02-21T15%3A20%3A46Z&amp;sr=b&amp;sp=r&amp;sig=QsxHcPyRE1lxvdGKh7MvMeyo%2FjeucfNBbXYsK3UTiVk%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-02/8515455b-be52-4141-8a40-4c35d33cf98b_638757480463259095.jpeg?sv=2025-01-05&amp;se=2027-02-21T15%3A20%3A46Z&amp;sr=b&amp;sp=r&amp;sig=ga8jm74hskMlCGNUJ831LdOn%2BGrRGmQXcGOR40Z%2B5oY%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-02/8515455b-be52-4141-8a40-4c35d33cf98b_638757480463249269.jpeg?sv=2025-01-05&amp;se=2027-02-21T15%3A20%3A46Z&amp;sr=b&amp;sp=r&amp;sig=kuqpgeRNpWuKjWT3U%2FTKorkFY6FIXZxyGYZsc8fqMPs%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-02/8515455b-be52-4141-8a40-4c35d33cf98b_638757480463328036.jpeg?sv=2025-01-05&amp;se=2027-02-21T15%3A20%3A46Z&amp;sr=b&amp;sp=r&amp;sig=9zDEdrswgRaCGXEZ%2BYIbsW34775vfzpmTL1a28a3FxM%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-02/8515455b-be52-4141-8a40-4c35d33cf98b_638757480463192507.jpeg?sv=2025-01-05&amp;se=2027-02-21T15%3A20%3A46Z&amp;sr=b&amp;sp=r&amp;sig=%2FAXVmvgHzuedqqn6OoeGtI3EpxcqMaMMvbCd3kV3K68%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-02/8515455b-be52-4141-8a40-4c35d33cf98b_638757480463275962.jpeg?sv=2025-01-05&amp;se=2027-02-21T15%3A20%3A46Z&amp;sr=b&amp;sp=r&amp;sig=3oIHdf0mZI3UX5BOuIAtSGBJqRCcI1EOVPF5g4lvlxg%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-02/8515455b-be52-4141-8a40-4c35d33cf98b_638757480463288667.jpeg?sv=2025-01-05&amp;se=2027-02-21T15%3A20%3A46Z&amp;sr=b&amp;sp=r&amp;sig=jaM94IN7O8o5pnBq9je4l%2BmRcO3ZhLkxh8V3LpXFBTw%3D</url>
+    </media>
+  </photos>
+</property>
+
+
+
+<property>
+  <building>
     <address>171 Bay 17th St</address>
     <city>Brooklyn</city>
     <state>NY</state>
@@ -3948,7 +4024,7 @@ Pets welcome</brokersummary>
     <numbaths>1</numbaths>
     <numrooms>3</numrooms>
     <listingtype>L</listingtype>
-    <status>P</status>
+    <status>A</status>
     <listeddate>2025-02-25</listeddate>
     <availabledate>Feb-01-2025</availabledate>
     <modifieddate>2025-02-25</modifieddate>
