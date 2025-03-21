@@ -3051,6 +3051,79 @@ Pacific House offers a collection of Studio, 1 and 2 Bedroom luxury apartments f
 
 <property>
   <building>
+    <address>270 Clarkson Ave</address>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11226</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary />
+    <weblistingid>32454</weblistingid>
+    <aptnumber>508</aptnumber>
+    <apartmentsize>1</apartmentsize>
+    <numbedrooms>0</numbedrooms>
+    <numbaths>1</numbaths>
+    <numrooms>2</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2025-03-21</listeddate>
+    <availabledate>Apr-01-2025</availabledate>
+    <modifieddate>2025-03-21</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/270-Clarkson-Ave-Unit-508-Brooklyn-NY-11226-32454</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>1950</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1995_638669233110152896.png?sv=2024-11-04&amp;se=2026-11-11T12%3A01%3A51Z&amp;sr=b&amp;sp=r&amp;sig=6rX53zn0dF7llVeeUf%2F%2BBJ5p17TNqCDZSkcXFkuna2A%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1995_638669233111482675.png?sv=2024-11-04&amp;se=2026-11-11T12%3A01%3A51Z&amp;sr=b&amp;sp=r&amp;sig=hwz0PBC6XYr%2FbCLCZ5EsJRK1NYNMmyIu9RHqoTr6oh8%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1995_638669233111880323.png?sv=2024-11-04&amp;se=2026-11-11T12%3A01%3A51Z&amp;sr=b&amp;sp=r&amp;sig=dEGKMcCbFSNKk9%2FZEzUnyjWSZpRPcG0aNIPk8O7j2EQ%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1995_638669233111877275.png?sv=2024-11-04&amp;se=2026-11-11T12%3A01%3A51Z&amp;sr=b&amp;sp=r&amp;sig=9PxJLfEbqo%2F7c8O8NTG4ofOz20GJ%2FrYGDSpNHnOCCFQ%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1995_638669233111167862.png?sv=2024-11-04&amp;se=2026-11-11T12%3A01%3A51Z&amp;sr=b&amp;sp=r&amp;sig=bZBgYacERs8ouq1vF%2BjbyQou3qicxh7rtn%2BC9XOCkYM%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1995_638669233111937402.png?sv=2024-11-04&amp;se=2026-11-11T12%3A01%3A51Z&amp;sr=b&amp;sp=r&amp;sig=542i9Rcp1tphHwmTQ6yTVGQENA5g3mxALe%2B3fg60wl0%3D</url>
+    </media>
+  </photos>
+</property>
+
+
+
+<property>
+  <building>
     <address>250 Clarkson Ave</address>
     <city>Brooklyn</city>
     <state>NY</state>
