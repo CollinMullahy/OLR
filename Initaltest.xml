@@ -18340,6 +18340,352 @@ Conveniently located just a block away from the 2 and 5 (express) train station 
 
 <property>
   <building>
+    <address>714 5th Avenue</address>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11215</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary />
+    <weblistingid>32573</weblistingid>
+    <aptnumber>1A</aptnumber>
+    <apartmentsize>7</apartmentsize>
+    <numbedrooms>1</numbedrooms>
+    <numbaths>1</numbaths>
+    <numrooms>3</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2025-03-26</listeddate>
+    <availabledate>Apr-01-2025</availabledate>
+    <modifieddate>2025-03-26</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/714-5th-Avenue-Unit-1A-Brooklyn-NY-11215-32573</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>3002</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos />
+</property>
+
+
+
+<property>
+  <building>
+    <address>714 5th Avenue</address>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11215</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary />
+    <weblistingid>32574</weblistingid>
+    <aptnumber>1B</aptnumber>
+    <apartmentsize>L</apartmentsize>
+    <numbedrooms>3</numbedrooms>
+    <numbaths>2</numbaths>
+    <numrooms>6</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2025-03-26</listeddate>
+    <availabledate>Apr-01-2025</availabledate>
+    <modifieddate>2025-03-26</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/714-5th-Avenue-Unit-1B-Brooklyn-NY-11215-32574</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>5877</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos />
+</property>
+
+
+
+<property>
+  <building>
+    <address>714 5th Avenue</address>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11215</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary />
+    <weblistingid>32575</weblistingid>
+    <aptnumber>2B</aptnumber>
+    <apartmentsize>L</apartmentsize>
+    <numbedrooms>3</numbedrooms>
+    <numbaths>2</numbaths>
+    <numrooms>6</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2025-03-26</listeddate>
+    <availabledate>Apr-01-2025</availabledate>
+    <modifieddate>2025-03-26</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/714-5th-Avenue-Unit-2B-Brooklyn-NY-11215-32575</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>5700</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos />
+</property>
+
+
+
+<property>
+  <building>
+    <address>714 5th Avenue</address>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11215</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary />
+    <weblistingid>32576</weblistingid>
+    <aptnumber>3B</aptnumber>
+    <apartmentsize>L</apartmentsize>
+    <numbedrooms>3</numbedrooms>
+    <numbaths>2</numbaths>
+    <numrooms>6</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2025-03-26</listeddate>
+    <availabledate>Apr-01-2025</availabledate>
+    <modifieddate>2025-03-26</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/714-5th-Avenue-Unit-3B-Brooklyn-NY-11215-32576</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>5752</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos />
+</property>
+
+
+
+<property>
+  <building>
+    <address>714 5th Avenue</address>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11215</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary />
+    <weblistingid>32577</weblistingid>
+    <aptnumber>4A</aptnumber>
+    <apartmentsize>4BED</apartmentsize>
+    <numbedrooms>4</numbedrooms>
+    <numbaths>3</numbaths>
+    <numrooms>8</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2025-03-26</listeddate>
+    <availabledate>Apr-01-2025</availabledate>
+    <modifieddate>2025-03-26</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/714-5th-Avenue-Unit-4A-Brooklyn-NY-11215-32577</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>5916</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos />
+</property>
+
+
+
+<property>
+  <building>
+    <address>1250 New York Avenue</address>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11203</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary>1 bedroom in Flatbush - No Broker?s Fee!
+
+Discover this brand-new studio apartment in the vibrant heart of Flatbush!
+
+Cozy &amp; Bright: Enjoy abundant natural light and a welcoming atmosphere.
+Private Outdoor Space: Relax on your very own balcony.
+Convenient Location: Just a 5-minute walk to the 2 and 5 trains, making your commute a breeze.
+Added Convenience: Laundry facilities available in the building.
+
+Schedule a tour today and make this charming apartment your new home!</brokersummary>
+    <weblistingid>31962</weblistingid>
+    <aptnumber>4A</aptnumber>
+    <apartmentsize>7</apartmentsize>
+    <numbedrooms>1</numbedrooms>
+    <numbaths>1</numbaths>
+    <numrooms>3</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2025-03-26</listeddate>
+    <availabledate>Mar-01-2025</availabledate>
+    <modifieddate>2025-03-26</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/1250-New-York-Avenue-Unit-4A-Brooklyn-NY-11203-31962</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>2600</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/8515455b-be52-4141-8a40-4c35d33cf98b_638735877922673308.jpeg?sv=2024-11-04&amp;se=2027-01-27T15%3A16%3A32Z&amp;sr=b&amp;sp=r&amp;sig=DCDw51eGo55ILiatsjxGJ8BvisMcXSmmOcMnpqeohII%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/8515455b-be52-4141-8a40-4c35d33cf98b_638735877922803466.jpeg?sv=2024-11-04&amp;se=2027-01-27T15%3A16%3A32Z&amp;sr=b&amp;sp=r&amp;sig=Xqv8Ulux%2Fl6bm9sJPgT6Cs%2BiUql2s8Lg1ZOCYAHhEMk%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/8515455b-be52-4141-8a40-4c35d33cf98b_638735877922894788.jpeg?sv=2024-11-04&amp;se=2027-01-27T15%3A16%3A32Z&amp;sr=b&amp;sp=r&amp;sig=NnOLqFljVFDRXyf0ekARFkOIFd9pQnU1poTHoxF1DX4%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/8515455b-be52-4141-8a40-4c35d33cf98b_638735877922665421.jpeg?sv=2024-11-04&amp;se=2027-01-27T15%3A16%3A32Z&amp;sr=b&amp;sp=r&amp;sig=D9i72VaPs2orNIpyqg50eppNOzeq%2BMVhN262Q4K3CVM%3D</url>
+    </media>
+  </photos>
+</property>
+
+
+
+<property>
+  <building>
     <address>24 Covert Street</address>
     <city>Brooklyn</city>
     <state>NY</state>
@@ -18434,82 +18780,6 @@ No FEE!</brokersummary>
     </media>
     <media>
       <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-12/8515455b-be52-4141-8a40-4c35d33cf98b_638712623854827061.jpeg?sv=2024-11-04&amp;se=2026-12-31T17%3A19%3A45Z&amp;sr=b&amp;sp=r&amp;sig=bo0cCM%2BjEYxoxqTcAvWAbTd66mSkf3GpbLL92MzeoWA%3D</url>
-    </media>
-  </photos>
-</property>
-
-
-
-<property>
-  <building>
-    <address>1250 New York Avenue</address>
-    <city>Brooklyn</city>
-    <state>NY</state>
-    <zipcode>11203</zipcode>
-  </building>
-  <details>
-    <distributiontype>P</distributiontype>
-    <saleorrent>R</saleorrent>
-    <brokersummary>1 bedroom in Flatbush - No Broker?s Fee!
-
-Discover this brand-new studio apartment in the vibrant heart of Flatbush!
-
-Cozy &amp; Bright: Enjoy abundant natural light and a welcoming atmosphere.
-Private Outdoor Space: Relax on your very own balcony.
-Convenient Location: Just a 5-minute walk to the 2 and 5 trains, making your commute a breeze.
-Added Convenience: Laundry facilities available in the building.
-
-Schedule a tour today and make this charming apartment your new home!</brokersummary>
-    <weblistingid>31962</weblistingid>
-    <aptnumber>4A</aptnumber>
-    <apartmentsize>7</apartmentsize>
-    <numbedrooms>1</numbedrooms>
-    <numbaths>1</numbaths>
-    <numrooms>3</numrooms>
-    <listingtype>L</listingtype>
-    <status>A</status>
-    <listeddate>2025-03-26</listeddate>
-    <availabledate>Mar-01-2025</availabledate>
-    <modifieddate>2025-03-26</modifieddate>
-    <listingurl>https://myspacenyc.cazamio.com/apartments/1250-New-York-Avenue-Unit-4A-Brooklyn-NY-11203-31962</listingurl>
-    <price />
-    <grosscommission />
-    <buyersbrokercommision />
-    <paidbywhom>O</paidbywhom>
-    <rent>2600</rent>
-    <furnishrent />
-    <securitydeposit>1</securitydeposit>
-    <minterm>12</minterm>
-    <maxterm>12</maxterm>
-    <commissionmonth />
-    <commissionsplit-house />
-    <cof>TRUE</cof>
-    <petpolicy>C</petpolicy>
-  </details>
-  <agents>
-    <agent>
-      <firstname>Belle</firstname>
-      <lastname>Piper</lastname>
-      <title>Rental Agent</title>
-      <email>belle.msnyc@myspacenyc.com</email>
-      <workphone>(646) 854-3513</workphone>
-      <mobilephone />
-      <homephone />
-      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
-    </agent>
-  </agents>
-  <photos>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/8515455b-be52-4141-8a40-4c35d33cf98b_638735877922673308.jpeg?sv=2024-11-04&amp;se=2027-01-27T15%3A16%3A32Z&amp;sr=b&amp;sp=r&amp;sig=DCDw51eGo55ILiatsjxGJ8BvisMcXSmmOcMnpqeohII%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/8515455b-be52-4141-8a40-4c35d33cf98b_638735877922803466.jpeg?sv=2024-11-04&amp;se=2027-01-27T15%3A16%3A32Z&amp;sr=b&amp;sp=r&amp;sig=Xqv8Ulux%2Fl6bm9sJPgT6Cs%2BiUql2s8Lg1ZOCYAHhEMk%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/8515455b-be52-4141-8a40-4c35d33cf98b_638735877922894788.jpeg?sv=2024-11-04&amp;se=2027-01-27T15%3A16%3A32Z&amp;sr=b&amp;sp=r&amp;sig=NnOLqFljVFDRXyf0ekARFkOIFd9pQnU1poTHoxF1DX4%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/8515455b-be52-4141-8a40-4c35d33cf98b_638735877922665421.jpeg?sv=2024-11-04&amp;se=2027-01-27T15%3A16%3A32Z&amp;sr=b&amp;sp=r&amp;sig=D9i72VaPs2orNIpyqg50eppNOzeq%2BMVhN262Q4K3CVM%3D</url>
     </media>
   </photos>
 </property>
