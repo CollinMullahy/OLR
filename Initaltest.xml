@@ -2994,79 +2994,6 @@ Pacific House offers a collection of Studio, 1 and 2 Bedroom luxury apartments f
 
 <property>
   <building>
-    <address>270 Clarkson Ave</address>
-    <city>Brooklyn</city>
-    <state>NY</state>
-    <zipcode>11226</zipcode>
-  </building>
-  <details>
-    <distributiontype>P</distributiontype>
-    <saleorrent>R</saleorrent>
-    <brokersummary />
-    <weblistingid>32454</weblistingid>
-    <aptnumber>508</aptnumber>
-    <apartmentsize>1</apartmentsize>
-    <numbedrooms>0</numbedrooms>
-    <numbaths>1</numbaths>
-    <numrooms>2</numrooms>
-    <listingtype>L</listingtype>
-    <status>A</status>
-    <listeddate>2025-03-27</listeddate>
-    <availabledate>Apr-01-2025</availabledate>
-    <modifieddate>2025-03-27</modifieddate>
-    <listingurl>https://myspacenyc.cazamio.com/apartments/270-Clarkson-Ave-Unit-508-Brooklyn-NY-11226-32454</listingurl>
-    <price />
-    <grosscommission />
-    <buyersbrokercommision />
-    <paidbywhom>O</paidbywhom>
-    <rent>1950</rent>
-    <furnishrent />
-    <securitydeposit>1</securitydeposit>
-    <minterm>12</minterm>
-    <maxterm>12</maxterm>
-    <commissionmonth />
-    <commissionsplit-house />
-    <cof>TRUE</cof>
-    <petpolicy>C</petpolicy>
-  </details>
-  <agents>
-    <agent>
-      <firstname>Belle</firstname>
-      <lastname>Piper</lastname>
-      <title>Rental Agent</title>
-      <email>belle.msnyc@myspacenyc.com</email>
-      <workphone>(646) 854-3513</workphone>
-      <mobilephone />
-      <homephone />
-      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
-    </agent>
-  </agents>
-  <photos>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1995_638669233110152896.png?sv=2024-11-04&amp;se=2026-11-11T12%3A01%3A51Z&amp;sr=b&amp;sp=r&amp;sig=6rX53zn0dF7llVeeUf%2F%2BBJ5p17TNqCDZSkcXFkuna2A%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1995_638669233111482675.png?sv=2024-11-04&amp;se=2026-11-11T12%3A01%3A51Z&amp;sr=b&amp;sp=r&amp;sig=hwz0PBC6XYr%2FbCLCZ5EsJRK1NYNMmyIu9RHqoTr6oh8%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1995_638669233111880323.png?sv=2024-11-04&amp;se=2026-11-11T12%3A01%3A51Z&amp;sr=b&amp;sp=r&amp;sig=dEGKMcCbFSNKk9%2FZEzUnyjWSZpRPcG0aNIPk8O7j2EQ%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1995_638669233111877275.png?sv=2024-11-04&amp;se=2026-11-11T12%3A01%3A51Z&amp;sr=b&amp;sp=r&amp;sig=9PxJLfEbqo%2F7c8O8NTG4ofOz20GJ%2FrYGDSpNHnOCCFQ%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1995_638669233111167862.png?sv=2024-11-04&amp;se=2026-11-11T12%3A01%3A51Z&amp;sr=b&amp;sp=r&amp;sig=bZBgYacERs8ouq1vF%2BjbyQou3qicxh7rtn%2BC9XOCkYM%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1995_638669233111937402.png?sv=2024-11-04&amp;se=2026-11-11T12%3A01%3A51Z&amp;sr=b&amp;sp=r&amp;sig=542i9Rcp1tphHwmTQ6yTVGQENA5g3mxALe%2B3fg60wl0%3D</url>
-    </media>
-  </photos>
-</property>
-
-
-
-<property>
-  <building>
     <address>250 Clarkson Ave</address>
     <city>Brooklyn</city>
     <state>NY</state>
@@ -3146,6 +3073,79 @@ Not only is this 1 BR / 1 Baths simply beautiful but it?s also located in one of
     </media>
     <media>
       <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-02/8515455b-be52-4141-8a40-4c35d33cf98b_638749028209536960.jpeg?sv=2025-01-05&amp;se=2027-02-11T20%3A33%3A40Z&amp;sr=b&amp;sp=r&amp;sig=iPTFQ9ngyyALNjpy366ZIsA1Fmj1B7aQH7XIJJ7AWvg%3D</url>
+    </media>
+  </photos>
+</property>
+
+
+
+<property>
+  <building>
+    <address>270 Clarkson Ave</address>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11226</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary />
+    <weblistingid>32454</weblistingid>
+    <aptnumber>508</aptnumber>
+    <apartmentsize>1</apartmentsize>
+    <numbedrooms>0</numbedrooms>
+    <numbaths>1</numbaths>
+    <numrooms>2</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2025-03-27</listeddate>
+    <availabledate>Apr-01-2025</availabledate>
+    <modifieddate>2025-03-27</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/270-Clarkson-Ave-Unit-508-Brooklyn-NY-11226-32454</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>1950</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1995_638669233110152896.png?sv=2024-11-04&amp;se=2026-11-11T12%3A01%3A51Z&amp;sr=b&amp;sp=r&amp;sig=6rX53zn0dF7llVeeUf%2F%2BBJ5p17TNqCDZSkcXFkuna2A%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1995_638669233111482675.png?sv=2024-11-04&amp;se=2026-11-11T12%3A01%3A51Z&amp;sr=b&amp;sp=r&amp;sig=hwz0PBC6XYr%2FbCLCZ5EsJRK1NYNMmyIu9RHqoTr6oh8%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1995_638669233111880323.png?sv=2024-11-04&amp;se=2026-11-11T12%3A01%3A51Z&amp;sr=b&amp;sp=r&amp;sig=dEGKMcCbFSNKk9%2FZEzUnyjWSZpRPcG0aNIPk8O7j2EQ%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1995_638669233111877275.png?sv=2024-11-04&amp;se=2026-11-11T12%3A01%3A51Z&amp;sr=b&amp;sp=r&amp;sig=9PxJLfEbqo%2F7c8O8NTG4ofOz20GJ%2FrYGDSpNHnOCCFQ%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1995_638669233111167862.png?sv=2024-11-04&amp;se=2026-11-11T12%3A01%3A51Z&amp;sr=b&amp;sp=r&amp;sig=bZBgYacERs8ouq1vF%2BjbyQou3qicxh7rtn%2BC9XOCkYM%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-11/1995_638669233111937402.png?sv=2024-11-04&amp;se=2026-11-11T12%3A01%3A51Z&amp;sr=b&amp;sp=r&amp;sig=542i9Rcp1tphHwmTQ6yTVGQENA5g3mxALe%2B3fg60wl0%3D</url>
     </media>
   </photos>
 </property>
@@ -3918,60 +3918,6 @@ Contact to view TODAY!</brokersummary>
       <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-12/22_638374969244154256.png?sv=2019-07-07&amp;sr=c&amp;sig=4TX78%2BBb2GlsF7%2BbbAWVmTEG43jAWaFPiyy8zo0h%2B%2FI%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
     </media>
   </photos>
-</property>
-
-
-
-<property>
-  <building>
-    <address>205 Knickerbocker Ave</address>
-    <city>Brooklyn</city>
-    <state>NY</state>
-    <zipcode>11237</zipcode>
-  </building>
-  <details>
-    <distributiontype>P</distributiontype>
-    <saleorrent>R</saleorrent>
-    <brokersummary />
-    <weblistingid>32249</weblistingid>
-    <aptnumber>2R</aptnumber>
-    <apartmentsize>7</apartmentsize>
-    <numbedrooms>1</numbedrooms>
-    <numbaths>1</numbaths>
-    <numrooms>3</numrooms>
-    <listingtype>L</listingtype>
-    <status>A</status>
-    <listeddate>2025-03-27</listeddate>
-    <availabledate>May-01-2025</availabledate>
-    <modifieddate>2025-03-27</modifieddate>
-    <listingurl>https://myspacenyc.cazamio.com/apartments/205-Knickerbocker-Ave-Unit-2R-Brooklyn-NY-11237-32249</listingurl>
-    <price />
-    <grosscommission />
-    <buyersbrokercommision />
-    <paidbywhom>O</paidbywhom>
-    <rent>3100</rent>
-    <furnishrent />
-    <securitydeposit>1</securitydeposit>
-    <minterm>12</minterm>
-    <maxterm>12</maxterm>
-    <commissionmonth />
-    <commissionsplit-house />
-    <cof>TRUE</cof>
-    <petpolicy>C</petpolicy>
-  </details>
-  <agents>
-    <agent>
-      <firstname>Belle</firstname>
-      <lastname>Piper</lastname>
-      <title>Rental Agent</title>
-      <email>belle.msnyc@myspacenyc.com</email>
-      <workphone>(646) 854-3513</workphone>
-      <mobilephone />
-      <homephone />
-      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
-    </agent>
-  </agents>
-  <photos />
 </property>
 
 
@@ -6262,111 +6208,6 @@ The location is excellent, with nearby subway stations including Gates Av (J), M
 
 <property>
   <building>
-    <address>85 Graham Ave</address>
-    <city>Brooklyn</city>
-    <state>NY</state>
-    <zipcode>11206</zipcode>
-  </building>
-  <details>
-    <distributiontype>P</distributiontype>
-    <saleorrent>R</saleorrent>
-    <brokersummary>Rent Stabilized! 
-
-Offering both single floor AND duplex units, you can find any type home you'd like at 85 Graham Ave! In the bustling neighborhood of East Williamsburg, you will feel a perfect blend of old school and new. Find authentic family-owned small eateries next to newly opened rave-reviewed restaurants. Visit trusted long-standing dive bars next to upscale cocktail clubs. Go shopping all along Graham and Flushing Avenues and take a short walk to both Williamsburg AND BedStuy! 
-
-Conveniently located off the L, J, M, and G trains, as well as the B43, B46, and B60 bus routes. 
-
-UNIT FEATURES: 
-Hardwood Floors 
-Stainless Steel Kitchen 
-Dishwasher 
-Central A/C and Heat 
-Washer/Dryer IN UNIT! 
-Excellent light from extra large windows 
-
-BUILDING FEATURES: 
-Finished Roof Deck 
-2 Convenient Entrances
-Pet Friendly!! (just 1 time fee)</brokersummary>
-    <weblistingid>32410</weblistingid>
-    <aptnumber>2E</aptnumber>
-    <apartmentsize>H</apartmentsize>
-    <numbedrooms>2</numbedrooms>
-    <numbaths>1</numbaths>
-    <numrooms>4</numrooms>
-    <listingtype>L</listingtype>
-    <status>A</status>
-    <listeddate>2025-03-27</listeddate>
-    <availabledate>May-01-2025</availabledate>
-    <modifieddate>2025-03-27</modifieddate>
-    <listingurl>https://myspacenyc.cazamio.com/apartments/85-Graham-Ave-Unit-2E-Brooklyn-NY-11206-32410</listingurl>
-    <price />
-    <grosscommission />
-    <buyersbrokercommision />
-    <paidbywhom>O</paidbywhom>
-    <rent>3222</rent>
-    <furnishrent />
-    <securitydeposit>1</securitydeposit>
-    <minterm>12</minterm>
-    <maxterm>12</maxterm>
-    <commissionmonth />
-    <commissionsplit-house />
-    <cof>TRUE</cof>
-    <petpolicy>C</petpolicy>
-  </details>
-  <agents>
-    <agent>
-      <firstname>Belle</firstname>
-      <lastname>Piper</lastname>
-      <title>Rental Agent</title>
-      <email>belle.msnyc@myspacenyc.com</email>
-      <workphone>(646) 854-3513</workphone>
-      <mobilephone />
-      <homephone />
-      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
-    </agent>
-  </agents>
-  <photos>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-11/22_638355279407580537.png?sv=2019-07-07&amp;sr=c&amp;sig=dbDfHy6XwZySCvA8gpPPpgKQJowOcY9gG31obthrB90%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-11/22_638355279368271767.png?sv=2019-07-07&amp;sr=c&amp;sig=dbDfHy6XwZySCvA8gpPPpgKQJowOcY9gG31obthrB90%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-11/22_638355279387829234.png?sv=2019-07-07&amp;sr=c&amp;sig=dbDfHy6XwZySCvA8gpPPpgKQJowOcY9gG31obthrB90%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-11/22_638355279397458044.png?sv=2019-07-07&amp;sr=c&amp;sig=dbDfHy6XwZySCvA8gpPPpgKQJowOcY9gG31obthrB90%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-11/22_638355279417467070.png?sv=2019-07-07&amp;sr=c&amp;sig=dbDfHy6XwZySCvA8gpPPpgKQJowOcY9gG31obthrB90%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-11/22_638355279426510287.png?sv=2019-07-07&amp;sr=c&amp;sig=dbDfHy6XwZySCvA8gpPPpgKQJowOcY9gG31obthrB90%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-11/22_638355279435189062.png?sv=2019-07-07&amp;sr=c&amp;sig=dbDfHy6XwZySCvA8gpPPpgKQJowOcY9gG31obthrB90%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-11/22_638355279444215311.png?sv=2019-07-07&amp;sr=c&amp;sig=dbDfHy6XwZySCvA8gpPPpgKQJowOcY9gG31obthrB90%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-11/22_638355279452866137.png?sv=2019-07-07&amp;sr=c&amp;sig=dbDfHy6XwZySCvA8gpPPpgKQJowOcY9gG31obthrB90%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-11/22_638355279463124153.png?sv=2019-07-07&amp;sr=c&amp;sig=dbDfHy6XwZySCvA8gpPPpgKQJowOcY9gG31obthrB90%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-11/22_638355279472562765.png?sv=2019-07-07&amp;sr=c&amp;sig=dbDfHy6XwZySCvA8gpPPpgKQJowOcY9gG31obthrB90%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
-    </media>
-  </photos>
-</property>
-
-
-
-<property>
-  <building>
     <address>31-19 37th St</address>
     <city>Long Island City</city>
     <state>NY</state>
@@ -6495,6 +6336,111 @@ Lucky for you you?re nestled on a residential block, close to shops, stores, and
     </media>
     <media>
       <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-04/1990_638179463236036154.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=uk9mYRpk6E8%2FpnbNUArYlqTaz4uirf7Rvw0ZQRFRNS8%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+  </photos>
+</property>
+
+
+
+<property>
+  <building>
+    <address>85 Graham Ave</address>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11206</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary>Rent Stabilized! 
+
+Offering both single floor AND duplex units, you can find any type home you'd like at 85 Graham Ave! In the bustling neighborhood of East Williamsburg, you will feel a perfect blend of old school and new. Find authentic family-owned small eateries next to newly opened rave-reviewed restaurants. Visit trusted long-standing dive bars next to upscale cocktail clubs. Go shopping all along Graham and Flushing Avenues and take a short walk to both Williamsburg AND BedStuy! 
+
+Conveniently located off the L, J, M, and G trains, as well as the B43, B46, and B60 bus routes. 
+
+UNIT FEATURES: 
+Hardwood Floors 
+Stainless Steel Kitchen 
+Dishwasher 
+Central A/C and Heat 
+Washer/Dryer IN UNIT! 
+Excellent light from extra large windows 
+
+BUILDING FEATURES: 
+Finished Roof Deck 
+2 Convenient Entrances
+Pet Friendly!! (just 1 time fee)</brokersummary>
+    <weblistingid>32410</weblistingid>
+    <aptnumber>2E</aptnumber>
+    <apartmentsize>H</apartmentsize>
+    <numbedrooms>2</numbedrooms>
+    <numbaths>1</numbaths>
+    <numrooms>4</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2025-03-27</listeddate>
+    <availabledate>May-01-2025</availabledate>
+    <modifieddate>2025-03-27</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/85-Graham-Ave-Unit-2E-Brooklyn-NY-11206-32410</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>3222</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-11/22_638355279407580537.png?sv=2019-07-07&amp;sr=c&amp;sig=dbDfHy6XwZySCvA8gpPPpgKQJowOcY9gG31obthrB90%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-11/22_638355279368271767.png?sv=2019-07-07&amp;sr=c&amp;sig=dbDfHy6XwZySCvA8gpPPpgKQJowOcY9gG31obthrB90%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-11/22_638355279387829234.png?sv=2019-07-07&amp;sr=c&amp;sig=dbDfHy6XwZySCvA8gpPPpgKQJowOcY9gG31obthrB90%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-11/22_638355279397458044.png?sv=2019-07-07&amp;sr=c&amp;sig=dbDfHy6XwZySCvA8gpPPpgKQJowOcY9gG31obthrB90%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-11/22_638355279417467070.png?sv=2019-07-07&amp;sr=c&amp;sig=dbDfHy6XwZySCvA8gpPPpgKQJowOcY9gG31obthrB90%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-11/22_638355279426510287.png?sv=2019-07-07&amp;sr=c&amp;sig=dbDfHy6XwZySCvA8gpPPpgKQJowOcY9gG31obthrB90%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-11/22_638355279435189062.png?sv=2019-07-07&amp;sr=c&amp;sig=dbDfHy6XwZySCvA8gpPPpgKQJowOcY9gG31obthrB90%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-11/22_638355279444215311.png?sv=2019-07-07&amp;sr=c&amp;sig=dbDfHy6XwZySCvA8gpPPpgKQJowOcY9gG31obthrB90%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-11/22_638355279452866137.png?sv=2019-07-07&amp;sr=c&amp;sig=dbDfHy6XwZySCvA8gpPPpgKQJowOcY9gG31obthrB90%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-11/22_638355279463124153.png?sv=2019-07-07&amp;sr=c&amp;sig=dbDfHy6XwZySCvA8gpPPpgKQJowOcY9gG31obthrB90%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-11/22_638355279472562765.png?sv=2019-07-07&amp;sr=c&amp;sig=dbDfHy6XwZySCvA8gpPPpgKQJowOcY9gG31obthrB90%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
     </media>
   </photos>
 </property>
@@ -15711,6 +15657,60 @@ Please reach out to schedule a viewing!</brokersummary>
     <buyersbrokercommision />
     <paidbywhom>O</paidbywhom>
     <rent>3900</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos />
+</property>
+
+
+
+<property>
+  <building>
+    <address>205 Knickerbocker Ave</address>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11237</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary />
+    <weblistingid>32610</weblistingid>
+    <aptnumber>2F</aptnumber>
+    <apartmentsize>7</apartmentsize>
+    <numbedrooms>1</numbedrooms>
+    <numbaths>1</numbaths>
+    <numrooms>3</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2025-03-27</listeddate>
+    <availabledate>Jul-01-2025</availabledate>
+    <modifieddate>2025-03-27</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/205-Knickerbocker-Ave-Unit-2F-Brooklyn-NY-11237-32610</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>3500</rent>
     <furnishrent />
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
