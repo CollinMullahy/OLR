@@ -6940,6 +6940,60 @@ No broker fee</brokersummary>
   <details>
     <distributiontype>P</distributiontype>
     <saleorrent>R</saleorrent>
+    <brokersummary>Discover this gorgeous, recently renovated 3-bedroom apartment in the heart of Crown Heights! Featuring exposed brick, a dishwasher, an ice machine, a microwave, and tons of cabinet space, this home blends modern convenience with classic charm. Easy access to the 3/4 trains at Utica Ave and A/C trains at Ralph Ave, making commuting a breeze. Situated in a vibrant neighborhood near Lincoln Terrace Park, shopping, and dining, this apartment offers the perfect blend of comfort and convenience. Schedule a viewing today!</brokersummary>
+    <weblistingid>32640</weblistingid>
+    <aptnumber>3</aptnumber>
+    <apartmentsize>L</apartmentsize>
+    <numbedrooms>3</numbedrooms>
+    <numbaths>1</numbaths>
+    <numrooms>5</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2025-03-28</listeddate>
+    <availabledate>Mar-27-2025</availabledate>
+    <modifieddate>2025-03-28</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/1633-Saint-Johns-Place-Unit-3-Brooklyn-NY-11233-32640</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>3400</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos />
+</property>
+
+
+
+<property>
+  <building>
+    <address>1633 Saint Johns Place</address>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11233</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
     <brokersummary>Discover this gorgeous, recently renovated 2-bedroom apartment in the heart of Crown Heights! Featuring exposed brick, a dishwasher, an ice machine, a microwave, and tons of cabinet space, this home blends modern convenience with classic charm. Enjoy a private backyard and easy access to the 3/4 trains at Utica Ave and A/C trains at Ralph Ave, making commuting a breeze. Situated in a vibrant neighborhood near Lincoln Terrace Park, shopping, and dining, this apartment offers the perfect blend of comfort and convenience. Schedule a viewing today!</brokersummary>
     <weblistingid>32584</weblistingid>
     <aptnumber>2</aptnumber>
@@ -6957,7 +7011,7 @@ No broker fee</brokersummary>
     <grosscommission />
     <buyersbrokercommision />
     <paidbywhom>O</paidbywhom>
-    <rent>2800</rent>
+    <rent>3000</rent>
     <furnishrent />
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
