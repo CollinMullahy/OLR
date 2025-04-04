@@ -15660,96 +15660,6 @@ Message me to view today!</brokersummary>
 
 <property>
   <building>
-    <address>2427 Dean Street</address>
-    <city>Brooklyn</city>
-    <state>NY</state>
-    <zipcode>11233</zipcode>
-  </building>
-  <details>
-    <distributiontype>P</distributiontype>
-    <saleorrent>R</saleorrent>
-    <brokersummary>Welcome to 2427 Dean St - Unit: 1B
-
-This charming STUDIO, 1-bathroom unit offers the perfect blend of modern convenience and classic charm. Located in a well-maintained building, this apartment boasts central A/C, exposed brick, and high ceilings for an airy and comfortable living experience.
-
-Enjoy the sleek design of hardwood floors throughout and a kitchen equipped with stainless steel appliances, including a dishwasher, granite countertops, and a cozy eat-in space for your meals.
-
-The building also provides laundry facilities and video intercom for added convenience and security. Step outside to relax with roof access or take advantage of the shared outdoor space.
-
-Key Amenities:
-
-Central A/C
-Exposed brick
-Hardwood floors
-Stainless steel appliances
-Laundry in building
-Roof access &amp; outdoor space
-
-Schedule your tour today to secure this exceptional living space!</brokersummary>
-    <weblistingid>31568</weblistingid>
-    <aptnumber>1B</aptnumber>
-    <apartmentsize>1</apartmentsize>
-    <numbedrooms>0</numbedrooms>
-    <numbaths>1</numbaths>
-    <numrooms>2</numrooms>
-    <listingtype>L</listingtype>
-    <status>A</status>
-    <listeddate>2025-04-04</listeddate>
-    <availabledate>Jan-01-2025</availabledate>
-    <modifieddate>2025-04-04</modifieddate>
-    <listingurl>https://myspacenyc.cazamio.com/apartments/2427-Dean-Street-Unit-1B-Brooklyn-NY-11233-31568</listingurl>
-    <price />
-    <grosscommission />
-    <buyersbrokercommision />
-    <paidbywhom>O</paidbywhom>
-    <rent>2100</rent>
-    <furnishrent />
-    <securitydeposit>1</securitydeposit>
-    <minterm>12</minterm>
-    <maxterm>12</maxterm>
-    <commissionmonth />
-    <commissionsplit-house />
-    <cof>TRUE</cof>
-    <petpolicy>C</petpolicy>
-  </details>
-  <agents>
-    <agent>
-      <firstname>Belle</firstname>
-      <lastname>Piper</lastname>
-      <title>Rental Agent</title>
-      <email>belle.msnyc@myspacenyc.com</email>
-      <workphone>(646) 854-3513</workphone>
-      <mobilephone />
-      <homephone />
-      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
-    </agent>
-  </agents>
-  <photos>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-12/1996_638686816313898589.jpeg?sv=2024-11-04&amp;se=2026-12-01T20%3A27%3A11Z&amp;sr=b&amp;sp=r&amp;sig=pZHr89PLBogGfe4vFLFCtcWmNQsvvs5I7MQObpv%2F4x8%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-12/1996_638686816314382548.jpeg?sv=2024-11-04&amp;se=2026-12-01T20%3A27%3A11Z&amp;sr=b&amp;sp=r&amp;sig=nyPHNpiTu5Pk%2FMgmhLI34msUHEi3AcaAxcZG7cN4bqE%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-12/1996_638686816314395167.jpeg?sv=2024-11-04&amp;se=2026-12-01T20%3A27%3A11Z&amp;sr=b&amp;sp=r&amp;sig=2e8DbK%2FPn5LaWJ9WblB4bHpDzS4OblMsBx01q38mfDc%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-12/1996_638686816314387322.jpeg?sv=2024-11-04&amp;se=2026-12-01T20%3A27%3A11Z&amp;sr=b&amp;sp=r&amp;sig=JQb85sRfEtQTX8hx%2B9hLoiB%2BO5aR3sGvIgLdKSAllDI%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-12/1996_638686816314362229.jpeg?sv=2024-11-04&amp;se=2026-12-01T20%3A27%3A11Z&amp;sr=b&amp;sp=r&amp;sig=HxoyESR8b6NjsDM%2FLsamy1cncJosLaUWAyU%2FFyTGcm4%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-12/1996_638686816314270103.jpeg?sv=2024-11-04&amp;se=2026-12-01T20%3A27%3A11Z&amp;sr=b&amp;sp=r&amp;sig=9DUZQpxkOxxKI7BGEGIjiNA%2FDGMV6vUSyPP2M9qWIlk%3D</url>
-    </media>
-  </photos>
-</property>
-
-
-
-<property>
-  <building>
     <address>92 East 53rd Street</address>
     <city>Brooklyn</city>
     <state>NY</state>
@@ -20182,7 +20092,7 @@ Live in luxury, surrounded by cultural landmarks and green spaces. With excellen
     <numbaths>2</numbaths>
     <numrooms>6</numrooms>
     <listingtype>L</listingtype>
-    <status>A</status>
+    <status>P</status>
     <listeddate>2025-04-04</listeddate>
     <availabledate>Oct-11-2024</availabledate>
     <modifieddate>2025-04-04</modifieddate>
