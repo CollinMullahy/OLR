@@ -3008,7 +3008,7 @@ Enjoy seamless access to the new esplanade and ferry terminal, ensuring swift co
     <grosscommission />
     <buyersbrokercommision />
     <paidbywhom>O</paidbywhom>
-    <rent>3200</rent>
+    <rent>3125</rent>
     <furnishrent />
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
@@ -3065,32 +3065,50 @@ Enjoy seamless access to the new esplanade and ferry terminal, ensuring swift co
 
 <property>
   <building>
-    <address>250 Clarkson Ave</address>
+    <address>930 Dekalb Ave</address>
     <city>Brooklyn</city>
     <state>NY</state>
-    <zipcode>11226</zipcode>
+    <zipcode>11221</zipcode>
   </building>
   <details>
     <distributiontype>P</distributiontype>
     <saleorrent>R</saleorrent>
-    <brokersummary>Not only is this studio / 1 Baths simply beautiful but it?s also located in one of the coolest and convenient neighborhoods! Ditmas is known for their breathtaking Victorian-style homes, and beautifully, well kept neighborhood streets. Take advantage of this reasonably priced pad! Enjoy local places to hangout like Hunger Pangs, Wheated, Sycamore, The Ox Tavern, The Farm, Milk and Honey, and Corthaiyou! Keep in mind, there are by far more cool places to check out in this charming neighborhood! Quick commute into Manhattan on the 2,3 or B,Q train lines! Don't forget about your endless options at Atlantic Terminal!</brokersummary>
-    <weblistingid>33232</weblistingid>
-    <aptnumber>203</aptnumber>
-    <apartmentsize>1</apartmentsize>
-    <numbedrooms>0</numbedrooms>
+    <brokersummary>Beautiful 2-Bedroom with City Views in Stuyvesant Heights!
+
+Located at 930 De Kalb Avenue, this 3-bedroom, 1-bath apartment combines modern comfort with historic charm in the heart of Stuyvesant Heights.
+
+Apartment Highlights:
+
+Spacious bedrooms with ample room
+Sleek bathroom with stylish finishes
+Unique design elements across floors
+Elegant white marble staircase
+Building Perks:
+
+Rooftop with stunning Manhattan skyline views
+Surrounded by historic brownstones
+Quick 25-minute commute to the city
+Close to J, M, and Z trains for easy transit
+Simple application process; guarantors accepted.
+
+Don?t miss out on this mix of modern amenities and classic charm in one of Brooklyn?s top neighborhoods! Schedule a visit today!</brokersummary>
+    <weblistingid>33259</weblistingid>
+    <aptnumber>402</aptnumber>
+    <apartmentsize>H</apartmentsize>
+    <numbedrooms>2</numbedrooms>
     <numbaths>1</numbaths>
-    <numrooms>2</numrooms>
+    <numrooms>4</numrooms>
     <listingtype>L</listingtype>
     <status>A</status>
     <listeddate>2025-04-22</listeddate>
-    <availabledate>Feb-15-2025</availabledate>
+    <availabledate>Jun-01-2025</availabledate>
     <modifieddate>2025-04-22</modifieddate>
-    <listingurl>https://myspacenyc.cazamio.com/apartments/250-Clarkson-Ave-Unit-203-Brooklyn-NY-11226-33232</listingurl>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/930-Dekalb-Ave-Unit-402-Brooklyn-NY-11221-33259</listingurl>
     <price />
     <grosscommission />
     <buyersbrokercommision />
     <paidbywhom>O</paidbywhom>
-    <rent>1950</rent>
+    <rent>2875</rent>
     <furnishrent />
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
@@ -3114,22 +3132,25 @@ Enjoy seamless access to the new esplanade and ferry terminal, ensuring swift co
   </agents>
   <photos>
     <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-04/8515455b-be52-4141-8a40-4c35d33cf98b_638808586238579250.jpeg?sv=2025-05-05&amp;se=2027-04-21T18%3A57%3A03Z&amp;sr=b&amp;sp=r&amp;sig=zlvS8WTd9KIY%2B%2F%2BGzjFB4y%2B7F%2B1q9aIMrcTLPbOVaGs%3D</url>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-03/22_638465686471895826.png?sv=2019-07-07&amp;sr=c&amp;sig=blGCTWI0SQ4jxJbDuiiQ306Hchpzy%2BonPpxp6dXJ1Qg%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
     </media>
     <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-04/8515455b-be52-4141-8a40-4c35d33cf98b_638808586238565087.jpeg?sv=2025-05-05&amp;se=2027-04-21T18%3A57%3A03Z&amp;sr=b&amp;sp=r&amp;sig=7RDcyPmVEJKni29956bzi2XUEFcTICMpuhlt4NnAvkU%3D</url>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-03/22_638465686508560817.png?sv=2019-07-07&amp;sr=c&amp;sig=blGCTWI0SQ4jxJbDuiiQ306Hchpzy%2BonPpxp6dXJ1Qg%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
     </media>
     <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-04/8515455b-be52-4141-8a40-4c35d33cf98b_638808586238642578.jpeg?sv=2025-05-05&amp;se=2027-04-21T18%3A57%3A03Z&amp;sr=b&amp;sp=r&amp;sig=2bjGw3Cb3hDsiNvy3kormTg9GrVBDFNZh9ApihT8l3s%3D</url>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-03/22_638465686542726899.png?sv=2019-07-07&amp;sr=c&amp;sig=blGCTWI0SQ4jxJbDuiiQ306Hchpzy%2BonPpxp6dXJ1Qg%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
     </media>
     <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-04/8515455b-be52-4141-8a40-4c35d33cf98b_638808586238540035.jpeg?sv=2025-05-05&amp;se=2027-04-21T18%3A57%3A03Z&amp;sr=b&amp;sp=r&amp;sig=bk0s0M7auiQd05F34hyygHU1FFPCDSjHzorii93p94U%3D</url>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-03/22_638465686583451537.png?sv=2019-07-07&amp;sr=c&amp;sig=blGCTWI0SQ4jxJbDuiiQ306Hchpzy%2BonPpxp6dXJ1Qg%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
     </media>
     <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-04/8515455b-be52-4141-8a40-4c35d33cf98b_638808586238590177.jpeg?sv=2025-05-05&amp;se=2027-04-21T18%3A57%3A03Z&amp;sr=b&amp;sp=r&amp;sig=9CG4Nf8SDZmiwHR55ssRm9V10kEUXUdnttLeZndID0Q%3D</url>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-03/22_638465686621216156.png?sv=2019-07-07&amp;sr=c&amp;sig=blGCTWI0SQ4jxJbDuiiQ306Hchpzy%2BonPpxp6dXJ1Qg%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
     </media>
     <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-04/8515455b-be52-4141-8a40-4c35d33cf98b_638808586238493753.jpeg?sv=2025-05-05&amp;se=2027-04-21T18%3A57%3A03Z&amp;sr=b&amp;sp=r&amp;sig=P05pTXXVx8Ndra8yTOz%2FiET%2BGNbn3CgpGVe%2BeFL6Vxg%3D</url>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-03/22_638465686659894079.png?sv=2019-07-07&amp;sr=c&amp;sig=blGCTWI0SQ4jxJbDuiiQ306Hchpzy%2BonPpxp6dXJ1Qg%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-03/22_638465686700025685.png?sv=2019-07-07&amp;sr=c&amp;sig=blGCTWI0SQ4jxJbDuiiQ306Hchpzy%2BonPpxp6dXJ1Qg%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
     </media>
   </photos>
 </property>
@@ -3163,7 +3184,7 @@ Enjoy seamless access to the new esplanade and ferry terminal, ensuring swift co
     <grosscommission />
     <buyersbrokercommision />
     <paidbywhom>O</paidbywhom>
-    <rent>3200</rent>
+    <rent>3095</rent>
     <furnishrent />
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
