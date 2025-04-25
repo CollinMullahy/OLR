@@ -5278,7 +5278,7 @@ Small pets OK</brokersummary>
     <numbaths>1</numbaths>
     <numrooms>4</numrooms>
     <listingtype>L</listingtype>
-    <status>A</status>
+    <status>P</status>
     <listeddate>2025-04-25</listeddate>
     <availabledate>Apr-15-2025</availabledate>
     <modifieddate>2025-04-25</modifieddate>
@@ -22384,6 +22384,78 @@ Live in luxury, surrounded by cultural landmarks and green spaces. With excellen
       <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-02/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638760287602706546.jpeg?sv=2025-01-05&amp;se=2027-02-24T21%3A19%3A20Z&amp;sr=b&amp;sp=r&amp;sig=3NRsNbE8QVklfH%2B4r8p05PtLBKf2PnDOhsSGNVtQflk%3D</url>
     </media>
   </photos>
+</property>
+
+
+
+<property>
+  <building>
+    <address>1457 Flatbush Avenue</address>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11210</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary>Modern 2-Bedroom in the Heart of Flatbush!
+
+Welcome to 1457 Flatbush Ave, a newly built residence offering style and convenience. This 2-bed, 1-bath unit features a washer/dryer in-unit, balcony, and abundant natural light.
+
+&#x1f3e2; Building Amenities:
+? Fully equipped fitness center
+? Rooftop terrace with city views
+? Stylish residents? lounge
+? Bike storage &amp; on-site laundry
+
+? Apartment Features:
+? Modern kitchen with stainless steel appliances
+? Spacious living areas with contemporary finishes
+? Large windows for great natural light
+
+&#x1f4cd; Prime Flatbush location ? steps from shops, dining &amp; easy transit access.
+
+&#x1f43e; Pet-friendly | Guarantors welcome.
+&#x1f4c5; Schedule a viewing today!</brokersummary>
+    <weblistingid>33381</weblistingid>
+    <aptnumber>512</aptnumber>
+    <apartmentsize>H</apartmentsize>
+    <numbedrooms>2</numbedrooms>
+    <numbaths>2</numbaths>
+    <numrooms>5</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2025-04-25</listeddate>
+    <availabledate>Jul-01-2025</availabledate>
+    <modifieddate>2025-04-25</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/1457-Flatbush-Avenue-Unit-512-Brooklyn-NY-11210-33381</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>3800</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos />
 </property>
 
 
