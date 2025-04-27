@@ -3590,6 +3590,76 @@ Enjoy seamless access to the new esplanade and ferry terminal, ensuring swift co
 
 <property>
   <building>
+    <address>553 Hinsdale St</address>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11207</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary>This freshly renovated one bedroom features brand new appliances, granite counter tops, lots of kitchen storage space, high ceilings, a huge bedroom, and an abundance of natural sunlight. Close to the 2/3/4/5 trains and multiple bus lines. This unit is a steal and will go fast so contact TODAY to schedule a showing!!</brokersummary>
+    <weblistingid>33403</weblistingid>
+    <aptnumber>A3</aptnumber>
+    <apartmentsize>7</apartmentsize>
+    <numbedrooms>1</numbedrooms>
+    <numbaths>1</numbaths>
+    <numrooms>3</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2025-04-27</listeddate>
+    <availabledate>Jun-01-2025</availabledate>
+    <modifieddate>2025-04-27</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/553-Hinsdale-St-Unit-A3-Brooklyn-NY-11207-33403</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>1925</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-03/8515455b-be52-4141-8a40-4c35d33cf98b_638772144875497388.jpeg?sv=2025-01-05&amp;se=2027-03-10T14%3A41%3A27Z&amp;sr=b&amp;sp=r&amp;sig=AID4YD68xm8JjPnO60%2BQD6lP5BU%2Fe4ND0k%2BSbi5zFeI%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-03/8515455b-be52-4141-8a40-4c35d33cf98b_638772144875394593.jpeg?sv=2025-01-05&amp;se=2027-03-10T14%3A41%3A27Z&amp;sr=b&amp;sp=r&amp;sig=EJG%2BdC1WHodG8FEXW5MbzxK13gP2%2FaXR32dCYSO9F8Q%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-03/8515455b-be52-4141-8a40-4c35d33cf98b_638772144875397184.jpeg?sv=2025-01-05&amp;se=2027-03-10T14%3A41%3A27Z&amp;sr=b&amp;sp=r&amp;sig=cjPozGL%2Bo4A6%2Frb%2Ff%2Bf%2FqAmBPTPfcJNGscS%2BMxnDd%2B8%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-03/8515455b-be52-4141-8a40-4c35d33cf98b_638772144874891087.jpeg?sv=2025-01-05&amp;se=2027-03-10T14%3A41%3A27Z&amp;sr=b&amp;sp=r&amp;sig=6a28IPbMi8Tod0X8WRTScn41z%2BvXsf8Xk6iERrFOOUQ%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-03/8515455b-be52-4141-8a40-4c35d33cf98b_638772144875654207.jpeg?sv=2025-01-05&amp;se=2027-03-10T14%3A41%3A27Z&amp;sr=b&amp;sp=r&amp;sig=VzKkZf2xm8cUyQrxlmIcoqLGxDdp8yZuiTUsW6KvFSY%3D</url>
+    </media>
+  </photos>
+</property>
+
+
+
+<property>
+  <building>
     <address>930 Dekalb Ave</address>
     <city>Brooklyn</city>
     <state>NY</state>
