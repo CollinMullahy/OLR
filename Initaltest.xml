@@ -4750,64 +4750,6 @@ Lifestyle
 
 <property>
   <building>
-    <address>55 Brooklyn Avenue</address>
-    <city>Brooklyn</city>
-    <state>NY</state>
-    <zipcode>11216</zipcode>
-  </building>
-  <details>
-    <distributiontype>P</distributiontype>
-    <saleorrent>R</saleorrent>
-    <brokersummary />
-    <weblistingid>32447</weblistingid>
-    <aptnumber>4</aptnumber>
-    <apartmentsize>H</apartmentsize>
-    <numbedrooms>2</numbedrooms>
-    <numbaths>1</numbaths>
-    <numrooms>4</numrooms>
-    <listingtype>L</listingtype>
-    <status>A</status>
-    <listeddate>2025-05-07</listeddate>
-    <availabledate>Mar-20-2025</availabledate>
-    <modifieddate>2025-05-07</modifieddate>
-    <listingurl>https://myspacenyc.cazamio.com/apartments/55-Brooklyn-Avenue-Unit-4-Brooklyn-NY-11216-32447</listingurl>
-    <price />
-    <grosscommission />
-    <buyersbrokercommision />
-    <paidbywhom>O</paidbywhom>
-    <rent>2500</rent>
-    <furnishrent />
-    <securitydeposit>1</securitydeposit>
-    <minterm>12</minterm>
-    <maxterm>12</maxterm>
-    <commissionmonth />
-    <commissionsplit-house />
-    <cof>TRUE</cof>
-    <petpolicy>C</petpolicy>
-  </details>
-  <agents>
-    <agent>
-      <firstname>Belle</firstname>
-      <lastname>Piper</lastname>
-      <title>Rental Agent</title>
-      <email>belle.msnyc@myspacenyc.com</email>
-      <workphone>(646) 854-3513</workphone>
-      <mobilephone />
-      <homephone />
-      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
-    </agent>
-  </agents>
-  <photos>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-03/af89ecc1-02ec-4b73-9198-5dcabcf3354e_638781017105156541.png?sv=2025-01-05&amp;se=2027-03-20T21%3A08%3A30Z&amp;sr=b&amp;sp=r&amp;sig=ge2NFAqA6Htil4NwGTaCt1V5%2FCAXRM348Y9WeD0yZ88%3D</url>
-    </media>
-  </photos>
-</property>
-
-
-
-<property>
-  <building>
     <address>186 Lenox Rd</address>
     <city>Brooklyn</city>
     <state>NY</state>
@@ -5216,6 +5158,264 @@ Virtual Doorman</brokersummary>
 
 <property>
   <building>
+    <address>355 E 48th St</address>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11203</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary>No-fee fully renovated 3BR in East Flatbush near SUNY Downstate &amp; Kings County. Quick walk to 2/3/5 trains.
+
+In-unit washer/dryer
+
+Modern eat-in kitchen
+
+Soaking tub
+
+10? ceilings, hardwood floors, HVAC
+
+Virtual tour available</brokersummary>
+    <weblistingid>33272</weblistingid>
+    <aptnumber>2F</aptnumber>
+    <apartmentsize>L</apartmentsize>
+    <numbedrooms>3</numbedrooms>
+    <numbaths>1</numbaths>
+    <numrooms>5</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2025-05-07</listeddate>
+    <availabledate>May-01-2025</availabledate>
+    <modifieddate>2025-05-07</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/355-E-48th-St-Unit-2F-Brooklyn-NY-11203-33272</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>3500</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-05/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638817953184643668.jpeg?sv=2025-05-05&amp;se=2027-05-02T15%3A08%3A38Z&amp;sr=b&amp;sp=r&amp;sig=T8LHV5oIBwufLP0APt69iiHQH7epuggi2TfhTqRKBvw%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-05/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638817953184751277.jpeg?sv=2025-05-05&amp;se=2027-05-02T15%3A08%3A38Z&amp;sr=b&amp;sp=r&amp;sig=AlHYAljwesJjZcAOpCv4uVXaFY7nP4bvc17w5EnAwkM%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-05/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638817953184922082.jpeg?sv=2025-05-05&amp;se=2027-05-02T15%3A08%3A38Z&amp;sr=b&amp;sp=r&amp;sig=CAKn%2BJo7b3HtuqdZyhKc1aV%2BmeDnGozoMrXGGLd13PI%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-05/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638817953184632784.jpeg?sv=2025-05-05&amp;se=2027-05-02T15%3A08%3A38Z&amp;sr=b&amp;sp=r&amp;sig=UAc8rbqW4tiQ89VNoqbFYJssuR8gsFUEClzQB7rnxsA%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-05/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638817953184841210.jpeg?sv=2025-05-05&amp;se=2027-05-02T15%3A08%3A38Z&amp;sr=b&amp;sp=r&amp;sig=rg3FpLiQ3MzqUg9%2F3%2F7Y%2FYS3z6sScfBTn%2BMTgiDdfQQ%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-05/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638817953184370778.jpeg?sv=2025-05-05&amp;se=2027-05-02T15%3A08%3A38Z&amp;sr=b&amp;sp=r&amp;sig=ayxzzxpEtwHBBY5q1hPPKyN68rxFnYaaTPJftOCxCIU%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-05/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638817953184549208.jpeg?sv=2025-05-05&amp;se=2027-05-02T15%3A08%3A38Z&amp;sr=b&amp;sp=r&amp;sig=26uQDmyiJxIW1Hc2vwcUrTePh5c9PLamNolx71QUS0k%3D</url>
+    </media>
+  </photos>
+</property>
+
+
+
+<property>
+  <building>
+    <address>1155 E 35th St</address>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11210</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary>1155 East 35th Street ? Renovated 1-Bedroom in Midwood!
+
+Enjoy modern living in a classic pre-war building with updated 1, 2, and 3-bedroom apartments.
+
+Why You?ll Love It:
+? Spacious king-sized bedroom
+? In-unit washer/dryer
+? Hardwood floors &amp; high ceilings
+? Modern stainless steel appliances
+? Pet-friendly (case-by-case)
+
+Prime Location:
+? Near Amersfort Park &amp; Brooklyn College
+? Easy access to 2 &amp; 5 trains
+? Close to shops, dining &amp; more
+
+NO BROKER FEE! Schedule a tour today!</brokersummary>
+    <weblistingid>33274</weblistingid>
+    <aptnumber>A11</aptnumber>
+    <apartmentsize>7</apartmentsize>
+    <numbedrooms>1</numbedrooms>
+    <numbaths>1</numbaths>
+    <numrooms>3</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2025-05-07</listeddate>
+    <availabledate>May-01-2025</availabledate>
+    <modifieddate>2025-05-07</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/1155-E-35th-St-Unit-A11-Brooklyn-NY-11210-33274</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>2400</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-03/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638784285515821125.jpeg?sv=2025-01-05&amp;se=2027-03-24T15%3A55%3A51Z&amp;sr=b&amp;sp=r&amp;sig=FTr8qqB31oxXDDZS89XnVjWOVoAt1ngqbdDY07wrvS4%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-03/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638784285516660311.jpeg?sv=2025-01-05&amp;se=2027-03-24T15%3A55%3A51Z&amp;sr=b&amp;sp=r&amp;sig=3cxOUYoTQqCxQCRIPJplVPVuqGmn6mBkT4V04XKCjo4%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-03/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638784285515356692.jpeg?sv=2025-01-05&amp;se=2027-03-24T15%3A55%3A51Z&amp;sr=b&amp;sp=r&amp;sig=%2BvdjvzwjhZoPqrRaBVnfnO0Qu9Qbr7S6Bpt90vn%2Bs1c%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-03/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638784285515655326.jpeg?sv=2025-01-05&amp;se=2027-03-24T15%3A55%3A51Z&amp;sr=b&amp;sp=r&amp;sig=QBMTUAsIr3WnaCAev1qR2dI%2FIbKgboK5Eo%2BSkAhJPHU%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-03/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638784285515246346.jpeg?sv=2025-01-05&amp;se=2027-03-24T15%3A55%3A51Z&amp;sr=b&amp;sp=r&amp;sig=Pi2Ex%2BAYZWL6ESM%2FdGczYFbo9CmuAd9v76%2F%2B6G0Evr8%3D</url>
+    </media>
+  </photos>
+</property>
+
+
+
+<property>
+  <building>
+    <address>1155 E 35th St</address>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11210</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary>1155 East 35th Street ? Renovated 1-Bedroom in Midwood!
+
+Enjoy modern living in a classic pre-war building with updated 1, 2, and 3-bedroom apartments.
+
+Why You?ll Love It:
+? Spacious king-sized bedroom
+? In-unit washer/dryer
+? Hardwood floors &amp; high ceilings
+? Modern stainless steel appliances
+? Pet-friendly (case-by-case)
+
+Prime Location:
+? Near Amersfort Park &amp; Brooklyn College
+? Easy access to 2 &amp; 5 trains
+? Close to shops, dining &amp; more
+
+NO BROKER FEE! Schedule a tour today!</brokersummary>
+    <weblistingid>33276</weblistingid>
+    <aptnumber>A20</aptnumber>
+    <apartmentsize>7</apartmentsize>
+    <numbedrooms>1</numbedrooms>
+    <numbaths>1</numbaths>
+    <numrooms>3</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2025-05-07</listeddate>
+    <availabledate>Jun-01-2025</availabledate>
+    <modifieddate>2025-05-07</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/1155-E-35th-St-Unit-A20-Brooklyn-NY-11210-33276</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>3300</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-03/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638784285515821125.jpeg?sv=2025-01-05&amp;se=2027-03-24T15%3A55%3A51Z&amp;sr=b&amp;sp=r&amp;sig=FTr8qqB31oxXDDZS89XnVjWOVoAt1ngqbdDY07wrvS4%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-03/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638784285516660311.jpeg?sv=2025-01-05&amp;se=2027-03-24T15%3A55%3A51Z&amp;sr=b&amp;sp=r&amp;sig=3cxOUYoTQqCxQCRIPJplVPVuqGmn6mBkT4V04XKCjo4%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-03/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638784285515356692.jpeg?sv=2025-01-05&amp;se=2027-03-24T15%3A55%3A51Z&amp;sr=b&amp;sp=r&amp;sig=%2BvdjvzwjhZoPqrRaBVnfnO0Qu9Qbr7S6Bpt90vn%2Bs1c%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-03/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638784285515655326.jpeg?sv=2025-01-05&amp;se=2027-03-24T15%3A55%3A51Z&amp;sr=b&amp;sp=r&amp;sig=QBMTUAsIr3WnaCAev1qR2dI%2FIbKgboK5Eo%2BSkAhJPHU%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-03/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638784285515246346.jpeg?sv=2025-01-05&amp;se=2027-03-24T15%3A55%3A51Z&amp;sr=b&amp;sp=r&amp;sig=Pi2Ex%2BAYZWL6ESM%2FdGczYFbo9CmuAd9v76%2F%2B6G0Evr8%3D</url>
+    </media>
+  </photos>
+</property>
+
+
+
+<property>
+  <building>
     <address>30 Rogers Ave</address>
     <city>Brooklyn</city>
     <state>NY</state>
@@ -5553,264 +5753,6 @@ Guarantors welcome</brokersummary>
     </agent>
   </agents>
   <photos />
-</property>
-
-
-
-<property>
-  <building>
-    <address>355 E 48th St</address>
-    <city>Brooklyn</city>
-    <state>NY</state>
-    <zipcode>11203</zipcode>
-  </building>
-  <details>
-    <distributiontype>P</distributiontype>
-    <saleorrent>R</saleorrent>
-    <brokersummary>No-fee fully renovated 3BR in East Flatbush near SUNY Downstate &amp; Kings County. Quick walk to 2/3/5 trains.
-
-In-unit washer/dryer
-
-Modern eat-in kitchen
-
-Soaking tub
-
-10? ceilings, hardwood floors, HVAC
-
-Virtual tour available</brokersummary>
-    <weblistingid>33272</weblistingid>
-    <aptnumber>2F</aptnumber>
-    <apartmentsize>L</apartmentsize>
-    <numbedrooms>3</numbedrooms>
-    <numbaths>1</numbaths>
-    <numrooms>5</numrooms>
-    <listingtype>L</listingtype>
-    <status>A</status>
-    <listeddate>2025-05-07</listeddate>
-    <availabledate>May-01-2025</availabledate>
-    <modifieddate>2025-05-07</modifieddate>
-    <listingurl>https://myspacenyc.cazamio.com/apartments/355-E-48th-St-Unit-2F-Brooklyn-NY-11203-33272</listingurl>
-    <price />
-    <grosscommission />
-    <buyersbrokercommision />
-    <paidbywhom>O</paidbywhom>
-    <rent>3500</rent>
-    <furnishrent />
-    <securitydeposit>1</securitydeposit>
-    <minterm>12</minterm>
-    <maxterm>12</maxterm>
-    <commissionmonth />
-    <commissionsplit-house />
-    <cof>TRUE</cof>
-    <petpolicy>C</petpolicy>
-  </details>
-  <agents>
-    <agent>
-      <firstname>Belle</firstname>
-      <lastname>Piper</lastname>
-      <title>Rental Agent</title>
-      <email>belle.msnyc@myspacenyc.com</email>
-      <workphone>(646) 854-3513</workphone>
-      <mobilephone />
-      <homephone />
-      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
-    </agent>
-  </agents>
-  <photos>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-05/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638817953184643668.jpeg?sv=2025-05-05&amp;se=2027-05-02T15%3A08%3A38Z&amp;sr=b&amp;sp=r&amp;sig=T8LHV5oIBwufLP0APt69iiHQH7epuggi2TfhTqRKBvw%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-05/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638817953184751277.jpeg?sv=2025-05-05&amp;se=2027-05-02T15%3A08%3A38Z&amp;sr=b&amp;sp=r&amp;sig=AlHYAljwesJjZcAOpCv4uVXaFY7nP4bvc17w5EnAwkM%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-05/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638817953184922082.jpeg?sv=2025-05-05&amp;se=2027-05-02T15%3A08%3A38Z&amp;sr=b&amp;sp=r&amp;sig=CAKn%2BJo7b3HtuqdZyhKc1aV%2BmeDnGozoMrXGGLd13PI%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-05/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638817953184632784.jpeg?sv=2025-05-05&amp;se=2027-05-02T15%3A08%3A38Z&amp;sr=b&amp;sp=r&amp;sig=UAc8rbqW4tiQ89VNoqbFYJssuR8gsFUEClzQB7rnxsA%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-05/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638817953184841210.jpeg?sv=2025-05-05&amp;se=2027-05-02T15%3A08%3A38Z&amp;sr=b&amp;sp=r&amp;sig=rg3FpLiQ3MzqUg9%2F3%2F7Y%2FYS3z6sScfBTn%2BMTgiDdfQQ%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-05/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638817953184370778.jpeg?sv=2025-05-05&amp;se=2027-05-02T15%3A08%3A38Z&amp;sr=b&amp;sp=r&amp;sig=ayxzzxpEtwHBBY5q1hPPKyN68rxFnYaaTPJftOCxCIU%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-05/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638817953184549208.jpeg?sv=2025-05-05&amp;se=2027-05-02T15%3A08%3A38Z&amp;sr=b&amp;sp=r&amp;sig=26uQDmyiJxIW1Hc2vwcUrTePh5c9PLamNolx71QUS0k%3D</url>
-    </media>
-  </photos>
-</property>
-
-
-
-<property>
-  <building>
-    <address>1155 E 35th St</address>
-    <city>Brooklyn</city>
-    <state>NY</state>
-    <zipcode>11210</zipcode>
-  </building>
-  <details>
-    <distributiontype>P</distributiontype>
-    <saleorrent>R</saleorrent>
-    <brokersummary>1155 East 35th Street ? Renovated 1-Bedroom in Midwood!
-
-Enjoy modern living in a classic pre-war building with updated 1, 2, and 3-bedroom apartments.
-
-Why You?ll Love It:
-? Spacious king-sized bedroom
-? In-unit washer/dryer
-? Hardwood floors &amp; high ceilings
-? Modern stainless steel appliances
-? Pet-friendly (case-by-case)
-
-Prime Location:
-? Near Amersfort Park &amp; Brooklyn College
-? Easy access to 2 &amp; 5 trains
-? Close to shops, dining &amp; more
-
-NO BROKER FEE! Schedule a tour today!</brokersummary>
-    <weblistingid>33274</weblistingid>
-    <aptnumber>A11</aptnumber>
-    <apartmentsize>7</apartmentsize>
-    <numbedrooms>1</numbedrooms>
-    <numbaths>1</numbaths>
-    <numrooms>3</numrooms>
-    <listingtype>L</listingtype>
-    <status>A</status>
-    <listeddate>2025-05-07</listeddate>
-    <availabledate>May-01-2025</availabledate>
-    <modifieddate>2025-05-07</modifieddate>
-    <listingurl>https://myspacenyc.cazamio.com/apartments/1155-E-35th-St-Unit-A11-Brooklyn-NY-11210-33274</listingurl>
-    <price />
-    <grosscommission />
-    <buyersbrokercommision />
-    <paidbywhom>O</paidbywhom>
-    <rent>2400</rent>
-    <furnishrent />
-    <securitydeposit>1</securitydeposit>
-    <minterm>12</minterm>
-    <maxterm>12</maxterm>
-    <commissionmonth />
-    <commissionsplit-house />
-    <cof>TRUE</cof>
-    <petpolicy>C</petpolicy>
-  </details>
-  <agents>
-    <agent>
-      <firstname>Belle</firstname>
-      <lastname>Piper</lastname>
-      <title>Rental Agent</title>
-      <email>belle.msnyc@myspacenyc.com</email>
-      <workphone>(646) 854-3513</workphone>
-      <mobilephone />
-      <homephone />
-      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
-    </agent>
-  </agents>
-  <photos>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-03/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638784285515821125.jpeg?sv=2025-01-05&amp;se=2027-03-24T15%3A55%3A51Z&amp;sr=b&amp;sp=r&amp;sig=FTr8qqB31oxXDDZS89XnVjWOVoAt1ngqbdDY07wrvS4%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-03/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638784285516660311.jpeg?sv=2025-01-05&amp;se=2027-03-24T15%3A55%3A51Z&amp;sr=b&amp;sp=r&amp;sig=3cxOUYoTQqCxQCRIPJplVPVuqGmn6mBkT4V04XKCjo4%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-03/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638784285515356692.jpeg?sv=2025-01-05&amp;se=2027-03-24T15%3A55%3A51Z&amp;sr=b&amp;sp=r&amp;sig=%2BvdjvzwjhZoPqrRaBVnfnO0Qu9Qbr7S6Bpt90vn%2Bs1c%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-03/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638784285515655326.jpeg?sv=2025-01-05&amp;se=2027-03-24T15%3A55%3A51Z&amp;sr=b&amp;sp=r&amp;sig=QBMTUAsIr3WnaCAev1qR2dI%2FIbKgboK5Eo%2BSkAhJPHU%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-03/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638784285515246346.jpeg?sv=2025-01-05&amp;se=2027-03-24T15%3A55%3A51Z&amp;sr=b&amp;sp=r&amp;sig=Pi2Ex%2BAYZWL6ESM%2FdGczYFbo9CmuAd9v76%2F%2B6G0Evr8%3D</url>
-    </media>
-  </photos>
-</property>
-
-
-
-<property>
-  <building>
-    <address>1155 E 35th St</address>
-    <city>Brooklyn</city>
-    <state>NY</state>
-    <zipcode>11210</zipcode>
-  </building>
-  <details>
-    <distributiontype>P</distributiontype>
-    <saleorrent>R</saleorrent>
-    <brokersummary>1155 East 35th Street ? Renovated 1-Bedroom in Midwood!
-
-Enjoy modern living in a classic pre-war building with updated 1, 2, and 3-bedroom apartments.
-
-Why You?ll Love It:
-? Spacious king-sized bedroom
-? In-unit washer/dryer
-? Hardwood floors &amp; high ceilings
-? Modern stainless steel appliances
-? Pet-friendly (case-by-case)
-
-Prime Location:
-? Near Amersfort Park &amp; Brooklyn College
-? Easy access to 2 &amp; 5 trains
-? Close to shops, dining &amp; more
-
-NO BROKER FEE! Schedule a tour today!</brokersummary>
-    <weblistingid>33276</weblistingid>
-    <aptnumber>A20</aptnumber>
-    <apartmentsize>7</apartmentsize>
-    <numbedrooms>1</numbedrooms>
-    <numbaths>1</numbaths>
-    <numrooms>3</numrooms>
-    <listingtype>L</listingtype>
-    <status>A</status>
-    <listeddate>2025-05-07</listeddate>
-    <availabledate>Jun-01-2025</availabledate>
-    <modifieddate>2025-05-07</modifieddate>
-    <listingurl>https://myspacenyc.cazamio.com/apartments/1155-E-35th-St-Unit-A20-Brooklyn-NY-11210-33276</listingurl>
-    <price />
-    <grosscommission />
-    <buyersbrokercommision />
-    <paidbywhom>O</paidbywhom>
-    <rent>3300</rent>
-    <furnishrent />
-    <securitydeposit>1</securitydeposit>
-    <minterm>12</minterm>
-    <maxterm>12</maxterm>
-    <commissionmonth />
-    <commissionsplit-house />
-    <cof>TRUE</cof>
-    <petpolicy>C</petpolicy>
-  </details>
-  <agents>
-    <agent>
-      <firstname>Belle</firstname>
-      <lastname>Piper</lastname>
-      <title>Rental Agent</title>
-      <email>belle.msnyc@myspacenyc.com</email>
-      <workphone>(646) 854-3513</workphone>
-      <mobilephone />
-      <homephone />
-      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
-    </agent>
-  </agents>
-  <photos>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-03/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638784285515821125.jpeg?sv=2025-01-05&amp;se=2027-03-24T15%3A55%3A51Z&amp;sr=b&amp;sp=r&amp;sig=FTr8qqB31oxXDDZS89XnVjWOVoAt1ngqbdDY07wrvS4%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-03/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638784285516660311.jpeg?sv=2025-01-05&amp;se=2027-03-24T15%3A55%3A51Z&amp;sr=b&amp;sp=r&amp;sig=3cxOUYoTQqCxQCRIPJplVPVuqGmn6mBkT4V04XKCjo4%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-03/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638784285515356692.jpeg?sv=2025-01-05&amp;se=2027-03-24T15%3A55%3A51Z&amp;sr=b&amp;sp=r&amp;sig=%2BvdjvzwjhZoPqrRaBVnfnO0Qu9Qbr7S6Bpt90vn%2Bs1c%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-03/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638784285515655326.jpeg?sv=2025-01-05&amp;se=2027-03-24T15%3A55%3A51Z&amp;sr=b&amp;sp=r&amp;sig=QBMTUAsIr3WnaCAev1qR2dI%2FIbKgboK5Eo%2BSkAhJPHU%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-03/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638784285515246346.jpeg?sv=2025-01-05&amp;se=2027-03-24T15%3A55%3A51Z&amp;sr=b&amp;sp=r&amp;sig=Pi2Ex%2BAYZWL6ESM%2FdGczYFbo9CmuAd9v76%2F%2B6G0Evr8%3D</url>
-    </media>
-  </photos>
 </property>
 
 
