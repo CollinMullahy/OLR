@@ -2791,7 +2791,7 @@ No broker fee.</brokersummary>
     <grosscommission />
     <buyersbrokercommision />
     <paidbywhom>O</paidbywhom>
-    <rent>3850</rent>
+    <rent>3500</rent>
     <furnishrent />
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
@@ -3358,7 +3358,7 @@ Schedule a tour today!</brokersummary>
     <grosscommission />
     <buyersbrokercommision />
     <paidbywhom>O</paidbywhom>
-    <rent>4000</rent>
+    <rent>3900</rent>
     <furnishrent />
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
