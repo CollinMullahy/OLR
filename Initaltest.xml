@@ -441,7 +441,7 @@ No broker fee</brokersummary>
     <grosscommission />
     <buyersbrokercommision />
     <paidbywhom>O</paidbywhom>
-    <rent>3000</rent>
+    <rent>2950</rent>
     <furnishrent />
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
@@ -529,7 +529,7 @@ No broker fee</brokersummary>
     <grosscommission />
     <buyersbrokercommision />
     <paidbywhom>O</paidbywhom>
-    <rent>3000</rent>
+    <rent>2950</rent>
     <furnishrent />
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
@@ -610,7 +610,7 @@ Small pets OK</brokersummary>
     <grosscommission />
     <buyersbrokercommision />
     <paidbywhom>O</paidbywhom>
-    <rent>3250</rent>
+    <rent>3175</rent>
     <furnishrent />
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
@@ -7355,6 +7355,85 @@ Don?t miss out on this mix of modern amenities and classic charm in one of Brook
     </media>
     <media>
       <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-03/22_638465686700025685.png?sv=2019-07-07&amp;sr=c&amp;sig=blGCTWI0SQ4jxJbDuiiQ306Hchpzy%2BonPpxp6dXJ1Qg%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+  </photos>
+</property>
+
+
+
+<property>
+  <building>
+    <address>401 E 21st St</address>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11226</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary />
+    <weblistingid>33991</weblistingid>
+    <aptnumber>C3</aptnumber>
+    <apartmentsize>7</apartmentsize>
+    <numbedrooms>1</numbedrooms>
+    <numbaths>1</numbaths>
+    <numrooms>3</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2025-05-15</listeddate>
+    <availabledate>Jul-01-2025</availabledate>
+    <modifieddate>2025-05-15</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/401-E-21st-St-Unit-C3-Brooklyn-NY-11226-33991</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>2095</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-04/8515455b-be52-4141-8a40-4c35d33cf98b_638791998260293562.jpeg?sv=2025-01-05&amp;se=2027-04-02T14%3A10%3A26Z&amp;sr=b&amp;sp=r&amp;sig=PEAcCt0HplVs7LZoX0F9lgYVhMFvILJew6gj8KcThXI%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-04/8515455b-be52-4141-8a40-4c35d33cf98b_638791998260316906.jpeg?sv=2025-01-05&amp;se=2027-04-02T14%3A10%3A26Z&amp;sr=b&amp;sp=r&amp;sig=E%2F6njmUw7EyN1QG2YbU4iYwH8Q5tviatSyuEgMb%2FHPA%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-04/8515455b-be52-4141-8a40-4c35d33cf98b_638791998260286912.jpeg?sv=2025-01-05&amp;se=2027-04-02T14%3A10%3A26Z&amp;sr=b&amp;sp=r&amp;sig=Awtu9y25a8qbp4xMLx0XxFk1o3OslHLfAiSNV2%2Bxo1I%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-04/8515455b-be52-4141-8a40-4c35d33cf98b_638791998260281529.jpeg?sv=2025-01-05&amp;se=2027-04-02T14%3A10%3A26Z&amp;sr=b&amp;sp=r&amp;sig=oCHWjP6lK1zIuC4grwmyHve5CsirikO%2Ff%2FejuX3nj6U%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-04/8515455b-be52-4141-8a40-4c35d33cf98b_638791998260245973.jpeg?sv=2025-01-05&amp;se=2027-04-02T14%3A10%3A26Z&amp;sr=b&amp;sp=r&amp;sig=hnpE0U8tW8uUqxhAdncU%2B%2FC1I7YcZ7Hk%2BJUt6TgkwnQ%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-04/8515455b-be52-4141-8a40-4c35d33cf98b_638791998260259454.jpeg?sv=2025-01-05&amp;se=2027-04-02T14%3A10%3A26Z&amp;sr=b&amp;sp=r&amp;sig=laAk2l63aYCzt72N9ostFtu%2BY4ePllXyahf060ncK%2BI%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-04/8515455b-be52-4141-8a40-4c35d33cf98b_638791998260421440.jpeg?sv=2025-01-05&amp;se=2027-04-02T14%3A10%3A26Z&amp;sr=b&amp;sp=r&amp;sig=opkzDs9U0Uy6mflLZjRQzXXBz%2F8M1B9oZZ0Na0iNRJk%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-04/8515455b-be52-4141-8a40-4c35d33cf98b_638791998260791381.jpeg?sv=2025-01-05&amp;se=2027-04-02T14%3A10%3A26Z&amp;sr=b&amp;sp=r&amp;sig=DCBEZ1LNO0cz1VqinKYRlWbDaB4g6K%2BT1exFmPXuEzs%3D</url>
     </media>
   </photos>
 </property>
