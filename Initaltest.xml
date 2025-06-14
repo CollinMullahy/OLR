@@ -27380,82 +27380,6 @@ Near Kosciuszko Pool, one block to the park, and close to the G train. Easy comm
 
 <property>
   <building>
-    <address>796 McDonald Avenue</address>
-    <city>Brooklyn</city>
-    <state>NY</state>
-    <zipcode>11218</zipcode>
-  </building>
-  <details>
-    <distributiontype>P</distributiontype>
-    <saleorrent>R</saleorrent>
-    <brokersummary>Newly renovated 2 bedrooms off of Ditmas F train and near the B, Q train also in Kensington! 10 minutes Downtown BK, Park Slope, PLG, Prospect Park etc
-Quick to Manhattan also!
-
-Heat and hot water included. Apartment has updated kitchen and bathroom and is spacious!
-
-Pets okay! No fee! 
-Message me immediately</brokersummary>
-    <weblistingid>34576</weblistingid>
-    <aptnumber>3F</aptnumber>
-    <apartmentsize>H</apartmentsize>
-    <numbedrooms>2</numbedrooms>
-    <numbaths>1</numbaths>
-    <numrooms>4</numrooms>
-    <listingtype>L</listingtype>
-    <status>A</status>
-    <listeddate>2025-06-13</listeddate>
-    <availabledate>Jul-01-2025</availabledate>
-    <modifieddate>2025-06-13</modifieddate>
-    <listingurl>https://myspacenyc.cazamio.com/apartments/796-McDonald-Avenue-Unit-3F-Brooklyn-NY-11218-34576</listingurl>
-    <price />
-    <grosscommission />
-    <buyersbrokercommision />
-    <paidbywhom>O</paidbywhom>
-    <rent>2450</rent>
-    <furnishrent />
-    <securitydeposit>1</securitydeposit>
-    <minterm>12</minterm>
-    <maxterm>12</maxterm>
-    <commissionmonth />
-    <commissionsplit-house />
-    <cof>TRUE</cof>
-    <petpolicy>C</petpolicy>
-  </details>
-  <agents>
-    <agent>
-      <firstname>Belle</firstname>
-      <lastname>Piper</lastname>
-      <title>Rental Agent</title>
-      <email>belle.msnyc@myspacenyc.com</email>
-      <workphone>(646) 854-3513</workphone>
-      <mobilephone />
-      <homephone />
-      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
-    </agent>
-  </agents>
-  <photos>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-06/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638850865569300543.jpeg?sv=2025-05-05&amp;se=2027-06-09T17%3A22%3A36Z&amp;sr=b&amp;sp=r&amp;sig=81en163kx5KygViVwQdZF8QVlzBag6p2sY55hMtPqN4%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-06/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638850871908968975.jpeg?sv=2025-05-05&amp;se=2027-06-09T17%3A33%3A10Z&amp;sr=b&amp;sp=r&amp;sig=MLRKLbobhny%2FF5wVtX3ctG9CoFpAcDTU6MIDm7%2BuXqg%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-06/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638850868608483260.jpeg?sv=2025-05-05&amp;se=2027-06-09T17%3A27%3A40Z&amp;sr=b&amp;sp=r&amp;sig=g8036%2FbWRK8hblqhzd0HHFXxiFn8CkcA0YXkiPRDYCc%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-06/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638850871009911527.jpeg?sv=2025-05-05&amp;se=2027-06-09T17%3A31%3A41Z&amp;sr=b&amp;sp=r&amp;sig=vzoNSutacaVpPnDka%2BFr1sM%2BH8uWK2u6%2Ft%2FiQMEWcm0%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-06/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638850865685222781.jpeg?sv=2025-05-05&amp;se=2027-06-09T17%3A22%3A48Z&amp;sr=b&amp;sp=r&amp;sig=haKp2usn8chif8LO03N4byLkTNBcinDfldfQi3ONfFA%3D</url>
-    </media>
-  </photos>
-</property>
-
-
-
-<property>
-  <building>
     <address>1629 Brooklyn Avenue</address>
     <city>Brooklyn</city>
     <state>NY</state>
@@ -27698,6 +27622,60 @@ Message me immediately</brokersummary>
     <buyersbrokercommision />
     <paidbywhom>O</paidbywhom>
     <rent>2800</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos />
+</property>
+
+
+
+<property>
+  <building>
+    <address>796 McDonald Avenue</address>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11218</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary />
+    <weblistingid>34737</weblistingid>
+    <aptnumber>3A</aptnumber>
+    <apartmentsize>H</apartmentsize>
+    <numbedrooms>2</numbedrooms>
+    <numbaths>1</numbaths>
+    <numrooms>4</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2025-06-13</listeddate>
+    <availabledate>Jul-01-2025</availabledate>
+    <modifieddate>2025-06-13</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/796-McDonald-Avenue-Unit-3A-Brooklyn-NY-11218-34737</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>2450</rent>
     <furnishrent />
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
