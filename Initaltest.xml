@@ -10849,7 +10849,7 @@ NO FEE</brokersummary>
     <grosscommission />
     <buyersbrokercommision />
     <paidbywhom>O</paidbywhom>
-    <rent>4400</rent>
+    <rent>4600</rent>
     <furnishrent />
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
@@ -12789,7 +12789,7 @@ Lucky for you you?re nestled on a residential block, close to shops, stores, and
     <numbaths>1</numbaths>
     <numrooms>3</numrooms>
     <listingtype>L</listingtype>
-    <status>A</status>
+    <status>P</status>
     <listeddate>2025-06-17</listeddate>
     <availabledate>Jul-01-2025</availabledate>
     <modifieddate>2025-06-17</modifieddate>
