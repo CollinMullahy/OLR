@@ -23443,60 +23443,6 @@ Don?t miss out on this rare opportunity to live in style and comfort!</brokersum
 
 <property>
   <building>
-    <address>742 Chauncey Street</address>
-    <city>Brooklyn</city>
-    <state>NY</state>
-    <zipcode>11207</zipcode>
-  </building>
-  <details>
-    <distributiontype>P</distributiontype>
-    <saleorrent>R</saleorrent>
-    <brokersummary />
-    <weblistingid>32077</weblistingid>
-    <aptnumber>1</aptnumber>
-    <apartmentsize>6BED</apartmentsize>
-    <numbedrooms>6</numbedrooms>
-    <numbaths>5</numbaths>
-    <numrooms>12</numrooms>
-    <listingtype>L</listingtype>
-    <status>A</status>
-    <listeddate>2025-07-03</listeddate>
-    <availabledate>May-01-2025</availabledate>
-    <modifieddate>2025-07-03</modifieddate>
-    <listingurl>https://myspacenyc.cazamio.com/apartments/742-Chauncey-Street-Unit-1-Brooklyn-NY-11207-32077</listingurl>
-    <price />
-    <grosscommission />
-    <buyersbrokercommision />
-    <paidbywhom>O</paidbywhom>
-    <rent>5500</rent>
-    <furnishrent />
-    <securitydeposit>1</securitydeposit>
-    <minterm>12</minterm>
-    <maxterm>12</maxterm>
-    <commissionmonth />
-    <commissionsplit-house />
-    <cof>TRUE</cof>
-    <petpolicy>C</petpolicy>
-  </details>
-  <agents>
-    <agent>
-      <firstname>Belle</firstname>
-      <lastname>Piper</lastname>
-      <title>Rental Agent</title>
-      <email>belle.msnyc@myspacenyc.com</email>
-      <workphone>(646) 854-3513</workphone>
-      <mobilephone />
-      <homephone />
-      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
-    </agent>
-  </agents>
-  <photos />
-</property>
-
-
-
-<property>
-  <building>
     <address>1269 Herkimer Street</address>
     <city>Brooklyn</city>
     <state>NY</state>
@@ -23577,6 +23523,68 @@ Don?t miss out on this rare opportunity to live in style and comfort!</brokersum
     <buyersbrokercommision />
     <paidbywhom>O</paidbywhom>
     <rent>3700</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos />
+</property>
+
+
+
+<property>
+  <building>
+    <address>2196A Fulton Street</address>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11233</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary>Be the next resident at this stunning 6-bedroom, 3-bathroom duplex unit in Ocean Hill.
+
+Gorgeous kitchen with a spacious kitchen island
+Skylight in the living room
+In-unit laundry facilities
+queen-size bedrooms
+Three full bathrooms 
+Private backyard
+Surrounded by delis, bars, cafes, and more!</brokersummary>
+    <weblistingid>18864</weblistingid>
+    <aptnumber>1</aptnumber>
+    <apartmentsize>6BED</apartmentsize>
+    <numbedrooms>6</numbedrooms>
+    <numbaths>3</numbaths>
+    <numrooms>10</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2025-07-03</listeddate>
+    <availabledate>Aug-01-2025</availabledate>
+    <modifieddate>2025-07-03</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/2196A-Fulton-Street-Unit-1-Brooklyn-NY-11233-18864</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>6200</rent>
     <furnishrent />
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
