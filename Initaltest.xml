@@ -1357,7 +1357,7 @@ No broker fee</brokersummary>
     <numbaths>1</numbaths>
     <numrooms>3</numrooms>
     <listingtype>L</listingtype>
-    <status>A</status>
+    <status>P</status>
     <listeddate>2025-07-10</listeddate>
     <availabledate>Aug-01-2025</availabledate>
     <modifieddate>2025-07-10</modifieddate>
@@ -1443,7 +1443,7 @@ August 1 move in</brokersummary>
     <numbaths>1</numbaths>
     <numrooms>3</numrooms>
     <listingtype>L</listingtype>
-    <status>A</status>
+    <status>P</status>
     <listeddate>2025-07-10</listeddate>
     <availabledate>Aug-01-2025</availabledate>
     <modifieddate>2025-07-10</modifieddate>
@@ -19163,6 +19163,95 @@ Small pets are welcome with approval.</brokersummary>
     </media>
     <media>
       <url>https://s3.amazonaws.com/realty-monster-avatars-new/images/files/000/450/750/large/262_E_55th_St__4A-6.jpg?1668804744</url>
+    </media>
+  </photos>
+</property>
+
+
+
+<property>
+  <building>
+    <address>823 Willoughby Ave</address>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11206</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary>Welcome to 823 Willoughby Ave
+
+Spacious and sunny 1-bedroom with central air and in-unit laundry, located on the 4th floor of a walk-up building. This front-facing unit features hardwood floors, full-size appliances, and an eat-in kitchen area. Enjoy plenty of natural light throughout and access to a shared roof deck.
+
+Fantastic location just one block from the subway, surrounded by all the charm and convenience of the neighborhood.</brokersummary>
+    <weblistingid>35284</weblistingid>
+    <aptnumber>4B</aptnumber>
+    <apartmentsize>7</apartmentsize>
+    <numbedrooms>1</numbedrooms>
+    <numbaths>1</numbaths>
+    <numrooms>3</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2025-07-10</listeddate>
+    <availabledate>Aug-01-2025</availabledate>
+    <modifieddate>2025-07-10</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/823-Willoughby-Ave-Unit-4B-Brooklyn-NY-11206-35284</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>2026</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-07/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638877724935353869.jpeg?sv=2025-05-05&amp;se=2027-07-10T19%3A28%3A13Z&amp;sr=b&amp;sp=r&amp;sig=ZyezZhSguGRe%2F%2F19cH3%2B9Y4SXS1eshzcRRXlaedNuUY%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-07/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638877724937549373.jpeg?sv=2025-05-05&amp;se=2027-07-10T19%3A28%3A13Z&amp;sr=b&amp;sp=r&amp;sig=%2FDsOfiWrgb4xYpEqvvEKkGsd19wHlzXV2hGV1Lv1jEs%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-07/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638877724937254898.jpeg?sv=2025-05-05&amp;se=2027-07-10T19%3A28%3A13Z&amp;sr=b&amp;sp=r&amp;sig=rULgwRwmRAcIaShuENFYVj%2FFGW6bvUmFxenerbfe5Fw%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-07/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638877724935176894.jpeg?sv=2025-05-05&amp;se=2027-07-10T19%3A28%3A13Z&amp;sr=b&amp;sp=r&amp;sig=O8PXSbM4YgzWRZr2owJQn8dUUpcAGXIrafM9EQR7WVg%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-07/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638877724934809669.jpeg?sv=2025-05-05&amp;se=2027-07-10T19%3A28%3A13Z&amp;sr=b&amp;sp=r&amp;sig=Ax3BMO%2B%2F2rx3UBngELPEM60o9C0NikMDc46m%2FAje8lI%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-07/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638877724935201122.jpeg?sv=2025-05-05&amp;se=2027-07-10T19%3A28%3A13Z&amp;sr=b&amp;sp=r&amp;sig=LolFO8p%2B0DbOSLSG%2Br7S31ooERqaFGpxY3kD5b5%2F92w%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-07/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638877724939055224.jpeg?sv=2025-05-05&amp;se=2027-07-10T19%3A28%3A13Z&amp;sr=b&amp;sp=r&amp;sig=Vw9xJqlwjsbIizmBXOWMzyFbBngZvUzVd70LpyYI3SM%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-07/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638877724935834132.jpeg?sv=2025-05-05&amp;se=2027-07-10T19%3A28%3A13Z&amp;sr=b&amp;sp=r&amp;sig=iA%2B8GxKzz3isS5e%2FN1pTmx6xMlNtcuGHb9y1cJpSBEU%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-07/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638877724943912785.jpeg?sv=2025-05-05&amp;se=2027-07-10T19%3A28%3A14Z&amp;sr=b&amp;sp=r&amp;sig=ziTSCk%2FkBi36soZ78v3EsVCM%2FYKrZRQDPX9CotXx628%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-07/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638877724937359771.jpeg?sv=2025-05-05&amp;se=2027-07-10T19%3A28%3A13Z&amp;sr=b&amp;sp=r&amp;sig=blNmWC1huNA5rfzf8TTmPJ%2Bqwk08ft47WgjhibM%2Faq8%3D</url>
     </media>
   </photos>
 </property>
