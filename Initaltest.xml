@@ -24153,6 +24153,138 @@ Located just minutes from the B, Q, 2, and 5 trains, with Prospect Park, top din
 
 <property>
   <building>
+    <address>567 Warren Street</address>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11217</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary>567 Warren St ? Duplex Near Barclays &amp; Atlantic Terminal
+
+? Spacious duplex with 2 king-size bedrooms, each with closets
+? Private balcony
+? Elevator building
+? Washer &amp; dryer hook-up
+? Open kitchen with stainless steel appliances
+? Individual thermostat for heat &amp; hot water
+? Fenced, secured parking available
+? Rooftop access with amazing views
+
+Transportation:
+B, D, N, R, Q, 2, 3, 4, 5 at Pacific St ? just steps away</brokersummary>
+    <weblistingid>35620</weblistingid>
+    <aptnumber>PH2</aptnumber>
+    <apartmentsize>H</apartmentsize>
+    <numbedrooms>2</numbedrooms>
+    <numbaths>2</numbaths>
+    <numrooms>5</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2025-07-22</listeddate>
+    <availabledate>Aug-15-2025</availabledate>
+    <modifieddate>2025-07-22</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/567-Warren-Street-Unit-PH2-Brooklyn-NY-11217-35620</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>6000</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos />
+</property>
+
+
+
+<property>
+  <building>
+    <address>567 Warren Street</address>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11217</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary>567 Warren St ?Near Barclays &amp; Atlantic Terminal
+
+? Spacious duplex with 2 king-size bedrooms, each with closets
+? Private balcony
+? Elevator building
+? Washer &amp; dryer hook-up
+? Open kitchen with stainless steel appliances
+? Individual thermostat for heat &amp; hot water
+? Fenced, secured parking available
+? Rooftop access with amazing views
+
+Transportation:
+B, D, N, R, Q, 2, 3, 4, 5 at Pacific St ? just steps away</brokersummary>
+    <weblistingid>35621</weblistingid>
+    <aptnumber>603</aptnumber>
+    <apartmentsize>H</apartmentsize>
+    <numbedrooms>2</numbedrooms>
+    <numbaths>1</numbaths>
+    <numrooms>4</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2025-07-22</listeddate>
+    <availabledate>Aug-01-2025</availabledate>
+    <modifieddate>2025-07-22</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/567-Warren-Street-Unit-603-Brooklyn-NY-11217-35621</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>5500</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos />
+</property>
+
+
+
+<property>
+  <building>
     <address>79 Quay Street</address>
     <city>Brooklyn</city>
     <state>NY</state>
