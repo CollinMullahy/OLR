@@ -712,7 +712,7 @@ Available 8/1/2025</brokersummary>
     <numbaths>1</numbaths>
     <numrooms>4</numrooms>
     <listingtype>L</listingtype>
-    <status>A</status>
+    <status>P</status>
     <listeddate>2025-08-06</listeddate>
     <availabledate>Aug-01-2025</availabledate>
     <modifieddate>2025-08-06</modifieddate>
@@ -6180,10 +6180,10 @@ Unbeatable location at the crossroads of Boerum Hill, Gowanus &amp; Park Slope, 
 &#x1f4c5; Schedule your tour today and make The Baltic Canal your next home.</brokersummary>
     <weblistingid>35928</weblistingid>
     <aptnumber>3I</aptnumber>
-    <apartmentsize>7</apartmentsize>
-    <numbedrooms>1</numbedrooms>
+    <apartmentsize>H</apartmentsize>
+    <numbedrooms>2</numbedrooms>
     <numbaths>1</numbaths>
-    <numrooms>3</numrooms>
+    <numrooms>4</numrooms>
     <listingtype>L</listingtype>
     <status>A</status>
     <listeddate>2025-08-06</listeddate>
@@ -6194,7 +6194,7 @@ Unbeatable location at the crossroads of Boerum Hill, Gowanus &amp; Park Slope, 
     <grosscommission />
     <buyersbrokercommision />
     <paidbywhom>O</paidbywhom>
-    <rent>4200</rent>
+    <rent>4800</rent>
     <furnishrent />
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
@@ -6314,6 +6314,60 @@ Unbeatable location at the crossroads of Boerum Hill, Gowanus &amp; Park Slope, 
       <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-08/8515455b-be52-4141-8a40-4c35d33cf98b_638901073395388408.jpeg?sv=2025-05-05&amp;se=2027-08-06T20%3A02%3A19Z&amp;sr=b&amp;sp=r&amp;sig=bQ7L3YSWZ%2FqOCsIXyVgLc60CqWqcT1JAK3o6fH3Sww0%3D</url>
     </media>
   </photos>
+</property>
+
+
+
+<property>
+  <building>
+    <address>1061 Bergen St</address>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11216</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary />
+    <weblistingid>35929</weblistingid>
+    <aptnumber>6</aptnumber>
+    <apartmentsize>L</apartmentsize>
+    <numbedrooms>3</numbedrooms>
+    <numbaths>1</numbaths>
+    <numrooms>5</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2025-08-06</listeddate>
+    <availabledate>Aug-06-2025</availabledate>
+    <modifieddate>2025-08-06</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/1061-Bergen-St-Unit-6-Brooklyn-NY-11216-35929</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>3500</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos />
 </property>
 
 
