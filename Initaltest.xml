@@ -18847,6 +18847,283 @@ Groceries, pharmacies, bars and restaurants are just steps away. Located around 
 
 <property>
   <building>
+    <address>489 Grand Street</address>
+    <city>Brooklyn</city>
+    <state>New York</state>
+    <zipcode>11211</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary />
+    <weblistingid>37125</weblistingid>
+    <aptnumber>1A</aptnumber>
+    <apartmentsize>2.5BED</apartmentsize>
+    <numbedrooms>2.5</numbedrooms>
+    <numbaths>1.5</numbaths>
+    <numrooms>4</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2025-09-30</listeddate>
+    <availabledate>Sep-30-2025</availabledate>
+    <modifieddate>2025-09-30</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/489-Grand-Street-Unit-1A-Brooklyn-New-York-11211-37125</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>5700</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638948380827172423.jpeg?sv=2025-05-05&amp;se=2027-09-30T14%3A08%3A02Z&amp;sr=b&amp;sp=r&amp;sig=hsqTdwxI6fLZgMjK863WV2ShA36aieTrkImYm70j2%2F8%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638948380827152944.jpeg?sv=2025-05-05&amp;se=2027-09-30T14%3A08%3A02Z&amp;sr=b&amp;sp=r&amp;sig=3ZPbLvuBuIHIA6WzRUsAIlZRbbHcjUICuZG00nIy5A8%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638948380827095504.jpeg?sv=2025-05-05&amp;se=2027-09-30T14%3A08%3A02Z&amp;sr=b&amp;sp=r&amp;sig=nQLS%2BixoYRZL97t7kYfvGVhMYaNTCEjfIRRH6o6q5og%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638948380827094513.jpeg?sv=2025-05-05&amp;se=2027-09-30T14%3A08%3A02Z&amp;sr=b&amp;sp=r&amp;sig=EXQRAU6zEeZdlbrOdj9XmknZkeTBd2QngJhirpybbfg%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638948380826997579.jpeg?sv=2025-05-05&amp;se=2027-09-30T14%3A08%3A02Z&amp;sr=b&amp;sp=r&amp;sig=yxt364Se23Qzj7mOZHXgYDLyCW0%2BrosqF83V0MG06TQ%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638948380827025674.jpeg?sv=2025-05-05&amp;se=2027-09-30T14%3A08%3A02Z&amp;sr=b&amp;sp=r&amp;sig=XG8GDl7A4v%2FcQrGu7r%2BDssXxd2RQEik%2B9sTO3nrilqI%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638948380826949736.jpeg?sv=2025-05-05&amp;se=2027-09-30T14%3A08%3A02Z&amp;sr=b&amp;sp=r&amp;sig=cJdxF1up9aUvqatJfWTr97Ir9lvz%2FMD4SGT9Kt3gzdk%3D</url>
+    </media>
+  </photos>
+</property>
+
+
+
+<property>
+  <building>
+    <address>489 Grand Street</address>
+    <city>Brooklyn</city>
+    <state>New York</state>
+    <zipcode>11211</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary />
+    <weblistingid>37126</weblistingid>
+    <aptnumber>2B</aptnumber>
+    <apartmentsize>1.5BED</apartmentsize>
+    <numbedrooms>1.5</numbedrooms>
+    <numbaths>1.5</numbaths>
+    <numrooms>3</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2025-09-30</listeddate>
+    <availabledate>Sep-30-2025</availabledate>
+    <modifieddate>2025-09-30</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/489-Grand-Street-Unit-2B-Brooklyn-New-York-11211-37126</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>3800</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638948390817801210.jpeg?sv=2025-05-05&amp;se=2027-09-30T14%3A24%3A41Z&amp;sr=b&amp;sp=r&amp;sig=0bY8ccgLBPBUjTvC842%2F9RuTVlwrI2sivaTHTRcD2dM%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638948390817600119.jpeg?sv=2025-05-05&amp;se=2027-09-30T14%3A24%3A41Z&amp;sr=b&amp;sp=r&amp;sig=G30Bx1upuUdlQjXEyP8G8BQZDRDRuqQVhO6yyicw8v8%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638948390817555620.jpeg?sv=2025-05-05&amp;se=2027-09-30T14%3A24%3A41Z&amp;sr=b&amp;sp=r&amp;sig=DuHpNh%2F4pujcL6zRS43NbfA2%2Flp19VLjxwK2YkgEss8%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638948390817848408.jpeg?sv=2025-05-05&amp;se=2027-09-30T14%3A24%3A41Z&amp;sr=b&amp;sp=r&amp;sig=LePffb7bgkXTBlyh8B2O4NUbHf%2FFc0B6ML2lR8fwROY%3D</url>
+    </media>
+  </photos>
+</property>
+
+
+
+<property>
+  <building>
+    <address>489 Grand Street</address>
+    <city>Brooklyn</city>
+    <state>New York</state>
+    <zipcode>11211</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary />
+    <weblistingid>37127</weblistingid>
+    <aptnumber>3A</aptnumber>
+    <apartmentsize>3.5BED</apartmentsize>
+    <numbedrooms>3.5</numbedrooms>
+    <numbaths>1.5</numbaths>
+    <numrooms>5</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2025-09-30</listeddate>
+    <availabledate>Sep-30-2025</availabledate>
+    <modifieddate>2025-09-30</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/489-Grand-Street-Unit-3A-Brooklyn-New-York-11211-37127</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>6700</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638948390817801210.jpeg?sv=2025-05-05&amp;se=2027-09-30T14%3A24%3A41Z&amp;sr=b&amp;sp=r&amp;sig=0bY8ccgLBPBUjTvC842%2F9RuTVlwrI2sivaTHTRcD2dM%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638948390817600119.jpeg?sv=2025-05-05&amp;se=2027-09-30T14%3A24%3A41Z&amp;sr=b&amp;sp=r&amp;sig=G30Bx1upuUdlQjXEyP8G8BQZDRDRuqQVhO6yyicw8v8%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638948390817555620.jpeg?sv=2025-05-05&amp;se=2027-09-30T14%3A24%3A41Z&amp;sr=b&amp;sp=r&amp;sig=DuHpNh%2F4pujcL6zRS43NbfA2%2Flp19VLjxwK2YkgEss8%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638948390817848408.jpeg?sv=2025-05-05&amp;se=2027-09-30T14%3A24%3A41Z&amp;sr=b&amp;sp=r&amp;sig=LePffb7bgkXTBlyh8B2O4NUbHf%2FFc0B6ML2lR8fwROY%3D</url>
+    </media>
+  </photos>
+</property>
+
+
+
+<property>
+  <building>
+    <address>489 Grand Street</address>
+    <city>Brooklyn</city>
+    <state>New York</state>
+    <zipcode>11211</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary />
+    <weblistingid>37128</weblistingid>
+    <aptnumber>4A</aptnumber>
+    <apartmentsize>H</apartmentsize>
+    <numbedrooms>2</numbedrooms>
+    <numbaths>2</numbaths>
+    <numrooms>5</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2025-09-30</listeddate>
+    <availabledate>Sep-30-2025</availabledate>
+    <modifieddate>2025-09-30</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/489-Grand-Street-Unit-4A-Brooklyn-New-York-11211-37128</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>5900</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638948390817801210.jpeg?sv=2025-05-05&amp;se=2027-09-30T14%3A24%3A41Z&amp;sr=b&amp;sp=r&amp;sig=0bY8ccgLBPBUjTvC842%2F9RuTVlwrI2sivaTHTRcD2dM%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638948390817600119.jpeg?sv=2025-05-05&amp;se=2027-09-30T14%3A24%3A41Z&amp;sr=b&amp;sp=r&amp;sig=G30Bx1upuUdlQjXEyP8G8BQZDRDRuqQVhO6yyicw8v8%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638948390817555620.jpeg?sv=2025-05-05&amp;se=2027-09-30T14%3A24%3A41Z&amp;sr=b&amp;sp=r&amp;sig=DuHpNh%2F4pujcL6zRS43NbfA2%2Flp19VLjxwK2YkgEss8%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638948390817848408.jpeg?sv=2025-05-05&amp;se=2027-09-30T14%3A24%3A41Z&amp;sr=b&amp;sp=r&amp;sig=LePffb7bgkXTBlyh8B2O4NUbHf%2FFc0B6ML2lR8fwROY%3D</url>
+    </media>
+  </photos>
+</property>
+
+
+
+<property>
+  <building>
     <address>302 Stanhope St</address>
     <city>Brooklyn</city>
     <state>NY</state>
