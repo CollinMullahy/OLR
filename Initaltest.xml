@@ -555,7 +555,7 @@ Pets welcome</brokersummary>
     <numbaths>1</numbaths>
     <numrooms>4</numrooms>
     <listingtype>L</listingtype>
-    <status>A</status>
+    <status>P</status>
     <listeddate>2025-09-30</listeddate>
     <availabledate>Sep-01-2025</availabledate>
     <modifieddate>2025-09-30</modifieddate>
@@ -7945,103 +7945,6 @@ Live above it all in Queens? most connected neighborhood. Schedule a tour today!
 
 <property>
   <building>
-    <address>666 Hancock St</address>
-    <city>Brooklyn</city>
-    <state>NY</state>
-    <zipcode>11233</zipcode>
-  </building>
-  <details>
-    <distributiontype>P</distributiontype>
-    <saleorrent>R</saleorrent>
-    <brokersummary>-Spacious unit with an amazing layout!!!
-
--Queen sized bedroom with closet space 
-
--Fully renovated kitchen features brand new Stainless steel appliances 
-
--Heat/Hot Water Included 
-
--J/Z/A/C train accessible (Few blocks away) 
-
--Amazing neighborhood with ample things to do! Restaurants, bars, juice bars, etc..... Casa Blanca lounge, Saraghina, and Peaches all within arm's reach. Pet spa right around the corner! 
-
--City less than 20 min. away on any train 
-
-
-Cal/Text/Email to set up a viewing</brokersummary>
-    <weblistingid>37100</weblistingid>
-    <aptnumber>4F</aptnumber>
-    <apartmentsize>7</apartmentsize>
-    <numbedrooms>1</numbedrooms>
-    <numbaths>1</numbaths>
-    <numrooms>3</numrooms>
-    <listingtype>L</listingtype>
-    <status>A</status>
-    <listeddate>2025-09-30</listeddate>
-    <availabledate>Dec-01-2025</availabledate>
-    <modifieddate>2025-09-30</modifieddate>
-    <listingurl>https://myspacenyc.cazamio.com/apartments/666-Hancock-St-Unit-4F-Brooklyn-NY-11233-37100</listingurl>
-    <price />
-    <grosscommission />
-    <buyersbrokercommision />
-    <paidbywhom>O</paidbywhom>
-    <rent>2625</rent>
-    <furnishrent />
-    <securitydeposit>1</securitydeposit>
-    <minterm>12</minterm>
-    <maxterm>12</maxterm>
-    <commissionmonth />
-    <commissionsplit-house />
-    <cof>TRUE</cof>
-    <petpolicy>C</petpolicy>
-  </details>
-  <agents>
-    <agent>
-      <firstname>Belle</firstname>
-      <lastname>Piper</lastname>
-      <title>Rental Agent</title>
-      <email>belle.msnyc@myspacenyc.com</email>
-      <workphone>(646) 854-3513</workphone>
-      <mobilephone />
-      <homephone />
-      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
-    </agent>
-  </agents>
-  <photos>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638947499199745560.jpeg?sv=2025-05-05&amp;se=2027-09-29T13%3A38%3A39Z&amp;sr=b&amp;sp=r&amp;sig=lX95IO6R4oAOEdQqtaCwoFtImmyFkoPo%2Byqnd%2BHogkw%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638947499199410326.jpeg?sv=2025-05-05&amp;se=2027-09-29T13%3A38%3A39Z&amp;sr=b&amp;sp=r&amp;sig=aUHYMOFhezxwrzC2IDUFohtsfhAbu4pUb3nYJG6wZlw%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638947499199430169.jpeg?sv=2025-05-05&amp;se=2027-09-29T13%3A38%3A39Z&amp;sr=b&amp;sp=r&amp;sig=kmSIprqRgsXqbasLb6jGHODvAnfzGv%2BJntYBJ5suTRs%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638947499199587183.jpeg?sv=2025-05-05&amp;se=2027-09-29T13%3A38%3A39Z&amp;sr=b&amp;sp=r&amp;sig=DDPy4VYgk%2Bwkhhx2CzJ1c3Jg%2BJ3Td0uXHONqE1%2FOL20%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638947499199410398.jpeg?sv=2025-05-05&amp;se=2027-09-29T13%3A38%3A39Z&amp;sr=b&amp;sp=r&amp;sig=G%2FT7yKPAwR4TXkg1UzUtyHWGGDfglVa3cg%2FrN4LcY5Q%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638947499199359967.jpeg?sv=2025-05-05&amp;se=2027-09-29T13%3A38%3A39Z&amp;sr=b&amp;sp=r&amp;sig=WcuJvSfFCDOg1liOdLV741dcBAysrQt8QXrMGWGuADE%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638947499199419996.jpeg?sv=2025-05-05&amp;se=2027-09-29T13%3A38%3A39Z&amp;sr=b&amp;sp=r&amp;sig=lbVHTA68W1%2BaDsK4goR%2B3ZcEjazAIX1omzw2eXnxAV4%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638947499199430804.jpeg?sv=2025-05-05&amp;se=2027-09-29T13%3A38%3A39Z&amp;sr=b&amp;sp=r&amp;sig=pxNaTmg0m%2Fl0oOyy6FyXYsnOGNBHf7%2F0mz8lSurAkms%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638947499199367803.jpeg?sv=2025-05-05&amp;se=2027-09-29T13%3A38%3A39Z&amp;sr=b&amp;sp=r&amp;sig=E8VD7o5Jk6e8pGvqaj2kr6lWfNiFUJWXK7qgo2LzvWM%3D</url>
-    </media>
-  </photos>
-</property>
-
-
-
-<property>
-  <building>
     <address>113 Stockholm St</address>
     <city>Brooklyn</city>
     <state>NY</state>
@@ -14023,7 +13926,7 @@ No fee
     <numbaths>1.5</numbaths>
     <numrooms>4</numrooms>
     <listingtype>L</listingtype>
-    <status>A</status>
+    <status>P</status>
     <listeddate>2025-09-30</listeddate>
     <availabledate>Sep-01-2025</availabledate>
     <modifieddate>2025-09-30</modifieddate>
