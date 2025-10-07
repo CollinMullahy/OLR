@@ -12019,7 +12019,7 @@ Welcome to 1499 Bedford Ave?where luxury, community, and convenience meet. Exper
     <grosscommission />
     <buyersbrokercommision />
     <paidbywhom>O</paidbywhom>
-    <rent>4900</rent>
+    <rent>4400</rent>
     <furnishrent />
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
@@ -18229,7 +18229,13 @@ This remarkable home is truly an absolute steal - don't miss this opportunity! C
   <details>
     <distributiontype>P</distributiontype>
     <saleorrent>R</saleorrent>
-    <brokersummary />
+    <brokersummary>2br/1 bth
+Washer &amp; Dryer in Building
+Hardwood Floors
+Stainless Steel Appliances
+Modern Bathroom
+
+Email to view asap!</brokersummary>
     <weblistingid>1862</weblistingid>
     <aptnumber>2L</aptnumber>
     <apartmentsize>H</apartmentsize>
