@@ -13638,7 +13638,7 @@ This is One Fifty Lawrence.</brokersummary>
     <grosscommission />
     <buyersbrokercommision />
     <paidbywhom>O</paidbywhom>
-    <rent>3825</rent>
+    <rent>4775</rent>
     <furnishrent />
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
@@ -13900,6 +13900,15 @@ This is One Fifty Lawrence.</brokersummary>
     </media>
     <media>
       <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-10/af89ecc1-02ec-4b73-9198-5dcabcf3354e_638953646468612740.jpeg?sv=2025-05-05&amp;se=2027-10-06T16%3A24%3A06Z&amp;sr=b&amp;sp=r&amp;sig=1dQauBAuW1g6xZnnFqWAdgm%2F%2BT8HedJSmNtXSPD5g5g%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-10/af89ecc1-02ec-4b73-9198-5dcabcf3354e_638956195409412295.jpeg?sv=2025-05-05&amp;se=2027-10-09T15%3A12%3A20Z&amp;sr=b&amp;sp=r&amp;sig=uX6XJ8%2BalnlWIn7JWP5tx9zkmNgKCERi8WO1u%2Fye5qQ%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-10/af89ecc1-02ec-4b73-9198-5dcabcf3354e_638956195409492373.jpeg?sv=2025-05-05&amp;se=2027-10-09T15%3A12%3A20Z&amp;sr=b&amp;sp=r&amp;sig=mCIxKmXKccznWDpxMMmga9%2FpfSCEeiJ79hLhGo7hr54%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-10/af89ecc1-02ec-4b73-9198-5dcabcf3354e_638956195409377045.jpeg?sv=2025-05-05&amp;se=2027-10-09T15%3A12%3A20Z&amp;sr=b&amp;sp=r&amp;sig=YudnXuPz74eCs65CW%2B0Q2Sdcw7nYxxYqbhNMGkb94PA%3D</url>
     </media>
   </photos>
 </property>
