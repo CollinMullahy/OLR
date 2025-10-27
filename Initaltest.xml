@@ -3566,82 +3566,6 @@ Amenities: Private backyard ? Dishwasher ? Exposed brick ? High ceilings ? Renov
 
 <property>
   <building>
-    <address>557 Franklin Ave</address>
-    <city>Brooklyn</city>
-    <state>NY</state>
-    <zipcode>11238</zipcode>
-  </building>
-  <details>
-    <distributiontype>P</distributiontype>
-    <saleorrent>R</saleorrent>
-    <brokersummary>Do not miss out on this 2BR/1baths apartment in Brooklyn's up and coming neighborhood Prospect Lefferts Gardens! People forget that Brooklyn is the biggest borough and offers some of the best, historic architecture. Enjoy the neighborhoods easy access to the B,Q,2,3 lines, a number of bus lines, and short walk to Prospect Park. Live within steps to juice bars, grocery stores, restaurants, coffee shops, bars, pharmacies, banks, local bakeries, and more to explore. Brooklyn Greenery, MIdwood Flats, Irv's, Bluebird, Blessings, and Food Sermon are just a couple of the many options to check out in this vibrant neighborhood.Easy commute to Manhattan &amp; easy access to the rest of Brooklyn's hottest neighborhoods.</brokersummary>
-    <weblistingid>37143</weblistingid>
-    <aptnumber>3</aptnumber>
-    <apartmentsize>H</apartmentsize>
-    <numbedrooms>2</numbedrooms>
-    <numbaths>1</numbaths>
-    <numrooms>4</numrooms>
-    <listingtype>L</listingtype>
-    <status>A</status>
-    <listeddate>2025-10-27</listeddate>
-    <availabledate>Sep-30-2025</availabledate>
-    <modifieddate>2025-10-27</modifieddate>
-    <listingurl>https://myspacenyc.cazamio.com/apartments/557-Franklin-Ave-Unit-3-Brooklyn-NY-11238-37143</listingurl>
-    <price />
-    <grosscommission />
-    <buyersbrokercommision />
-    <paidbywhom>O</paidbywhom>
-    <rent>3200</rent>
-    <furnishrent />
-    <securitydeposit>1</securitydeposit>
-    <minterm>12</minterm>
-    <maxterm>12</maxterm>
-    <commissionmonth />
-    <commissionsplit-house />
-    <cof>TRUE</cof>
-    <petpolicy>C</petpolicy>
-  </details>
-  <agents>
-    <agent>
-      <firstname>Belle</firstname>
-      <lastname>Piper</lastname>
-      <title>Rental Agent</title>
-      <email>belle.msnyc@myspacenyc.com</email>
-      <workphone>(646) 854-3513</workphone>
-      <mobilephone />
-      <homephone />
-      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
-    </agent>
-  </agents>
-  <photos>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-07/1995_638557224623060909.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=Xk1S6dgaqZpTIC76IlxKNt5Ujm4fSUHvB5nlQ6OE3C4%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-07/1995_638557224623058009.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=Xk1S6dgaqZpTIC76IlxKNt5Ujm4fSUHvB5nlQ6OE3C4%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-07/1995_638557224622214303.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=Xk1S6dgaqZpTIC76IlxKNt5Ujm4fSUHvB5nlQ6OE3C4%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-07/1995_638557224623034676.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=Xk1S6dgaqZpTIC76IlxKNt5Ujm4fSUHvB5nlQ6OE3C4%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-07/1995_638557224623060540.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=Xk1S6dgaqZpTIC76IlxKNt5Ujm4fSUHvB5nlQ6OE3C4%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-07/1995_638557224622494995.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=Xk1S6dgaqZpTIC76IlxKNt5Ujm4fSUHvB5nlQ6OE3C4%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-07/1995_638557224622698011.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=Xk1S6dgaqZpTIC76IlxKNt5Ujm4fSUHvB5nlQ6OE3C4%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
-    </media>
-  </photos>
-</property>
-
-
-
-<property>
-  <building>
     <address>59 Wilson Ave</address>
     <city>Brooklyn</city>
     <state>NY</state>
@@ -3748,6 +3672,60 @@ Easy access to the L, J, M, Z trains for a quick commute anywhere.</brokersummar
       <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-10/8515455b-be52-4141-8a40-4c35d33cf98b_638955340052872289.jpeg?sv=2025-05-05&amp;se=2027-10-08T15%3A26%3A45Z&amp;sr=b&amp;sp=r&amp;sig=xfnaJheLT5romfTJSpSeI8lFVHi9%2B6fIVJwSemyCaJc%3D</url>
     </media>
   </photos>
+</property>
+
+
+
+<property>
+  <building>
+    <address>176 Central Avenue</address>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11221</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary />
+    <weblistingid>37279</weblistingid>
+    <aptnumber>2b</aptnumber>
+    <apartmentsize>L</apartmentsize>
+    <numbedrooms>3</numbedrooms>
+    <numbaths>3</numbaths>
+    <numrooms>7</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2025-10-27</listeddate>
+    <availabledate>Dec-01-2025</availabledate>
+    <modifieddate>2025-10-27</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/176-Central-Avenue-Unit-2b-Brooklyn-NY-11221-37279</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>4600</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos />
 </property>
 
 
@@ -4336,60 +4314,6 @@ No broker fee.</brokersummary>
 
 <property>
   <building>
-    <address>176 Central Avenue</address>
-    <city>Brooklyn</city>
-    <state>NY</state>
-    <zipcode>11221</zipcode>
-  </building>
-  <details>
-    <distributiontype>P</distributiontype>
-    <saleorrent>R</saleorrent>
-    <brokersummary />
-    <weblistingid>37279</weblistingid>
-    <aptnumber>2b</aptnumber>
-    <apartmentsize>L</apartmentsize>
-    <numbedrooms>3</numbedrooms>
-    <numbaths>3</numbaths>
-    <numrooms>7</numrooms>
-    <listingtype>L</listingtype>
-    <status>A</status>
-    <listeddate>2025-10-27</listeddate>
-    <availabledate>Dec-01-2025</availabledate>
-    <modifieddate>2025-10-27</modifieddate>
-    <listingurl>https://myspacenyc.cazamio.com/apartments/176-Central-Avenue-Unit-2b-Brooklyn-NY-11221-37279</listingurl>
-    <price />
-    <grosscommission />
-    <buyersbrokercommision />
-    <paidbywhom>O</paidbywhom>
-    <rent>4600</rent>
-    <furnishrent />
-    <securitydeposit>1</securitydeposit>
-    <minterm>12</minterm>
-    <maxterm>12</maxterm>
-    <commissionmonth />
-    <commissionsplit-house />
-    <cof>TRUE</cof>
-    <petpolicy>C</petpolicy>
-  </details>
-  <agents>
-    <agent>
-      <firstname>Belle</firstname>
-      <lastname>Piper</lastname>
-      <title>Rental Agent</title>
-      <email>belle.msnyc@myspacenyc.com</email>
-      <workphone>(646) 854-3513</workphone>
-      <mobilephone />
-      <homephone />
-      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
-    </agent>
-  </agents>
-  <photos />
-</property>
-
-
-
-<property>
-  <building>
     <address>584 4th Avenue</address>
     <city>Brooklyn</city>
     <state>NY</state>
@@ -4815,6 +4739,82 @@ Unbeatable location at the crossroads of Boerum Hill, Gowanus &amp; Park Slope, 
     </media>
     <media>
       <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-08/8515455b-be52-4141-8a40-4c35d33cf98b_638901073395388408.jpeg?sv=2025-05-05&amp;se=2027-08-06T20%3A02%3A19Z&amp;sr=b&amp;sp=r&amp;sig=bQ7L3YSWZ%2FqOCsIXyVgLc60CqWqcT1JAK3o6fH3Sww0%3D</url>
+    </media>
+  </photos>
+</property>
+
+
+
+<property>
+  <building>
+    <address>557 Franklin Ave</address>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11238</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary>Do not miss out on this 2BR/1baths apartment in Brooklyn's up and coming neighborhood Prospect Lefferts Gardens! People forget that Brooklyn is the biggest borough and offers some of the best, historic architecture. Enjoy the neighborhoods easy access to the B,Q,2,3 lines, a number of bus lines, and short walk to Prospect Park. Live within steps to juice bars, grocery stores, restaurants, coffee shops, bars, pharmacies, banks, local bakeries, and more to explore. Brooklyn Greenery, MIdwood Flats, Irv's, Bluebird, Blessings, and Food Sermon are just a couple of the many options to check out in this vibrant neighborhood.Easy commute to Manhattan &amp; easy access to the rest of Brooklyn's hottest neighborhoods.</brokersummary>
+    <weblistingid>37143</weblistingid>
+    <aptnumber>3</aptnumber>
+    <apartmentsize>H</apartmentsize>
+    <numbedrooms>2</numbedrooms>
+    <numbaths>1</numbaths>
+    <numrooms>4</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2025-10-27</listeddate>
+    <availabledate>Sep-30-2025</availabledate>
+    <modifieddate>2025-10-27</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/557-Franklin-Ave-Unit-3-Brooklyn-NY-11238-37143</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>3200</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-07/1995_638557224623060909.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=Xk1S6dgaqZpTIC76IlxKNt5Ujm4fSUHvB5nlQ6OE3C4%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-07/1995_638557224623058009.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=Xk1S6dgaqZpTIC76IlxKNt5Ujm4fSUHvB5nlQ6OE3C4%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-07/1995_638557224622214303.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=Xk1S6dgaqZpTIC76IlxKNt5Ujm4fSUHvB5nlQ6OE3C4%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-07/1995_638557224623034676.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=Xk1S6dgaqZpTIC76IlxKNt5Ujm4fSUHvB5nlQ6OE3C4%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-07/1995_638557224623060540.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=Xk1S6dgaqZpTIC76IlxKNt5Ujm4fSUHvB5nlQ6OE3C4%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-07/1995_638557224622494995.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=Xk1S6dgaqZpTIC76IlxKNt5Ujm4fSUHvB5nlQ6OE3C4%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-07/1995_638557224622698011.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=Xk1S6dgaqZpTIC76IlxKNt5Ujm4fSUHvB5nlQ6OE3C4%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
     </media>
   </photos>
 </property>
@@ -5322,139 +5322,6 @@ Schedule a tour today!</brokersummary>
 
 <property>
   <building>
-    <address>584 4th Avenue</address>
-    <city>Brooklyn</city>
-    <state>NY</state>
-    <zipcode>11215</zipcode>
-  </building>
-  <details>
-    <distributiontype>P</distributiontype>
-    <saleorrent>R</saleorrent>
-    <brokersummary>Modern 2 Bed / 1 Bath at 584 4th Ave-  Gowanus
-
-Welcome to 584 4th Ave, a brand-new luxury development in the heart of Gowanus. This spacious 1-bedroom features floor-to-ceiling windows with sweeping views of Manhattan, the Statue of Liberty, and city bridges.
-
-Enjoy premium amenities including:
-
-Elevator
-
-Rooftop with panoramic views
-
-Fitness center
-
-In-unit washer/dryer
-
-Located near Park Slope with easy access to the F, G, D, N, and R trains, this building offers the perfect mix of style, comfort, and convenience.
-
-Pets allowed upon approval.
-
-Schedule a tour today!</brokersummary>
-    <weblistingid>36382</weblistingid>
-    <aptnumber>405</aptnumber>
-    <apartmentsize>H</apartmentsize>
-    <numbedrooms>2</numbedrooms>
-    <numbaths>1</numbaths>
-    <numrooms>4</numrooms>
-    <listingtype>L</listingtype>
-    <status>A</status>
-    <listeddate>2025-10-27</listeddate>
-    <availabledate>Jul-01-2025</availabledate>
-    <modifieddate>2025-10-27</modifieddate>
-    <listingurl>https://myspacenyc.cazamio.com/apartments/584-4th-Avenue-Unit-405-Brooklyn-NY-11215-36382</listingurl>
-    <price />
-    <grosscommission />
-    <buyersbrokercommision />
-    <paidbywhom>O</paidbywhom>
-    <rent>3780</rent>
-    <furnishrent />
-    <securitydeposit>1</securitydeposit>
-    <minterm>12</minterm>
-    <maxterm>12</maxterm>
-    <commissionmonth />
-    <commissionsplit-house />
-    <cof>TRUE</cof>
-    <petpolicy>C</petpolicy>
-  </details>
-  <agents>
-    <agent>
-      <firstname>Belle</firstname>
-      <lastname>Piper</lastname>
-      <title>Rental Agent</title>
-      <email>belle.msnyc@myspacenyc.com</email>
-      <workphone>(646) 854-3513</workphone>
-      <mobilephone />
-      <homephone />
-      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
-    </agent>
-  </agents>
-  <photos>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217177952358.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A55%3A17Z&amp;sr=b&amp;sp=r&amp;sig=u3ygjVaHMHsX1BZ3fI2%2Bpuk3W7Wx1PBsk6j4YSX9VCI%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217177956591.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A55%3A17Z&amp;sr=b&amp;sp=r&amp;sig=PGgDuklbCfZIhq%2BGQxf0rtKnLgU0qKxjaL1pIA%2Bva7o%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217177976397.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A55%3A17Z&amp;sr=b&amp;sp=r&amp;sig=bUIPHWDynYe17mtCknd5C39oBXZ0yhwubxgA8HFOu4Q%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217177927098.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A55%3A17Z&amp;sr=b&amp;sp=r&amp;sig=sP7ZrEI9jNM1LIVL4kckza6sxE2x%2Frc5tLpEI9ttQn0%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217177935269.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A55%3A17Z&amp;sr=b&amp;sp=r&amp;sig=Jm%2FZpm3GNcPBLeUynYJnQ5X7u0smOTbE4t0a3P6r7kw%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217177905158.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A55%3A17Z&amp;sr=b&amp;sp=r&amp;sig=V61IVXnXoKqyOuwacmTIUtHx2t15Aez9dX6RMtBRFRY%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217178493390.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A55%3A17Z&amp;sr=b&amp;sp=r&amp;sig=Dmlo9shW57BiWLwg01OijD%2BvB%2BdbKDvKnMDmZErdGLU%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217178458103.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A55%3A17Z&amp;sr=b&amp;sp=r&amp;sig=5XIAeGL1plKF537uQnqao6Gl2jRrhmzKvtP%2Fsu6xj%2B8%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217240779302.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A55%3A24Z&amp;sr=b&amp;sp=r&amp;sig=KRckq7pEwZmW%2Fn53dy7fZ0hk0Fy5I1MzCN7KnQxz6LU%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217177887257.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A55%3A17Z&amp;sr=b&amp;sp=r&amp;sig=88%2F3hNS8rdJjv8YPZhL3WrbhoX2i5cPucAd2TKA2cAs%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217177974962.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A55%3A17Z&amp;sr=b&amp;sp=r&amp;sig=R%2ByhMt8vLoLdpyqEr9vIpaiceP%2Fq6salNBuAGlx1HQU%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217241580927.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A55%3A24Z&amp;sr=b&amp;sp=r&amp;sig=i8WFK0zpRbgOlcp9O4b%2FJ3uq8XKYIQE7MRsykDPzej4%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217241778290.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A55%3A24Z&amp;sr=b&amp;sp=r&amp;sig=gmm0ajaH%2BqLp3OSrse7QIJm3wkwkgsh%2BJ6m3CKUh1V4%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217241760563.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A55%3A24Z&amp;sr=b&amp;sp=r&amp;sig=yr87Q9Z5DcneYpR%2Bjfpc71z6zve9FdHGtJsccOqjKB8%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217241758753.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A55%3A24Z&amp;sr=b&amp;sp=r&amp;sig=WB%2BU5tGNytnYy0dRCjUfYj2mVni6fGOe4OU4kRAWCKQ%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217241767428.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A55%3A24Z&amp;sr=b&amp;sp=r&amp;sig=nt5cXHbJZvPaMryE8RjewwVD4I1P7afsfvg2C9bczYY%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217241727844.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A55%3A24Z&amp;sr=b&amp;sp=r&amp;sig=BvtDHD9%2FmMrUQfgFtL84%2BSgv%2BT86w0Y0Sc60Jpkg6F4%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217241757634.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A55%3A24Z&amp;sr=b&amp;sp=r&amp;sig=cd%2FOS13hjHEdyuQXQ8lIzBxsJ2JLvUoDYhvO6PPAH9g%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217241638270.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A55%3A24Z&amp;sr=b&amp;sp=r&amp;sig=WOXhIZdbpO8tVtAcGeFrLBQGhANLw6%2B3zTnDSVPiTPo%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217242216242.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A55%3A24Z&amp;sr=b&amp;sp=r&amp;sig=R3%2FuBp3EesYYD16n32pffcY6bW5xOO8HDwHp5mWJ1tw%3D</url>
-    </media>
-  </photos>
-</property>
-
-
-
-<property>
-  <building>
     <address>526 Baltic Street</address>
     <city>Brooklyn</city>
     <state>NY</state>
@@ -5606,6 +5473,139 @@ Unbeatable location at the crossroads of Boerum Hill, Gowanus &amp; Park Slope, 
     </media>
     <media>
       <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-08/8515455b-be52-4141-8a40-4c35d33cf98b_638901073395388408.jpeg?sv=2025-05-05&amp;se=2027-08-06T20%3A02%3A19Z&amp;sr=b&amp;sp=r&amp;sig=bQ7L3YSWZ%2FqOCsIXyVgLc60CqWqcT1JAK3o6fH3Sww0%3D</url>
+    </media>
+  </photos>
+</property>
+
+
+
+<property>
+  <building>
+    <address>584 4th Avenue</address>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11215</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary>Modern 2 Bed / 1 Bath at 584 4th Ave-  Gowanus
+
+Welcome to 584 4th Ave, a brand-new luxury development in the heart of Gowanus. This spacious 1-bedroom features floor-to-ceiling windows with sweeping views of Manhattan, the Statue of Liberty, and city bridges.
+
+Enjoy premium amenities including:
+
+Elevator
+
+Rooftop with panoramic views
+
+Fitness center
+
+In-unit washer/dryer
+
+Located near Park Slope with easy access to the F, G, D, N, and R trains, this building offers the perfect mix of style, comfort, and convenience.
+
+Pets allowed upon approval.
+
+Schedule a tour today!</brokersummary>
+    <weblistingid>36382</weblistingid>
+    <aptnumber>405</aptnumber>
+    <apartmentsize>H</apartmentsize>
+    <numbedrooms>2</numbedrooms>
+    <numbaths>1</numbaths>
+    <numrooms>4</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2025-10-27</listeddate>
+    <availabledate>Jul-01-2025</availabledate>
+    <modifieddate>2025-10-27</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/584-4th-Avenue-Unit-405-Brooklyn-NY-11215-36382</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>3780</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217177952358.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A55%3A17Z&amp;sr=b&amp;sp=r&amp;sig=u3ygjVaHMHsX1BZ3fI2%2Bpuk3W7Wx1PBsk6j4YSX9VCI%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217177956591.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A55%3A17Z&amp;sr=b&amp;sp=r&amp;sig=PGgDuklbCfZIhq%2BGQxf0rtKnLgU0qKxjaL1pIA%2Bva7o%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217177976397.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A55%3A17Z&amp;sr=b&amp;sp=r&amp;sig=bUIPHWDynYe17mtCknd5C39oBXZ0yhwubxgA8HFOu4Q%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217177927098.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A55%3A17Z&amp;sr=b&amp;sp=r&amp;sig=sP7ZrEI9jNM1LIVL4kckza6sxE2x%2Frc5tLpEI9ttQn0%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217177935269.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A55%3A17Z&amp;sr=b&amp;sp=r&amp;sig=Jm%2FZpm3GNcPBLeUynYJnQ5X7u0smOTbE4t0a3P6r7kw%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217177905158.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A55%3A17Z&amp;sr=b&amp;sp=r&amp;sig=V61IVXnXoKqyOuwacmTIUtHx2t15Aez9dX6RMtBRFRY%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217178493390.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A55%3A17Z&amp;sr=b&amp;sp=r&amp;sig=Dmlo9shW57BiWLwg01OijD%2BvB%2BdbKDvKnMDmZErdGLU%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217178458103.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A55%3A17Z&amp;sr=b&amp;sp=r&amp;sig=5XIAeGL1plKF537uQnqao6Gl2jRrhmzKvtP%2Fsu6xj%2B8%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217240779302.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A55%3A24Z&amp;sr=b&amp;sp=r&amp;sig=KRckq7pEwZmW%2Fn53dy7fZ0hk0Fy5I1MzCN7KnQxz6LU%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217177887257.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A55%3A17Z&amp;sr=b&amp;sp=r&amp;sig=88%2F3hNS8rdJjv8YPZhL3WrbhoX2i5cPucAd2TKA2cAs%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217177974962.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A55%3A17Z&amp;sr=b&amp;sp=r&amp;sig=R%2ByhMt8vLoLdpyqEr9vIpaiceP%2Fq6salNBuAGlx1HQU%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217241580927.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A55%3A24Z&amp;sr=b&amp;sp=r&amp;sig=i8WFK0zpRbgOlcp9O4b%2FJ3uq8XKYIQE7MRsykDPzej4%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217241778290.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A55%3A24Z&amp;sr=b&amp;sp=r&amp;sig=gmm0ajaH%2BqLp3OSrse7QIJm3wkwkgsh%2BJ6m3CKUh1V4%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217241760563.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A55%3A24Z&amp;sr=b&amp;sp=r&amp;sig=yr87Q9Z5DcneYpR%2Bjfpc71z6zve9FdHGtJsccOqjKB8%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217241758753.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A55%3A24Z&amp;sr=b&amp;sp=r&amp;sig=WB%2BU5tGNytnYy0dRCjUfYj2mVni6fGOe4OU4kRAWCKQ%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217241767428.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A55%3A24Z&amp;sr=b&amp;sp=r&amp;sig=nt5cXHbJZvPaMryE8RjewwVD4I1P7afsfvg2C9bczYY%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217241727844.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A55%3A24Z&amp;sr=b&amp;sp=r&amp;sig=BvtDHD9%2FmMrUQfgFtL84%2BSgv%2BT86w0Y0Sc60Jpkg6F4%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217241757634.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A55%3A24Z&amp;sr=b&amp;sp=r&amp;sig=cd%2FOS13hjHEdyuQXQ8lIzBxsJ2JLvUoDYhvO6PPAH9g%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217241638270.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A55%3A24Z&amp;sr=b&amp;sp=r&amp;sig=WOXhIZdbpO8tVtAcGeFrLBQGhANLw6%2B3zTnDSVPiTPo%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638933217242216242.jpeg?sv=2025-05-05&amp;se=2027-09-13T00%3A55%3A24Z&amp;sr=b&amp;sp=r&amp;sig=R3%2FuBp3EesYYD16n32pffcY6bW5xOO8HDwHp5mWJ1tw%3D</url>
     </media>
   </photos>
 </property>
@@ -8765,163 +8765,6 @@ No broker fee</brokersummary>
 
 <property>
   <building>
-    <address>113 Stockholm St</address>
-    <city>Brooklyn</city>
-    <state>NY</state>
-    <zipcode>11221</zipcode>
-  </building>
-  <details>
-    <distributiontype>P</distributiontype>
-    <saleorrent>R</saleorrent>
-    <brokersummary>This spacious apartment offers an incredible area for entertaining and relaxing! Its prime location puts you right around the corner from dozens of top-rated bars, restaurants, grocers, and art venues.
-
-This one-bedroom features:
-- Spacious living room
-- Queen size bedrooms
-- Stainless steel appliances
-- Modern bathroom 
-- Hardwood floors
-- Large windows
-- Private balcony</brokersummary>
-    <weblistingid>36646</weblistingid>
-    <aptnumber>4A</aptnumber>
-    <apartmentsize>H</apartmentsize>
-    <numbedrooms>2</numbedrooms>
-    <numbaths>1</numbaths>
-    <numrooms>4</numrooms>
-    <listingtype>L</listingtype>
-    <status>A</status>
-    <listeddate>2025-10-27</listeddate>
-    <availabledate>Nov-01-2025</availabledate>
-    <modifieddate>2025-10-27</modifieddate>
-    <listingurl>https://myspacenyc.cazamio.com/apartments/113-Stockholm-St-Unit-4A-Brooklyn-NY-11221-36646</listingurl>
-    <price />
-    <grosscommission />
-    <buyersbrokercommision />
-    <paidbywhom>O</paidbywhom>
-    <rent>3990</rent>
-    <furnishrent />
-    <securitydeposit>1</securitydeposit>
-    <minterm>12</minterm>
-    <maxterm>12</maxterm>
-    <commissionmonth />
-    <commissionsplit-house />
-    <cof>TRUE</cof>
-    <petpolicy>C</petpolicy>
-  </details>
-  <agents>
-    <agent>
-      <firstname>Belle</firstname>
-      <lastname>Piper</lastname>
-      <title>Rental Agent</title>
-      <email>belle.msnyc@myspacenyc.com</email>
-      <workphone>(646) 854-3513</workphone>
-      <mobilephone />
-      <homephone />
-      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
-    </agent>
-  </agents>
-  <photos>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/8515455b-be52-4141-8a40-4c35d33cf98b_638720400876696212.jpeg?sv=2024-11-04&amp;se=2027-01-09T17%3A21%3A27Z&amp;sr=b&amp;sp=r&amp;sig=bq9JWjAo5OU1iqqLkCNu5N0aDG4bB0REkecKvngi4J8%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/8515455b-be52-4141-8a40-4c35d33cf98b_638720400876719088.jpeg?sv=2024-11-04&amp;se=2027-01-09T17%3A21%3A27Z&amp;sr=b&amp;sp=r&amp;sig=5qOH4iWZ2pUeRdjykB1%2BxvOMWI1PKV24LhOkklYIavc%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/8515455b-be52-4141-8a40-4c35d33cf98b_638720400876711796.jpeg?sv=2024-11-04&amp;se=2027-01-09T17%3A21%3A27Z&amp;sr=b&amp;sp=r&amp;sig=BPsta%2FBWcAgFBF9sWvk8Y6pnC4vuvSuwnQk1cgTYrKU%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/8515455b-be52-4141-8a40-4c35d33cf98b_638720400876740314.jpeg?sv=2024-11-04&amp;se=2027-01-09T17%3A21%3A27Z&amp;sr=b&amp;sp=r&amp;sig=b1giM8DLi1bSTw7zUOnvjsZlAqC%2BZMAmTVI%2FNKBcLE4%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/8515455b-be52-4141-8a40-4c35d33cf98b_638720400876361868.jpeg?sv=2024-11-04&amp;se=2027-01-09T17%3A21%3A27Z&amp;sr=b&amp;sp=r&amp;sig=OmDf30TebXXtWelrk%2FFsEaxMzri%2FbpH2ErOdZDfTy%2Bs%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/8515455b-be52-4141-8a40-4c35d33cf98b_638720400876325304.jpeg?sv=2024-11-04&amp;se=2027-01-09T17%3A21%3A27Z&amp;sr=b&amp;sp=r&amp;sig=bzXx4W%2FVpfhWJ%2FL7ZXLVLtDuooT%2F7Cd%2F5f7JiCCCEzQ%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/8515455b-be52-4141-8a40-4c35d33cf98b_638720400876262216.jpeg?sv=2024-11-04&amp;se=2027-01-09T17%3A21%3A27Z&amp;sr=b&amp;sp=r&amp;sig=1HucuAzAWNSxwZ%2BHhuKmWSVAN71DVY26lT8ND0y%2BQO4%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/8515455b-be52-4141-8a40-4c35d33cf98b_638720400876290730.jpeg?sv=2024-11-04&amp;se=2027-01-09T17%3A21%3A27Z&amp;sr=b&amp;sp=r&amp;sig=QP4XvrgMAN%2BeLCy40BRcaSg8xt9OrVK4qd%2FP6DS2e%2BY%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/8515455b-be52-4141-8a40-4c35d33cf98b_638720400876315603.jpeg?sv=2024-11-04&amp;se=2027-01-09T17%3A21%3A27Z&amp;sr=b&amp;sp=r&amp;sig=tRtbQJR4VOpymjAUn0H3DRKPgUFkCLEoOkJGD7M6z3M%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/8515455b-be52-4141-8a40-4c35d33cf98b_638720400876683990.jpeg?sv=2024-11-04&amp;se=2027-01-09T17%3A21%3A27Z&amp;sr=b&amp;sp=r&amp;sig=xeF8595Qk8ABgYkSJ5gtM773%2Fw7LmlxsX%2BQVoNDBZ5k%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/8515455b-be52-4141-8a40-4c35d33cf98b_638720400876369524.jpeg?sv=2024-11-04&amp;se=2027-01-09T17%3A21%3A27Z&amp;sr=b&amp;sp=r&amp;sig=fsbyjB3PH9sSozlQAKCPuTPEJrlhfYCwHszupQW30G4%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/8515455b-be52-4141-8a40-4c35d33cf98b_638720400876296274.jpeg?sv=2024-11-04&amp;se=2027-01-09T17%3A21%3A27Z&amp;sr=b&amp;sp=r&amp;sig=YRO6zDHlxrI6WUGrGB9z6340X9RMrHSCEIbON4DLDes%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/8515455b-be52-4141-8a40-4c35d33cf98b_638720400876355466.jpeg?sv=2024-11-04&amp;se=2027-01-09T17%3A21%3A27Z&amp;sr=b&amp;sp=r&amp;sig=lfvQs4apArzQIIQxJ4d7m2DoQrmXu09fi2BJzcGNcN0%3D</url>
-    </media>
-  </photos>
-</property>
-
-
-
-<property>
-  <building>
-    <address>201 Central Ave</address>
-    <city>Brooklyn</city>
-    <state>NY</state>
-    <zipcode>11221</zipcode>
-  </building>
-  <details>
-    <distributiontype>P</distributiontype>
-    <saleorrent>R</saleorrent>
-    <brokersummary />
-    <weblistingid>36647</weblistingid>
-    <aptnumber>2F</aptnumber>
-    <apartmentsize>H</apartmentsize>
-    <numbedrooms>2</numbedrooms>
-    <numbaths>1</numbaths>
-    <numrooms>4</numrooms>
-    <listingtype>L</listingtype>
-    <status>A</status>
-    <listeddate>2025-10-27</listeddate>
-    <availabledate>Nov-01-2025</availabledate>
-    <modifieddate>2025-10-27</modifieddate>
-    <listingurl>https://myspacenyc.cazamio.com/apartments/201-Central-Ave-Unit-2F-Brooklyn-NY-11221-36647</listingurl>
-    <price />
-    <grosscommission />
-    <buyersbrokercommision />
-    <paidbywhom>O</paidbywhom>
-    <rent>3150</rent>
-    <furnishrent />
-    <securitydeposit>1</securitydeposit>
-    <minterm>12</minterm>
-    <maxterm>12</maxterm>
-    <commissionmonth />
-    <commissionsplit-house />
-    <cof>TRUE</cof>
-    <petpolicy>C</petpolicy>
-  </details>
-  <agents>
-    <agent>
-      <firstname>Belle</firstname>
-      <lastname>Piper</lastname>
-      <title>Rental Agent</title>
-      <email>belle.msnyc@myspacenyc.com</email>
-      <workphone>(646) 854-3513</workphone>
-      <mobilephone />
-      <homephone />
-      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
-    </agent>
-  </agents>
-  <photos />
-</property>
-
-
-
-<property>
-  <building>
     <address>114-32 168th Street</address>
     <city>Queens</city>
     <state>NY</state>
@@ -9183,6 +9026,173 @@ Pet Friendly</brokersummary>
     </media>
     <media>
       <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-11/1996_638368742019010107.png?sv=2019-07-07&amp;sr=c&amp;sig=dbDfHy6XwZySCvA8gpPPpgKQJowOcY9gG31obthrB90%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+  </photos>
+</property>
+
+
+
+<property>
+  <building>
+    <address>24 Rogers Ave</address>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11216</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary>Welcome to 24 Rogers Ave!
+
+Apartment Features:
+? Hardwood floors
+? Washer/dryer combo unit
+? Renovated bathroom
+? Heat &amp; hot water included
+
+? Good income &amp; credit required
+? Guarantors welcome
+
+Message now to schedule a tour!</brokersummary>
+    <weblistingid>35947</weblistingid>
+    <aptnumber>3B</aptnumber>
+    <apartmentsize>7</apartmentsize>
+    <numbedrooms>1</numbedrooms>
+    <numbaths>1</numbaths>
+    <numrooms>3</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2025-10-27</listeddate>
+    <availabledate>Oct-22-2025</availabledate>
+    <modifieddate>2025-10-27</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/24-Rogers-Ave-Unit-3B-Brooklyn-NY-11216-35947</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>2850</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-04/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638812751766421804.jpeg?sv=2025-05-05&amp;se=2027-04-26T14%3A39%3A36Z&amp;sr=b&amp;sp=r&amp;sig=wTSnru66a43t4n0rjgwf1mRBCKPzkzBf8CspKz1pQfM%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-04/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638812751864568061.jpeg?sv=2025-05-05&amp;se=2027-04-26T14%3A39%3A46Z&amp;sr=b&amp;sp=r&amp;sig=o6l9B7plj9K8Zpj0Ggi1JLV4Di2TYB%2Bwta844Zt%2Fepw%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-04/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638812751920443318.jpeg?sv=2025-05-05&amp;se=2027-04-26T14%3A39%3A52Z&amp;sr=b&amp;sp=r&amp;sig=A6rKD4v4YOQouF2mWWxYkWujvbCx7sX6xIaUjheO25Y%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-04/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638812751983597691.jpeg?sv=2025-05-05&amp;se=2027-04-26T14%3A39%3A58Z&amp;sr=b&amp;sp=r&amp;sig=qgRH1%2Bp5pY%2Fv0ezxls8ZVSZMIcNJml%2FUWf8VwBHxmXk%3D</url>
+    </media>
+  </photos>
+</property>
+
+
+
+<property>
+  <building>
+    <address>42 Southgate Court</address>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11223</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary>Welcome to 42 Southgate Ct in the heart of Gravesend, Brooklyn. This peaceful neighborhood offers a close-knit vibe with easy access to shopping, dining, and entertainment?all just minutes from your door.
+
+This updated 2-bedroom, 1-bath home features:
+
+In-unit washer and dryer
+
+High ceilings
+
+Stainless steel appliances
+
+Microwave
+
+Open-concept kitchen
+
+Private outdoor space
+
+Conveniently located near the F train for a quick commute.</brokersummary>
+    <weblistingid>36506</weblistingid>
+    <aptnumber>2</aptnumber>
+    <apartmentsize>H</apartmentsize>
+    <numbedrooms>2</numbedrooms>
+    <numbaths>1</numbaths>
+    <numrooms>4</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2025-10-27</listeddate>
+    <availabledate>Aug-27-2025</availabledate>
+    <modifieddate>2025-10-27</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/42-Southgate-Court-Unit-2-Brooklyn-NY-11223-36506</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>2850</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-07/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638870589958476599.jpeg?sv=2025-05-05&amp;se=2027-07-02T13%3A16%3A35Z&amp;sr=b&amp;sp=r&amp;sig=cM5oheHoDKFk2hGmpgxlQxFRalS0YiPZHHSq8LRe85g%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-07/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638870589679906123.jpeg?sv=2025-05-05&amp;se=2027-07-02T13%3A16%3A08Z&amp;sr=b&amp;sp=r&amp;sig=E28QazsZNGjk13bwe2bHOBhQYBLhXRVry%2Fqc19r5n24%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-07/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638870589679914949.jpeg?sv=2025-05-05&amp;se=2027-07-02T13%3A16%3A08Z&amp;sr=b&amp;sp=r&amp;sig=1hAPef4Ffd0TEB%2F53ndudCTzbUEIteARM8AvGtUX6Jo%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-07/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638870589679843398.jpeg?sv=2025-05-05&amp;se=2027-07-02T13%3A16%3A08Z&amp;sr=b&amp;sp=r&amp;sig=KL1P4aXZgYJgiC%2B2l0lZPt47M9T3nFlnnlyUSP5eUXM%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-07/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638870589679821973.jpeg?sv=2025-05-05&amp;se=2027-07-02T13%3A16%3A08Z&amp;sr=b&amp;sp=r&amp;sig=%2BICGICpLgNVvLdrxblmqr8pROFRlnKluJP1GsWG5WrE%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-07/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638870589679931980.jpeg?sv=2025-05-05&amp;se=2027-07-02T13%3A16%3A08Z&amp;sr=b&amp;sp=r&amp;sig=lew3zpodCnMsW1N0eLyHusB1S89tBhDGlQX82AwGXpQ%3D</url>
     </media>
   </photos>
 </property>
@@ -9471,173 +9481,6 @@ Message now to schedule a tour!</brokersummary>
     <buyersbrokercommision />
     <paidbywhom>O</paidbywhom>
     <rent>2950</rent>
-    <furnishrent />
-    <securitydeposit>1</securitydeposit>
-    <minterm>12</minterm>
-    <maxterm>12</maxterm>
-    <commissionmonth />
-    <commissionsplit-house />
-    <cof>TRUE</cof>
-    <petpolicy>C</petpolicy>
-  </details>
-  <agents>
-    <agent>
-      <firstname>Belle</firstname>
-      <lastname>Piper</lastname>
-      <title>Rental Agent</title>
-      <email>belle.msnyc@myspacenyc.com</email>
-      <workphone>(646) 854-3513</workphone>
-      <mobilephone />
-      <homephone />
-      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
-    </agent>
-  </agents>
-  <photos>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-04/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638812751766421804.jpeg?sv=2025-05-05&amp;se=2027-04-26T14%3A39%3A36Z&amp;sr=b&amp;sp=r&amp;sig=wTSnru66a43t4n0rjgwf1mRBCKPzkzBf8CspKz1pQfM%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-04/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638812751864568061.jpeg?sv=2025-05-05&amp;se=2027-04-26T14%3A39%3A46Z&amp;sr=b&amp;sp=r&amp;sig=o6l9B7plj9K8Zpj0Ggi1JLV4Di2TYB%2Bwta844Zt%2Fepw%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-04/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638812751920443318.jpeg?sv=2025-05-05&amp;se=2027-04-26T14%3A39%3A52Z&amp;sr=b&amp;sp=r&amp;sig=A6rKD4v4YOQouF2mWWxYkWujvbCx7sX6xIaUjheO25Y%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-04/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638812751983597691.jpeg?sv=2025-05-05&amp;se=2027-04-26T14%3A39%3A58Z&amp;sr=b&amp;sp=r&amp;sig=qgRH1%2Bp5pY%2Fv0ezxls8ZVSZMIcNJml%2FUWf8VwBHxmXk%3D</url>
-    </media>
-  </photos>
-</property>
-
-
-
-<property>
-  <building>
-    <address>42 Southgate Court</address>
-    <city>Brooklyn</city>
-    <state>NY</state>
-    <zipcode>11223</zipcode>
-  </building>
-  <details>
-    <distributiontype>P</distributiontype>
-    <saleorrent>R</saleorrent>
-    <brokersummary>Welcome to 42 Southgate Ct in the heart of Gravesend, Brooklyn. This peaceful neighborhood offers a close-knit vibe with easy access to shopping, dining, and entertainment?all just minutes from your door.
-
-This updated 2-bedroom, 1-bath home features:
-
-In-unit washer and dryer
-
-High ceilings
-
-Stainless steel appliances
-
-Microwave
-
-Open-concept kitchen
-
-Private outdoor space
-
-Conveniently located near the F train for a quick commute.</brokersummary>
-    <weblistingid>36506</weblistingid>
-    <aptnumber>2</aptnumber>
-    <apartmentsize>H</apartmentsize>
-    <numbedrooms>2</numbedrooms>
-    <numbaths>1</numbaths>
-    <numrooms>4</numrooms>
-    <listingtype>L</listingtype>
-    <status>A</status>
-    <listeddate>2025-10-27</listeddate>
-    <availabledate>Aug-27-2025</availabledate>
-    <modifieddate>2025-10-27</modifieddate>
-    <listingurl>https://myspacenyc.cazamio.com/apartments/42-Southgate-Court-Unit-2-Brooklyn-NY-11223-36506</listingurl>
-    <price />
-    <grosscommission />
-    <buyersbrokercommision />
-    <paidbywhom>O</paidbywhom>
-    <rent>2850</rent>
-    <furnishrent />
-    <securitydeposit>1</securitydeposit>
-    <minterm>12</minterm>
-    <maxterm>12</maxterm>
-    <commissionmonth />
-    <commissionsplit-house />
-    <cof>TRUE</cof>
-    <petpolicy>C</petpolicy>
-  </details>
-  <agents>
-    <agent>
-      <firstname>Belle</firstname>
-      <lastname>Piper</lastname>
-      <title>Rental Agent</title>
-      <email>belle.msnyc@myspacenyc.com</email>
-      <workphone>(646) 854-3513</workphone>
-      <mobilephone />
-      <homephone />
-      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
-    </agent>
-  </agents>
-  <photos>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-07/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638870589958476599.jpeg?sv=2025-05-05&amp;se=2027-07-02T13%3A16%3A35Z&amp;sr=b&amp;sp=r&amp;sig=cM5oheHoDKFk2hGmpgxlQxFRalS0YiPZHHSq8LRe85g%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-07/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638870589679906123.jpeg?sv=2025-05-05&amp;se=2027-07-02T13%3A16%3A08Z&amp;sr=b&amp;sp=r&amp;sig=E28QazsZNGjk13bwe2bHOBhQYBLhXRVry%2Fqc19r5n24%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-07/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638870589679914949.jpeg?sv=2025-05-05&amp;se=2027-07-02T13%3A16%3A08Z&amp;sr=b&amp;sp=r&amp;sig=1hAPef4Ffd0TEB%2F53ndudCTzbUEIteARM8AvGtUX6Jo%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-07/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638870589679843398.jpeg?sv=2025-05-05&amp;se=2027-07-02T13%3A16%3A08Z&amp;sr=b&amp;sp=r&amp;sig=KL1P4aXZgYJgiC%2B2l0lZPt47M9T3nFlnnlyUSP5eUXM%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-07/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638870589679821973.jpeg?sv=2025-05-05&amp;se=2027-07-02T13%3A16%3A08Z&amp;sr=b&amp;sp=r&amp;sig=%2BICGICpLgNVvLdrxblmqr8pROFRlnKluJP1GsWG5WrE%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-07/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638870589679931980.jpeg?sv=2025-05-05&amp;se=2027-07-02T13%3A16%3A08Z&amp;sr=b&amp;sp=r&amp;sig=lew3zpodCnMsW1N0eLyHusB1S89tBhDGlQX82AwGXpQ%3D</url>
-    </media>
-  </photos>
-</property>
-
-
-
-<property>
-  <building>
-    <address>24 Rogers Ave</address>
-    <city>Brooklyn</city>
-    <state>NY</state>
-    <zipcode>11216</zipcode>
-  </building>
-  <details>
-    <distributiontype>P</distributiontype>
-    <saleorrent>R</saleorrent>
-    <brokersummary>Welcome to 24 Rogers Ave!
-
-Apartment Features:
-? Hardwood floors
-? Washer/dryer combo unit
-? Renovated bathroom
-? Heat &amp; hot water included
-
-? Good income &amp; credit required
-? Guarantors welcome
-
-Message now to schedule a tour!</brokersummary>
-    <weblistingid>35947</weblistingid>
-    <aptnumber>3B</aptnumber>
-    <apartmentsize>7</apartmentsize>
-    <numbedrooms>1</numbedrooms>
-    <numbaths>1</numbaths>
-    <numrooms>3</numrooms>
-    <listingtype>L</listingtype>
-    <status>A</status>
-    <listeddate>2025-10-27</listeddate>
-    <availabledate>Oct-22-2025</availabledate>
-    <modifieddate>2025-10-27</modifieddate>
-    <listingurl>https://myspacenyc.cazamio.com/apartments/24-Rogers-Ave-Unit-3B-Brooklyn-NY-11216-35947</listingurl>
-    <price />
-    <grosscommission />
-    <buyersbrokercommision />
-    <paidbywhom>O</paidbywhom>
-    <rent>2850</rent>
     <furnishrent />
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
@@ -13740,6 +13583,91 @@ No fee
 
 <property>
   <building>
+    <address>581 Ocean Pkwy</address>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11218</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary>Introducing 581 Ocean, located in Kensington, alongside historical Ocean Parkway. 581 Ocean is a brand new luxury building offering 60 rental units.All units feature oversized windows, high-end modern appliances, gorgeous hardwood floors, and tasteful finishes throughout. Select units provide spacious balconies, patios, or private backyard spaces.Amenities include an elevator, lounge, gym, laundry room, bike storage, and parking garage.deally located on Ocean Parkway and 18th Avenue, you?ll have easy access to the B and Q trains at Newkirk Plaza as well as the F train at 18th Avenue and Ditmas Avenue stations. Prospect Park is just a 10 minute bike ride away.Make sure to enjoy all the diverse culture and dining this neighborhood has to offer.</brokersummary>
+    <weblistingid>34709</weblistingid>
+    <aptnumber>7D</aptnumber>
+    <apartmentsize>H</apartmentsize>
+    <numbedrooms>2</numbedrooms>
+    <numbaths>1</numbaths>
+    <numrooms>4</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2025-10-27</listeddate>
+    <availabledate>Sep-01-2025</availabledate>
+    <modifieddate>2025-10-27</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/581-Ocean-Pkwy-Unit-7D-Brooklyn-NY-11218-34709</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>2975</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-05/af89ecc1-02ec-4b73-9198-5dcabcf3354e_638840399037891182.jpeg?sv=2025-05-05&amp;se=2027-05-28T14%3A38%3A23Z&amp;sr=b&amp;sp=r&amp;sig=Meb5Bzw0Di%2FMz3rbP9RLXSrfYDxu0K%2FD0kksFD4ydXI%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-05/af89ecc1-02ec-4b73-9198-5dcabcf3354e_638840399037834304.jpeg?sv=2025-05-05&amp;se=2027-05-28T14%3A38%3A23Z&amp;sr=b&amp;sp=r&amp;sig=iKK5yYuz5ON7BXtBumKibeg3GDEOYkd4OmotJTnFKfU%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-05/af89ecc1-02ec-4b73-9198-5dcabcf3354e_638840399037745261.jpeg?sv=2025-05-05&amp;se=2027-05-28T14%3A38%3A23Z&amp;sr=b&amp;sp=r&amp;sig=DavIKLeaA88koBZZA8wRmT4Lq5XDlQneni7SE2y1Guk%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-05/af89ecc1-02ec-4b73-9198-5dcabcf3354e_638840399037772714.jpeg?sv=2025-05-05&amp;se=2027-05-28T14%3A38%3A23Z&amp;sr=b&amp;sp=r&amp;sig=jLOdTwO2OPaWl78IFeM8j9kTprB6pLMIlE7V%2B9tf9Kc%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-05/af89ecc1-02ec-4b73-9198-5dcabcf3354e_638840399037761600.jpeg?sv=2025-05-05&amp;se=2027-05-28T14%3A38%3A23Z&amp;sr=b&amp;sp=r&amp;sig=tkNMKWs594pqllnIhxdRwjETNoxZ%2FLCIeUzDerV4Wr8%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-05/af89ecc1-02ec-4b73-9198-5dcabcf3354e_638840399037735510.jpeg?sv=2025-05-05&amp;se=2027-05-28T14%3A38%3A23Z&amp;sr=b&amp;sp=r&amp;sig=Gq6XGAdcea679H5eco1tKtqpdksiOSNTgXQavL6w%2Bac%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-05/af89ecc1-02ec-4b73-9198-5dcabcf3354e_638840399037886614.jpeg?sv=2025-05-05&amp;se=2027-05-28T14%3A38%3A23Z&amp;sr=b&amp;sp=r&amp;sig=cJsoRkjnOHPo4Q8yK1nrGlQ9NmqVAO41OEmBazDOLpA%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-05/af89ecc1-02ec-4b73-9198-5dcabcf3354e_638840399037775502.jpeg?sv=2025-05-05&amp;se=2027-05-28T14%3A38%3A23Z&amp;sr=b&amp;sp=r&amp;sig=b6C38uI3E%2FSY0gPvFV87yO4%2Fgcjqa2gkTTo3C11JEfk%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-05/af89ecc1-02ec-4b73-9198-5dcabcf3354e_638840399038182689.jpeg?sv=2025-05-05&amp;se=2027-05-28T14%3A38%3A23Z&amp;sr=b&amp;sp=r&amp;sig=mbStVKJq5dyM4yuq5GUaLUvVMOCQNYFRWklUljbQHb8%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-05/af89ecc1-02ec-4b73-9198-5dcabcf3354e_638840399038203356.jpeg?sv=2025-05-05&amp;se=2027-05-28T14%3A38%3A23Z&amp;sr=b&amp;sp=r&amp;sig=nyerL4HfCEHtbGpXz3rKaR5W5asaqM0jpHccHm8lrN8%3D</url>
+    </media>
+  </photos>
+</property>
+
+
+
+<property>
+  <building>
     <address>2911 Albemarle Rd</address>
     <city>Brooklyn</city>
     <state>NY</state>
@@ -13845,172 +13773,6 @@ Email us to schedule a showing</brokersummary>
     </media>
     <media>
       <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-12/2007_638385923454795133.png?sv=2019-07-07&amp;sr=c&amp;sig=4TX78%2BBb2GlsF7%2BbbAWVmTEG43jAWaFPiyy8zo0h%2B%2FI%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
-    </media>
-  </photos>
-</property>
-
-
-
-<property>
-  <building>
-    <address>581 Ocean Pkwy</address>
-    <city>Brooklyn</city>
-    <state>NY</state>
-    <zipcode>11218</zipcode>
-  </building>
-  <details>
-    <distributiontype>P</distributiontype>
-    <saleorrent>R</saleorrent>
-    <brokersummary>Introducing 581 Ocean, located in Kensington, alongside historical Ocean Parkway. 581 Ocean is a brand new luxury building offering 60 rental units.All units feature oversized windows, high-end modern appliances, gorgeous hardwood floors, and tasteful finishes throughout. Select units provide spacious balconies, patios, or private backyard spaces.Amenities include an elevator, lounge, gym, laundry room, bike storage, and parking garage.deally located on Ocean Parkway and 18th Avenue, you?ll have easy access to the B and Q trains at Newkirk Plaza as well as the F train at 18th Avenue and Ditmas Avenue stations. Prospect Park is just a 10 minute bike ride away.Make sure to enjoy all the diverse culture and dining this neighborhood has to offer.</brokersummary>
-    <weblistingid>34709</weblistingid>
-    <aptnumber>7D</aptnumber>
-    <apartmentsize>H</apartmentsize>
-    <numbedrooms>2</numbedrooms>
-    <numbaths>1</numbaths>
-    <numrooms>4</numrooms>
-    <listingtype>L</listingtype>
-    <status>A</status>
-    <listeddate>2025-10-27</listeddate>
-    <availabledate>Sep-01-2025</availabledate>
-    <modifieddate>2025-10-27</modifieddate>
-    <listingurl>https://myspacenyc.cazamio.com/apartments/581-Ocean-Pkwy-Unit-7D-Brooklyn-NY-11218-34709</listingurl>
-    <price />
-    <grosscommission />
-    <buyersbrokercommision />
-    <paidbywhom>O</paidbywhom>
-    <rent>2975</rent>
-    <furnishrent />
-    <securitydeposit>1</securitydeposit>
-    <minterm>12</minterm>
-    <maxterm>12</maxterm>
-    <commissionmonth />
-    <commissionsplit-house />
-    <cof>TRUE</cof>
-    <petpolicy>C</petpolicy>
-  </details>
-  <agents>
-    <agent>
-      <firstname>Belle</firstname>
-      <lastname>Piper</lastname>
-      <title>Rental Agent</title>
-      <email>belle.msnyc@myspacenyc.com</email>
-      <workphone>(646) 854-3513</workphone>
-      <mobilephone />
-      <homephone />
-      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
-    </agent>
-  </agents>
-  <photos>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-05/af89ecc1-02ec-4b73-9198-5dcabcf3354e_638840399037891182.jpeg?sv=2025-05-05&amp;se=2027-05-28T14%3A38%3A23Z&amp;sr=b&amp;sp=r&amp;sig=Meb5Bzw0Di%2FMz3rbP9RLXSrfYDxu0K%2FD0kksFD4ydXI%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-05/af89ecc1-02ec-4b73-9198-5dcabcf3354e_638840399037834304.jpeg?sv=2025-05-05&amp;se=2027-05-28T14%3A38%3A23Z&amp;sr=b&amp;sp=r&amp;sig=iKK5yYuz5ON7BXtBumKibeg3GDEOYkd4OmotJTnFKfU%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-05/af89ecc1-02ec-4b73-9198-5dcabcf3354e_638840399037745261.jpeg?sv=2025-05-05&amp;se=2027-05-28T14%3A38%3A23Z&amp;sr=b&amp;sp=r&amp;sig=DavIKLeaA88koBZZA8wRmT4Lq5XDlQneni7SE2y1Guk%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-05/af89ecc1-02ec-4b73-9198-5dcabcf3354e_638840399037772714.jpeg?sv=2025-05-05&amp;se=2027-05-28T14%3A38%3A23Z&amp;sr=b&amp;sp=r&amp;sig=jLOdTwO2OPaWl78IFeM8j9kTprB6pLMIlE7V%2B9tf9Kc%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-05/af89ecc1-02ec-4b73-9198-5dcabcf3354e_638840399037761600.jpeg?sv=2025-05-05&amp;se=2027-05-28T14%3A38%3A23Z&amp;sr=b&amp;sp=r&amp;sig=tkNMKWs594pqllnIhxdRwjETNoxZ%2FLCIeUzDerV4Wr8%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-05/af89ecc1-02ec-4b73-9198-5dcabcf3354e_638840399037735510.jpeg?sv=2025-05-05&amp;se=2027-05-28T14%3A38%3A23Z&amp;sr=b&amp;sp=r&amp;sig=Gq6XGAdcea679H5eco1tKtqpdksiOSNTgXQavL6w%2Bac%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-05/af89ecc1-02ec-4b73-9198-5dcabcf3354e_638840399037886614.jpeg?sv=2025-05-05&amp;se=2027-05-28T14%3A38%3A23Z&amp;sr=b&amp;sp=r&amp;sig=cJsoRkjnOHPo4Q8yK1nrGlQ9NmqVAO41OEmBazDOLpA%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-05/af89ecc1-02ec-4b73-9198-5dcabcf3354e_638840399037775502.jpeg?sv=2025-05-05&amp;se=2027-05-28T14%3A38%3A23Z&amp;sr=b&amp;sp=r&amp;sig=b6C38uI3E%2FSY0gPvFV87yO4%2Fgcjqa2gkTTo3C11JEfk%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-05/af89ecc1-02ec-4b73-9198-5dcabcf3354e_638840399038182689.jpeg?sv=2025-05-05&amp;se=2027-05-28T14%3A38%3A23Z&amp;sr=b&amp;sp=r&amp;sig=mbStVKJq5dyM4yuq5GUaLUvVMOCQNYFRWklUljbQHb8%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-05/af89ecc1-02ec-4b73-9198-5dcabcf3354e_638840399038203356.jpeg?sv=2025-05-05&amp;se=2027-05-28T14%3A38%3A23Z&amp;sr=b&amp;sp=r&amp;sig=nyerL4HfCEHtbGpXz3rKaR5W5asaqM0jpHccHm8lrN8%3D</url>
-    </media>
-  </photos>
-</property>
-
-
-
-<property>
-  <building>
-    <address>159 Winthrop St</address>
-    <city>Brooklyn</city>
-    <state>NY</state>
-    <zipcode>11225</zipcode>
-  </building>
-  <details>
-    <distributiontype>P</distributiontype>
-    <saleorrent>R</saleorrent>
-    <brokersummary>Virtual Tour Available
-
-Gorgeous newly renovated 3 bed in Prospect Lefferts Garden!
-Breakfast bar in an open concept kitchen!
-Stainless appliances!
-Juliette Balcony!
-Spacious living room!
-Close to the Winthrop 2/5 makes an easy commute to the city!
-Small pets welcome!!</brokersummary>
-    <weblistingid>36972</weblistingid>
-    <aptnumber>3R</aptnumber>
-    <apartmentsize>L</apartmentsize>
-    <numbedrooms>3</numbedrooms>
-    <numbaths>1</numbaths>
-    <numrooms>5</numrooms>
-    <listingtype>L</listingtype>
-    <status>P</status>
-    <listeddate>2025-10-27</listeddate>
-    <availabledate>Oct-01-2025</availabledate>
-    <modifieddate>2025-10-27</modifieddate>
-    <listingurl>https://myspacenyc.cazamio.com/apartments/159-Winthrop-St-Unit-3R-Brooklyn-NY-11225-36972</listingurl>
-    <price />
-    <grosscommission />
-    <buyersbrokercommision />
-    <paidbywhom>O</paidbywhom>
-    <rent>3152</rent>
-    <furnishrent />
-    <securitydeposit>1</securitydeposit>
-    <minterm>12</minterm>
-    <maxterm>12</maxterm>
-    <commissionmonth />
-    <commissionsplit-house />
-    <cof>TRUE</cof>
-    <petpolicy>C</petpolicy>
-  </details>
-  <agents>
-    <agent>
-      <firstname>Belle</firstname>
-      <lastname>Piper</lastname>
-      <title>Rental Agent</title>
-      <email>belle.msnyc@myspacenyc.com</email>
-      <workphone>(646) 854-3513</workphone>
-      <mobilephone />
-      <homephone />
-      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
-    </agent>
-  </agents>
-  <photos>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-05/1990_638199371005285101.png?sv=2019-07-07&amp;sr=c&amp;sig=aBU5k3og9HbfEl9B5lGY6fT20gYpPBOl7QtA7GVUqnY%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-05/1990_638199370990821632.png?sv=2019-07-07&amp;sr=c&amp;sig=aBU5k3og9HbfEl9B5lGY6fT20gYpPBOl7QtA7GVUqnY%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-05/1990_638199370994652750.png?sv=2019-07-07&amp;sr=c&amp;sig=aBU5k3og9HbfEl9B5lGY6fT20gYpPBOl7QtA7GVUqnY%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-05/1990_638199370997725795.png?sv=2019-07-07&amp;sr=c&amp;sig=aBU5k3og9HbfEl9B5lGY6fT20gYpPBOl7QtA7GVUqnY%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-05/1990_638199371001131677.png?sv=2019-07-07&amp;sr=c&amp;sig=aBU5k3og9HbfEl9B5lGY6fT20gYpPBOl7QtA7GVUqnY%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-05/1990_638199371008127956.png?sv=2019-07-07&amp;sr=c&amp;sig=aBU5k3og9HbfEl9B5lGY6fT20gYpPBOl7QtA7GVUqnY%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r</url>
     </media>
   </photos>
 </property>
@@ -14650,6 +14412,87 @@ This is One Fifty Lawrence.</brokersummary>
     </media>
     <media>
       <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-10/af89ecc1-02ec-4b73-9198-5dcabcf3354e_638953648592133041.jpeg?sv=2025-05-05&amp;se=2027-10-06T16%3A27%3A39Z&amp;sr=b&amp;sp=r&amp;sig=yy0pCeN0IcBqC1YBCC3THqI6o0JFK0oXFVekyc0aED4%3D</url>
+    </media>
+  </photos>
+</property>
+
+
+
+<property>
+  <building>
+    <address>159 Winthrop St</address>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11225</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary>Virtual Tour Available
+
+Gorgeous newly renovated 3 bed in Prospect Lefferts Garden!
+Breakfast bar in an open concept kitchen!
+Stainless appliances!
+Juliette Balcony!
+Spacious living room!
+Close to the Winthrop 2/5 makes an easy commute to the city!
+Small pets welcome!!</brokersummary>
+    <weblistingid>36972</weblistingid>
+    <aptnumber>3R</aptnumber>
+    <apartmentsize>L</apartmentsize>
+    <numbedrooms>3</numbedrooms>
+    <numbaths>1</numbaths>
+    <numrooms>5</numrooms>
+    <listingtype>L</listingtype>
+    <status>P</status>
+    <listeddate>2025-10-27</listeddate>
+    <availabledate>Oct-01-2025</availabledate>
+    <modifieddate>2025-10-27</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/159-Winthrop-St-Unit-3R-Brooklyn-NY-11225-36972</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>3152</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-05/1990_638199371005285101.png?sv=2019-07-07&amp;sr=c&amp;sig=aBU5k3og9HbfEl9B5lGY6fT20gYpPBOl7QtA7GVUqnY%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-05/1990_638199370990821632.png?sv=2019-07-07&amp;sr=c&amp;sig=aBU5k3og9HbfEl9B5lGY6fT20gYpPBOl7QtA7GVUqnY%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-05/1990_638199370994652750.png?sv=2019-07-07&amp;sr=c&amp;sig=aBU5k3og9HbfEl9B5lGY6fT20gYpPBOl7QtA7GVUqnY%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-05/1990_638199370997725795.png?sv=2019-07-07&amp;sr=c&amp;sig=aBU5k3og9HbfEl9B5lGY6fT20gYpPBOl7QtA7GVUqnY%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-05/1990_638199371001131677.png?sv=2019-07-07&amp;sr=c&amp;sig=aBU5k3og9HbfEl9B5lGY6fT20gYpPBOl7QtA7GVUqnY%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-05/1990_638199371008127956.png?sv=2019-07-07&amp;sr=c&amp;sig=aBU5k3og9HbfEl9B5lGY6fT20gYpPBOl7QtA7GVUqnY%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r</url>
     </media>
   </photos>
 </property>
@@ -15643,6 +15486,124 @@ Available now</brokersummary>
     </agent>
   </agents>
   <photos />
+</property>
+
+
+
+<property>
+  <building>
+    <address>836 Bergen St</address>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11238</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary>Gorgeous 1 bedroom in a luxury doorman building. Large living room and private outdoor space! Large bedroom with lots of closets and storage. Stainless steel kitchen with dishwasher and microwave. Oak wood floors. One fully tiled bathroom with a large soaking tub. Central air and central heating. Laundry in unit!Building features media room, Gym with a sauna, recreational room featuring a pool table, ping pong table, air hockey. Bike storage.An amazing roof with great views of the city.Garage. Near the Shuttle,2,3,4,5 and C trains. Near Prospect Park, Brooklyn Museum, Bergen Beer Garden and Franklin Ave trendy restaurants and bars.</brokersummary>
+    <weblistingid>36538</weblistingid>
+    <aptnumber>214</aptnumber>
+    <apartmentsize>7</apartmentsize>
+    <numbedrooms>1</numbedrooms>
+    <numbaths>1</numbaths>
+    <numrooms>3</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2025-10-27</listeddate>
+    <availabledate>Oct-01-2023</availabledate>
+    <modifieddate>2025-10-27</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/836-Bergen-St-Unit-214-Brooklyn-NY-11238-36538</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>4500</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-03/1990_638155425134568864.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=YMBOT9HoGGiDBEIFcIdavWZ9t%2FxUPPeGKZv96NIfXzc%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-03/1990_638155425142195751.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=YMBOT9HoGGiDBEIFcIdavWZ9t%2FxUPPeGKZv96NIfXzc%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-03/1990_638155425135973434.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=YMBOT9HoGGiDBEIFcIdavWZ9t%2FxUPPeGKZv96NIfXzc%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-03/1990_638155425136975742.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=YMBOT9HoGGiDBEIFcIdavWZ9t%2FxUPPeGKZv96NIfXzc%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-03/1990_638155425138361519.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=YMBOT9HoGGiDBEIFcIdavWZ9t%2FxUPPeGKZv96NIfXzc%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-03/1990_638155425140217574.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=YMBOT9HoGGiDBEIFcIdavWZ9t%2FxUPPeGKZv96NIfXzc%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-03/1990_638155425141210040.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=YMBOT9HoGGiDBEIFcIdavWZ9t%2FxUPPeGKZv96NIfXzc%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-03/1990_638155425143249984.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=YMBOT9HoGGiDBEIFcIdavWZ9t%2FxUPPeGKZv96NIfXzc%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-03/1990_638155425238662387.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=YMBOT9HoGGiDBEIFcIdavWZ9t%2FxUPPeGKZv96NIfXzc%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-03/1990_638155425240149548.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=YMBOT9HoGGiDBEIFcIdavWZ9t%2FxUPPeGKZv96NIfXzc%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-03/1990_638155425241527879.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=YMBOT9HoGGiDBEIFcIdavWZ9t%2FxUPPeGKZv96NIfXzc%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-03/1990_638155425242654674.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=YMBOT9HoGGiDBEIFcIdavWZ9t%2FxUPPeGKZv96NIfXzc%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-03/1990_638155425244065278.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=YMBOT9HoGGiDBEIFcIdavWZ9t%2FxUPPeGKZv96NIfXzc%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-03/1990_638155425245553192.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=YMBOT9HoGGiDBEIFcIdavWZ9t%2FxUPPeGKZv96NIfXzc%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-03/1990_638155425246940413.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=YMBOT9HoGGiDBEIFcIdavWZ9t%2FxUPPeGKZv96NIfXzc%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-03/1990_638155425247934871.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=YMBOT9HoGGiDBEIFcIdavWZ9t%2FxUPPeGKZv96NIfXzc%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-03/1990_638155425249380156.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=YMBOT9HoGGiDBEIFcIdavWZ9t%2FxUPPeGKZv96NIfXzc%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-03/1990_638155425250376786.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=YMBOT9HoGGiDBEIFcIdavWZ9t%2FxUPPeGKZv96NIfXzc%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-03/1990_638155425251625095.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=YMBOT9HoGGiDBEIFcIdavWZ9t%2FxUPPeGKZv96NIfXzc%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-03/1990_638155425252839905.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=YMBOT9HoGGiDBEIFcIdavWZ9t%2FxUPPeGKZv96NIfXzc%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-03/1990_638155425254459402.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=YMBOT9HoGGiDBEIFcIdavWZ9t%2FxUPPeGKZv96NIfXzc%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+  </photos>
 </property>
 
 
@@ -18066,124 +18027,6 @@ Local favorites include Chuko Ramen, Hot Bird, Milk River, Branded Saloon, Woodw
 
 <property>
   <building>
-    <address>836 Bergen St</address>
-    <city>Brooklyn</city>
-    <state>NY</state>
-    <zipcode>11238</zipcode>
-  </building>
-  <details>
-    <distributiontype>P</distributiontype>
-    <saleorrent>R</saleorrent>
-    <brokersummary>Gorgeous 1 bedroom in a luxury doorman building. Large living room and private outdoor space! Large bedroom with lots of closets and storage. Stainless steel kitchen with dishwasher and microwave. Oak wood floors. One fully tiled bathroom with a large soaking tub. Central air and central heating. Laundry in unit!Building features media room, Gym with a sauna, recreational room featuring a pool table, ping pong table, air hockey. Bike storage.An amazing roof with great views of the city.Garage. Near the Shuttle,2,3,4,5 and C trains. Near Prospect Park, Brooklyn Museum, Bergen Beer Garden and Franklin Ave trendy restaurants and bars.</brokersummary>
-    <weblistingid>36538</weblistingid>
-    <aptnumber>214</aptnumber>
-    <apartmentsize>7</apartmentsize>
-    <numbedrooms>1</numbedrooms>
-    <numbaths>1</numbaths>
-    <numrooms>3</numrooms>
-    <listingtype>L</listingtype>
-    <status>A</status>
-    <listeddate>2025-10-27</listeddate>
-    <availabledate>Oct-01-2023</availabledate>
-    <modifieddate>2025-10-27</modifieddate>
-    <listingurl>https://myspacenyc.cazamio.com/apartments/836-Bergen-St-Unit-214-Brooklyn-NY-11238-36538</listingurl>
-    <price />
-    <grosscommission />
-    <buyersbrokercommision />
-    <paidbywhom>O</paidbywhom>
-    <rent>4500</rent>
-    <furnishrent />
-    <securitydeposit>1</securitydeposit>
-    <minterm>12</minterm>
-    <maxterm>12</maxterm>
-    <commissionmonth />
-    <commissionsplit-house />
-    <cof>TRUE</cof>
-    <petpolicy>C</petpolicy>
-  </details>
-  <agents>
-    <agent>
-      <firstname>Belle</firstname>
-      <lastname>Piper</lastname>
-      <title>Rental Agent</title>
-      <email>belle.msnyc@myspacenyc.com</email>
-      <workphone>(646) 854-3513</workphone>
-      <mobilephone />
-      <homephone />
-      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
-    </agent>
-  </agents>
-  <photos>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-03/1990_638155425134568864.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=YMBOT9HoGGiDBEIFcIdavWZ9t%2FxUPPeGKZv96NIfXzc%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-03/1990_638155425142195751.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=YMBOT9HoGGiDBEIFcIdavWZ9t%2FxUPPeGKZv96NIfXzc%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-03/1990_638155425135973434.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=YMBOT9HoGGiDBEIFcIdavWZ9t%2FxUPPeGKZv96NIfXzc%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-03/1990_638155425136975742.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=YMBOT9HoGGiDBEIFcIdavWZ9t%2FxUPPeGKZv96NIfXzc%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-03/1990_638155425138361519.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=YMBOT9HoGGiDBEIFcIdavWZ9t%2FxUPPeGKZv96NIfXzc%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-03/1990_638155425140217574.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=YMBOT9HoGGiDBEIFcIdavWZ9t%2FxUPPeGKZv96NIfXzc%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-03/1990_638155425141210040.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=YMBOT9HoGGiDBEIFcIdavWZ9t%2FxUPPeGKZv96NIfXzc%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-03/1990_638155425143249984.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=YMBOT9HoGGiDBEIFcIdavWZ9t%2FxUPPeGKZv96NIfXzc%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-03/1990_638155425238662387.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=YMBOT9HoGGiDBEIFcIdavWZ9t%2FxUPPeGKZv96NIfXzc%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-03/1990_638155425240149548.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=YMBOT9HoGGiDBEIFcIdavWZ9t%2FxUPPeGKZv96NIfXzc%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-03/1990_638155425241527879.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=YMBOT9HoGGiDBEIFcIdavWZ9t%2FxUPPeGKZv96NIfXzc%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-03/1990_638155425242654674.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=YMBOT9HoGGiDBEIFcIdavWZ9t%2FxUPPeGKZv96NIfXzc%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-03/1990_638155425244065278.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=YMBOT9HoGGiDBEIFcIdavWZ9t%2FxUPPeGKZv96NIfXzc%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-03/1990_638155425245553192.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=YMBOT9HoGGiDBEIFcIdavWZ9t%2FxUPPeGKZv96NIfXzc%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-03/1990_638155425246940413.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=YMBOT9HoGGiDBEIFcIdavWZ9t%2FxUPPeGKZv96NIfXzc%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-03/1990_638155425247934871.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=YMBOT9HoGGiDBEIFcIdavWZ9t%2FxUPPeGKZv96NIfXzc%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-03/1990_638155425249380156.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=YMBOT9HoGGiDBEIFcIdavWZ9t%2FxUPPeGKZv96NIfXzc%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-03/1990_638155425250376786.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=YMBOT9HoGGiDBEIFcIdavWZ9t%2FxUPPeGKZv96NIfXzc%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-03/1990_638155425251625095.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=YMBOT9HoGGiDBEIFcIdavWZ9t%2FxUPPeGKZv96NIfXzc%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-03/1990_638155425252839905.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=YMBOT9HoGGiDBEIFcIdavWZ9t%2FxUPPeGKZv96NIfXzc%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2023-03/1990_638155425254459402.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=YMBOT9HoGGiDBEIFcIdavWZ9t%2FxUPPeGKZv96NIfXzc%3D&amp;se=9999-12-31T23%3A59%3A59Z&amp;sp=r</url>
-    </media>
-  </photos>
-</property>
-
-
-
-<property>
-  <building>
     <address>1468 Bushwick Ave</address>
     <city>Brooklyn</city>
     <state>NY</state>
@@ -19455,6 +19298,140 @@ Available 11/1</brokersummary>
 
 <property>
   <building>
+    <address>647 Willoughby Avenue</address>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11206</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary />
+    <weblistingid>37365</weblistingid>
+    <aptnumber>2</aptnumber>
+    <apartmentsize>7</apartmentsize>
+    <numbedrooms>1</numbedrooms>
+    <numbaths>1</numbaths>
+    <numrooms>3</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2025-10-27</listeddate>
+    <availabledate>Oct-22-2025</availabledate>
+    <modifieddate>2025-10-27</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/647-Willoughby-Avenue-Unit-2-Brooklyn-NY-11206-37365</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>3200</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-10/8515455b-be52-4141-8a40-4c35d33cf98b_638967384994147717.png?sv=2025-05-05&amp;se=2027-10-22T14%3A01%3A39Z&amp;sr=b&amp;sp=r&amp;sig=NE4qJWn26twTpbc9T5xME38bxqCf6zhA0OCQ4oyoyBk%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-10/8515455b-be52-4141-8a40-4c35d33cf98b_638967384991806791.png?sv=2025-05-05&amp;se=2027-10-22T14%3A01%3A39Z&amp;sr=b&amp;sp=r&amp;sig=iwyBzHIzIndPVk5TpdOU4PKcwbsN7NYVQCdjBU6SgZE%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-10/8515455b-be52-4141-8a40-4c35d33cf98b_638967384993587112.png?sv=2025-05-05&amp;se=2027-10-22T14%3A01%3A39Z&amp;sr=b&amp;sp=r&amp;sig=Wo9UEiwJiCCJCs%2BTIakhJfOyIoIDNiryW%2F%2B86EyIflU%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-10/8515455b-be52-4141-8a40-4c35d33cf98b_638967384993504387.png?sv=2025-05-05&amp;se=2027-10-22T14%3A01%3A39Z&amp;sr=b&amp;sp=r&amp;sig=sr3QzuYaTqUsnxYQ0Hwz8Il7w7oyjJpG1r35hoO1Orw%3D</url>
+    </media>
+  </photos>
+</property>
+
+
+
+<property>
+  <building>
+    <address>647 Willoughby Avenue</address>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11206</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary />
+    <weblistingid>37366</weblistingid>
+    <aptnumber>3</aptnumber>
+    <apartmentsize>L</apartmentsize>
+    <numbedrooms>3</numbedrooms>
+    <numbaths>1.5</numbaths>
+    <numrooms>5</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2025-10-27</listeddate>
+    <availabledate>Oct-22-2025</availabledate>
+    <modifieddate>2025-10-27</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/647-Willoughby-Avenue-Unit-3-Brooklyn-NY-11206-37366</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>4300</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-10/8515455b-be52-4141-8a40-4c35d33cf98b_638967384916886287.png?sv=2025-05-05&amp;se=2027-10-22T14%3A01%3A31Z&amp;sr=b&amp;sp=r&amp;sig=2DuFDbcRCelqlstBfrH25qvWFVOQEx8Hvl4RD4B3%2FNE%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-10/8515455b-be52-4141-8a40-4c35d33cf98b_638967384910623737.png?sv=2025-05-05&amp;se=2027-10-22T14%3A01%3A31Z&amp;sr=b&amp;sp=r&amp;sig=%2BtpVxFjDveDzPfLkAUR6%2FywoXOzZNrpBX7ASJWCsifE%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-10/8515455b-be52-4141-8a40-4c35d33cf98b_638967384916665258.png?sv=2025-05-05&amp;se=2027-10-22T14%3A01%3A31Z&amp;sr=b&amp;sp=r&amp;sig=4zUxnwqOW0zDXcQ1nlBhKf8jshMx18JAYk7jfJWdyvk%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-10/8515455b-be52-4141-8a40-4c35d33cf98b_638967384918164664.png?sv=2025-05-05&amp;se=2027-10-22T14%3A01%3A31Z&amp;sr=b&amp;sp=r&amp;sig=n9k2RZx6yRsbiEEcqUC4R9gEK7bui6OA51nw8t7x0zU%3D</url>
+    </media>
+  </photos>
+</property>
+
+
+
+<property>
+  <building>
     <address>489 Grand Street</address>
     <city>Brooklyn</city>
     <state>New York</state>
@@ -19657,140 +19634,6 @@ Available 11/1</brokersummary>
     </media>
     <media>
       <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/8515455b-be52-4141-8a40-4c35d33cf98b_638948390817848408.jpeg?sv=2025-05-05&amp;se=2027-09-30T14%3A24%3A41Z&amp;sr=b&amp;sp=r&amp;sig=LePffb7bgkXTBlyh8B2O4NUbHf%2FFc0B6ML2lR8fwROY%3D</url>
-    </media>
-  </photos>
-</property>
-
-
-
-<property>
-  <building>
-    <address>647 Willoughby Avenue</address>
-    <city>Brooklyn</city>
-    <state>NY</state>
-    <zipcode>11206</zipcode>
-  </building>
-  <details>
-    <distributiontype>P</distributiontype>
-    <saleorrent>R</saleorrent>
-    <brokersummary />
-    <weblistingid>37365</weblistingid>
-    <aptnumber>2</aptnumber>
-    <apartmentsize>7</apartmentsize>
-    <numbedrooms>1</numbedrooms>
-    <numbaths>1</numbaths>
-    <numrooms>3</numrooms>
-    <listingtype>L</listingtype>
-    <status>A</status>
-    <listeddate>2025-10-27</listeddate>
-    <availabledate>Oct-22-2025</availabledate>
-    <modifieddate>2025-10-27</modifieddate>
-    <listingurl>https://myspacenyc.cazamio.com/apartments/647-Willoughby-Avenue-Unit-2-Brooklyn-NY-11206-37365</listingurl>
-    <price />
-    <grosscommission />
-    <buyersbrokercommision />
-    <paidbywhom>O</paidbywhom>
-    <rent>3200</rent>
-    <furnishrent />
-    <securitydeposit>1</securitydeposit>
-    <minterm>12</minterm>
-    <maxterm>12</maxterm>
-    <commissionmonth />
-    <commissionsplit-house />
-    <cof>TRUE</cof>
-    <petpolicy>C</petpolicy>
-  </details>
-  <agents>
-    <agent>
-      <firstname>Belle</firstname>
-      <lastname>Piper</lastname>
-      <title>Rental Agent</title>
-      <email>belle.msnyc@myspacenyc.com</email>
-      <workphone>(646) 854-3513</workphone>
-      <mobilephone />
-      <homephone />
-      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
-    </agent>
-  </agents>
-  <photos>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-10/8515455b-be52-4141-8a40-4c35d33cf98b_638967384994147717.png?sv=2025-05-05&amp;se=2027-10-22T14%3A01%3A39Z&amp;sr=b&amp;sp=r&amp;sig=NE4qJWn26twTpbc9T5xME38bxqCf6zhA0OCQ4oyoyBk%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-10/8515455b-be52-4141-8a40-4c35d33cf98b_638967384991806791.png?sv=2025-05-05&amp;se=2027-10-22T14%3A01%3A39Z&amp;sr=b&amp;sp=r&amp;sig=iwyBzHIzIndPVk5TpdOU4PKcwbsN7NYVQCdjBU6SgZE%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-10/8515455b-be52-4141-8a40-4c35d33cf98b_638967384993587112.png?sv=2025-05-05&amp;se=2027-10-22T14%3A01%3A39Z&amp;sr=b&amp;sp=r&amp;sig=Wo9UEiwJiCCJCs%2BTIakhJfOyIoIDNiryW%2F%2B86EyIflU%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-10/8515455b-be52-4141-8a40-4c35d33cf98b_638967384993504387.png?sv=2025-05-05&amp;se=2027-10-22T14%3A01%3A39Z&amp;sr=b&amp;sp=r&amp;sig=sr3QzuYaTqUsnxYQ0Hwz8Il7w7oyjJpG1r35hoO1Orw%3D</url>
-    </media>
-  </photos>
-</property>
-
-
-
-<property>
-  <building>
-    <address>647 Willoughby Avenue</address>
-    <city>Brooklyn</city>
-    <state>NY</state>
-    <zipcode>11206</zipcode>
-  </building>
-  <details>
-    <distributiontype>P</distributiontype>
-    <saleorrent>R</saleorrent>
-    <brokersummary />
-    <weblistingid>37366</weblistingid>
-    <aptnumber>3</aptnumber>
-    <apartmentsize>L</apartmentsize>
-    <numbedrooms>3</numbedrooms>
-    <numbaths>1.5</numbaths>
-    <numrooms>5</numrooms>
-    <listingtype>L</listingtype>
-    <status>A</status>
-    <listeddate>2025-10-27</listeddate>
-    <availabledate>Oct-22-2025</availabledate>
-    <modifieddate>2025-10-27</modifieddate>
-    <listingurl>https://myspacenyc.cazamio.com/apartments/647-Willoughby-Avenue-Unit-3-Brooklyn-NY-11206-37366</listingurl>
-    <price />
-    <grosscommission />
-    <buyersbrokercommision />
-    <paidbywhom>O</paidbywhom>
-    <rent>4300</rent>
-    <furnishrent />
-    <securitydeposit>1</securitydeposit>
-    <minterm>12</minterm>
-    <maxterm>12</maxterm>
-    <commissionmonth />
-    <commissionsplit-house />
-    <cof>TRUE</cof>
-    <petpolicy>C</petpolicy>
-  </details>
-  <agents>
-    <agent>
-      <firstname>Belle</firstname>
-      <lastname>Piper</lastname>
-      <title>Rental Agent</title>
-      <email>belle.msnyc@myspacenyc.com</email>
-      <workphone>(646) 854-3513</workphone>
-      <mobilephone />
-      <homephone />
-      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
-    </agent>
-  </agents>
-  <photos>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-10/8515455b-be52-4141-8a40-4c35d33cf98b_638967384916886287.png?sv=2025-05-05&amp;se=2027-10-22T14%3A01%3A31Z&amp;sr=b&amp;sp=r&amp;sig=2DuFDbcRCelqlstBfrH25qvWFVOQEx8Hvl4RD4B3%2FNE%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-10/8515455b-be52-4141-8a40-4c35d33cf98b_638967384910623737.png?sv=2025-05-05&amp;se=2027-10-22T14%3A01%3A31Z&amp;sr=b&amp;sp=r&amp;sig=%2BtpVxFjDveDzPfLkAUR6%2FywoXOzZNrpBX7ASJWCsifE%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-10/8515455b-be52-4141-8a40-4c35d33cf98b_638967384916665258.png?sv=2025-05-05&amp;se=2027-10-22T14%3A01%3A31Z&amp;sr=b&amp;sp=r&amp;sig=4zUxnwqOW0zDXcQ1nlBhKf8jshMx18JAYk7jfJWdyvk%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-10/8515455b-be52-4141-8a40-4c35d33cf98b_638967384918164664.png?sv=2025-05-05&amp;se=2027-10-22T14%3A01%3A31Z&amp;sr=b&amp;sp=r&amp;sig=n9k2RZx6yRsbiEEcqUC4R9gEK7bui6OA51nw8t7x0zU%3D</url>
     </media>
   </photos>
 </property>
@@ -21340,6 +21183,60 @@ No fee! Pets ok! Reach out today!</brokersummary>
     <buyersbrokercommision />
     <paidbywhom>O</paidbywhom>
     <rent>5500</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos />
+</property>
+
+
+
+<property>
+  <building>
+    <address>74 Cornelia Street</address>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11221</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary />
+    <weblistingid>31650</weblistingid>
+    <aptnumber>S3</aptnumber>
+    <apartmentsize>7</apartmentsize>
+    <numbedrooms>1</numbedrooms>
+    <numbaths>1</numbaths>
+    <numrooms>3</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2025-10-27</listeddate>
+    <availabledate>Nov-01-2025</availabledate>
+    <modifieddate>2025-10-27</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/74-Cornelia-Street-Unit-S3-Brooklyn-NY-11221-31650</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>2500</rent>
     <furnishrent />
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
