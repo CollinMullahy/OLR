@@ -18451,60 +18451,6 @@ Or we can separate as a duplex 2nd and 3rd floor and have 1st floor 1 bedroom ap
 
 <property>
   <building>
-    <address>271 Hull Street</address>
-    <city>Brooklyn</city>
-    <state>NY</state>
-    <zipcode>11233</zipcode>
-  </building>
-  <details>
-    <distributiontype>P</distributiontype>
-    <saleorrent>R</saleorrent>
-    <brokersummary />
-    <weblistingid>36729</weblistingid>
-    <aptnumber>1</aptnumber>
-    <apartmentsize>6BED</apartmentsize>
-    <numbedrooms>6</numbedrooms>
-    <numbaths>2</numbaths>
-    <numrooms>9</numrooms>
-    <listingtype>L</listingtype>
-    <status>A</status>
-    <listeddate>2025-11-29</listeddate>
-    <availabledate>Sep-06-2025</availabledate>
-    <modifieddate>2025-11-29</modifieddate>
-    <listingurl>https://myspacenyc.cazamio.com/apartments/271-Hull-Street-Unit-1-Brooklyn-NY-11233-36729</listingurl>
-    <price />
-    <grosscommission />
-    <buyersbrokercommision />
-    <paidbywhom>O</paidbywhom>
-    <rent>4600</rent>
-    <furnishrent />
-    <securitydeposit>1</securitydeposit>
-    <minterm>12</minterm>
-    <maxterm>12</maxterm>
-    <commissionmonth />
-    <commissionsplit-house />
-    <cof>TRUE</cof>
-    <petpolicy>C</petpolicy>
-  </details>
-  <agents>
-    <agent>
-      <firstname>Belle</firstname>
-      <lastname>Piper</lastname>
-      <title>Rental Agent</title>
-      <email>belle.msnyc@myspacenyc.com</email>
-      <workphone>(646) 854-3513</workphone>
-      <mobilephone />
-      <homephone />
-      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
-    </agent>
-  </agents>
-  <photos />
-</property>
-
-
-
-<property>
-  <building>
     <address>74 Cornelia Street</address>
     <city>Brooklyn</city>
     <state>NY</state>
