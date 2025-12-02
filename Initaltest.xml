@@ -9136,7 +9136,7 @@ Welcome to 1499 Bedford Ave?where luxury, community, and convenience meet. Exper
     <grosscommission />
     <buyersbrokercommision />
     <paidbywhom>O</paidbywhom>
-    <rent>4600</rent>
+    <rent>4200</rent>
     <furnishrent />
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
@@ -9956,7 +9956,7 @@ Welcome to 1499 Bedford Ave?where luxury, community, and convenience meet. Exper
     <grosscommission />
     <buyersbrokercommision />
     <paidbywhom>O</paidbywhom>
-    <rent>4400</rent>
+    <rent>4200</rent>
     <furnishrent />
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
@@ -10116,6 +10116,9 @@ Welcome to 1499 Bedford Ave?where luxury, community, and convenience meet. Exper
     </media>
     <media>
       <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-09/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638930471035556631.jpeg?sv=2025-05-05&amp;se=2027-09-09T20%3A38%3A23Z&amp;sr=b&amp;sp=r&amp;sig=EyXn732Lfa5XJ0PGpaH7%2FgcPocnWvKhSQSY422rtSoE%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-12/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_639003004858762186.jpeg?sv=2025-05-05&amp;se=2027-12-02T19%3A28%3A05Z&amp;sr=b&amp;sp=r&amp;sig=VsxF04L9kStxbthYvfRKCUZtVapsN6%2BL%2FF2zr8P72uE%3D</url>
     </media>
   </photos>
 </property>
