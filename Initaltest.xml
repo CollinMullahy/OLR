@@ -2383,7 +2383,7 @@ Unbeatable location at the crossroads of Boerum Hill, Gowanus &amp; Park Slope, 
     <grosscommission />
     <buyersbrokercommision />
     <paidbywhom>O</paidbywhom>
-    <rent>4600</rent>
+    <rent>5175</rent>
     <furnishrent />
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
@@ -23351,64 +23351,6 @@ Lots of amenities</brokersummary>
     <buyersbrokercommision />
     <paidbywhom>O</paidbywhom>
     <rent>4615</rent>
-    <furnishrent />
-    <securitydeposit>1</securitydeposit>
-    <minterm>12</minterm>
-    <maxterm>12</maxterm>
-    <commissionmonth />
-    <commissionsplit-house />
-    <cof>TRUE</cof>
-    <petpolicy>C</petpolicy>
-  </details>
-  <agents>
-    <agent>
-      <firstname>Belle</firstname>
-      <lastname>Piper</lastname>
-      <title>Rental Agent</title>
-      <email>belle.msnyc@myspacenyc.com</email>
-      <workphone>(646) 854-3513</workphone>
-      <mobilephone />
-      <homephone />
-      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
-    </agent>
-  </agents>
-  <photos />
-</property>
-
-
-
-<property>
-  <building>
-    <address>298 Bond Street</address>
-    <city>Brooklyn</city>
-    <state>NY</state>
-    <zipcode>11231</zipcode>
-  </building>
-  <details>
-    <distributiontype>P</distributiontype>
-    <saleorrent>R</saleorrent>
-    <brokersummary>Spacious and bright renovated apartment with 1 large bedroom plus 2 smaller bonus rooms and an open-plan living space - located in the super-cool Gowanus -section of Carroll Gardens.
-
- Fully renovated, this floor-through space includes a huge Chef's Kitchen with adult sized dishwasher. The 2 bonus rooms can be used as additional bedrooms, office, studio, library, den or large walk-in closet. 
-
-An original decorative fireplace (hidden in the pics)adds old-Brooklyn charm to the larger bedroom. You'll have the best of all worlds, two blocks to the F/G trains and the plethora of amenities that Smith and Court Streets offer - while remaining on the cool and quiet Gowanus edge.</brokersummary>
-    <weblistingid>38297</weblistingid>
-    <aptnumber>2</aptnumber>
-    <apartmentsize>H</apartmentsize>
-    <numbedrooms>2</numbedrooms>
-    <numbaths>1</numbaths>
-    <numrooms>4</numrooms>
-    <listingtype>L</listingtype>
-    <status>P</status>
-    <listeddate>2025-12-17</listeddate>
-    <availabledate>Jan-15-2026</availabledate>
-    <modifieddate>2025-12-17</modifieddate>
-    <listingurl>https://myspacenyc.cazamio.com/apartments/298-Bond-Street-Unit-2-Brooklyn-NY-11231-38297</listingurl>
-    <price />
-    <grosscommission />
-    <buyersbrokercommision />
-    <paidbywhom>O</paidbywhom>
-    <rent>4000</rent>
     <furnishrent />
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
