@@ -19063,60 +19063,6 @@ Pets upon approval
 
 <property>
   <building>
-    <address>29 Monaco Place</address>
-    <city>Brooklyn</city>
-    <state>NY</state>
-    <zipcode>11233</zipcode>
-  </building>
-  <details>
-    <distributiontype>P</distributiontype>
-    <saleorrent>R</saleorrent>
-    <brokersummary />
-    <weblistingid>37662</weblistingid>
-    <aptnumber>2</aptnumber>
-    <apartmentsize>5BED</apartmentsize>
-    <numbedrooms>5</numbedrooms>
-    <numbaths>3</numbaths>
-    <numrooms>9</numrooms>
-    <listingtype>L</listingtype>
-    <status>A</status>
-    <listeddate>2025-12-22</listeddate>
-    <availabledate>Nov-03-2025</availabledate>
-    <modifieddate>2025-12-22</modifieddate>
-    <listingurl>https://myspacenyc.cazamio.com/apartments/29-Monaco-Place-Unit-2-Brooklyn-NY-11233-37662</listingurl>
-    <price />
-    <grosscommission />
-    <buyersbrokercommision />
-    <paidbywhom>O</paidbywhom>
-    <rent>4800</rent>
-    <furnishrent />
-    <securitydeposit>1</securitydeposit>
-    <minterm>12</minterm>
-    <maxterm>12</maxterm>
-    <commissionmonth />
-    <commissionsplit-house />
-    <cof>TRUE</cof>
-    <petpolicy>C</petpolicy>
-  </details>
-  <agents>
-    <agent>
-      <firstname>Belle</firstname>
-      <lastname>Piper</lastname>
-      <title>Rental Agent</title>
-      <email>belle.msnyc@myspacenyc.com</email>
-      <workphone>(646) 854-3513</workphone>
-      <mobilephone />
-      <homephone />
-      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
-    </agent>
-  </agents>
-  <photos />
-</property>
-
-
-
-<property>
-  <building>
     <address>1584 Fulton Street</address>
     <city>Brooklyn</city>
     <state>NY</state>
