@@ -14880,7 +14880,7 @@ Call to view today! No FEE!</brokersummary>
     <numbaths>1.5</numbaths>
     <numrooms>5</numrooms>
     <listingtype>L</listingtype>
-    <status>A</status>
+    <status>P</status>
     <listeddate>2026-01-02</listeddate>
     <availabledate>Dec-23-2025</availabledate>
     <modifieddate>2026-01-02</modifieddate>
@@ -14889,7 +14889,7 @@ Call to view today! No FEE!</brokersummary>
     <grosscommission />
     <buyersbrokercommision />
     <paidbywhom>O</paidbywhom>
-    <rent>3795</rent>
+    <rent>4000</rent>
     <furnishrent />
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
