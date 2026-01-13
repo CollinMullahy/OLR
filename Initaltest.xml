@@ -10282,7 +10282,7 @@ This place is located within short distance from BedStuy?s famed Stuyvesant Heig
     <grosscommission />
     <buyersbrokercommision />
     <paidbywhom>O</paidbywhom>
-    <rent>4700</rent>
+    <rent>4500</rent>
     <furnishrent />
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
@@ -14656,12 +14656,12 @@ AMENITIES
   <details>
     <distributiontype>P</distributiontype>
     <saleorrent>R</saleorrent>
-    <brokersummary />
+    <brokersummary>A bright and spacious top-floor duplex offering separation between living and sleeping areas. 4th-floor walk-up. This 1 bed, 2 bath apartment has south-facing windows, gorgeous views, and high ceilings. Huge bedroom that easily fits a king-sized bed with space leftover. Natural light and a full living area downstairs! Modern kitchen with stone countertops, dishwasher, and built-in microwave. In-unit laundry, central A/C, and individual climate control. Building amenities include video intercom, package room, outdoor space, and roof access with open views. The downstairs living room can be flexed to create a second bedroom.</brokersummary>
     <weblistingid>37817</weblistingid>
     <aptnumber>4B</aptnumber>
-    <apartmentsize>H</apartmentsize>
-    <numbedrooms>2</numbedrooms>
-    <numbaths>1</numbaths>
+    <apartmentsize>7</apartmentsize>
+    <numbedrooms>1</numbedrooms>
+    <numbaths>2</numbaths>
     <numrooms>4</numrooms>
     <listingtype>L</listingtype>
     <status>A</status>
