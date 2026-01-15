@@ -13834,6 +13834,85 @@ NO FEE!</brokersummary>
 
 <property>
   <building>
+    <address>92 East 53rd Street</address>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11203</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary>Spacious and full of charm, this oversized 1-bedroom sits on the 4th floor of a classic pre-war walk-up in vibrant Remsen Village.
+
+What you?ll love:
+? King-sized bedroom with extra space
+? Sun-filled living room with high ceilings
+? Original hardwood floors and vintage details
+? Eat-in kitchen with granite, stainless steel &amp; microwave
+? Pet-friendly, bright, and airy throughout
+
+Close to parks, local favorites, and just minutes to the 3 &amp; 4 trains ? this home blends Brooklyn character with modern comfort.</brokersummary>
+    <weblistingid>38553</weblistingid>
+    <aptnumber>1A</aptnumber>
+    <apartmentsize>7</apartmentsize>
+    <numbedrooms>1</numbedrooms>
+    <numbaths>1</numbaths>
+    <numrooms>3</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2026-01-15</listeddate>
+    <availabledate>Jan-15-2026</availabledate>
+    <modifieddate>2026-01-15</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/92-East-53rd-Street-Unit-1A-Brooklyn-NY-11203-38553</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>1962</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-07/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638880945617247159.jpeg?sv=2025-05-05&amp;se=2027-07-14T12%3A56%3A01Z&amp;sr=b&amp;sp=r&amp;sig=YDCaUp2ntoOXyXCRREYcWNZFSZmtjQ%2BRV%2Fc2mT1t4nA%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-07/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638880945617183790.jpeg?sv=2025-05-05&amp;se=2027-07-14T12%3A56%3A01Z&amp;sr=b&amp;sp=r&amp;sig=P913AymA3orvGeB7hRK4j4H0oO1f3Fc0xhYvBIDYw3c%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-07/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638880945617273799.jpeg?sv=2025-05-05&amp;se=2027-07-14T12%3A56%3A01Z&amp;sr=b&amp;sp=r&amp;sig=LrL5l6zODTH2jhX265U6GNrc22IOqpwAxB%2F09zgJrh4%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-07/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638880945617247759.jpeg?sv=2025-05-05&amp;se=2027-07-14T12%3A56%3A01Z&amp;sr=b&amp;sp=r&amp;sig=UdwDoueIymjW%2Begn2ozxJS1r6fReHzB5%2FAPBiCzzqJ8%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-07/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638880945617122904.jpeg?sv=2025-05-05&amp;se=2027-07-14T12%3A56%3A01Z&amp;sr=b&amp;sp=r&amp;sig=0%2Fa74w6MmxnYiWeONUwkIyTGyrs8lOzNqKhyJDDdHO0%3D</url>
+    </media>
+  </photos>
+</property>
+
+
+
+<property>
+  <building>
     <address>164 South 3rd Street</address>
     <city>Brooklyn</city>
     <state>NY</state>
