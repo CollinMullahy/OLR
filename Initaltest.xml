@@ -1402,206 +1402,6 @@ Call or text to set up a viewing right away!</brokersummary>
 
 <property>
   <building>
-    <address>222 Suydam St</address>
-    <city>Brooklyn</city>
-    <state>NY</state>
-    <zipcode>11237</zipcode>
-  </building>
-  <details>
-    <distributiontype>P</distributiontype>
-    <saleorrent>R</saleorrent>
-    <brokersummary />
-    <weblistingid>38532</weblistingid>
-    <aptnumber>3R</aptnumber>
-    <apartmentsize>L</apartmentsize>
-    <numbedrooms>3</numbedrooms>
-    <numbaths>1</numbaths>
-    <numrooms>5</numrooms>
-    <listingtype>L</listingtype>
-    <status>A</status>
-    <listeddate>2026-01-21</listeddate>
-    <availabledate>Jan-13-2026</availabledate>
-    <modifieddate>2026-01-21</modifieddate>
-    <listingurl>https://myspacenyc.cazamio.com/apartments/222-Suydam-St-Unit-3R-Brooklyn-NY-11237-38532</listingurl>
-    <price />
-    <grosscommission />
-    <buyersbrokercommision />
-    <paidbywhom>O</paidbywhom>
-    <rent>3650</rent>
-    <furnishrent />
-    <securitydeposit>1</securitydeposit>
-    <minterm>12</minterm>
-    <maxterm>12</maxterm>
-    <commissionmonth />
-    <commissionsplit-house />
-    <cof>TRUE</cof>
-    <petpolicy>C</petpolicy>
-  </details>
-  <agents>
-    <agent>
-      <firstname>Belle</firstname>
-      <lastname>Piper</lastname>
-      <title>Rental Agent</title>
-      <email>belle.msnyc@myspacenyc.com</email>
-      <workphone>(646) 854-3513</workphone>
-      <mobilephone />
-      <homephone />
-      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
-    </agent>
-  </agents>
-  <photos />
-</property>
-
-
-
-<property>
-  <building>
-    <address>552 Lincoln Pl</address>
-    <city>Brooklyn</city>
-    <state>NY</state>
-    <zipcode>11238</zipcode>
-  </building>
-  <details>
-    <distributiontype>P</distributiontype>
-    <saleorrent>R</saleorrent>
-    <brokersummary />
-    <weblistingid>38594</weblistingid>
-    <aptnumber>al</aptnumber>
-    <apartmentsize>7</apartmentsize>
-    <numbedrooms>1</numbedrooms>
-    <numbaths>1</numbaths>
-    <numrooms>3</numrooms>
-    <listingtype>L</listingtype>
-    <status>A</status>
-    <listeddate>2026-01-21</listeddate>
-    <availabledate>Jan-20-2026</availabledate>
-    <modifieddate>2026-01-21</modifieddate>
-    <listingurl>https://myspacenyc.cazamio.com/apartments/552-Lincoln-Pl-Unit-al-Brooklyn-NY-11238-38594</listingurl>
-    <price />
-    <grosscommission />
-    <buyersbrokercommision />
-    <paidbywhom>O</paidbywhom>
-    <rent>2500</rent>
-    <furnishrent />
-    <securitydeposit>1</securitydeposit>
-    <minterm>12</minterm>
-    <maxterm>12</maxterm>
-    <commissionmonth />
-    <commissionsplit-house />
-    <cof>TRUE</cof>
-    <petpolicy>C</petpolicy>
-  </details>
-  <agents>
-    <agent>
-      <firstname>Belle</firstname>
-      <lastname>Piper</lastname>
-      <title>Rental Agent</title>
-      <email>belle.msnyc@myspacenyc.com</email>
-      <workphone>(646) 854-3513</workphone>
-      <mobilephone />
-      <homephone />
-      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
-    </agent>
-  </agents>
-  <photos>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-07/1995_638562563672481014.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=Xk1S6dgaqZpTIC76IlxKNt5Ujm4fSUHvB5nlQ6OE3C4%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-07/1995_638562563672454531.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=Xk1S6dgaqZpTIC76IlxKNt5Ujm4fSUHvB5nlQ6OE3C4%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-07/1995_638562563672463101.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=Xk1S6dgaqZpTIC76IlxKNt5Ujm4fSUHvB5nlQ6OE3C4%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-07/1995_638562563672401909.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=Xk1S6dgaqZpTIC76IlxKNt5Ujm4fSUHvB5nlQ6OE3C4%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-07/1995_638562563672493775.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=Xk1S6dgaqZpTIC76IlxKNt5Ujm4fSUHvB5nlQ6OE3C4%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
-    </media>
-  </photos>
-</property>
-
-
-
-<property>
-  <building>
-    <address>10-15 Wyckoff Ave</address>
-    <city>Flushing</city>
-    <state>NY</state>
-    <zipcode>11385</zipcode>
-  </building>
-  <details>
-    <distributiontype>P</distributiontype>
-    <saleorrent>R</saleorrent>
-    <brokersummary>1 Bed / 1 Bath at 10-15 Wyckoff Ave ? Unit: 2B in Ridgewood, Queens. All Pets Allowed. Nearby subway stations include: Halsey St (L).Renovated apartment with great natural sunlight. Super short walk to the L train ? commute to Manhattan in 20 minutes!</brokersummary>
-    <weblistingid>38541</weblistingid>
-    <aptnumber>2b</aptnumber>
-    <apartmentsize>7</apartmentsize>
-    <numbedrooms>1</numbedrooms>
-    <numbaths>1</numbaths>
-    <numrooms>3</numrooms>
-    <listingtype>L</listingtype>
-    <status>A</status>
-    <listeddate>2026-01-21</listeddate>
-    <availabledate>Feb-01-2026</availabledate>
-    <modifieddate>2026-01-21</modifieddate>
-    <listingurl>https://myspacenyc.cazamio.com/apartments/10-15-Wyckoff-Ave-Unit-2b-Flushing-NY-11385-38541</listingurl>
-    <price />
-    <grosscommission />
-    <buyersbrokercommision />
-    <paidbywhom>O</paidbywhom>
-    <rent>2500</rent>
-    <furnishrent />
-    <securitydeposit>1</securitydeposit>
-    <minterm>12</minterm>
-    <maxterm>12</maxterm>
-    <commissionmonth />
-    <commissionsplit-house />
-    <cof>TRUE</cof>
-    <petpolicy>C</petpolicy>
-  </details>
-  <agents>
-    <agent>
-      <firstname>Belle</firstname>
-      <lastname>Piper</lastname>
-      <title>Rental Agent</title>
-      <email>belle.msnyc@myspacenyc.com</email>
-      <workphone>(646) 854-3513</workphone>
-      <mobilephone />
-      <homephone />
-      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
-    </agent>
-  </agents>
-  <photos>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-01/8515455b-be52-4141-8a40-4c35d33cf98b_639039990534452401.jpeg?sv=2025-05-05&amp;se=2028-01-14T14%3A50%3A53Z&amp;sr=b&amp;sp=r&amp;sig=HA2cSGwCGRRIDzMHVWV6DgMpqW%2FImM4WoN62M6iJm%2BI%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-01/8515455b-be52-4141-8a40-4c35d33cf98b_639039990541400492.jpeg?sv=2025-05-05&amp;se=2028-01-14T14%3A50%3A54Z&amp;sr=b&amp;sp=r&amp;sig=5cag3L%2F0MUWBdYv92USttYsmldopvlRBBjUZ7da6dIQ%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-01/8515455b-be52-4141-8a40-4c35d33cf98b_639039990534066522.jpeg?sv=2025-05-05&amp;se=2028-01-14T14%3A50%3A53Z&amp;sr=b&amp;sp=r&amp;sig=6CUPon6InHatpNPXIwGJUcsUXRlZcGyzpJRPW0f3G1U%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-01/8515455b-be52-4141-8a40-4c35d33cf98b_639039990533876571.jpeg?sv=2025-05-05&amp;se=2028-01-14T14%3A50%3A53Z&amp;sr=b&amp;sp=r&amp;sig=oyS0Q1DfRqy07Od6zvBUtAvkgvOlwkB3S8pnVR%2FZc34%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-01/8515455b-be52-4141-8a40-4c35d33cf98b_639039990541723249.jpeg?sv=2025-05-05&amp;se=2028-01-14T14%3A50%3A54Z&amp;sr=b&amp;sp=r&amp;sig=WZXrksRe7AS61Ri5bjTWFJmpXjQU8h7AqQebWe5Og9k%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-01/8515455b-be52-4141-8a40-4c35d33cf98b_639039990536337692.jpeg?sv=2025-05-05&amp;se=2028-01-14T14%3A50%3A53Z&amp;sr=b&amp;sp=r&amp;sig=KK1UaP3FnyX8n4vm%2FQJrPprNXVQ4OovM2jQK2LXuQW4%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-01/8515455b-be52-4141-8a40-4c35d33cf98b_639039990535234148.jpeg?sv=2025-05-05&amp;se=2028-01-14T14%3A50%3A53Z&amp;sr=b&amp;sp=r&amp;sig=Pc1MehV6hFZjpD5aGwuxsxrRoPVROrw0J0PnhxM5dNg%3D</url>
-    </media>
-  </photos>
-</property>
-
-
-
-<property>
-  <building>
     <address>293 Irving Avenue</address>
     <city>Brooklyn</city>
     <state>NY</state>
@@ -2399,6 +2199,152 @@ Message to schedule a tour!</brokersummary>
     </media>
     <media>
       <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-07/1995_638557227621955799.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=Xk1S6dgaqZpTIC76IlxKNt5Ujm4fSUHvB5nlQ6OE3C4%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+  </photos>
+</property>
+
+
+
+<property>
+  <building>
+    <address>10-15 Wyckoff Ave</address>
+    <city>Flushing</city>
+    <state>NY</state>
+    <zipcode>11385</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary>1 Bed / 1 Bath at 10-15 Wyckoff Ave ? Unit: 2B in Ridgewood, Queens. All Pets Allowed. Nearby subway stations include: Halsey St (L).Renovated apartment with great natural sunlight. Super short walk to the L train ? commute to Manhattan in 20 minutes!</brokersummary>
+    <weblistingid>38541</weblistingid>
+    <aptnumber>2b</aptnumber>
+    <apartmentsize>7</apartmentsize>
+    <numbedrooms>1</numbedrooms>
+    <numbaths>1</numbaths>
+    <numrooms>3</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2026-01-21</listeddate>
+    <availabledate>Feb-01-2026</availabledate>
+    <modifieddate>2026-01-21</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/10-15-Wyckoff-Ave-Unit-2b-Flushing-NY-11385-38541</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>2500</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-01/8515455b-be52-4141-8a40-4c35d33cf98b_639039990534452401.jpeg?sv=2025-05-05&amp;se=2028-01-14T14%3A50%3A53Z&amp;sr=b&amp;sp=r&amp;sig=HA2cSGwCGRRIDzMHVWV6DgMpqW%2FImM4WoN62M6iJm%2BI%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-01/8515455b-be52-4141-8a40-4c35d33cf98b_639039990541400492.jpeg?sv=2025-05-05&amp;se=2028-01-14T14%3A50%3A54Z&amp;sr=b&amp;sp=r&amp;sig=5cag3L%2F0MUWBdYv92USttYsmldopvlRBBjUZ7da6dIQ%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-01/8515455b-be52-4141-8a40-4c35d33cf98b_639039990534066522.jpeg?sv=2025-05-05&amp;se=2028-01-14T14%3A50%3A53Z&amp;sr=b&amp;sp=r&amp;sig=6CUPon6InHatpNPXIwGJUcsUXRlZcGyzpJRPW0f3G1U%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-01/8515455b-be52-4141-8a40-4c35d33cf98b_639039990533876571.jpeg?sv=2025-05-05&amp;se=2028-01-14T14%3A50%3A53Z&amp;sr=b&amp;sp=r&amp;sig=oyS0Q1DfRqy07Od6zvBUtAvkgvOlwkB3S8pnVR%2FZc34%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-01/8515455b-be52-4141-8a40-4c35d33cf98b_639039990541723249.jpeg?sv=2025-05-05&amp;se=2028-01-14T14%3A50%3A54Z&amp;sr=b&amp;sp=r&amp;sig=WZXrksRe7AS61Ri5bjTWFJmpXjQU8h7AqQebWe5Og9k%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-01/8515455b-be52-4141-8a40-4c35d33cf98b_639039990536337692.jpeg?sv=2025-05-05&amp;se=2028-01-14T14%3A50%3A53Z&amp;sr=b&amp;sp=r&amp;sig=KK1UaP3FnyX8n4vm%2FQJrPprNXVQ4OovM2jQK2LXuQW4%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-01/8515455b-be52-4141-8a40-4c35d33cf98b_639039990535234148.jpeg?sv=2025-05-05&amp;se=2028-01-14T14%3A50%3A53Z&amp;sr=b&amp;sp=r&amp;sig=Pc1MehV6hFZjpD5aGwuxsxrRoPVROrw0J0PnhxM5dNg%3D</url>
+    </media>
+  </photos>
+</property>
+
+
+
+<property>
+  <building>
+    <address>552 Lincoln Pl</address>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11238</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary />
+    <weblistingid>38594</weblistingid>
+    <aptnumber>al</aptnumber>
+    <apartmentsize>7</apartmentsize>
+    <numbedrooms>1</numbedrooms>
+    <numbaths>1</numbaths>
+    <numrooms>3</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2026-01-21</listeddate>
+    <availabledate>Jan-20-2026</availabledate>
+    <modifieddate>2026-01-21</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/552-Lincoln-Pl-Unit-al-Brooklyn-NY-11238-38594</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>2500</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-07/1995_638562563672481014.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=Xk1S6dgaqZpTIC76IlxKNt5Ujm4fSUHvB5nlQ6OE3C4%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-07/1995_638562563672454531.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=Xk1S6dgaqZpTIC76IlxKNt5Ujm4fSUHvB5nlQ6OE3C4%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-07/1995_638562563672463101.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=Xk1S6dgaqZpTIC76IlxKNt5Ujm4fSUHvB5nlQ6OE3C4%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-07/1995_638562563672401909.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=Xk1S6dgaqZpTIC76IlxKNt5Ujm4fSUHvB5nlQ6OE3C4%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-07/1995_638562563672493775.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=Xk1S6dgaqZpTIC76IlxKNt5Ujm4fSUHvB5nlQ6OE3C4%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
     </media>
   </photos>
 </property>
@@ -3895,7 +3841,7 @@ Located at 1823 Woodbine St, this beautifully designed 1-bedroom home features s
     <grosscommission />
     <buyersbrokercommision />
     <paidbywhom>O</paidbywhom>
-    <rent>3050</rent>
+    <rent>2650</rent>
     <furnishrent />
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
@@ -5045,7 +4991,7 @@ The apartment features a king-size bedroom with a closet and a modern kitchen eq
     <grosscommission />
     <buyersbrokercommision />
     <paidbywhom>O</paidbywhom>
-    <rent>2650</rent>
+    <rent>2499</rent>
     <furnishrent />
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
@@ -5138,7 +5084,7 @@ Guarantors welcome.</brokersummary>
     <grosscommission />
     <buyersbrokercommision />
     <paidbywhom>O</paidbywhom>
-    <rent>3400</rent>
+    <rent>3199</rent>
     <furnishrent />
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
@@ -5248,106 +5194,6 @@ Conveniently located near shops, dining, and transportation.</brokersummary>
     <buyersbrokercommision />
     <paidbywhom>O</paidbywhom>
     <rent>2312</rent>
-    <furnishrent />
-    <securitydeposit>1</securitydeposit>
-    <minterm>12</minterm>
-    <maxterm>12</maxterm>
-    <commissionmonth />
-    <commissionsplit-house />
-    <cof>TRUE</cof>
-    <petpolicy>C</petpolicy>
-  </details>
-  <agents>
-    <agent>
-      <firstname>Belle</firstname>
-      <lastname>Piper</lastname>
-      <title>Rental Agent</title>
-      <email>belle.msnyc@myspacenyc.com</email>
-      <workphone>(646) 854-3513</workphone>
-      <mobilephone />
-      <homephone />
-      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
-    </agent>
-  </agents>
-  <photos>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-01/8515455b-be52-4141-8a40-4c35d33cf98b_639044663449318666.png?sv=2025-05-05&amp;se=2028-01-20T00%3A39%3A05Z&amp;sr=b&amp;sp=r&amp;sig=1Ah%2BKCiBdU6kpCU%2FhwEN16nedh2Rsp976tEC3YfQ61A%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-01/8515455b-be52-4141-8a40-4c35d33cf98b_639044664348283580.jpeg?sv=2025-05-05&amp;se=2028-01-20T00%3A40%3A34Z&amp;sr=b&amp;sp=r&amp;sig=JoAXgEJWb3g%2BUCr23fL1POnpiSwX41FGsCT2TgV9fLk%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-01/8515455b-be52-4141-8a40-4c35d33cf98b_639044664215112878.jpeg?sv=2025-05-05&amp;se=2028-01-20T00%3A40%3A21Z&amp;sr=b&amp;sp=r&amp;sig=SNMB63A2r%2FzZMmoxvaEJfbqJVoehaHcIwzoVTaCEDY0%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-01/8515455b-be52-4141-8a40-4c35d33cf98b_639044664285372084.jpeg?sv=2025-05-05&amp;se=2028-01-20T00%3A40%3A28Z&amp;sr=b&amp;sp=r&amp;sig=xxY8GUoHB8TNWj7ZiLzJyAvq0lCxpkqhWTNBNqsYLVI%3D</url>
-    </media>
-  </photos>
-</property>
-
-
-
-<property>
-  <building>
-    <address>1326 Ocean Avenue</address>
-    <city>Brooklyn</city>
-    <state>NY</state>
-    <zipcode>11230</zipcode>
-  </building>
-  <details>
-    <distributiontype>P</distributiontype>
-    <saleorrent>R</saleorrent>
-    <brokersummary>Welcome to 1326 Ocean Ave
-Studios ? 1-Bed ? 2-Bed Apartments in Prime Midwood / Ditmas Park
-
-Spacious, well-designed residences featuring high ceilings, large kitchens with dishwashers, and excellent closet space. Select units offer private balconies, and all layouts are designed to comfortably accommodate modern living.
-
-Apartment Features
-
-High ceilings
-
-Large kitchens
-
-Dishwasher
-
-Queen-size bedroom layouts
-
-Ample closet space
-
-Private balconies (select units)
-
-Building Amenities
-
-Gym
-
-Rooftop
-
-Lounge
-
-Game room
-
-Bike storage
-
-Laundry room
-
-Conveniently located near shops, dining, and transportation.</brokersummary>
-    <weblistingid>38574</weblistingid>
-    <aptnumber>4D</aptnumber>
-    <apartmentsize>7</apartmentsize>
-    <numbedrooms>1</numbedrooms>
-    <numbaths>1</numbaths>
-    <numrooms>3</numrooms>
-    <listingtype>L</listingtype>
-    <status>A</status>
-    <listeddate>2026-01-21</listeddate>
-    <availabledate>Jan-19-2026</availabledate>
-    <modifieddate>2026-01-21</modifieddate>
-    <listingurl>https://myspacenyc.cazamio.com/apartments/1326-Ocean-Avenue-Unit-4D-Brooklyn-NY-11230-38574</listingurl>
-    <price />
-    <grosscommission />
-    <buyersbrokercommision />
-    <paidbywhom>O</paidbywhom>
-    <rent>2792</rent>
     <furnishrent />
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
@@ -14910,6 +14756,94 @@ You'll love the incredible location on one of the most desirable BK Heights bloc
 
 <property>
   <building>
+    <address>132 New York Ave</address>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11216</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary>Modern meets classic with style in this fabulous Crown Heights brownstone! This apartment has all the timeless details you want, like exposed brick and picture windows, together with all modern fixtures and finishes. The sleek black, white and stainless steel kitchen is spacious and includes a microwave. There's laundry in the unit and it's a pet friendly building. Located on a lovely tree lined street less than a block from all the great dining and shopping on Nostrand Ave and a short walk to the park and library. The Nostrand/Fulton A,C is close by to make commuting quick and easy.</brokersummary>
+    <weblistingid>32310</weblistingid>
+    <aptnumber>2F</aptnumber>
+    <apartmentsize>H</apartmentsize>
+    <numbedrooms>2</numbedrooms>
+    <numbaths>1</numbaths>
+    <numrooms>4</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2026-01-21</listeddate>
+    <availabledate>Mar-31-2026</availabledate>
+    <modifieddate>2026-01-21</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/132-New-York-Ave-Unit-2F-Brooklyn-NY-11216-32310</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>3500</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-03/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638778208351568213.jpeg?sv=2025-01-05&amp;se=2027-03-17T15%3A07%3A15Z&amp;sr=b&amp;sp=r&amp;sig=3UhJL432%2FtE4sTV%2BubOhzns4OHxhA4qV8m7KoOOJkxI%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-03/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638778208352416847.jpeg?sv=2025-01-05&amp;se=2027-03-17T15%3A07%3A15Z&amp;sr=b&amp;sp=r&amp;sig=q4qdia7BI4u%2BlcsOLx8UC8MbPNmZ8yeIAZuLulHl3FM%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-03/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638778208351208731.jpeg?sv=2025-01-05&amp;se=2027-03-17T15%3A07%3A15Z&amp;sr=b&amp;sp=r&amp;sig=YefKbcy6gLfAcnkvhyvY%2BjpmMbOAKhWPjBFiWI8IAw4%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-03/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638778208353072469.jpeg?sv=2025-01-05&amp;se=2027-03-17T15%3A07%3A15Z&amp;sr=b&amp;sp=r&amp;sig=jHnYMcrg8wjAP%2Bp080NWI49kS6XFy%2F%2FK2LuLdUeedaY%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-03/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638778208354914164.jpeg?sv=2025-01-05&amp;se=2027-03-17T15%3A07%3A15Z&amp;sr=b&amp;sp=r&amp;sig=FM8P0plFiLdDMHWbdzAtV2IgjTAzOge1RICtxvdwvWk%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-03/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638778208353832364.jpeg?sv=2025-01-05&amp;se=2027-03-17T15%3A07%3A15Z&amp;sr=b&amp;sp=r&amp;sig=1hfsu%2BoMwGvs%2F3GBX8LboTl%2BV%2F4ZdTSUXt1OwgFlwFc%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-03/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638778208352364046.jpeg?sv=2025-01-05&amp;se=2027-03-17T15%3A07%3A15Z&amp;sr=b&amp;sp=r&amp;sig=tBMq%2BDp5OPPEgXZcqmoPJqbiEfLjRhhKs5ljK9VJsJg%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-03/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638778208353190465.jpeg?sv=2025-01-05&amp;se=2027-03-17T15%3A07%3A15Z&amp;sr=b&amp;sp=r&amp;sig=A7w18%2FG7mjQPgXxdmCgzrOm0WlmV42YqrAanYQi4Tos%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-03/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638778208351606858.jpeg?sv=2025-01-05&amp;se=2027-03-17T15%3A07%3A15Z&amp;sr=b&amp;sp=r&amp;sig=maZv8j%2BvK0UY%2Fp7AjAHnuDrNkfgIdd6sLTGWuSdK7Lo%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-03/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638778208350988269.jpeg?sv=2025-01-05&amp;se=2027-03-17T15%3A07%3A15Z&amp;sr=b&amp;sp=r&amp;sig=Ex%2Bvcz%2Fxr2uCbnBu5%2FF1xJDCWVJNlaB3%2FTj6ijOjWLk%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-03/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638778208354657287.jpeg?sv=2025-01-05&amp;se=2027-03-17T15%3A07%3A15Z&amp;sr=b&amp;sp=r&amp;sig=Cg9fSWt9vKxlmMKmJzOLoc9FRUcYNvQcXFUPBwLavOE%3D</url>
+    </media>
+  </photos>
+</property>
+
+
+
+<property>
+  <building>
     <address>1629 St Johns Pl</address>
     <city>Brooklyn</city>
     <state>NY</state>
@@ -17683,7 +17617,7 @@ Live in luxury, surrounded by cultural landmarks and green spaces. With excellen
     <numbaths>2</numbaths>
     <numrooms>5</numrooms>
     <listingtype>L</listingtype>
-    <status>A</status>
+    <status>P</status>
     <listeddate>2026-01-21</listeddate>
     <availabledate>Dec-04-2025</availabledate>
     <modifieddate>2026-01-21</modifieddate>
