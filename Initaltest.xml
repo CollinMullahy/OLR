@@ -4378,7 +4378,7 @@ Schedule a tour today ? this one won?t last!</brokersummary>
 
 <property>
   <building>
-    <address>545 Kosciuszko Street</address>
+    <address>542 Kosciuszko Street</address>
     <city>Brooklyn</city>
     <state>NY</state>
     <zipcode>11221</zipcode>
@@ -4407,7 +4407,7 @@ A &amp; C , Broadway subway station!
     <listeddate>2026-01-28</listeddate>
     <availabledate>Feb-01-2026</availabledate>
     <modifieddate>2026-01-28</modifieddate>
-    <listingurl>https://myspacenyc.cazamio.com/apartments/545-Kosciuszko-Street-Unit-3L-Brooklyn-NY-11221-38642</listingurl>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/542-Kosciuszko-Street-Unit-3L-Brooklyn-NY-11221-38642</listingurl>
     <price />
     <grosscommission />
     <buyersbrokercommision />
@@ -4434,7 +4434,29 @@ A &amp; C , Broadway subway station!
       <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
     </agent>
   </agents>
-  <photos />
+  <photos>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-01/8515455b-be52-4141-8a40-4c35d33cf98b_639052326637245267.jpeg?sv=2025-05-05&amp;se=2028-01-28T21%3A31%3A03Z&amp;sr=b&amp;sp=r&amp;sig=ZOC2Csg0QuwgGWFFTvhsWU0qsA2hM%2FCzEorFa13E270%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-01/8515455b-be52-4141-8a40-4c35d33cf98b_639052326770343005.jpeg?sv=2025-05-05&amp;se=2028-01-28T21%3A31%3A17Z&amp;sr=b&amp;sp=r&amp;sig=jUNsUdy56yhVlfdcTX1LczANW%2Fx94cl7N%2BOh7GzLoJU%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-01/8515455b-be52-4141-8a40-4c35d33cf98b_639052326879715396.jpeg?sv=2025-05-05&amp;se=2028-01-28T21%3A31%3A27Z&amp;sr=b&amp;sp=r&amp;sig=KKM2iUh6VSFHdYRo%2BfYWuLRU%2FMTuQ2TPtYDt%2F0sDI6E%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-01/8515455b-be52-4141-8a40-4c35d33cf98b_639052327011138507.jpeg?sv=2025-05-05&amp;se=2028-01-28T21%3A31%3A41Z&amp;sr=b&amp;sp=r&amp;sig=IuzaTf9GVa5Pw4BHhpir%2F81%2FyL%2BxsXqKbT2zsfWyazw%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-01/8515455b-be52-4141-8a40-4c35d33cf98b_639052327145390303.jpeg?sv=2025-05-05&amp;se=2028-01-28T21%3A31%3A54Z&amp;sr=b&amp;sp=r&amp;sig=LA83HHqCNjZhbDfPdUtO0NSAX7OPod5UnzNHsG6M5uQ%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-01/8515455b-be52-4141-8a40-4c35d33cf98b_639052327285111222.jpeg?sv=2025-05-05&amp;se=2028-01-28T21%3A32%3A08Z&amp;sr=b&amp;sp=r&amp;sig=sYm2cx9P47nnsohKNvBdbZ48V7vox5Y%2FF1au%2FE3y828%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-01/8515455b-be52-4141-8a40-4c35d33cf98b_639052327395872243.jpeg?sv=2025-05-05&amp;se=2028-01-28T21%3A32%3A19Z&amp;sr=b&amp;sp=r&amp;sig=%2BJF1PtCQhmTloCifq%2B%2FliW%2Fn%2FUAAHMce381k19Bki4A%3D</url>
+    </media>
+  </photos>
 </property>
 
 
