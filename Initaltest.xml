@@ -2278,97 +2278,6 @@ Message to schedule a tour!</brokersummary>
 
 <property>
   <building>
-    <address>1061 Bergen St</address>
-    <city>Brooklyn</city>
-    <state>NY</state>
-    <zipcode>11216</zipcode>
-  </building>
-  <details>
-    <distributiontype>P</distributiontype>
-    <saleorrent>R</saleorrent>
-    <brokersummary />
-    <weblistingid>38606</weblistingid>
-    <aptnumber>5</aptnumber>
-    <apartmentsize>L</apartmentsize>
-    <numbedrooms>3</numbedrooms>
-    <numbaths>1</numbaths>
-    <numrooms>5</numrooms>
-    <listingtype>L</listingtype>
-    <status>P</status>
-    <listeddate>2026-02-01</listeddate>
-    <availabledate>Feb-01-2026</availabledate>
-    <modifieddate>2026-02-01</modifieddate>
-    <listingurl>https://myspacenyc.cazamio.com/apartments/1061-Bergen-St-Unit-5-Brooklyn-NY-11216-38606</listingurl>
-    <price />
-    <grosscommission />
-    <buyersbrokercommision />
-    <paidbywhom>O</paidbywhom>
-    <rent>3500</rent>
-    <furnishrent />
-    <securitydeposit>1</securitydeposit>
-    <minterm>12</minterm>
-    <maxterm>12</maxterm>
-    <commissionmonth />
-    <commissionsplit-house />
-    <cof>TRUE</cof>
-    <petpolicy>C</petpolicy>
-  </details>
-  <agents>
-    <agent>
-      <firstname>Belle</firstname>
-      <lastname>Piper</lastname>
-      <title>Rental Agent</title>
-      <email>belle.msnyc@myspacenyc.com</email>
-      <workphone>(646) 854-3513</workphone>
-      <mobilephone />
-      <homephone />
-      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
-    </agent>
-  </agents>
-  <photos>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-01/8515455b-be52-4141-8a40-4c35d33cf98b_639046306492150594.jpeg?sv=2025-05-05&amp;se=2028-01-21T22%3A17%3A29Z&amp;sr=b&amp;sp=r&amp;sig=jBliuWwjhXjYlGC1yrzSOBClE8B6xAXp5sUclJ%2BIm58%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-01/8515455b-be52-4141-8a40-4c35d33cf98b_639046306492792864.jpeg?sv=2025-05-05&amp;se=2028-01-21T22%3A17%3A29Z&amp;sr=b&amp;sp=r&amp;sig=pN%2F%2BnvDc%2FmV0hW%2BcVD5ixE1n4bw%2BNn3c9JYFbOUolz4%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-01/8515455b-be52-4141-8a40-4c35d33cf98b_639046306493598385.jpeg?sv=2025-05-05&amp;se=2028-01-21T22%3A17%3A29Z&amp;sr=b&amp;sp=r&amp;sig=00PdW%2Bqv7moOFkiaMsavLrXt79Nenuv4GePmFm7RISI%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-01/8515455b-be52-4141-8a40-4c35d33cf98b_639046306491555971.jpeg?sv=2025-05-05&amp;se=2028-01-21T22%3A17%3A29Z&amp;sr=b&amp;sp=r&amp;sig=5owctdMTCjb9r7hG3yIRcTD5bmbkZkua1F0fnXFVZ7s%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-01/8515455b-be52-4141-8a40-4c35d33cf98b_639046306491251308.jpeg?sv=2025-05-05&amp;se=2028-01-21T22%3A17%3A29Z&amp;sr=b&amp;sp=r&amp;sig=MJo05%2F0turvMuuuezlu5GP2SaOakvnZYC1k2MEOK2iU%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-01/8515455b-be52-4141-8a40-4c35d33cf98b_639046306491206209.jpeg?sv=2025-05-05&amp;se=2028-01-21T22%3A17%3A29Z&amp;sr=b&amp;sp=r&amp;sig=1O9UOvojzIvN%2BzVnTbjdkSJuVmYX8WoskAvTmC3Gbc0%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-01/8515455b-be52-4141-8a40-4c35d33cf98b_639046306492295685.jpeg?sv=2025-05-05&amp;se=2028-01-21T22%3A17%3A29Z&amp;sr=b&amp;sp=r&amp;sig=fSKuPH%2BahEHh1IrwZuS0JIxr3eebzSZzqLO0qszEk%2FQ%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-01/8515455b-be52-4141-8a40-4c35d33cf98b_639046306491575190.jpeg?sv=2025-05-05&amp;se=2028-01-21T22%3A17%3A29Z&amp;sr=b&amp;sp=r&amp;sig=RS549XGcpQd3BqKpGQ8rB71mBj0wP4TlVTm4FSze9xY%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-01/8515455b-be52-4141-8a40-4c35d33cf98b_639046306492536498.jpeg?sv=2025-05-05&amp;se=2028-01-21T22%3A17%3A29Z&amp;sr=b&amp;sp=r&amp;sig=D%2B5gkfdRDEbYTuFEoF8njqHwtkjlCOZv9Jo9XlrHUco%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-01/8515455b-be52-4141-8a40-4c35d33cf98b_639046306493491114.jpeg?sv=2025-05-05&amp;se=2028-01-21T22%3A17%3A29Z&amp;sr=b&amp;sp=r&amp;sig=23lVCOKa%2BTbk9gCtJdq0nK11HPGU0te8R2KTqNN1Zjs%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-01/8515455b-be52-4141-8a40-4c35d33cf98b_639046306492465784.jpeg?sv=2025-05-05&amp;se=2028-01-21T22%3A17%3A29Z&amp;sr=b&amp;sp=r&amp;sig=JE68CB9ekNc8BNAnRKj27oK%2BouJQO%2BaAYYmgUS%2Bd1xs%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-01/8515455b-be52-4141-8a40-4c35d33cf98b_639046306493023884.jpeg?sv=2025-05-05&amp;se=2028-01-21T22%3A17%3A29Z&amp;sr=b&amp;sp=r&amp;sig=52rxcALYIKGa1EV%2BZBxR3ywcsMRa8CdjuEUzOiqGUCM%3D</url>
-    </media>
-  </photos>
-</property>
-
-
-
-<property>
-  <building>
     <address>1141 Willoughby Ave</address>
     <city>Brooklyn</city>
     <state>NY</state>
@@ -15158,7 +15067,7 @@ Additional optional parking fee may apply</brokersummary>
     <listingtype>L</listingtype>
     <status>A</status>
     <listeddate>2026-02-01</listeddate>
-    <availabledate>Feb-02-2023</availabledate>
+    <availabledate>Feb-01-2026</availabledate>
     <modifieddate>2026-02-01</modifieddate>
     <listingurl>https://myspacenyc.cazamio.com/apartments/626-Flatbush-Ave-Unit-7K-Brooklyn-NY-11225-1919</listingurl>
     <price />
@@ -15228,7 +15137,7 @@ Additional optional parking fee may apply</brokersummary>
     <listingtype>L</listingtype>
     <status>A</status>
     <listeddate>2026-02-01</listeddate>
-    <availabledate>Feb-03-2023</availabledate>
+    <availabledate>Feb-01-2026</availabledate>
     <modifieddate>2026-02-01</modifieddate>
     <listingurl>https://myspacenyc.cazamio.com/apartments/626-Flatbush-Ave-Unit-19M-Brooklyn-NY-11225-1793</listingurl>
     <price />
@@ -16044,7 +15953,7 @@ Available now</brokersummary>
     <listingtype>L</listingtype>
     <status>A</status>
     <listeddate>2026-02-01</listeddate>
-    <availabledate>Apr-21-2023</availabledate>
+    <availabledate>Jan-21-2026</availabledate>
     <modifieddate>2026-02-01</modifieddate>
     <listingurl>https://myspacenyc.cazamio.com/apartments/1969-Pacific-St-Unit-1-Brooklyn-NY-11233-2062</listingurl>
     <price />
