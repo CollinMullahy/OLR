@@ -9660,6 +9660,91 @@ Message now to schedule a tour!</brokersummary>
 
 <property>
   <building>
+    <address>637 St Marks Ave</address>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11216</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary>NO BROKER FEE | GUARANTORS ACCEPTED
+
+Renovated 1-bedroom with modern charm and great natural light! Steps from top dining, shopping, and the A/C/2/3 trains for an easy commute.
+
+Features:
+
+Spacious &amp; Bright ? South-facing windows, high ceilings
+
+Modern Touches ? Exposed brick, stainless steel appliances
+
+Comfort &amp; Convenience ? Hardwood floors, in-unit laundry, queen-sized bedrooms with closets
+
+Heat &amp; hot water included | Pet-friendly!</brokersummary>
+    <weblistingid>38984</weblistingid>
+    <aptnumber>3a</aptnumber>
+    <apartmentsize>7</apartmentsize>
+    <numbedrooms>1</numbedrooms>
+    <numbaths>1</numbaths>
+    <numrooms>3</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2026-03-06</listeddate>
+    <availabledate>May-01-2026</availabledate>
+    <modifieddate>2026-03-06</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/637-St-Marks-Ave-Unit-3a-Brooklyn-NY-11216-38984</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>2975</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-03/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638789748340009329.jpeg?sv=2025-01-05&amp;se=2027-03-30T23%3A40%3A34Z&amp;sr=b&amp;sp=r&amp;sig=8%2BDC83MJhLRWirn84T5X5gg9o9eOTq3kXB7lpk5fpHE%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-03/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638789748342108380.jpeg?sv=2025-01-05&amp;se=2027-03-30T23%3A40%3A34Z&amp;sr=b&amp;sp=r&amp;sig=YgrSb8NgYpKqkbY5whFlE05JnFlHIwXW%2B6DYN7VdMSg%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-03/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638789748340163832.jpeg?sv=2025-01-05&amp;se=2027-03-30T23%3A40%3A34Z&amp;sr=b&amp;sp=r&amp;sig=%2FeAWEhR8VjEMbwNacgzCiz1mjGYjdJidjwo%2Bw9EjNDw%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-03/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638789748340401280.jpeg?sv=2025-01-05&amp;se=2027-03-30T23%3A40%3A34Z&amp;sr=b&amp;sp=r&amp;sig=TsMg7qo9y5ahsdvZEnvgRqg8EgK0OKj4c%2BQ68IHfb6g%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-03/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638789748339595117.jpeg?sv=2025-01-05&amp;se=2027-03-30T23%3A40%3A33Z&amp;sr=b&amp;sp=r&amp;sig=31zoyDbzufo94r9dXKiU0YFtdSZaMm4CjpsQdn2C028%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-03/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638789748340357967.jpeg?sv=2025-01-05&amp;se=2027-03-30T23%3A40%3A34Z&amp;sr=b&amp;sp=r&amp;sig=cc9HGHGYGsC%2BTeUsDIdBw7oljOM%2Bq02ffES%2FADux4JA%3D</url>
+    </media>
+  </photos>
+</property>
+
+
+
+<property>
+  <building>
     <address>24 Rogers Ave</address>
     <city>Brooklyn</city>
     <state>NY</state>
