@@ -17949,6 +17949,60 @@ Secure your spot in this fantastic residence today!</brokersummary>
 
 <property>
   <building>
+    <address>11 Granite Street</address>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11207</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary />
+    <weblistingid>38979</weblistingid>
+    <aptnumber>4I</aptnumber>
+    <apartmentsize>7</apartmentsize>
+    <numbedrooms>1</numbedrooms>
+    <numbaths>1</numbaths>
+    <numrooms>3</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2026-03-06</listeddate>
+    <availabledate>Feb-26-2026</availabledate>
+    <modifieddate>2026-03-06</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/11-Granite-Street-Unit-4I-Brooklyn-NY-11207-38979</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>2540</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos />
+</property>
+
+
+
+<property>
+  <building>
     <address>1176 Nostrand Avenue</address>
     <city>Brooklyn</city>
     <state>NY</state>
