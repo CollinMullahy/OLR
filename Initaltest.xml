@@ -7735,6 +7735,79 @@ Reach out to schedule a tour.</brokersummary>
 
 <property>
   <building>
+    <address>1078 Bergen Street</address>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11216</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary />
+    <weblistingid>39073</weblistingid>
+    <aptnumber>4B</aptnumber>
+    <apartmentsize>H</apartmentsize>
+    <numbedrooms>2</numbedrooms>
+    <numbaths>1</numbaths>
+    <numrooms>4</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2026-03-16</listeddate>
+    <availabledate>Apr-01-2026</availabledate>
+    <modifieddate>2026-03-16</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/1078-Bergen-Street-Unit-4B-Brooklyn-NY-11216-39073</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>3704</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-03/8515455b-be52-4141-8a40-4c35d33cf98b_639092724632209359.jpeg?sv=2025-05-05&amp;se=2028-03-16T15%3A41%3A03Z&amp;sr=b&amp;sp=r&amp;sig=Kj3BftdswtKvisoulvQUuc7eppIo454o4w6EmSnagBE%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-03/8515455b-be52-4141-8a40-4c35d33cf98b_639092724633970424.jpeg?sv=2025-05-05&amp;se=2028-03-16T15%3A41%3A03Z&amp;sr=b&amp;sp=r&amp;sig=vipASf77gz9LkO%2FRaZxWDsZPioSGTxT9X18bnlwmsi0%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-03/8515455b-be52-4141-8a40-4c35d33cf98b_639092724632532901.jpeg?sv=2025-05-05&amp;se=2028-03-16T15%3A41%3A03Z&amp;sr=b&amp;sp=r&amp;sig=J7i9SkR2hd2aVcW9vaEzQy92Yq3%2F6wMOdNXiM%2BUyUW4%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-03/8515455b-be52-4141-8a40-4c35d33cf98b_639092724632297247.jpeg?sv=2025-05-05&amp;se=2028-03-16T15%3A41%3A03Z&amp;sr=b&amp;sp=r&amp;sig=HpsY29x10y9GjJl249wOuol0Kdwh0J3kEqtg5s3giS0%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-03/8515455b-be52-4141-8a40-4c35d33cf98b_639092724631993358.jpeg?sv=2025-05-05&amp;se=2028-03-16T15%3A41%3A03Z&amp;sr=b&amp;sp=r&amp;sig=jGmQtuzXMjAs2dz25qtVxRBCdNkt7J1o%2BCnipmX%2BX%2F8%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-03/8515455b-be52-4141-8a40-4c35d33cf98b_639092724632387584.jpeg?sv=2025-05-05&amp;se=2028-03-16T15%3A41%3A03Z&amp;sr=b&amp;sp=r&amp;sig=%2FLPLGMUcdZedndL4IKTJv1qMFbTuWLamEF7On6QdJ1M%3D</url>
+    </media>
+  </photos>
+</property>
+
+
+
+<property>
+  <building>
     <address>1354 Jefferson Avenue</address>
     <city>Brooklyn</city>
     <state>NY</state>
@@ -18512,7 +18585,7 @@ Secure your spot in this fantastic residence today!</brokersummary>
     <saleorrent>R</saleorrent>
     <brokersummary />
     <weblistingid>38958</weblistingid>
-    <aptnumber>3L</aptnumber>
+    <aptnumber>3R</aptnumber>
     <apartmentsize>L</apartmentsize>
     <numbedrooms>3</numbedrooms>
     <numbaths>1</numbaths>
@@ -18522,7 +18595,7 @@ Secure your spot in this fantastic residence today!</brokersummary>
     <listeddate>2026-03-16</listeddate>
     <availabledate>Mar-13-2026</availabledate>
     <modifieddate>2026-03-16</modifieddate>
-    <listingurl>https://myspacenyc.cazamio.com/apartments/1176-Nostrand-Avenue-Unit-3L-Brooklyn-NY-11225-38958</listingurl>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/1176-Nostrand-Avenue-Unit-3R-Brooklyn-NY-11225-38958</listingurl>
     <price />
     <grosscommission />
     <buyersbrokercommision />
