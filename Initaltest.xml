@@ -24028,6 +24028,152 @@ Lots of amenities</brokersummary>
 
 <property>
   <building>
+    <address>1407 Flatbush Avenue</address>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11210</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary />
+    <weblistingid>39231</weblistingid>
+    <aptnumber>402</aptnumber>
+    <apartmentsize>L</apartmentsize>
+    <numbedrooms>3</numbedrooms>
+    <numbaths>1</numbaths>
+    <numrooms>5</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2026-03-26</listeddate>
+    <availabledate>Apr-30-2026</availabledate>
+    <modifieddate>2026-03-26</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/1407-Flatbush-Avenue-Unit-402-Brooklyn-NY-11210-39231</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>3600</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-03/af89ecc1-02ec-4b73-9198-5dcabcf3354e_639101506224693735.jpeg?sv=2025-05-05&amp;se=2028-03-26T19%3A37%3A02Z&amp;sr=b&amp;sp=r&amp;sig=0jeZfVsZdEwFK19dsmzDqvpbHFhqSmjAT7UocLeGM9w%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-03/af89ecc1-02ec-4b73-9198-5dcabcf3354e_639101506224888919.jpeg?sv=2025-05-05&amp;se=2028-03-26T19%3A37%3A02Z&amp;sr=b&amp;sp=r&amp;sig=knEVLKiuLDtkjgdNVDwfV4cY8FRE3puzNor8aIc2HTo%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-03/af89ecc1-02ec-4b73-9198-5dcabcf3354e_639101506225078869.jpeg?sv=2025-05-05&amp;se=2028-03-26T19%3A37%3A02Z&amp;sr=b&amp;sp=r&amp;sig=LBtqVjeX5OYSD%2Bok1TwfDvLrzvm70Un8ALhKBf27XW8%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-03/af89ecc1-02ec-4b73-9198-5dcabcf3354e_639101506225029385.jpeg?sv=2025-05-05&amp;se=2028-03-26T19%3A37%3A02Z&amp;sr=b&amp;sp=r&amp;sig=90ya8kJWudhcn4PyvoDIxhfNfCHOSddlSu0OLVdBKas%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-03/af89ecc1-02ec-4b73-9198-5dcabcf3354e_639101506224788128.jpeg?sv=2025-05-05&amp;se=2028-03-26T19%3A37%3A02Z&amp;sr=b&amp;sp=r&amp;sig=bCJr%2F3SnTDHSR5q1d4dovH2L9Aw%2Fk99zJJM2AzI2Fk0%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-03/af89ecc1-02ec-4b73-9198-5dcabcf3354e_639101506224896817.jpeg?sv=2025-05-05&amp;se=2028-03-26T19%3A37%3A02Z&amp;sr=b&amp;sp=r&amp;sig=b%2BmDjA5du%2BIGfaDHks2i8ExkViqa8dZXdmw2S2MJNPw%3D</url>
+    </media>
+  </photos>
+</property>
+
+
+
+<property>
+  <building>
+    <address>1407 Flatbush Avenue</address>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11210</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary />
+    <weblistingid>39232</weblistingid>
+    <aptnumber>403</aptnumber>
+    <apartmentsize>3.5BED</apartmentsize>
+    <numbedrooms>3.5</numbedrooms>
+    <numbaths>1</numbaths>
+    <numrooms>5</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2026-03-26</listeddate>
+    <availabledate>May-01-2026</availabledate>
+    <modifieddate>2026-03-26</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/1407-Flatbush-Avenue-Unit-403-Brooklyn-NY-11210-39232</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>3600</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-03/af89ecc1-02ec-4b73-9198-5dcabcf3354e_639101506142259326.jpeg?sv=2025-05-05&amp;se=2028-03-26T19%3A36%3A54Z&amp;sr=b&amp;sp=r&amp;sig=7UuGxA4C7nNu2dac2l2DNwe98vcqR0WUzuV3LTSizeE%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-03/af89ecc1-02ec-4b73-9198-5dcabcf3354e_639101506141921058.jpeg?sv=2025-05-05&amp;se=2028-03-26T19%3A36%3A54Z&amp;sr=b&amp;sp=r&amp;sig=XnbmgvxkERRCQ7TeLbTGy1z79z%2FLmicleecZN52Y%2B48%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-03/af89ecc1-02ec-4b73-9198-5dcabcf3354e_639101506141929610.jpeg?sv=2025-05-05&amp;se=2028-03-26T19%3A36%3A54Z&amp;sr=b&amp;sp=r&amp;sig=RVC6xgcntpzzw7ChVsoS1B%2FLNeG69tJPoTAUP%2B6G9Lw%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-03/af89ecc1-02ec-4b73-9198-5dcabcf3354e_639101506141929857.jpeg?sv=2025-05-05&amp;se=2028-03-26T19%3A36%3A54Z&amp;sr=b&amp;sp=r&amp;sig=U8set%2FhzyvLBKhwWLQnFwRqTMyvpbR8uVbSpTCJdsss%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-03/af89ecc1-02ec-4b73-9198-5dcabcf3354e_639101506142049212.jpeg?sv=2025-05-05&amp;se=2028-03-26T19%3A36%3A54Z&amp;sr=b&amp;sp=r&amp;sig=7zV8a%2BjekH9rig5wogA%2BnOMuLX1If6GzVXfb5Mvu26E%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-03/af89ecc1-02ec-4b73-9198-5dcabcf3354e_639101506141885053.jpeg?sv=2025-05-05&amp;se=2028-03-26T19%3A36%3A54Z&amp;sr=b&amp;sp=r&amp;sig=Io6hYUG3USTpds18opg1MjU5wEOaF7lH7KSqfs4xcEI%3D</url>
+    </media>
+  </photos>
+</property>
+
+
+
+<property>
+  <building>
     <address>31 Herkimer Street</address>
     <city>Brooklyn</city>
     <state>NY</state>
