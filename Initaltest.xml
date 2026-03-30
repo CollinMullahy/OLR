@@ -2900,10 +2900,10 @@ Residences feature central air, dishwashers, hardwood floors, large windows, and
 Photos shown are of similar units in the building.</brokersummary>
     <weblistingid>39092</weblistingid>
     <aptnumber>307</aptnumber>
-    <apartmentsize>7</apartmentsize>
-    <numbedrooms>1</numbedrooms>
+    <apartmentsize>H</apartmentsize>
+    <numbedrooms>2</numbedrooms>
     <numbaths>1</numbaths>
-    <numrooms>3</numrooms>
+    <numrooms>4</numrooms>
     <listingtype>L</listingtype>
     <status>A</status>
     <listeddate>2026-03-30</listeddate>
@@ -10448,7 +10448,7 @@ Heat &amp; hot water included | Pet-friendly!</brokersummary>
     <numbaths>1</numbaths>
     <numrooms>3</numrooms>
     <listingtype>L</listingtype>
-    <status>A</status>
+    <status>P</status>
     <listeddate>2026-03-30</listeddate>
     <availabledate>May-01-2026</availabledate>
     <modifieddate>2026-03-30</modifieddate>
@@ -11147,7 +11147,7 @@ Message now to schedule a tour!</brokersummary>
     <grosscommission />
     <buyersbrokercommision />
     <paidbywhom>O</paidbywhom>
-    <rent>3000</rent>
+    <rent>2975</rent>
     <furnishrent />
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
@@ -17240,7 +17240,7 @@ Garage Parking</brokersummary>
     <grosscommission />
     <buyersbrokercommision />
     <paidbywhom>O</paidbywhom>
-    <rent>3000</rent>
+    <rent>3200</rent>
     <furnishrent />
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
