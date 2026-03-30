@@ -1137,6 +1137,68 @@ SMALL pets welcome
 
 <property>
   <building>
+    <address>170 New York Ave</address>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11216</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary>4 bed 1.5 bath
+
+- massive living room
+- washer and dryer in unit
+- dishwasher
+- 4 queen size rooms (or bigger)
+- granite counter tops
+
+4/15 move in (possibly sooner)</brokersummary>
+    <weblistingid>39266</weblistingid>
+    <aptnumber>20</aptnumber>
+    <apartmentsize>4BED</apartmentsize>
+    <numbedrooms>4</numbedrooms>
+    <numbaths>1.5</numbaths>
+    <numrooms>6</numrooms>
+    <listingtype>L</listingtype>
+    <status>P</status>
+    <listeddate>2026-03-30</listeddate>
+    <availabledate>Apr-15-2026</availabledate>
+    <modifieddate>2026-03-30</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/170-New-York-Ave-Unit-20-Brooklyn-NY-11216-39266</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>5000</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos />
+</property>
+
+
+
+<property>
+  <building>
     <address>290 Harman St</address>
     <city>Brooklyn</city>
     <state>NY</state>
