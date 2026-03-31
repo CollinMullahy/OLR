@@ -6420,6 +6420,114 @@ Reach out to schedule a tour.</brokersummary>
 
 <property>
   <building>
+    <address>321 Putnam Ave</address>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11216</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary />
+    <weblistingid>39283</weblistingid>
+    <aptnumber>2R</aptnumber>
+    <apartmentsize>4BED</apartmentsize>
+    <numbedrooms>4</numbedrooms>
+    <numbaths>1</numbaths>
+    <numrooms>6</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2026-03-31</listeddate>
+    <availabledate>May-01-2026</availabledate>
+    <modifieddate>2026-03-31</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/321-Putnam-Ave-Unit-2R-Brooklyn-NY-11216-39283</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>3766</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos />
+</property>
+
+
+
+<property>
+  <building>
+    <address>799 Ocean Avenue</address>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11226</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary />
+    <weblistingid>39284</weblistingid>
+    <aptnumber>3A</aptnumber>
+    <apartmentsize>7</apartmentsize>
+    <numbedrooms>1</numbedrooms>
+    <numbaths>1</numbaths>
+    <numrooms>3</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2026-03-31</listeddate>
+    <availabledate>Jun-01-2026</availabledate>
+    <modifieddate>2026-03-31</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/799-Ocean-Avenue-Unit-3A-Brooklyn-NY-11226-39284</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>2750</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos />
+</property>
+
+
+
+<property>
+  <building>
     <address>996 Carroll Street</address>
     <city>Brooklyn</city>
     <state>NY</state>
@@ -6953,7 +7061,7 @@ Reach out to schedule a tour.</brokersummary>
     <numbaths>1</numbaths>
     <numrooms>3</numrooms>
     <listingtype>L</listingtype>
-    <status>P</status>
+    <status>A</status>
     <listeddate>2026-03-31</listeddate>
     <availabledate>Mar-31-2026</availabledate>
     <modifieddate>2026-03-31</modifieddate>
@@ -17075,93 +17183,6 @@ Garage Parking</brokersummary>
     </media>
     <media>
       <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/af89ecc1-02ec-4b73-9198-5dcabcf3354e_638724652322244055.jpeg?sv=2024-11-04&amp;se=2027-01-14T15%3A27%3A12Z&amp;sr=b&amp;sp=r&amp;sig=%2BT1pHKWUE25OaLzm7vWfkFqydLeuawr%2B3TCGC7wdDD4%3D</url>
-    </media>
-  </photos>
-</property>
-
-
-
-<property>
-  <building>
-    <address>238 Central Ave</address>
-    <city>Brooklyn</city>
-    <state>NY</state>
-    <zipcode>11221</zipcode>
-  </building>
-  <details>
-    <distributiontype>P</distributiontype>
-    <saleorrent>R</saleorrent>
-    <brokersummary>Neon green vibrant abode with grey sleek details. Open living room kitchen with central A/C, and heat. This apartment is nice and modern with dark wood flooring. Building has laundry. This is located off of Central Ave in prime Bushwick area. You can walk to Archie's Pizza, Happy Fun Hideaway, etc. This is a fun and funky apartment. 
-
-This is a brand new renovation ready to go! Two bedrooms with big bright windows plus another bedroom that is spacious and can work great as an office.</brokersummary>
-    <weblistingid>1528</weblistingid>
-    <aptnumber>3B</aptnumber>
-    <apartmentsize>L</apartmentsize>
-    <numbedrooms>3</numbedrooms>
-    <numbaths>1</numbaths>
-    <numrooms>5</numrooms>
-    <listingtype>L</listingtype>
-    <status>A</status>
-    <listeddate>2026-03-31</listeddate>
-    <availabledate>Apr-01-2026</availabledate>
-    <modifieddate>2026-03-31</modifieddate>
-    <listingurl>https://myspacenyc.cazamio.com/apartments/238-Central-Ave-Unit-3B-Brooklyn-NY-11221-1528</listingurl>
-    <price />
-    <grosscommission />
-    <buyersbrokercommision />
-    <paidbywhom>O</paidbywhom>
-    <rent>3600</rent>
-    <furnishrent />
-    <securitydeposit>1</securitydeposit>
-    <minterm>12</minterm>
-    <maxterm>12</maxterm>
-    <commissionmonth />
-    <commissionsplit-house />
-    <cof>TRUE</cof>
-    <petpolicy>C</petpolicy>
-  </details>
-  <agents>
-    <agent>
-      <firstname>Belle</firstname>
-      <lastname>Piper</lastname>
-      <title>Rental Agent</title>
-      <email>belle.msnyc@myspacenyc.com</email>
-      <workphone>(646) 854-3513</workphone>
-      <mobilephone />
-      <homephone />
-      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
-    </agent>
-  </agents>
-  <photos>
-    <media>
-      <url>https://s3.amazonaws.com/realty-monster-avatars-new/images/files/000/214/224/large/238_Central_1B_%28re-edited%29-13.jpg?1564146506</url>
-    </media>
-    <media>
-      <url>https://s3.amazonaws.com/realty-monster-avatars-new/images/files/000/214/223/large/238_Central_1B_%28re-edited%29-12.jpg?1564146505</url>
-    </media>
-    <media>
-      <url>https://s3.amazonaws.com/realty-monster-avatars-new/images/files/000/214/217/large/238_Central_1B_%28re-edited%29-6.jpg?1564146491</url>
-    </media>
-    <media>
-      <url>https://s3.amazonaws.com/realty-monster-avatars-new/images/files/000/214/218/large/238_Central_1B_%28re-edited%29-7.jpg?1564146491</url>
-    </media>
-    <media>
-      <url>https://s3.amazonaws.com/realty-monster-avatars-new/images/files/000/214/219/large/238_Central_1B_%28re-edited%29-8.jpg?1564146494</url>
-    </media>
-    <media>
-      <url>https://s3.amazonaws.com/realty-monster-avatars-new/images/files/000/214/221/large/238_Central_1B_%28re-edited%29-10.jpg?1564146500</url>
-    </media>
-    <media>
-      <url>https://s3.amazonaws.com/realty-monster-avatars-new/images/files/000/214/222/large/238_Central_1B_%28re-edited%29-11.jpg?1564146501</url>
-    </media>
-    <media>
-      <url>https://s3.amazonaws.com/realty-monster-avatars-new/images/files/000/214/220/large/238_Central_1B_%28re-edited%29-9.jpg?1564146495</url>
-    </media>
-    <media>
-      <url>https://s3.amazonaws.com/realty-monster-avatars-new/images/files/000/214/215/large/238_Central_1B_%28re-edited%29-5.jpg?1564146485</url>
-    </media>
-    <media>
-      <url>https://s3.amazonaws.com/realty-monster-avatars-new/images/files/000/214/216/large/238_Central_1B_%28re-edited%29-2.jpg?1564146486</url>
     </media>
   </photos>
 </property>
