@@ -22729,7 +22729,7 @@ Pets welcome
     <grosscommission />
     <buyersbrokercommision />
     <paidbywhom>O</paidbywhom>
-    <rent>3300</rent>
+    <rent>3250</rent>
     <furnishrent />
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
@@ -22752,24 +22752,6 @@ Pets welcome
     </agent>
   </agents>
   <photos>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-07/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638877886673176069.jpeg?sv=2025-05-05&amp;se=2027-07-10T23%3A57%3A47Z&amp;sr=b&amp;sp=r&amp;sig=bijjzvUyTIcGgBqqjRPlFDGY8i4V2OubibwbraABTok%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-07/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638877886675586223.jpeg?sv=2025-05-05&amp;se=2027-07-10T23%3A57%3A47Z&amp;sr=b&amp;sp=r&amp;sig=q0IlI%2F7CQ2%2F5dnSQrk0kIMv69PCCfZ9C%2BPOZDKy8kKw%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-07/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638877886673846644.jpeg?sv=2025-05-05&amp;se=2027-07-10T23%3A57%3A47Z&amp;sr=b&amp;sp=r&amp;sig=RiCDZz%2FwDZG1KCrnbjFBVKHbzmiy91rFaGtAf3I7%2B0s%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-07/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638877886672237350.jpeg?sv=2025-05-05&amp;se=2027-07-10T23%3A57%3A47Z&amp;sr=b&amp;sp=r&amp;sig=4eAxRF5QIFnW53qFid%2FRh18HmS%2BA8FaCVzu0XHuAzhw%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-07/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638877886672719367.jpeg?sv=2025-05-05&amp;se=2027-07-10T23%3A57%3A47Z&amp;sr=b&amp;sp=r&amp;sig=btbK45zqHSiC284TUEqKKyY0gqMLMcAIJ4Ix2IenT1I%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-07/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638877886674667834.jpeg?sv=2025-05-05&amp;se=2027-07-10T23%3A57%3A47Z&amp;sr=b&amp;sp=r&amp;sig=7kRR1KvlMVXdLFyRBhHmmYj3ZEKkjdZgwi8W7ox4J4c%3D</url>
-    </media>
     <media>
       <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-07/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638877886673315220.jpeg?sv=2025-05-05&amp;se=2027-07-10T23%3A57%3A47Z&amp;sr=b&amp;sp=r&amp;sig=gb082Xma1AohViWlb304jGKi6XxibzO3yo5w%2F%2BWdP4E%3D</url>
     </media>
@@ -22823,6 +22805,21 @@ Pets welcome
     </media>
     <media>
       <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-07/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638877886677745675.jpeg?sv=2025-05-05&amp;se=2027-07-10T23%3A57%3A47Z&amp;sr=b&amp;sp=r&amp;sig=5xRdEsTwyymznZ0s%2BJskvveIX2omLo%2FgyW%2BbYCOdgKA%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-04/af89ecc1-02ec-4b73-9198-5dcabcf3354e_639120460961604839.jpeg?sv=2025-05-05&amp;se=2028-04-17T18%3A08%3A16Z&amp;sr=b&amp;sp=r&amp;sig=LHV7hcvKcsHBfBG%2BJzxE%2B8hbKR2tLZarHkQZP1i4uvo%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-04/af89ecc1-02ec-4b73-9198-5dcabcf3354e_639120460961638845.jpeg?sv=2025-05-05&amp;se=2028-04-17T18%3A08%3A16Z&amp;sr=b&amp;sp=r&amp;sig=%2BuCCc4pJWthkRANceylW2B300bxMp0edMzuw4aAGWDE%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-04/af89ecc1-02ec-4b73-9198-5dcabcf3354e_639120460961895595.jpeg?sv=2025-05-05&amp;se=2028-04-17T18%3A08%3A16Z&amp;sr=b&amp;sp=r&amp;sig=%2FhOoQa0zerIPTCIDo0kRzJSfKRa1WfD1NJwqGOjV28A%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-04/af89ecc1-02ec-4b73-9198-5dcabcf3354e_639120460961638845.jpeg?sv=2025-05-05&amp;se=2028-04-17T18%3A08%3A16Z&amp;sr=b&amp;sp=r&amp;sig=%2BuCCc4pJWthkRANceylW2B300bxMp0edMzuw4aAGWDE%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-04/af89ecc1-02ec-4b73-9198-5dcabcf3354e_639120460961976427.jpeg?sv=2025-05-05&amp;se=2028-04-17T18%3A08%3A16Z&amp;sr=b&amp;sp=r&amp;sig=w0tyOvvwcvuz0H%2F048vuz8hmCO3CYEZl6Mt%2BfFczHVk%3D</url>
     </media>
   </photos>
 </property>
