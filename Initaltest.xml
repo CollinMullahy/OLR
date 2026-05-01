@@ -10169,76 +10169,6 @@ Reach out to schedule a tour.</brokersummary>
     <distributiontype>P</distributiontype>
     <saleorrent>R</saleorrent>
     <brokersummary />
-    <weblistingid>39402</weblistingid>
-    <aptnumber>1B</aptnumber>
-    <apartmentsize>L</apartmentsize>
-    <numbedrooms>3</numbedrooms>
-    <numbaths>1</numbaths>
-    <numrooms>5</numrooms>
-    <listingtype>L</listingtype>
-    <status>A</status>
-    <listeddate>2026-05-01</listeddate>
-    <availabledate>Apr-15-2026</availabledate>
-    <modifieddate>2026-05-01</modifieddate>
-    <listingurl>https://myspacenyc.cazamio.com/apartments/376-Montgomery-Street-Unit-1B-Brooklyn-NY-11225-39402</listingurl>
-    <price />
-    <grosscommission />
-    <buyersbrokercommision />
-    <paidbywhom>O</paidbywhom>
-    <rent>4750</rent>
-    <furnishrent />
-    <securitydeposit>1</securitydeposit>
-    <minterm>12</minterm>
-    <maxterm>12</maxterm>
-    <commissionmonth />
-    <commissionsplit-house />
-    <cof>TRUE</cof>
-    <petpolicy>C</petpolicy>
-  </details>
-  <agents>
-    <agent>
-      <firstname>Belle</firstname>
-      <lastname>Piper</lastname>
-      <title>Rental Agent</title>
-      <email>belle.msnyc@myspacenyc.com</email>
-      <workphone>(646) 854-3513</workphone>
-      <mobilephone />
-      <homephone />
-      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
-    </agent>
-  </agents>
-  <photos>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-04/8515455b-be52-4141-8a40-4c35d33cf98b_639118776455876631.jpeg?sv=2025-05-05&amp;se=2028-04-15T19%3A20%3A45Z&amp;sr=b&amp;sp=r&amp;sig=oMDhqALb12rV5Zx9RDQn2fUqSyLGW1fteUwLLJwC%2FgI%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-04/8515455b-be52-4141-8a40-4c35d33cf98b_639118776455129251.jpeg?sv=2025-05-05&amp;se=2028-04-15T19%3A20%3A45Z&amp;sr=b&amp;sp=r&amp;sig=MgNy9yCef6Chf1CwfEdwBeTJVmE0aGX7zCyP5eNutkw%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-04/8515455b-be52-4141-8a40-4c35d33cf98b_639118776456233280.jpeg?sv=2025-05-05&amp;se=2028-04-15T19%3A20%3A45Z&amp;sr=b&amp;sp=r&amp;sig=RWB%2FtVgwdSlFCfXdWYd521wDV3HS7I4yRt82NxkRbdU%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-04/8515455b-be52-4141-8a40-4c35d33cf98b_639118776455934865.jpeg?sv=2025-05-05&amp;se=2028-04-15T19%3A20%3A45Z&amp;sr=b&amp;sp=r&amp;sig=00ufIHg0ldyQSb6mIYyG4VMmY6jNH%2BAYMT3YWVRry1w%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-04/8515455b-be52-4141-8a40-4c35d33cf98b_639118776455221341.jpeg?sv=2025-05-05&amp;se=2028-04-15T19%3A20%3A45Z&amp;sr=b&amp;sp=r&amp;sig=9esNqNLR9lozf95puLOko66i9kHx0s0TPRVTkqN0VL4%3D</url>
-    </media>
-  </photos>
-</property>
-
-
-
-<property>
-  <building>
-    <address>376 Montgomery Street</address>
-    <city>Brooklyn</city>
-    <state>NY</state>
-    <zipcode>11225</zipcode>
-  </building>
-  <details>
-    <distributiontype>P</distributiontype>
-    <saleorrent>R</saleorrent>
-    <brokersummary />
     <weblistingid>39403</weblistingid>
     <aptnumber>2A</aptnumber>
     <apartmentsize>L</apartmentsize>
@@ -13431,7 +13361,7 @@ Close to N/W at Broadway and R/M at Steinway?quick Midtown commute.</brokersumma
     <grosscommission />
     <buyersbrokercommision />
     <paidbywhom>O</paidbywhom>
-    <rent>3500</rent>
+    <rent>3399</rent>
     <furnishrent />
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
@@ -14009,7 +13939,7 @@ Come and experience the epitome of luxury living in this exceptional new buildin
     <grosscommission />
     <buyersbrokercommision />
     <paidbywhom>O</paidbywhom>
-    <rent>4495</rent>
+    <rent>4395</rent>
     <furnishrent />
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
@@ -18166,7 +18096,7 @@ Live where convenience meets character. Schedule your tour today and make 527 Gr
     <grosscommission />
     <buyersbrokercommision />
     <paidbywhom>O</paidbywhom>
-    <rent>4300</rent>
+    <rent>3600</rent>
     <furnishrent />
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
