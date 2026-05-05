@@ -27172,7 +27172,7 @@ Message to set up a showing.</brokersummary>
     <saleorrent>R</saleorrent>
     <brokersummary />
     <weblistingid>39057</weblistingid>
-    <aptnumber>3B</aptnumber>
+    <aptnumber>3A</aptnumber>
     <apartmentsize>H</apartmentsize>
     <numbedrooms>2</numbedrooms>
     <numbaths>2</numbaths>
@@ -27182,12 +27182,12 @@ Message to set up a showing.</brokersummary>
     <listeddate>2026-05-05</listeddate>
     <availabledate>Mar-13-2026</availabledate>
     <modifieddate>2026-05-05</modifieddate>
-    <listingurl>https://myspacenyc.cazamio.com/apartments/242-6th-Street-Unit-3B-Brooklyn-NY-11215-39057</listingurl>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/242-6th-Street-Unit-3A-Brooklyn-NY-11215-39057</listingurl>
     <price />
     <grosscommission />
     <buyersbrokercommision />
     <paidbywhom>O</paidbywhom>
-    <rent>4500</rent>
+    <rent>4800</rent>
     <furnishrent />
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
@@ -27221,6 +27221,79 @@ Message to set up a showing.</brokersummary>
     </media>
     <media>
       <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-03/af89ecc1-02ec-4b73-9198-5dcabcf3354e_639090119968708097.jpeg?sv=2025-05-05&amp;se=2028-03-13T15%3A19%3A56Z&amp;sr=b&amp;sp=r&amp;sig=CD%2Fzno0Ll%2B3JxuidfwRn0rjfKZWy%2Bg3VNebwfRW2OqI%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-03/af89ecc1-02ec-4b73-9198-5dcabcf3354e_639090119968952213.jpeg?sv=2025-05-05&amp;se=2028-03-13T15%3A19%3A56Z&amp;sr=b&amp;sp=r&amp;sig=gYSEJY%2BW9H%2F%2BzP1PU8ok50qBZRR%2FAVOJMMzqZOjEFH8%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-03/af89ecc1-02ec-4b73-9198-5dcabcf3354e_639090119968301845.jpeg?sv=2025-05-05&amp;se=2028-03-13T15%3A19%3A56Z&amp;sr=b&amp;sp=r&amp;sig=5KJjwI3AYdysMf15p4Y5MFFu4PRn94C6alU0SOI1XqE%3D</url>
+    </media>
+  </photos>
+</property>
+
+
+
+<property>
+  <building>
+    <address>242 6th Street</address>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11215</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary />
+    <weblistingid>39060</weblistingid>
+    <aptnumber>4A</aptnumber>
+    <apartmentsize>H</apartmentsize>
+    <numbedrooms>2</numbedrooms>
+    <numbaths>2</numbaths>
+    <numrooms>5</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2026-05-05</listeddate>
+    <availabledate>Mar-13-2026</availabledate>
+    <modifieddate>2026-05-05</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/242-6th-Street-Unit-4A-Brooklyn-NY-11215-39060</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>4800</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-03/af89ecc1-02ec-4b73-9198-5dcabcf3354e_639090119968708097.jpeg?sv=2025-05-05&amp;se=2028-03-13T15%3A19%3A56Z&amp;sr=b&amp;sp=r&amp;sig=CD%2Fzno0Ll%2B3JxuidfwRn0rjfKZWy%2Bg3VNebwfRW2OqI%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-03/af89ecc1-02ec-4b73-9198-5dcabcf3354e_639090119968278341.jpeg?sv=2025-05-05&amp;se=2028-03-13T15%3A19%3A56Z&amp;sr=b&amp;sp=r&amp;sig=mvwyuO9Rx5CyRwAREEgXZySV5kwt%2FDo2YgV9jELqA1g%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-03/af89ecc1-02ec-4b73-9198-5dcabcf3354e_639090119968643177.jpeg?sv=2025-05-05&amp;se=2028-03-13T15%3A19%3A56Z&amp;sr=b&amp;sp=r&amp;sig=vaOlmLtNXJbR7v9%2FmctWhHfkaDRYKHez4MHhX5EA5vQ%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-03/af89ecc1-02ec-4b73-9198-5dcabcf3354e_639090119968951185.jpeg?sv=2025-05-05&amp;se=2028-03-13T15%3A19%3A56Z&amp;sr=b&amp;sp=r&amp;sig=MB%2F1G5FNxcERDElccuWOLSl6y30Spf%2FjZpB0%2FqzpDo4%3D</url>
     </media>
     <media>
       <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-03/af89ecc1-02ec-4b73-9198-5dcabcf3354e_639090119968952213.jpeg?sv=2025-05-05&amp;se=2028-03-13T15%3A19%3A56Z&amp;sr=b&amp;sp=r&amp;sig=gYSEJY%2BW9H%2F%2BzP1PU8ok50qBZRR%2FAVOJMMzqZOjEFH8%3D</url>
