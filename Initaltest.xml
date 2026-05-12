@@ -25300,7 +25300,26 @@ PETS OKAY</brokersummary>
       <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
     </agent>
   </agents>
-  <photos />
+  <photos>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-05/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_639141389471597560.jpeg?sv=2025-05-05&amp;se=2028-05-11T23%3A29%3A07Z&amp;sr=b&amp;sp=r&amp;sig=GyQNWwqNYCJhJf4srCnXjA%2BlVMI2%2FpXKcko29AieL3Q%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-05/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_639141389471584976.jpeg?sv=2025-05-05&amp;se=2028-05-11T23%3A29%3A07Z&amp;sr=b&amp;sp=r&amp;sig=W5t2uF8JPcZjjnRzmIuOLzsrI3b5wAqmksk3occDf94%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-05/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_639141389471583909.jpeg?sv=2025-05-05&amp;se=2028-05-11T23%3A29%3A07Z&amp;sr=b&amp;sp=r&amp;sig=0WtiAwA6UoaenTlk3x85Or7i6xngltovvNjrhdHuEHU%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-05/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_639141389471597485.jpeg?sv=2025-05-05&amp;se=2028-05-11T23%3A29%3A07Z&amp;sr=b&amp;sp=r&amp;sig=8ToCAPBax5sCpJtkd9mxm1xM2zHLUG5aKK%2BhFUgUFIk%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-05/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_639141389471559733.jpeg?sv=2025-05-05&amp;se=2028-05-11T23%3A29%3A07Z&amp;sr=b&amp;sp=r&amp;sig=9cFMTF%2BaNJyiE%2Bx08U1VSc8xuY3WxAfswPuRElB5TKo%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-05/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_639141389471604331.jpeg?sv=2025-05-05&amp;se=2028-05-11T23%3A29%3A07Z&amp;sr=b&amp;sp=r&amp;sig=mqekTbF%2FOhnhQeMikS6n3%2F7atsxMIN5emrSnhlL2eT0%3D</url>
+    </media>
+  </photos>
 </property>
 
 
