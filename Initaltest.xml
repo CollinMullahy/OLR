@@ -1190,7 +1190,7 @@ Heat and hot water included</brokersummary>
     <grosscommission />
     <buyersbrokercommision />
     <paidbywhom>O</paidbywhom>
-    <rent>3125</rent>
+    <rent>3075</rent>
     <furnishrent />
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
@@ -1472,7 +1472,7 @@ Heat and hot water included</brokersummary>
     <grosscommission />
     <buyersbrokercommision />
     <paidbywhom>O</paidbywhom>
-    <rent>3050</rent>
+    <rent>3000</rent>
     <furnishrent />
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
@@ -7628,7 +7628,7 @@ Virtual or in-person showings available ? schedule today.</brokersummary>
     <listingtype>L</listingtype>
     <status>A</status>
     <listeddate>2026-05-15</listeddate>
-    <availabledate>Jun-11-2026</availabledate>
+    <availabledate>Jun-01-2026</availabledate>
     <modifieddate>2026-05-15</modifieddate>
     <listingurl>https://myspacenyc.cazamio.com/apartments/325-Putnam-Avenue-Unit-3L-Brooklyn-NY-11216-39506</listingurl>
     <price />
