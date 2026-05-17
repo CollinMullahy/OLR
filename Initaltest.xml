@@ -4136,6 +4136,82 @@ Windows/Closets</brokersummary>
 
 <property>
   <building>
+    <address>816 Knickerbocker Ave</address>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11206</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary />
+    <weblistingid>39746</weblistingid>
+    <aptnumber>1R</aptnumber>
+    <apartmentsize>H</apartmentsize>
+    <numbedrooms>2</numbedrooms>
+    <numbaths>1</numbaths>
+    <numrooms>4</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2026-05-17</listeddate>
+    <availabledate>Jul-01-2026</availabledate>
+    <modifieddate>2026-05-17</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/816-Knickerbocker-Ave-Unit-1R-Brooklyn-NY-11206-39746</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>2800</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-05/8515455b-be52-4141-8a40-4c35d33cf98b_639146264628122674.jpeg?sv=2025-05-05&amp;se=2028-05-17T14%3A54%3A22Z&amp;sr=b&amp;sp=r&amp;sig=wJ6dfwZqSXHMYcRtViVCfIfu419cbHMUZ1asUKubeYg%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-05/8515455b-be52-4141-8a40-4c35d33cf98b_639146264627389948.jpeg?sv=2025-05-05&amp;se=2028-05-17T14%3A54%3A22Z&amp;sr=b&amp;sp=r&amp;sig=gfOBs%2B3MrjDkA0FY%2BYv1dSkIVuZI%2FJ1DnbIEGEC5WYE%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-05/8515455b-be52-4141-8a40-4c35d33cf98b_639146264627539565.jpeg?sv=2025-05-05&amp;se=2028-05-17T14%3A54%3A22Z&amp;sr=b&amp;sp=r&amp;sig=SetZKfYLW7M7nkLY2a%2BNUvmIjRw%2Fa3kGbVQ%2Bw5asRgo%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-05/8515455b-be52-4141-8a40-4c35d33cf98b_639146264629335415.jpeg?sv=2025-05-05&amp;se=2028-05-17T14%3A54%3A22Z&amp;sr=b&amp;sp=r&amp;sig=vbRWvCYQ7fe4wZ19E%2FLAnoJlqDgcoAvfNJSAofKjv2s%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-05/8515455b-be52-4141-8a40-4c35d33cf98b_639146264627571225.jpeg?sv=2025-05-05&amp;se=2028-05-17T14%3A54%3A22Z&amp;sr=b&amp;sp=r&amp;sig=5Xzvv4bXsdzbLcawbq45QtkaleUSfwFF%2BVsRtPIwEM4%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-05/8515455b-be52-4141-8a40-4c35d33cf98b_639146264626941263.jpeg?sv=2025-05-05&amp;se=2028-05-17T14%3A54%3A22Z&amp;sr=b&amp;sp=r&amp;sig=6N0hOgX6CamLHGYbrQGyrZFWGmrJYxg%2FtVjAcAiWhBY%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-05/8515455b-be52-4141-8a40-4c35d33cf98b_639146264627083079.jpeg?sv=2025-05-05&amp;se=2028-05-17T14%3A54%3A22Z&amp;sr=b&amp;sp=r&amp;sig=LRTjSXEMylmya25uD7XQSIOqKAXEXUNk0r7AWPkGQTc%3D</url>
+    </media>
+  </photos>
+</property>
+
+
+
+<property>
+  <building>
     <address>2366 Bedford Avenue</address>
     <city>Brooklyn</city>
     <state>NY</state>
