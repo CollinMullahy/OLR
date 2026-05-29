@@ -10832,6 +10832,87 @@ Conveniently located near shops, dining, and transportation.</brokersummary>
 
 <property>
   <building>
+    <address>905 Sterling St</address>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11225</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary>Studio in Prime Crown Heights
+
+Bright space with high ceilings, hardwood floors, stone countertops, stainless steel appliances, and a modern marble-style bathroom.
+
+Laundry in building ? Secure entry &amp; package system
+
+Steps to Nostrand Ave 2/3/4/5/S trains, parks, dining &amp; shopping.
+
+Pet-friendly ? Guarantors welcome</brokersummary>
+    <weblistingid>39895</weblistingid>
+    <aptnumber>2A</aptnumber>
+    <apartmentsize>H</apartmentsize>
+    <numbedrooms>2</numbedrooms>
+    <numbaths>1</numbaths>
+    <numrooms>4</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2026-05-29</listeddate>
+    <availabledate>Jul-01-2026</availabledate>
+    <modifieddate>2026-05-29</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/905-Sterling-St-Unit-2A-Brooklyn-NY-11225-39895</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>3350</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-02/8515455b-be52-4141-8a40-4c35d33cf98b_639069643482789992.jpeg?sv=2025-05-05&amp;se=2028-02-17T22%3A32%3A28Z&amp;sr=b&amp;sp=r&amp;sig=6%2F45UZpByOe4vtk4vv%2BIRjF9CIKRlp%2F42notL6%2BvkKY%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-02/8515455b-be52-4141-8a40-4c35d33cf98b_639069643487879942.jpeg?sv=2025-05-05&amp;se=2028-02-17T22%3A32%3A28Z&amp;sr=b&amp;sp=r&amp;sig=oNIM2o6W64NawTMKxN%2BG8gC1i%2FWK8S8eTZCxiAltxYg%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-02/8515455b-be52-4141-8a40-4c35d33cf98b_639069643482012651.jpeg?sv=2025-05-05&amp;se=2028-02-17T22%3A32%3A28Z&amp;sr=b&amp;sp=r&amp;sig=AHCy9IYoZlDOKNIvguk%2BbARI0n0tPtxQKWmrp%2FG8tTU%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-02/8515455b-be52-4141-8a40-4c35d33cf98b_639069643482416253.jpeg?sv=2025-05-05&amp;se=2028-02-17T22%3A32%3A28Z&amp;sr=b&amp;sp=r&amp;sig=hxugW1YDdaFrjLvTEqZ84wx4uTgSRBIS%2Bd%2BqcfcRLfU%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-02/8515455b-be52-4141-8a40-4c35d33cf98b_639069643482060987.jpeg?sv=2025-05-05&amp;se=2028-02-17T22%3A32%3A28Z&amp;sr=b&amp;sp=r&amp;sig=8pCxkTirTmRh4bjp5ESTvItI4wEwLAXzwIdXyZ1ajAk%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-02/8515455b-be52-4141-8a40-4c35d33cf98b_639069643488148281.jpeg?sv=2025-05-05&amp;se=2028-02-17T22%3A32%3A28Z&amp;sr=b&amp;sp=r&amp;sig=e54X7DBwSdzu8dDoOvWfPWkPpOXF%2F8TSlarCmaUpl40%3D</url>
+    </media>
+  </photos>
+</property>
+
+
+
+<property>
+  <building>
     <address>1326 Ocean Avenue</address>
     <city>Brooklyn</city>
     <state>NY</state>
