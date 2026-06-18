@@ -28804,7 +28804,7 @@ This new development offers a refined rental experience with condo-inspired fini
     <grosscommission />
     <buyersbrokercommision />
     <paidbywhom>O</paidbywhom>
-    <rent>6399</rent>
+    <rent>6000</rent>
     <furnishrent />
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
@@ -28856,6 +28856,75 @@ This new development offers a refined rental experience with condo-inspired fini
     </media>
     <media>
       <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-06/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_639173383414826553.jpeg?sv=2025-05-05&amp;se=2028-06-18T00%3A12%3A21Z&amp;sr=b&amp;sp=r&amp;sig=hlLtJ9nwJzGa1ETTdUBc6m9F5tgB%2By%2BMPT9sq5oGg94%3D</url>
+    </media>
+  </photos>
+</property>
+
+
+
+<property>
+  <building>
+    <address>88 Schermerhorn Street</address>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11201</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary>Welcome to Modavie, a boutique collection of 55 luxury residences designed for modern Brooklyn living.
+
+This new development offers a refined rental experience with condo-inspired finishes, thoughtfully planned amenities, and a location that puts residents close to parks, cultural attractions, neighborhood restaurants, shopping, and nightlife. Modavie brings comfort, style, and convenience together in one of Brooklyn?s most desirable areas.</brokersummary>
+    <weblistingid>40205</weblistingid>
+    <aptnumber>18a</aptnumber>
+    <apartmentsize>1</apartmentsize>
+    <numbedrooms>0</numbedrooms>
+    <numbaths>1</numbaths>
+    <numrooms>2</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2026-06-18</listeddate>
+    <availabledate>Jun-17-2026</availabledate>
+    <modifieddate>2026-06-18</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/88-Schermerhorn-Street-Unit-18a-Brooklyn-NY-11201-40205</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>3795</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-06/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_639173864329086497.png?sv=2025-05-05&amp;se=2028-06-18T13%3A33%3A53Z&amp;sr=b&amp;sp=r&amp;sig=82f7xMMe%2BeSDaK82v7bHTihJb%2FP%2B48Xh4yyYBFykGoo%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-06/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_639173866911962813.png?sv=2025-05-05&amp;se=2028-06-18T13%3A38%3A11Z&amp;sr=b&amp;sp=r&amp;sig=qiG2H6sIFzZserBSBdKaI%2BlDzxs8v8erRcNPmw4GhjU%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-06/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_639173868681430067.png?sv=2025-05-05&amp;se=2028-06-18T13%3A41%3A08Z&amp;sr=b&amp;sp=r&amp;sig=rKYIp7aBSKl1xrOsfC%2FiZ%2BU3%2FE91btDOb7xNk0ez0kM%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-06/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_639173865648346761.png?sv=2025-05-05&amp;se=2028-06-18T13%3A36%3A04Z&amp;sr=b&amp;sp=r&amp;sig=tG%2BYKuhHjvt4GL3IzMrV4pMd6tB7PXfzSQ0Tx0QE5MQ%3D</url>
     </media>
   </photos>
 </property>
