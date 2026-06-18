@@ -24898,6 +24898,187 @@ Building offers A 24HR GYM, Bike Storage, Bike Room, Laundry Room, Package Room,
 
 <property>
   <building>
+    <address>336 Chauncey Steet</address>
+    <city>Brooklyn</city>
+    <state>New York</state>
+    <zipcode>11233</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary />
+    <weblistingid>30337</weblistingid>
+    <aptnumber>2C</aptnumber>
+    <apartmentsize>7</apartmentsize>
+    <numbedrooms>1</numbedrooms>
+    <numbaths>1</numbaths>
+    <numrooms>3</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2026-06-18</listeddate>
+    <availabledate>Jul-01-2026</availabledate>
+    <modifieddate>2026-06-18</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/336-Chauncey-Steet-Unit-2C-Brooklyn-New-York-11233-30337</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>2300</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638721260947676098.jpeg?sv=2024-11-04&amp;se=2027-01-10T17%3A14%3A54Z&amp;sr=b&amp;sp=r&amp;sig=FJgvHqEhnjvZLFpx5ve3cTcoxjGYMbnWof7YGuqeeUo%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638721260947781222.jpeg?sv=2024-11-04&amp;se=2027-01-10T17%3A14%3A54Z&amp;sr=b&amp;sp=r&amp;sig=9zfE5MNOkTD73jii4gh5enhNUnABU9Vgl4NaHpuZ6js%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638721260947736298.jpeg?sv=2024-11-04&amp;se=2027-01-10T17%3A14%3A54Z&amp;sr=b&amp;sp=r&amp;sig=H0yE0U4Hou8Xn53W8a4efG29SkwzUgxV53VaAvrpzdA%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638721260947636698.jpeg?sv=2024-11-04&amp;se=2027-01-10T17%3A14%3A54Z&amp;sr=b&amp;sp=r&amp;sig=p0MKZ2I26dWGinuvYlTY6uvB3rS1Pnx%2BJSZHjKQmnlg%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638721260947521421.jpeg?sv=2024-11-04&amp;se=2027-01-10T17%3A14%3A54Z&amp;sr=b&amp;sp=r&amp;sig=HPlApKJZW5CcnqKkT%2BF%2Bm5ayKBycgTJaJxBVmdpEoOM%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-01/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638721260947768890.jpeg?sv=2024-11-04&amp;se=2027-01-10T17%3A14%3A54Z&amp;sr=b&amp;sp=r&amp;sig=HGMPxbII5kPE2ytJSITrb5pB33g%2FrTLWu2VM2DYcnVU%3D</url>
+    </media>
+  </photos>
+</property>
+
+
+
+<property>
+  <building>
+    <address>3405 Farragut Road</address>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11210</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary />
+    <weblistingid>30346</weblistingid>
+    <aptnumber>2A</aptnumber>
+    <apartmentsize>4BED</apartmentsize>
+    <numbedrooms>4</numbedrooms>
+    <numbaths>2</numbaths>
+    <numrooms>7</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2026-06-18</listeddate>
+    <availabledate>Jul-01-2026</availabledate>
+    <modifieddate>2026-06-18</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/3405-Farragut-Road-Unit-2A-Brooklyn-NY-11210-30346</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>3800</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos />
+</property>
+
+
+
+<property>
+  <building>
+    <address>1643 New York Avenue</address>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11210</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary>PRIVATE YARD</brokersummary>
+    <weblistingid>20401</weblistingid>
+    <aptnumber>1B</aptnumber>
+    <apartmentsize>H</apartmentsize>
+    <numbedrooms>2</numbedrooms>
+    <numbaths>1</numbaths>
+    <numrooms>4</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2026-06-18</listeddate>
+    <availabledate>Jul-01-2026</availabledate>
+    <modifieddate>2026-06-18</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/1643-New-York-Avenue-Unit-1B-Brooklyn-NY-11210-20401</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>3000</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos />
+</property>
+
+
+
+<property>
+  <building>
     <address>727 Dekalb Avenue</address>
     <city>Brooklyn</city>
     <state>NY</state>
@@ -25172,114 +25353,6 @@ Near Kosciuszko Pool, one block to the park, and close to the G train. Easy comm
     <buyersbrokercommision />
     <paidbywhom>O</paidbywhom>
     <rent>2500</rent>
-    <furnishrent />
-    <securitydeposit>1</securitydeposit>
-    <minterm>12</minterm>
-    <maxterm>12</maxterm>
-    <commissionmonth />
-    <commissionsplit-house />
-    <cof>TRUE</cof>
-    <petpolicy>C</petpolicy>
-  </details>
-  <agents>
-    <agent>
-      <firstname>Belle</firstname>
-      <lastname>Piper</lastname>
-      <title>Rental Agent</title>
-      <email>belle.msnyc@myspacenyc.com</email>
-      <workphone>(646) 854-3513</workphone>
-      <mobilephone />
-      <homephone />
-      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
-    </agent>
-  </agents>
-  <photos />
-</property>
-
-
-
-<property>
-  <building>
-    <address>3405 Farragut Road</address>
-    <city>Brooklyn</city>
-    <state>NY</state>
-    <zipcode>11210</zipcode>
-  </building>
-  <details>
-    <distributiontype>P</distributiontype>
-    <saleorrent>R</saleorrent>
-    <brokersummary />
-    <weblistingid>30346</weblistingid>
-    <aptnumber>2A</aptnumber>
-    <apartmentsize>4BED</apartmentsize>
-    <numbedrooms>4</numbedrooms>
-    <numbaths>2</numbaths>
-    <numrooms>7</numrooms>
-    <listingtype>L</listingtype>
-    <status>A</status>
-    <listeddate>2026-06-18</listeddate>
-    <availabledate>Jul-01-2026</availabledate>
-    <modifieddate>2026-06-18</modifieddate>
-    <listingurl>https://myspacenyc.cazamio.com/apartments/3405-Farragut-Road-Unit-2A-Brooklyn-NY-11210-30346</listingurl>
-    <price />
-    <grosscommission />
-    <buyersbrokercommision />
-    <paidbywhom>O</paidbywhom>
-    <rent>3800</rent>
-    <furnishrent />
-    <securitydeposit>1</securitydeposit>
-    <minterm>12</minterm>
-    <maxterm>12</maxterm>
-    <commissionmonth />
-    <commissionsplit-house />
-    <cof>TRUE</cof>
-    <petpolicy>C</petpolicy>
-  </details>
-  <agents>
-    <agent>
-      <firstname>Belle</firstname>
-      <lastname>Piper</lastname>
-      <title>Rental Agent</title>
-      <email>belle.msnyc@myspacenyc.com</email>
-      <workphone>(646) 854-3513</workphone>
-      <mobilephone />
-      <homephone />
-      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
-    </agent>
-  </agents>
-  <photos />
-</property>
-
-
-
-<property>
-  <building>
-    <address>1643 New York Avenue</address>
-    <city>Brooklyn</city>
-    <state>NY</state>
-    <zipcode>11210</zipcode>
-  </building>
-  <details>
-    <distributiontype>P</distributiontype>
-    <saleorrent>R</saleorrent>
-    <brokersummary>PRIVATE YARD</brokersummary>
-    <weblistingid>20401</weblistingid>
-    <aptnumber>1B</aptnumber>
-    <apartmentsize>H</apartmentsize>
-    <numbedrooms>2</numbedrooms>
-    <numbaths>1</numbaths>
-    <numrooms>4</numrooms>
-    <listingtype>L</listingtype>
-    <status>A</status>
-    <listeddate>2026-06-18</listeddate>
-    <availabledate>Jul-01-2026</availabledate>
-    <modifieddate>2026-06-18</modifieddate>
-    <listingurl>https://myspacenyc.cazamio.com/apartments/1643-New-York-Avenue-Unit-1B-Brooklyn-NY-11210-20401</listingurl>
-    <price />
-    <grosscommission />
-    <buyersbrokercommision />
-    <paidbywhom>O</paidbywhom>
-    <rent>3000</rent>
     <furnishrent />
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
@@ -28888,6 +28961,196 @@ Step into a warm and inviting space where comfort meets convenience. This charmi
     </agent>
   </agents>
   <photos />
+</property>
+
+
+
+<property>
+  <building>
+    <address>88 Schermerhorn Street</address>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11201</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary>Welcome to Modavie, a boutique collection of 55 luxury residences designed for modern Brooklyn living.
+
+This new development offers a refined rental experience with condo-inspired finishes, thoughtfully planned amenities, and a location that puts residents close to parks, cultural attractions, neighborhood restaurants, shopping, and nightlife. Modavie brings comfort, style, and convenience together in one of Brooklyn?s most desirable areas.</brokersummary>
+    <weblistingid>40211</weblistingid>
+    <aptnumber>19B</aptnumber>
+    <apartmentsize>L</apartmentsize>
+    <numbedrooms>3</numbedrooms>
+    <numbaths>3</numbaths>
+    <numrooms>7</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2026-06-18</listeddate>
+    <availabledate>Jun-17-2026</availabledate>
+    <modifieddate>2026-06-18</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/88-Schermerhorn-Street-Unit-19B-Brooklyn-NY-11201-40211</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>12500</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-06/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_639173383411896565.jpeg?sv=2025-05-05&amp;se=2028-06-18T00%3A12%3A21Z&amp;sr=b&amp;sp=r&amp;sig=Q0Ljznm%2B6mUTnVjTm0ukKnDzBYcne%2FPPc9b5UHXh%2FbM%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-06/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_639173383411916101.jpeg?sv=2025-05-05&amp;se=2028-06-18T00%3A12%3A21Z&amp;sr=b&amp;sp=r&amp;sig=iA0PIWPxklE2v4lQ18cjEcTQvEtArIEai1RbHX%2Bcoh0%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-06/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_639173383412890512.jpeg?sv=2025-05-05&amp;se=2028-06-18T00%3A12%3A21Z&amp;sr=b&amp;sp=r&amp;sig=RQfpuxohjAS9lcfDUXObSWyHH7hJdx9ugBTBLYqjA0U%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-06/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_639173383410399800.jpeg?sv=2025-05-05&amp;se=2028-06-18T00%3A12%3A21Z&amp;sr=b&amp;sp=r&amp;sig=CtQa4QOAUbBZVkDphVF0dgBSjN6qJ0h%2B0T%2FkmLpomNs%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-06/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_639173383411810316.jpeg?sv=2025-05-05&amp;se=2028-06-18T00%3A12%3A21Z&amp;sr=b&amp;sp=r&amp;sig=9ZXzCqDh%2BU6fz4khaMEuyPCgd8BK%2FSIZxT1d6OrfbS0%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-06/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_639173383412652776.jpeg?sv=2025-05-05&amp;se=2028-06-18T00%3A12%3A21Z&amp;sr=b&amp;sp=r&amp;sig=Z0kCr8bFSs22ZJe7rUWCuI1TQw4F9Q4Xa6VN7xPhMo0%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-06/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_639173383410741148.jpeg?sv=2025-05-05&amp;se=2028-06-18T00%3A12%3A21Z&amp;sr=b&amp;sp=r&amp;sig=jBDHn9LCK41E4S7RePf6yMxNhjvuJ94uWuIUkIVbgoM%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-06/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_639173383412545410.jpeg?sv=2025-05-05&amp;se=2028-06-18T00%3A12%3A21Z&amp;sr=b&amp;sp=r&amp;sig=%2FNNj9PwNOUQm122NMzkxnOZSukaQol5Z8BddjwvFKwo%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-06/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_639173383410475995.jpeg?sv=2025-05-05&amp;se=2028-06-18T00%3A12%3A21Z&amp;sr=b&amp;sp=r&amp;sig=z7KLdGV7TYDtAI4NWuBOaJrvVxDT2%2BeaMOHkqLWwYmw%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-06/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_639173383414826553.jpeg?sv=2025-05-05&amp;se=2028-06-18T00%3A12%3A21Z&amp;sr=b&amp;sp=r&amp;sig=hlLtJ9nwJzGa1ETTdUBc6m9F5tgB%2By%2BMPT9sq5oGg94%3D</url>
+    </media>
+  </photos>
+</property>
+
+
+
+<property>
+  <building>
+    <address>340 Rutland Road</address>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11225</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary>NO FEE Brand-New Duplex 1 Bedroom / 1.5 Bathroom with Basement
+
+Be the first to live in this brand-new duplex apartment featuring 1 bedrooms, 1.5 bathrooms.
+
+Apartment Features:
+
+Brand-new construction
+Duplex layout
+Additional basement space
+High ceilings
+Hardwood floors
+Central air
+Open-concept living area
+Modern kitchen
+Stainless steel appliances
+Sun-filled windows
+Ample closet space
+1.5 bathrooms
+Private outdoor space
+Backyard access
+Roof deck access
+City and skyline views
+Laundry in building
+
+Conveniently located just 2 minutes from the 2 and 5 trains, with an easy commute to Manhattan in about 30 minutes.</brokersummary>
+    <weblistingid>40212</weblistingid>
+    <aptnumber>1B</aptnumber>
+    <apartmentsize>7</apartmentsize>
+    <numbedrooms>1</numbedrooms>
+    <numbaths>1.5</numbaths>
+    <numrooms>3</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2026-06-18</listeddate>
+    <availabledate>Aug-01-2026</availabledate>
+    <modifieddate>2026-06-18</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/340-Rutland-Road-Unit-1B-Brooklyn-NY-11225-40212</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>3600</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-06/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_639174069844582235.png?sv=2025-05-05&amp;se=2028-06-18T19%3A16%3A24Z&amp;sr=b&amp;sp=r&amp;sig=mPzjKwRRcwizDkYm54HFaUT9mooHADP7T%2Bnp4APiMdM%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-06/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_639174070409882611.png?sv=2025-05-05&amp;se=2028-06-18T19%3A17%3A21Z&amp;sr=b&amp;sp=r&amp;sig=dzYT63yJCLDNB3YckxsJ2uKYt%2ByVoxtUBSXob7MvWdM%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-06/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_639174071129786868.png?sv=2025-05-05&amp;se=2028-06-18T19%3A18%3A33Z&amp;sr=b&amp;sp=r&amp;sig=oalRQ9TLZOj957pqwL%2FPXM9LZriAcOUw0GjsztGKsQw%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-06/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_639174071651460424.png?sv=2025-05-05&amp;se=2028-06-18T19%3A19%3A25Z&amp;sr=b&amp;sp=r&amp;sig=w3lYgQKqwcayuVGoQXVOByFMz%2FSAGyQCzddnoIL9mro%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-06/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_639174072386945389.png?sv=2025-05-05&amp;se=2028-06-18T19%3A20%3A38Z&amp;sr=b&amp;sp=r&amp;sig=QtvXbVN2HFjr4SLgTiN%2Bwb4pkb6CRw%2BqsWEM1VRAZ28%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-06/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_639174073170402091.png?sv=2025-05-05&amp;se=2028-06-18T19%3A21%3A57Z&amp;sr=b&amp;sp=r&amp;sig=zDk%2Fvin4rLpj8BsNlc4k1PdJjyaOmaJ2mG93zR9OJdM%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-06/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_639174073804104514.png?sv=2025-05-05&amp;se=2028-06-18T19%3A23%3A00Z&amp;sr=b&amp;sp=r&amp;sig=5vDt%2B5dMGKwK6W2L%2BpxMetzwsWDO524rm35h4UZ1G18%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-06/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_639174075695748696.png?sv=2025-05-05&amp;se=2028-06-18T19%3A26%3A09Z&amp;sr=b&amp;sp=r&amp;sig=IqmKY5yzbFn3ncbHuz3QnjWv6Jsb2BppjaZsMMfth6A%3D</url>
+    </media>
+  </photos>
 </property>
 
 
