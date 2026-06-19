@@ -13041,7 +13041,7 @@ Cats welcome</brokersummary>
     <numbaths>2</numbaths>
     <numrooms>6</numrooms>
     <listingtype>L</listingtype>
-    <status>A</status>
+    <status>P</status>
     <listeddate>2026-06-19</listeddate>
     <availabledate>Aug-01-2026</availabledate>
     <modifieddate>2026-06-19</modifieddate>
@@ -29782,6 +29782,210 @@ A sleek, comfortable option in a prime LIC location with easy access to Manhatta
     <buyersbrokercommision />
     <paidbywhom>O</paidbywhom>
     <rent>3450</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-06/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_639174692985394504.png?sv=2025-05-05&amp;se=2028-06-19T12%3A34%3A58Z&amp;sr=b&amp;sp=r&amp;sig=N%2F3QEbVKglYrehfJdSJb61fHfw7Qv0vVPUuZ5l7EILc%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-06/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_639174693231114831.png?sv=2025-05-05&amp;se=2028-06-19T12%3A35%3A23Z&amp;sr=b&amp;sp=r&amp;sig=HWQIaDZnwVa6IOEsCIGByJtSOsDdIgrbyhpWpQbSV%2F8%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-06/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_639174693597449301.png?sv=2025-05-05&amp;se=2028-06-19T12%3A35%3A59Z&amp;sr=b&amp;sp=r&amp;sig=MWAFBT1Od0k52SJfYl62AYGMjyAid4uQoRiH5ehUqKo%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-06/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_639174694085039914.png?sv=2025-05-05&amp;se=2028-06-19T12%3A36%3A48Z&amp;sr=b&amp;sp=r&amp;sig=XqBCqKWiLotB3L0bqbMeZ2D8B0T8DPL4EJ1ubQ9SKN4%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-06/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_639174694469616459.png?sv=2025-05-05&amp;se=2028-06-19T12%3A37%3A27Z&amp;sr=b&amp;sp=r&amp;sig=Oh8ty%2Bq4UmBP1Bb1ZVlQ1pavcxZy5kYJdDQVDFn%2B59w%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-06/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_639174694823371974.png?sv=2025-05-05&amp;se=2028-06-19T12%3A38%3A02Z&amp;sr=b&amp;sp=r&amp;sig=5QcdV52NL%2B3810b4Y%2BOaZYdUfW9eZwU%2FuedkSAGuZ9g%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-06/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_639174696700279773.png?sv=2025-05-05&amp;se=2028-06-19T12%3A41%3A10Z&amp;sr=b&amp;sp=r&amp;sig=1r2sWuiUOoNLkO6VZQWKO9MKou%2BDw0a7nDyzlAFZi2c%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-06/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_639174698554742487.png?sv=2025-05-05&amp;se=2028-06-19T12%3A44%3A15Z&amp;sr=b&amp;sp=r&amp;sig=WeJ8g9N9TT7b6TIX3ODQJrOcq%2FSbu5Da8Cz9Fyc4%2F7k%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-06/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_639174699369121955.png?sv=2025-05-05&amp;se=2028-06-19T12%3A45%3A37Z&amp;sr=b&amp;sp=r&amp;sig=WXkPy2hADB3P7eh4UaWcQPgPM7wK961UjFJLNS7KCf4%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-06/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_639174699752822834.png?sv=2025-05-05&amp;se=2028-06-19T12%3A46%3A15Z&amp;sr=b&amp;sp=r&amp;sig=%2BxTd1qKabLOEaQgnPMuMMrvFxdiHciSkt6nLhtPAWIg%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-06/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_639174699567838755.png?sv=2025-05-05&amp;se=2028-06-19T12%3A45%3A56Z&amp;sr=b&amp;sp=r&amp;sig=7SFp%2B7xBH0VpjweexMs0kuVUFSAX%2FNF6laYg2IrgRvM%3D</url>
+    </media>
+  </photos>
+</property>
+
+
+
+<property>
+  <building>
+    <address>37-25 32nd Street</address>
+    <city>Queens</city>
+    <state>NY</state>
+    <zipcode>11101</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary>The Auberge | Long Island City
+
+Modern Long Island City living in a newly built brick rental building with clean finishes and convenient amenities.
+
+Amenities may include:
+
+Fitness center
+Elevator
+Modern common areas
+Package area
+Laundry access
+Contemporary interiors
+Close to trains, shops, cafes, and restaurants
+
+A sleek, comfortable option in a prime LIC location with easy access to Manhattan and the neighborhood?s best spots.</brokersummary>
+    <weblistingid>40234</weblistingid>
+    <aptnumber>2C</aptnumber>
+    <apartmentsize>H</apartmentsize>
+    <numbedrooms>2</numbedrooms>
+    <numbaths>2</numbaths>
+    <numrooms>5</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2026-06-19</listeddate>
+    <availabledate>Jul-01-2026</availabledate>
+    <modifieddate>2026-06-19</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/37-25-32nd-Street-Unit-2C-Queens-NY-11101-40234</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>5195</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-06/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_639174692985394504.png?sv=2025-05-05&amp;se=2028-06-19T12%3A34%3A58Z&amp;sr=b&amp;sp=r&amp;sig=N%2F3QEbVKglYrehfJdSJb61fHfw7Qv0vVPUuZ5l7EILc%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-06/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_639174693231114831.png?sv=2025-05-05&amp;se=2028-06-19T12%3A35%3A23Z&amp;sr=b&amp;sp=r&amp;sig=HWQIaDZnwVa6IOEsCIGByJtSOsDdIgrbyhpWpQbSV%2F8%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-06/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_639174693597449301.png?sv=2025-05-05&amp;se=2028-06-19T12%3A35%3A59Z&amp;sr=b&amp;sp=r&amp;sig=MWAFBT1Od0k52SJfYl62AYGMjyAid4uQoRiH5ehUqKo%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-06/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_639174694085039914.png?sv=2025-05-05&amp;se=2028-06-19T12%3A36%3A48Z&amp;sr=b&amp;sp=r&amp;sig=XqBCqKWiLotB3L0bqbMeZ2D8B0T8DPL4EJ1ubQ9SKN4%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-06/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_639174694469616459.png?sv=2025-05-05&amp;se=2028-06-19T12%3A37%3A27Z&amp;sr=b&amp;sp=r&amp;sig=Oh8ty%2Bq4UmBP1Bb1ZVlQ1pavcxZy5kYJdDQVDFn%2B59w%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-06/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_639174694823371974.png?sv=2025-05-05&amp;se=2028-06-19T12%3A38%3A02Z&amp;sr=b&amp;sp=r&amp;sig=5QcdV52NL%2B3810b4Y%2BOaZYdUfW9eZwU%2FuedkSAGuZ9g%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-06/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_639174696700279773.png?sv=2025-05-05&amp;se=2028-06-19T12%3A41%3A10Z&amp;sr=b&amp;sp=r&amp;sig=1r2sWuiUOoNLkO6VZQWKO9MKou%2BDw0a7nDyzlAFZi2c%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-06/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_639174698554742487.png?sv=2025-05-05&amp;se=2028-06-19T12%3A44%3A15Z&amp;sr=b&amp;sp=r&amp;sig=WeJ8g9N9TT7b6TIX3ODQJrOcq%2FSbu5Da8Cz9Fyc4%2F7k%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-06/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_639174699369121955.png?sv=2025-05-05&amp;se=2028-06-19T12%3A45%3A37Z&amp;sr=b&amp;sp=r&amp;sig=WXkPy2hADB3P7eh4UaWcQPgPM7wK961UjFJLNS7KCf4%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-06/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_639174699752822834.png?sv=2025-05-05&amp;se=2028-06-19T12%3A46%3A15Z&amp;sr=b&amp;sp=r&amp;sig=%2BxTd1qKabLOEaQgnPMuMMrvFxdiHciSkt6nLhtPAWIg%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-06/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_639174699567838755.png?sv=2025-05-05&amp;se=2028-06-19T12%3A45%3A56Z&amp;sr=b&amp;sp=r&amp;sig=7SFp%2B7xBH0VpjweexMs0kuVUFSAX%2FNF6laYg2IrgRvM%3D</url>
+    </media>
+  </photos>
+</property>
+
+
+
+<property>
+  <building>
+    <address>37-25 32nd Street</address>
+    <city>Queens</city>
+    <state>NY</state>
+    <zipcode>11101</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary>The Auberge | Long Island City
+
+Modern Long Island City living in a newly built brick rental building with clean finishes and convenient amenities.
+
+Amenities may include:
+
+Fitness center
+Elevator
+Modern common areas
+Package area
+Laundry access
+Contemporary interiors
+Close to trains, shops, cafes, and restaurants
+
+A sleek, comfortable option in a prime LIC location with easy access to Manhattan and the neighborhood?s best spots.</brokersummary>
+    <weblistingid>40235</weblistingid>
+    <aptnumber>2D</aptnumber>
+    <apartmentsize>7</apartmentsize>
+    <numbedrooms>1</numbedrooms>
+    <numbaths>1</numbaths>
+    <numrooms>3</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2026-06-19</listeddate>
+    <availabledate>Jul-15-2026</availabledate>
+    <modifieddate>2026-06-19</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/37-25-32nd-Street-Unit-2D-Queens-NY-11101-40235</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>3750</rent>
     <furnishrent />
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
