@@ -10901,7 +10901,7 @@ Pet friendly building :)</brokersummary>
     <numbaths>1</numbaths>
     <numrooms>5</numrooms>
     <listingtype>L</listingtype>
-    <status>A</status>
+    <status>P</status>
     <listeddate>2026-06-21</listeddate>
     <availabledate>Aug-01-2026</availabledate>
     <modifieddate>2026-06-21</modifieddate>
@@ -30336,7 +30336,7 @@ Apartment features include:
     <grosscommission />
     <buyersbrokercommision />
     <paidbywhom>O</paidbywhom>
-    <rent>31</rent>
+    <rent>3100</rent>
     <furnishrent />
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
