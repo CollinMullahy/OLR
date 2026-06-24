@@ -25829,6 +25829,60 @@ Building offers A 24HR GYM, Bike Storage, Bike Room, Laundry Room, Package Room,
     <distributiontype>P</distributiontype>
     <saleorrent>R</saleorrent>
     <brokersummary />
+    <weblistingid>40303</weblistingid>
+    <aptnumber>2R</aptnumber>
+    <apartmentsize>7</apartmentsize>
+    <numbedrooms>1</numbedrooms>
+    <numbaths>1</numbaths>
+    <numrooms>3</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2026-06-24</listeddate>
+    <availabledate>Jun-23-2026</availabledate>
+    <modifieddate>2026-06-24</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/3008-Avenue-K-Unit-2R-Brooklyn-NY-11210-40303</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>2350</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos />
+</property>
+
+
+
+<property>
+  <building>
+    <address>3008 Avenue K</address>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11210</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary />
     <weblistingid>40283</weblistingid>
     <aptnumber>2F</aptnumber>
     <apartmentsize>H</apartmentsize>
