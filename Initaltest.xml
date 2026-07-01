@@ -12822,6 +12822,79 @@ Available now?reach out to schedule a viewing.</brokersummary>
 
 <property>
   <building>
+    <address>170 Harman St</address>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11221</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary />
+    <weblistingid>40405</weblistingid>
+    <aptnumber>1R</aptnumber>
+    <apartmentsize>H</apartmentsize>
+    <numbedrooms>2</numbedrooms>
+    <numbaths>1.5</numbaths>
+    <numrooms>4</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2026-07-01</listeddate>
+    <availabledate>Aug-01-2026</availabledate>
+    <modifieddate>2026-07-01</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/170-Harman-St-Unit-1R-Brooklyn-NY-11221-40405</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>3350</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-07/8515455b-be52-4141-8a40-4c35d33cf98b_639185160291003259.jpeg?sv=2025-05-05&amp;se=2028-07-01T15%3A20%3A29Z&amp;sr=b&amp;sp=r&amp;sig=lCVHeU1U7fgxDmSQau%2FyVZwixJrS8vmwYe8Cqya3Tpg%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-07/8515455b-be52-4141-8a40-4c35d33cf98b_639185160290036186.jpeg?sv=2025-05-05&amp;se=2028-07-01T15%3A20%3A29Z&amp;sr=b&amp;sp=r&amp;sig=Sjxey00gI%2FWWsE63A4rE5Qonz6xcet14CaOsHqXA55U%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-07/8515455b-be52-4141-8a40-4c35d33cf98b_639185160292165927.jpeg?sv=2025-05-05&amp;se=2028-07-01T15%3A20%3A29Z&amp;sr=b&amp;sp=r&amp;sig=IWHXVM0Mx17WQsMU6X0IQlvffXLQShDiEh3Dsg%2FLONQ%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-07/8515455b-be52-4141-8a40-4c35d33cf98b_639185160289848948.jpeg?sv=2025-05-05&amp;se=2028-07-01T15%3A20%3A29Z&amp;sr=b&amp;sp=r&amp;sig=O5NFkSjdCl2SEBmkXPGGiL0dWrWBBMVPciKHHAzBZsE%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-07/8515455b-be52-4141-8a40-4c35d33cf98b_639185160289489065.jpeg?sv=2025-05-05&amp;se=2028-07-01T15%3A20%3A29Z&amp;sr=b&amp;sp=r&amp;sig=jONOA0GUAhCo%2BQm8IEFdEBzIFzfpU85wzo%2Fg9Csetgk%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-07/8515455b-be52-4141-8a40-4c35d33cf98b_639185160292906520.jpeg?sv=2025-05-05&amp;se=2028-07-01T15%3A20%3A29Z&amp;sr=b&amp;sp=r&amp;sig=YPMJ5hUg2w5SOMoOvKs0Bk%2BQvnMhIl9W4GXyT2W3Xdk%3D</url>
+    </media>
+  </photos>
+</property>
+
+
+
+<property>
+  <building>
     <address>186 Lenox Rd</address>
     <city>Brooklyn</city>
     <state>NY</state>
@@ -25743,7 +25816,7 @@ Pets welcome</brokersummary>
     <grosscommission />
     <buyersbrokercommision />
     <paidbywhom>O</paidbywhom>
-    <rent>6100</rent>
+    <rent>6500</rent>
     <furnishrent />
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
