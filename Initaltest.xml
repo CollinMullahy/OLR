@@ -1332,65 +1332,6 @@ You'll be right around the corner from dozens of top-rated bars, restaurants, ca
 
 <property>
   <building>
-    <address>141 Meserole Street</address>
-    <city>Brooklyn</city>
-    <state>NY</state>
-    <zipcode>11206</zipcode>
-  </building>
-  <details>
-    <distributiontype>P</distributiontype>
-    <saleorrent>R</saleorrent>
-    <brokersummary>Nestled in the heart of Williamsburg, this adorable 2-bedroom, 1-bathroom apartment offers a cozy and convenient living space.  
-
-- Williamsburg's trendy restaurants, cafes, and shops at your doorstep
-- Easy access to public transportation and Manhattan
-
-Schedule a tour today and make this Williamsburg gem yours!</brokersummary>
-    <weblistingid>40379</weblistingid>
-    <aptnumber>3A</aptnumber>
-    <apartmentsize>H</apartmentsize>
-    <numbedrooms>2</numbedrooms>
-    <numbaths>1</numbaths>
-    <numrooms>4</numrooms>
-    <listingtype>L</listingtype>
-    <status>A</status>
-    <listeddate>2026-07-08</listeddate>
-    <availabledate>Jul-01-2026</availabledate>
-    <modifieddate>2026-07-08</modifieddate>
-    <listingurl>https://myspacenyc.cazamio.com/apartments/141-Meserole-Street-Unit-3A-Brooklyn-NY-11206-40379</listingurl>
-    <price />
-    <grosscommission />
-    <buyersbrokercommision />
-    <paidbywhom>O</paidbywhom>
-    <rent>5000</rent>
-    <furnishrent />
-    <securitydeposit>1</securitydeposit>
-    <minterm>12</minterm>
-    <maxterm>12</maxterm>
-    <commissionmonth />
-    <commissionsplit-house />
-    <cof>TRUE</cof>
-    <petpolicy>C</petpolicy>
-  </details>
-  <agents>
-    <agent>
-      <firstname>Belle</firstname>
-      <lastname>Piper</lastname>
-      <title>Rental Agent</title>
-      <email>belle.msnyc@myspacenyc.com</email>
-      <workphone>(646) 854-3513</workphone>
-      <mobilephone />
-      <homephone />
-      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
-    </agent>
-  </agents>
-  <photos />
-</property>
-
-
-
-<property>
-  <building>
     <address>217 South 4th Street</address>
     <city>Brooklyn</city>
     <state>NY</state>
@@ -1733,76 +1674,6 @@ Schedule a tour and make this Clinton Hill gem yours!</brokersummary>
     <buyersbrokercommision />
     <paidbywhom>O</paidbywhom>
     <rent>5500</rent>
-    <furnishrent />
-    <securitydeposit>1</securitydeposit>
-    <minterm>12</minterm>
-    <maxterm>12</maxterm>
-    <commissionmonth />
-    <commissionsplit-house />
-    <cof>TRUE</cof>
-    <petpolicy>C</petpolicy>
-  </details>
-  <agents>
-    <agent>
-      <firstname>Belle</firstname>
-      <lastname>Piper</lastname>
-      <title>Rental Agent</title>
-      <email>belle.msnyc@myspacenyc.com</email>
-      <workphone>(646) 854-3513</workphone>
-      <mobilephone />
-      <homephone />
-      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
-    </agent>
-  </agents>
-  <photos />
-</property>
-
-
-
-<property>
-  <building>
-    <address>141 Greene Ave</address>
-    <city>Brooklyn</city>
-    <state>NY</state>
-    <zipcode>11238</zipcode>
-  </building>
-  <details>
-    <distributiontype>P</distributiontype>
-    <saleorrent>R</saleorrent>
-    <brokersummary>Elevate your living experience in this breathtaking 4-bedroom, 2-bathroom brownstone, nestled in the heart of Clinton Hill.
-
-*Apartment Features:*
-
-- 4 spacious bedrooms with classic charm
-- 2 modern bathrooms
-- In-unit laundry for ultimate convenience
-- Brownstone-style details and abundant natural light
-- Perfect for families or roommates seeking a luxurious home
-
-*Neighborhood:*
-
-- Historic brownstones, trendy restaurants, and boutique shops
-- Easy access to Prospect Park, Pratt Institute, and public transportation
-- A true Brooklyn experience
-
-Schedule a tour today and make this Clinton Hill masterpiece yours!</brokersummary>
-    <weblistingid>40387</weblistingid>
-    <aptnumber>2</aptnumber>
-    <apartmentsize>4BED</apartmentsize>
-    <numbedrooms>4</numbedrooms>
-    <numbaths>2</numbaths>
-    <numrooms>7</numrooms>
-    <listingtype>L</listingtype>
-    <status>A</status>
-    <listeddate>2026-07-08</listeddate>
-    <availabledate>Aug-01-2026</availabledate>
-    <modifieddate>2026-07-08</modifieddate>
-    <listingurl>https://myspacenyc.cazamio.com/apartments/141-Greene-Ave-Unit-2-Brooklyn-NY-11238-40387</listingurl>
-    <price />
-    <grosscommission />
-    <buyersbrokercommision />
-    <paidbywhom>O</paidbywhom>
-    <rent>8000</rent>
     <furnishrent />
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
@@ -2305,6 +2176,60 @@ Schedule a tour and make 2324 Bedford Ave your home!</brokersummary>
     <buyersbrokercommision />
     <paidbywhom>O</paidbywhom>
     <rent>4500</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos />
+</property>
+
+
+
+<property>
+  <building>
+    <address>771 Lexington Ave</address>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11221</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary />
+    <weblistingid>40503</weblistingid>
+    <aptnumber>2B</aptnumber>
+    <apartmentsize>L</apartmentsize>
+    <numbedrooms>3</numbedrooms>
+    <numbaths>1</numbaths>
+    <numrooms>5</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2026-07-08</listeddate>
+    <availabledate>Sep-01-2026</availabledate>
+    <modifieddate>2026-07-08</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/771-Lexington-Ave-Unit-2B-Brooklyn-NY-11221-40503</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>3700</rent>
     <furnishrent />
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
