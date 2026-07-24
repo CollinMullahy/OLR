@@ -1473,7 +1473,7 @@ Schedule a tour and make this Williamsburg hotspot yours!</brokersummary>
     <numbaths>1</numbaths>
     <numrooms>4</numrooms>
     <listingtype>L</listingtype>
-    <status>A</status>
+    <status>P</status>
     <listeddate>2026-07-24</listeddate>
     <availabledate>Aug-01-2026</availabledate>
     <modifieddate>2026-07-24</modifieddate>
@@ -1869,7 +1869,7 @@ Schedule a tour and make 2324 Bedford Ave your home!</brokersummary>
     <numbaths>1</numbaths>
     <numrooms>5</numrooms>
     <listingtype>L</listingtype>
-    <status>A</status>
+    <status>P</status>
     <listeddate>2026-07-24</listeddate>
     <availabledate>Sep-01-2026</availabledate>
     <modifieddate>2026-07-24</modifieddate>
@@ -15407,7 +15407,7 @@ NO FEE</brokersummary>
     <aptnumber>2R</aptnumber>
     <apartmentsize>4BED</apartmentsize>
     <numbedrooms>4</numbedrooms>
-    <numbaths>1.5</numbaths>
+    <numbaths>1</numbaths>
     <numrooms>6</numrooms>
     <listingtype>L</listingtype>
     <status>A</status>
