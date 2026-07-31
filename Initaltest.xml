@@ -1266,7 +1266,7 @@ Small pets welcome</brokersummary>
     <numbaths>1</numbaths>
     <numrooms>4</numrooms>
     <listingtype>L</listingtype>
-    <status>A</status>
+    <status>P</status>
     <listeddate>2026-07-31</listeddate>
     <availabledate>Sep-01-2026</availabledate>
     <modifieddate>2026-07-31</modifieddate>
@@ -11846,6 +11846,85 @@ Set in the heart of Prospect Lefferts Gardens near Prospect Park, local dining, 
 
 <property>
   <building>
+    <address>996 Carroll Street</address>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11225</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary />
+    <weblistingid>40738</weblistingid>
+    <aptnumber>4R</aptnumber>
+    <apartmentsize>7</apartmentsize>
+    <numbedrooms>1</numbedrooms>
+    <numbaths>1</numbaths>
+    <numrooms>3</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2026-07-31</listeddate>
+    <availabledate>Sep-01-2026</availabledate>
+    <modifieddate>2026-07-31</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/996-Carroll-Street-Unit-4R-Brooklyn-NY-11225-40738</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>3200</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-03/8515455b-be52-4141-8a40-4c35d33cf98b_639095441303979403.jpeg?sv=2025-05-05&amp;se=2028-03-19T19%3A08%3A50Z&amp;sr=b&amp;sp=r&amp;sig=30tpUi5ckkFlzz7dAWQWXQMf8T0r6X7W09gDFLes%2B0Q%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-03/8515455b-be52-4141-8a40-4c35d33cf98b_639095438069712505.jpeg?sv=2025-05-05&amp;se=2028-03-19T19%3A03%3A26Z&amp;sr=b&amp;sp=r&amp;sig=lUOfOuv%2B8ARfXRknYyBUf9pQGB%2BY%2FG6xxC0k57J5CzM%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-03/8515455b-be52-4141-8a40-4c35d33cf98b_639095438069219298.jpeg?sv=2025-05-05&amp;se=2028-03-19T19%3A03%3A26Z&amp;sr=b&amp;sp=r&amp;sig=gJhJEvxpodwYWcTG76eeJmu1hBKbyAlHCLUx7dcxx50%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-03/8515455b-be52-4141-8a40-4c35d33cf98b_639095438070484601.jpeg?sv=2025-05-05&amp;se=2028-03-19T19%3A03%3A27Z&amp;sr=b&amp;sp=r&amp;sig=FcAoHzIYgB0EBN9l%2BhJKzXzcLa9SGbT%2BRQGjDwDDksY%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-03/8515455b-be52-4141-8a40-4c35d33cf98b_639095438071111100.jpeg?sv=2025-05-05&amp;se=2028-03-19T19%3A03%3A27Z&amp;sr=b&amp;sp=r&amp;sig=rQKxb7RDj8jMiJcnwOKmtC2R89dWTZhN%2BSfJFx8PjA4%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-03/8515455b-be52-4141-8a40-4c35d33cf98b_639095441352674275.jpeg?sv=2025-05-05&amp;se=2028-03-19T19%3A08%3A55Z&amp;sr=b&amp;sp=r&amp;sig=%2BXE4ORV3S2gY1408ar4aBFAPHuIq6ZrgtYO78r%2B6uzo%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-03/8515455b-be52-4141-8a40-4c35d33cf98b_639095438070126331.jpeg?sv=2025-05-05&amp;se=2028-03-19T19%3A03%3A27Z&amp;sr=b&amp;sp=r&amp;sig=JJ%2BBMUjRGF%2BQIA7WfDfv%2BY6mzb68qIAha%2FtwOTXHup4%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-03/8515455b-be52-4141-8a40-4c35d33cf98b_639095438069911666.jpeg?sv=2025-05-05&amp;se=2028-03-19T19%3A03%3A27Z&amp;sr=b&amp;sp=r&amp;sig=kvJ2Y%2By38qvNhjlAljycu9%2BxaWghKfBtlVo86mEz0BQ%3D</url>
+    </media>
+  </photos>
+</property>
+
+
+
+<property>
+  <building>
     <address>1464 Bushwick Ave</address>
     <city>Brooklyn</city>
     <state>NY</state>
@@ -15234,7 +15313,7 @@ Proximity to a variety of great bars, restaurants, and cafes on Bedford, Fulton,
     <numbaths>1</numbaths>
     <numrooms>4</numrooms>
     <listingtype>L</listingtype>
-    <status>A</status>
+    <status>P</status>
     <listeddate>2026-07-31</listeddate>
     <availabledate>Sep-01-2026</availabledate>
     <modifieddate>2026-07-31</modifieddate>
