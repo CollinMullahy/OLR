@@ -14753,6 +14753,87 @@ No broker fee</brokersummary>
 
 <property>
   <building>
+    <address>1119 Bergen St</address>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11216</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary>Reside in gorgeous 1BR 1Bath, hardwood floors, natural sunlight, modern features, and easy access to trains. To live in Crown Heights is to live in convenience and a diverse community. Enjoy the luxury of having access to most train lines like the 2,3,4,5 and C, or switch to any letter train at Atlantic terminal. Includes Private backyard!Enjoy a short walk to Brooklyn Museum, Prospect Park, and Botanic Garden. Crown Heights offers a number of local restaurants and bars like Chavela's, Dutch Boy, Cent'Anni, Drink Lounge, 99 Rogers, Mayfield, Cafe Rue Dix, Glady's and more! Easy commute to Manhattan &amp; easy access to the rest of Brooklyn's hottest neighborhoods. -
+
+ Heat+hot water Included - 
+
+Only First &amp; Security
+Contact to schedule your appointment today!</brokersummary>
+    <weblistingid>40848</weblistingid>
+    <aptnumber>5B</aptnumber>
+    <apartmentsize>7</apartmentsize>
+    <numbedrooms>1</numbedrooms>
+    <numbaths>1</numbaths>
+    <numrooms>3</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2026-08-07</listeddate>
+    <availabledate>Sep-01-2026</availabledate>
+    <modifieddate>2026-08-07</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/1119-Bergen-St-Unit-5B-Brooklyn-NY-11216-40848</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>2500</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-07/1995_638561435410108774.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=Xk1S6dgaqZpTIC76IlxKNt5Ujm4fSUHvB5nlQ6OE3C4%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-07/1995_638561435410105526.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=Xk1S6dgaqZpTIC76IlxKNt5Ujm4fSUHvB5nlQ6OE3C4%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-07/1995_638561435410104927.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=Xk1S6dgaqZpTIC76IlxKNt5Ujm4fSUHvB5nlQ6OE3C4%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-07/1995_638561435410139581.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=Xk1S6dgaqZpTIC76IlxKNt5Ujm4fSUHvB5nlQ6OE3C4%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-07/1995_638561435409976722.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=Xk1S6dgaqZpTIC76IlxKNt5Ujm4fSUHvB5nlQ6OE3C4%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-07/1995_638561435410150849.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=Xk1S6dgaqZpTIC76IlxKNt5Ujm4fSUHvB5nlQ6OE3C4%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2024-07/1995_638561435409422641.jpeg?sv=2019-07-07&amp;sr=c&amp;sig=Xk1S6dgaqZpTIC76IlxKNt5Ujm4fSUHvB5nlQ6OE3C4%3D&amp;se=9997-12-31T23%3A59%3A59Z&amp;sp=r</url>
+    </media>
+  </photos>
+</property>
+
+
+
+<property>
+  <building>
     <address>2081 5th Avenue</address>
     <city>New York</city>
     <state>NY</state>
@@ -16353,103 +16434,6 @@ NO BROKER FEE!</brokersummary>
 
 <property>
   <building>
-    <address>680 Monroe St</address>
-    <city>Brooklyn</city>
-    <state>NY</state>
-    <zipcode>11221</zipcode>
-  </building>
-  <details>
-    <distributiontype>P</distributiontype>
-    <saleorrent>R</saleorrent>
-    <brokersummary>Welcome to 680 Monroe 1D in Brooklyn, NY! This fantastic apartment offers a convenient and vibrant lifestyle in the heart of the city. Situated within mere blocks of various amenities, this location ensures that you have everything you need right at your doorstep.
-
-For your everyday essentials, you'll find a full-size supermarket, a wine and liquor store, a pharmacy, and a dry cleaner just a short walk away. Additionally, there's a barbershop nearby, ensuring you can always look your best. Need a quick bite or craving some delicious cuisine? You're in luck! This neighborhood boasts a variety of options, including bodegas, delis, pizza places, and Chinese food establishments.
-
-But the perks don't stop there. If you venture just a few blocks further to Myrtle Ave, you'll discover a treasure trove of food, beverage, and shopping options in central Bushwick. From trendy cafes to eclectic boutiques, you'll find an abundance of choices to suit your tastes.
-
-Transportation is a breeze from this location, with convenient access to the J and L trains, as well as the B38, B47, B52, B60, and Q24 bus routes. Whether you're commuting to work or exploring the city, getting around will be a hassle-free experience.</brokersummary>
-    <weblistingid>40823</weblistingid>
-    <aptnumber>3E</aptnumber>
-    <apartmentsize>4BED</apartmentsize>
-    <numbedrooms>4</numbedrooms>
-    <numbaths>1.5</numbaths>
-    <numrooms>6</numrooms>
-    <listingtype>L</listingtype>
-    <status>A</status>
-    <listeddate>2026-08-07</listeddate>
-    <availabledate>Sep-01-2026</availabledate>
-    <modifieddate>2026-08-07</modifieddate>
-    <listingurl>https://myspacenyc.cazamio.com/apartments/680-Monroe-St-Unit-3E-Brooklyn-NY-11221-40823</listingurl>
-    <price />
-    <grosscommission />
-    <buyersbrokercommision />
-    <paidbywhom>O</paidbywhom>
-    <rent>4138</rent>
-    <furnishrent />
-    <securitydeposit>1</securitydeposit>
-    <minterm>12</minterm>
-    <maxterm>12</maxterm>
-    <commissionmonth />
-    <commissionsplit-house />
-    <cof>TRUE</cof>
-    <petpolicy>C</petpolicy>
-  </details>
-  <agents>
-    <agent>
-      <firstname>Belle</firstname>
-      <lastname>Piper</lastname>
-      <title>Rental Agent</title>
-      <email>belle.msnyc@myspacenyc.com</email>
-      <workphone>(646) 854-3513</workphone>
-      <mobilephone />
-      <homephone />
-      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
-    </agent>
-  </agents>
-  <photos>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-08/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_639215509356394071.jpeg?sv=2025-05-05&amp;se=2028-08-05T18%3A22%3A18Z&amp;sr=b&amp;sp=r&amp;sig=uYMxjpD6AzVz%2B%2FVI5DZKYGfyyL6NrqSBEVdoQGixeDU%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-08/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_639215509353827964.jpeg?sv=2025-05-05&amp;se=2028-08-05T18%3A22%3A18Z&amp;sr=b&amp;sp=r&amp;sig=m00po%2FPD5wfWlrZ9m%2BjS%2FMBpsx%2Fp%2FdLRbANlwvj4oJw%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-08/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_639215509358588723.jpeg?sv=2025-05-05&amp;se=2028-08-05T18%3A22%3A18Z&amp;sr=b&amp;sp=r&amp;sig=58agAJechDgmucGAvLBRCVq%2Ff0zXaUZlIOGak%2FJjwKQ%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-08/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_639215509359442401.jpeg?sv=2025-05-05&amp;se=2028-08-05T18%3A22%3A18Z&amp;sr=b&amp;sp=r&amp;sig=atBjPXftW8c8pwJld4HA7xFTSf4ZHRlsK8Iq1paIy04%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-08/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_639215509367254710.jpeg?sv=2025-05-05&amp;se=2028-08-05T18%3A22%3A18Z&amp;sr=b&amp;sp=r&amp;sig=J%2Bibs3JFUbNHtyOes%2FRnw0ShJCH1%2FFrk80Y2hWSTLsk%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-08/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_639215509368979723.jpeg?sv=2025-05-05&amp;se=2028-08-05T18%3A22%3A18Z&amp;sr=b&amp;sp=r&amp;sig=7EuhsF5supA3b9326nWTXL8JrqRxeFeEonGnegaajL4%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-08/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_639215509372700800.jpeg?sv=2025-05-05&amp;se=2028-08-05T18%3A22%3A18Z&amp;sr=b&amp;sp=r&amp;sig=Pf%2Bh7EXAkInxQ9NTkYu0QTCVbR1jK7h5T1R%2BYVqSC94%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-08/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_639215509375424224.jpeg?sv=2025-05-05&amp;se=2028-08-05T18%3A22%3A18Z&amp;sr=b&amp;sp=r&amp;sig=oh0CY%2B%2BJQREp%2BGS1kgsBfGR56ed2upY9aIbIWBGZVqE%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-08/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_639215509377933544.jpeg?sv=2025-05-05&amp;se=2028-08-05T18%3A22%3A18Z&amp;sr=b&amp;sp=r&amp;sig=prI1cinad4bPrZtSmkR1cJAfCxwHOWUxkllJzua9Uic%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-08/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_639215509384974719.jpeg?sv=2025-05-05&amp;se=2028-08-05T18%3A22%3A18Z&amp;sr=b&amp;sp=r&amp;sig=dr2ZRv0ygMxwqcpjfvWcXHIBkaxMdoNT7e3v4X5biiQ%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-08/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_639215509389731457.jpeg?sv=2025-05-05&amp;se=2028-08-05T18%3A22%3A18Z&amp;sr=b&amp;sp=r&amp;sig=J%2Bj%2FLbp%2BFZILknzStkYlE4HoyWaBZAWKbGsVNqh5nxk%3D</url>
-    </media>
-    <media>
-      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-08/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_639215509388281643.jpeg?sv=2025-05-05&amp;se=2028-08-05T18%3A22%3A18Z&amp;sr=b&amp;sp=r&amp;sig=Nl3GXxvPBgL7tQmGas6Nw16PO0In1d%2BYE3EDHeFeK5k%3D</url>
-    </media>
-  </photos>
-</property>
-
-
-
-<property>
-  <building>
     <address>1499 Bedford Avenue</address>
     <city>Brooklyn</city>
     <state>NY</state>
@@ -16650,6 +16634,103 @@ Welcome to 1499 Bedford Ave?where luxury, community, and convenience meet. Exper
     </media>
     <media>
       <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2025-10/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_638966749770876764.jpeg?sv=2025-05-05&amp;se=2027-10-21T20%3A22%3A57Z&amp;sr=b&amp;sp=r&amp;sig=HVJ47KXt%2BHLgbGEKwGQuWG3progUehl8VePi7x0RQ7Y%3D</url>
+    </media>
+  </photos>
+</property>
+
+
+
+<property>
+  <building>
+    <address>680 Monroe St</address>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11221</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary>Welcome to 680 Monroe 1D in Brooklyn, NY! This fantastic apartment offers a convenient and vibrant lifestyle in the heart of the city. Situated within mere blocks of various amenities, this location ensures that you have everything you need right at your doorstep.
+
+For your everyday essentials, you'll find a full-size supermarket, a wine and liquor store, a pharmacy, and a dry cleaner just a short walk away. Additionally, there's a barbershop nearby, ensuring you can always look your best. Need a quick bite or craving some delicious cuisine? You're in luck! This neighborhood boasts a variety of options, including bodegas, delis, pizza places, and Chinese food establishments.
+
+But the perks don't stop there. If you venture just a few blocks further to Myrtle Ave, you'll discover a treasure trove of food, beverage, and shopping options in central Bushwick. From trendy cafes to eclectic boutiques, you'll find an abundance of choices to suit your tastes.
+
+Transportation is a breeze from this location, with convenient access to the J and L trains, as well as the B38, B47, B52, B60, and Q24 bus routes. Whether you're commuting to work or exploring the city, getting around will be a hassle-free experience.</brokersummary>
+    <weblistingid>40823</weblistingid>
+    <aptnumber>3E</aptnumber>
+    <apartmentsize>4BED</apartmentsize>
+    <numbedrooms>4</numbedrooms>
+    <numbaths>1.5</numbaths>
+    <numrooms>6</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2026-08-07</listeddate>
+    <availabledate>Sep-01-2026</availabledate>
+    <modifieddate>2026-08-07</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/680-Monroe-St-Unit-3E-Brooklyn-NY-11221-40823</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>4138</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-08/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_639215509356394071.jpeg?sv=2025-05-05&amp;se=2028-08-05T18%3A22%3A18Z&amp;sr=b&amp;sp=r&amp;sig=uYMxjpD6AzVz%2B%2FVI5DZKYGfyyL6NrqSBEVdoQGixeDU%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-08/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_639215509353827964.jpeg?sv=2025-05-05&amp;se=2028-08-05T18%3A22%3A18Z&amp;sr=b&amp;sp=r&amp;sig=m00po%2FPD5wfWlrZ9m%2BjS%2FMBpsx%2Fp%2FdLRbANlwvj4oJw%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-08/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_639215509358588723.jpeg?sv=2025-05-05&amp;se=2028-08-05T18%3A22%3A18Z&amp;sr=b&amp;sp=r&amp;sig=58agAJechDgmucGAvLBRCVq%2Ff0zXaUZlIOGak%2FJjwKQ%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-08/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_639215509359442401.jpeg?sv=2025-05-05&amp;se=2028-08-05T18%3A22%3A18Z&amp;sr=b&amp;sp=r&amp;sig=atBjPXftW8c8pwJld4HA7xFTSf4ZHRlsK8Iq1paIy04%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-08/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_639215509367254710.jpeg?sv=2025-05-05&amp;se=2028-08-05T18%3A22%3A18Z&amp;sr=b&amp;sp=r&amp;sig=J%2Bibs3JFUbNHtyOes%2FRnw0ShJCH1%2FFrk80Y2hWSTLsk%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-08/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_639215509368979723.jpeg?sv=2025-05-05&amp;se=2028-08-05T18%3A22%3A18Z&amp;sr=b&amp;sp=r&amp;sig=7EuhsF5supA3b9326nWTXL8JrqRxeFeEonGnegaajL4%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-08/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_639215509372700800.jpeg?sv=2025-05-05&amp;se=2028-08-05T18%3A22%3A18Z&amp;sr=b&amp;sp=r&amp;sig=Pf%2Bh7EXAkInxQ9NTkYu0QTCVbR1jK7h5T1R%2BYVqSC94%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-08/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_639215509375424224.jpeg?sv=2025-05-05&amp;se=2028-08-05T18%3A22%3A18Z&amp;sr=b&amp;sp=r&amp;sig=oh0CY%2B%2BJQREp%2BGS1kgsBfGR56ed2upY9aIbIWBGZVqE%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-08/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_639215509377933544.jpeg?sv=2025-05-05&amp;se=2028-08-05T18%3A22%3A18Z&amp;sr=b&amp;sp=r&amp;sig=prI1cinad4bPrZtSmkR1cJAfCxwHOWUxkllJzua9Uic%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-08/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_639215509384974719.jpeg?sv=2025-05-05&amp;se=2028-08-05T18%3A22%3A18Z&amp;sr=b&amp;sp=r&amp;sig=dr2ZRv0ygMxwqcpjfvWcXHIBkaxMdoNT7e3v4X5biiQ%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-08/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_639215509389731457.jpeg?sv=2025-05-05&amp;se=2028-08-05T18%3A22%3A18Z&amp;sr=b&amp;sp=r&amp;sig=J%2Bj%2FLbp%2BFZILknzStkYlE4HoyWaBZAWKbGsVNqh5nxk%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-08/a8b926f1-9a91-4e5e-b036-feb4fe78ee5d_639215509388281643.jpeg?sv=2025-05-05&amp;se=2028-08-05T18%3A22%3A18Z&amp;sr=b&amp;sp=r&amp;sig=Nl3GXxvPBgL7tQmGas6Nw16PO0In1d%2BYE3EDHeFeK5k%3D</url>
     </media>
   </photos>
 </property>
