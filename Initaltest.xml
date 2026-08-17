@@ -9324,6 +9324,60 @@ Available now?reach out to schedule a viewing.</brokersummary>
 
 <property>
   <building>
+    <address>615 Gates Ave</address>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11221</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary>Stunning renovations give this pet friendly apartment that touch of luxury you're looking for. Walk in to spacious rooms flooded with natural light. You'll find shining dark wood floors, recessed lighting and custom paint throughout. The trendy black, white and stainless steel kitchen comes complete with dishwasher. You'll love relaxing with friends on your terrace. Amenities include a virtual doorman, central AC, bike room and laundry in the building. You'll find bars, restaurants, groceries and coffee shops, like Crocus Coffee that carries Dough donuts, just a short walk away. Close to the A,C,G trains so commuting is quick and easy.</brokersummary>
+    <weblistingid>1810</weblistingid>
+    <aptnumber>2B</aptnumber>
+    <apartmentsize>4BED</apartmentsize>
+    <numbedrooms>4</numbedrooms>
+    <numbaths>1.5</numbaths>
+    <numrooms>6</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2026-08-17</listeddate>
+    <availabledate>Sep-01-2026</availabledate>
+    <modifieddate>2026-08-17</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/615-Gates-Ave-Unit-2B-Brooklyn-NY-11221-1810</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>3655</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos />
+</property>
+
+
+
+<property>
+  <building>
     <address>799 Ocean Avenue</address>
     <city>Brooklyn</city>
     <state>NY</state>
