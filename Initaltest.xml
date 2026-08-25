@@ -21011,6 +21011,79 @@ Shared backyard
 
 <property>
   <building>
+    <address>217 Boerum Street</address>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11206</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary />
+    <weblistingid>40989</weblistingid>
+    <aptnumber>2C</aptnumber>
+    <apartmentsize>H</apartmentsize>
+    <numbedrooms>2</numbedrooms>
+    <numbaths>2</numbaths>
+    <numrooms>5</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2026-08-24</listeddate>
+    <availabledate>Oct-01-2026</availabledate>
+    <modifieddate>2026-08-24</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/217-Boerum-Street-Unit-2C-Brooklyn-NY-11206-40989</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>4500</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-08/3d961a17-fb8d-44b8-997a-90338e9edda0_639232248787314088.jpeg?sv=2025-05-05&amp;se=2028-08-25T03%3A21%3A18Z&amp;sr=b&amp;sp=r&amp;sig=nZD6QthvoK0pp5mv79Ct0un%2FG2wSyVF9v7PDq9JmT7k%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-08/3d961a17-fb8d-44b8-997a-90338e9edda0_639232248787313969.jpeg?sv=2025-05-05&amp;se=2028-08-25T03%3A21%3A18Z&amp;sr=b&amp;sp=r&amp;sig=Q6BMK%2B%2Bwfc7FqDBPon3AYlicDr8glIOL6ImSCFRPNDw%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-08/3d961a17-fb8d-44b8-997a-90338e9edda0_639232248787658289.jpeg?sv=2025-05-05&amp;se=2028-08-25T03%3A21%3A18Z&amp;sr=b&amp;sp=r&amp;sig=IIBwQLE%2FkWicjB4CjAJm128DSliupoeGGwKjFJChg0g%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-08/3d961a17-fb8d-44b8-997a-90338e9edda0_639232248787622574.jpeg?sv=2025-05-05&amp;se=2028-08-25T03%3A21%3A18Z&amp;sr=b&amp;sp=r&amp;sig=U8aLxz3U10VWGOoTY7%2B7qcENcn7IE7k0GGKHxcAEXwg%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-08/3d961a17-fb8d-44b8-997a-90338e9edda0_639232248787939931.jpeg?sv=2025-05-05&amp;se=2028-08-25T03%3A21%3A18Z&amp;sr=b&amp;sp=r&amp;sig=LjyN71uzUHcM4CevBXyyYnULyO%2Budr5aPdx2KoZyn3g%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-08/3d961a17-fb8d-44b8-997a-90338e9edda0_639232248787971507.jpeg?sv=2025-05-05&amp;se=2028-08-25T03%3A21%3A18Z&amp;sr=b&amp;sp=r&amp;sig=kCIP%2BHHSJhh1ejZMTWoEuLWwMTXsYs5jQuBmgRU8sWM%3D</url>
+    </media>
+  </photos>
+</property>
+
+
+
+<property>
+  <building>
     <address>2913 Snyder Avenue</address>
     <city>Brooklyn</city>
     <state>NY</state>
