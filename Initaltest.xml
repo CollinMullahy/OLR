@@ -5917,6 +5917,82 @@ Pets OK | Guarantors welcome | Easy showings (virtual or in-person)</brokersumma
 
 <property>
   <building>
+    <address>573 E 22nd St</address>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11226</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary />
+    <weblistingid>41227</weblistingid>
+    <aptnumber>3B</aptnumber>
+    <apartmentsize>L</apartmentsize>
+    <numbedrooms>3</numbedrooms>
+    <numbaths>1</numbaths>
+    <numrooms>5</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2026-09-04</listeddate>
+    <availabledate>Oct-01-2026</availabledate>
+    <modifieddate>2026-09-04</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/573-E-22nd-St-Unit-3B-Brooklyn-NY-11226-41227</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>2699</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-09/c1942118-4b1c-4a73-982b-886c85085b37_639241322804406655.jpeg?sv=2025-05-05&amp;se=2028-09-04T15%3A24%3A40Z&amp;sr=b&amp;sp=r&amp;sig=E6ng3Q3ENgjiGonR%2FKtv5OMHYdq2u81JIBUEoBkiKJY%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-09/c1942118-4b1c-4a73-982b-886c85085b37_639241322803587387.jpeg?sv=2025-05-05&amp;se=2028-09-04T15%3A24%3A40Z&amp;sr=b&amp;sp=r&amp;sig=%2BkN1SvEdAnKnayzDy3rJgQvyYGJ%2BGhKxJMETuu16KYA%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-09/c1942118-4b1c-4a73-982b-886c85085b37_639241322803552194.jpeg?sv=2025-05-05&amp;se=2028-09-04T15%3A24%3A40Z&amp;sr=b&amp;sp=r&amp;sig=%2FhT2%2BB8li3CNYc7J47DEEtw8nLfd%2FFFfkbb%2FbeyX1BE%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-09/c1942118-4b1c-4a73-982b-886c85085b37_639241322803501614.jpeg?sv=2025-05-05&amp;se=2028-09-04T15%3A24%3A40Z&amp;sr=b&amp;sp=r&amp;sig=znQ4srNB71%2BYGfU8pf%2BHt664f6NnLKv1agrkq9zEXDk%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-09/c1942118-4b1c-4a73-982b-886c85085b37_639241322803163728.jpeg?sv=2025-05-05&amp;se=2028-09-04T15%3A24%3A40Z&amp;sr=b&amp;sp=r&amp;sig=3rxCuwTMwMxU5BWHRHiPEpOUlQHwJMh8luR30CnFDXg%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-09/c1942118-4b1c-4a73-982b-886c85085b37_639241322803300376.jpeg?sv=2025-05-05&amp;se=2028-09-04T15%3A24%3A40Z&amp;sr=b&amp;sp=r&amp;sig=afD8NQEJ6NwHVhW4PEbm%2FJHqfSfANFVwjBnkhCZORGk%3D</url>
+    </media>
+    <media>
+      <url>https://cazamiostorage.blob.core.windows.net/production-apartment-images-container-2026-09/c1942118-4b1c-4a73-982b-886c85085b37_639241322803713764.jpeg?sv=2025-05-05&amp;se=2028-09-04T15%3A24%3A40Z&amp;sr=b&amp;sp=r&amp;sig=5rv5Qj8Bbk1vO9mNvgzTw3nhdB6dGU3pykW4dEQTn5g%3D</url>
+    </media>
+  </photos>
+</property>
+
+
+
+<property>
+  <building>
     <address>709 Sterling Pl</address>
     <city>Brooklyn</city>
     <state>NY</state>
