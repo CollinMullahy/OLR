@@ -15818,6 +15818,60 @@ Pets welcome</brokersummary>
     <distributiontype>P</distributiontype>
     <saleorrent>R</saleorrent>
     <brokersummary />
+    <weblistingid>41644</weblistingid>
+    <aptnumber>3A</aptnumber>
+    <apartmentsize>L</apartmentsize>
+    <numbedrooms>3</numbedrooms>
+    <numbaths>2</numbaths>
+    <numrooms>6</numrooms>
+    <listingtype>L</listingtype>
+    <status>A</status>
+    <listeddate>2026-09-24</listeddate>
+    <availabledate>Sep-24-2026</availabledate>
+    <modifieddate>2026-09-24</modifieddate>
+    <listingurl>https://myspacenyc.cazamio.com/apartments/18-Meserole-Street-Unit-3A-Brooklyn-NY-11206-41644</listingurl>
+    <price />
+    <grosscommission />
+    <buyersbrokercommision />
+    <paidbywhom>O</paidbywhom>
+    <rent>6000</rent>
+    <furnishrent />
+    <securitydeposit>1</securitydeposit>
+    <minterm>12</minterm>
+    <maxterm>12</maxterm>
+    <commissionmonth />
+    <commissionsplit-house />
+    <cof>TRUE</cof>
+    <petpolicy>C</petpolicy>
+  </details>
+  <agents>
+    <agent>
+      <firstname>Belle</firstname>
+      <lastname>Piper</lastname>
+      <title>Rental Agent</title>
+      <email>belle.msnyc@myspacenyc.com</email>
+      <workphone>(646) 854-3513</workphone>
+      <mobilephone />
+      <homephone />
+      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
+    </agent>
+  </agents>
+  <photos />
+</property>
+
+
+
+<property>
+  <building>
+    <address>18 Meserole Street</address>
+    <city>Brooklyn</city>
+    <state>NY</state>
+    <zipcode>11206</zipcode>
+  </building>
+  <details>
+    <distributiontype>P</distributiontype>
+    <saleorrent>R</saleorrent>
+    <brokersummary />
     <weblistingid>41622</weblistingid>
     <aptnumber>2A</aptnumber>
     <apartmentsize>L</apartmentsize>
@@ -15834,7 +15888,7 @@ Pets welcome</brokersummary>
     <grosscommission />
     <buyersbrokercommision />
     <paidbywhom>O</paidbywhom>
-    <rent>6000</rent>
+    <rent>5900</rent>
     <furnishrent />
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
@@ -19546,7 +19600,7 @@ With its functional layout and desirable amenities, this apartment is an excelle
     <grosscommission />
     <buyersbrokercommision />
     <paidbywhom>O</paidbywhom>
-    <rent>2700</rent>
+    <rent>2500</rent>
     <furnishrent />
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
@@ -19787,7 +19841,7 @@ With its functional layout and desirable amenities, this apartment is an excelle
     <grosscommission />
     <buyersbrokercommision />
     <paidbywhom>O</paidbywhom>
-    <rent>2700</rent>
+    <rent>2595</rent>
     <furnishrent />
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
@@ -20339,60 +20393,6 @@ No fee! Pets ok! Reach out today!</brokersummary>
 
 <property>
   <building>
-    <address>1546 Brooklyn Avenue</address>
-    <city>Brooklyn</city>
-    <state>NY</state>
-    <zipcode>11210</zipcode>
-  </building>
-  <details>
-    <distributiontype>P</distributiontype>
-    <saleorrent>R</saleorrent>
-    <brokersummary />
-    <weblistingid>41183</weblistingid>
-    <aptnumber>3B</aptnumber>
-    <apartmentsize>H</apartmentsize>
-    <numbedrooms>2</numbedrooms>
-    <numbaths>1</numbaths>
-    <numrooms>4</numrooms>
-    <listingtype>L</listingtype>
-    <status>A</status>
-    <listeddate>2026-09-24</listeddate>
-    <availabledate>Sep-01-2026</availabledate>
-    <modifieddate>2026-09-24</modifieddate>
-    <listingurl>https://myspacenyc.cazamio.com/apartments/1546-Brooklyn-Avenue-Unit-3B-Brooklyn-NY-11210-41183</listingurl>
-    <price />
-    <grosscommission />
-    <buyersbrokercommision />
-    <paidbywhom>O</paidbywhom>
-    <rent>2700</rent>
-    <furnishrent />
-    <securitydeposit>1</securitydeposit>
-    <minterm>12</minterm>
-    <maxterm>12</maxterm>
-    <commissionmonth />
-    <commissionsplit-house />
-    <cof>TRUE</cof>
-    <petpolicy>C</petpolicy>
-  </details>
-  <agents>
-    <agent>
-      <firstname>Belle</firstname>
-      <lastname>Piper</lastname>
-      <title>Rental Agent</title>
-      <email>belle.msnyc@myspacenyc.com</email>
-      <workphone>(646) 854-3513</workphone>
-      <mobilephone />
-      <homephone />
-      <photourl>https://photos.zillowstatic.com/fp/36c9fb65cf51b07be0af1dfa32f7d854-se_large_800_400.webp</photourl>
-    </agent>
-  </agents>
-  <photos />
-</property>
-
-
-
-<property>
-  <building>
     <address>1540 Brooklyn Avenue</address>
     <city>Brooklyn</city>
     <state>NY</state>
@@ -20409,7 +20409,7 @@ No fee! Pets ok! Reach out today!</brokersummary>
     <numbaths>1</numbaths>
     <numrooms>4</numrooms>
     <listingtype>L</listingtype>
-    <status>P</status>
+    <status>A</status>
     <listeddate>2026-09-24</listeddate>
     <availabledate>Sep-01-2026</availabledate>
     <modifieddate>2026-09-24</modifieddate>
@@ -20418,7 +20418,7 @@ No fee! Pets ok! Reach out today!</brokersummary>
     <grosscommission />
     <buyersbrokercommision />
     <paidbywhom>O</paidbywhom>
-    <rent>3000</rent>
+    <rent>2550</rent>
     <furnishrent />
     <securitydeposit>1</securitydeposit>
     <minterm>12</minterm>
